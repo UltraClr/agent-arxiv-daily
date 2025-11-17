@@ -21,6 +21,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-14**|**Who Moved My Distribution? Conformal Prediction for Interactive Multi-Agent Systems**|Allen Emmanuel Binny et.al.|[2511.11567](http://arxiv.org/abs/2511.11567)|null|
+|**2025-11-14**|**Human-AI collaborative autonomous synthesis with pulsed laser deposition for remote epitaxy**|Asraful Haque et.al.|[2511.11558](http://arxiv.org/abs/2511.11558)|null|
+|**2025-11-14**|**Drone Swarm Energy Management**|Michael Z. Zgurovsky et.al.|[2511.11557](http://arxiv.org/abs/2511.11557)|null|
+|**2025-11-14**|**DocLens : A Tool-Augmented Multi-Agent Framework for Long Visual Document Understanding**|Dawei Zhu et.al.|[2511.11552](http://arxiv.org/abs/2511.11552)|null|
+|**2025-11-14**|**Aligning Machiavellian Agents: Behavior Steering via Test-Time Policy Shaping**|Dena Mujtaba et.al.|[2511.11551](http://arxiv.org/abs/2511.11551)|null|
+|**2025-11-14**|**CertiA360: Enhance Compliance Agility in Aerospace Software Development**|J. Antonio Dantas Macedo et.al.|[2511.11550](http://arxiv.org/abs/2511.11550)|null|
+|**2025-11-14**|**An optical--mid-infrared color evolution tool for nova identification using WISE data**|Joseph Onuegbu et.al.|[2511.11541](http://arxiv.org/abs/2511.11541)|null|
+|**2025-11-14**|**Deviation Dynamics in Cardinal Hedonic Games**|Valentin Zech et.al.|[2511.11531](http://arxiv.org/abs/2511.11531)|null|
+|**2025-11-14**|**Experience-Guided Adaptation of Inference-Time Reasoning Strategies**|Adam Stein et.al.|[2511.11519](http://arxiv.org/abs/2511.11519)|null|
+|**2025-11-14**|**ImAgent: A Unified Multimodal Agent Framework for Test-Time Scalable Image Generation**|Kaishen Wang et.al.|[2511.11483](http://arxiv.org/abs/2511.11483)|null|
+|**2025-11-14**|**Risk-Aware Deep Reinforcement Learning for Dynamic Portfolio Optimization**|Emmanuel Lwele et.al.|[2511.11481](http://arxiv.org/abs/2511.11481)|null|
+|**2025-11-14**|**Rethinking Progression of Memory State in Robotic Manipulation: An Object-Centric Perspective**|Nhat Chung et.al.|[2511.11478](http://arxiv.org/abs/2511.11478)|null|
+|**2025-11-14**|**GRIN Transfer: A production-ready tool for libraries to retrieve digital copies from Google Books**|Liza Daly et.al.|[2511.11447](http://arxiv.org/abs/2511.11447)|null|
+|**2025-11-14**|**MicroVQA++: High-Quality Microscopy Reasoning Dataset with Weakly Supervised Graphs for Multimodal Large Language Model**|Manyu Li et.al.|[2511.11407](http://arxiv.org/abs/2511.11407)|null|
+|**2025-11-14**|**Bidimensional measurements of photon statistics within a multimodal temporal framework**|C. Hainaut et.al.|[2511.11403](http://arxiv.org/abs/2511.11403)|null|
+|**2025-11-14**|**Multi-Phase Spacecraft Trajectory Optimization via Transformer-Based Reinforcement Learning**|Amit Jain et.al.|[2511.11402](http://arxiv.org/abs/2511.11402)|null|
+|**2025-11-14**|**GRANITE: High-Resolution Imaging and Electrical Qualification of Large-Area TPC Electrodes**|Shumit A. Mitra et.al.|[2511.11401](http://arxiv.org/abs/2511.11401)|null|
+|**2025-11-14**|**Robust and Efficient Communication in Multi-Agent Reinforcement Learning**|Zejiao Liu et.al.|[2511.11393](http://arxiv.org/abs/2511.11393)|null|
+|**2025-11-14**|**MarsRL: Advancing Multi-Agent Reasoning System via Reinforcement Learning with Agentic Pipeline Parallelism**|Shulin Liu et.al.|[2511.11373](http://arxiv.org/abs/2511.11373)|null|
+|**2025-11-14**|**SRLF: An Agent-Driven Set-Wise Reflective Learning Framework for Sequential Recommendation**|Jiahao Wang et.al.|[2511.11370](http://arxiv.org/abs/2511.11370)|null|
 |**2025-11-13**|**Flexible Simulation Based Inference for Galaxy Photometric Fitting with Synthesizer**|Thomas Harvey et.al.|[2511.10640](http://arxiv.org/abs/2511.10640)|null|
 |**2025-11-13**|**Towards an Agentic Workflow for Internet Measurement Research**|Alagappan Ramanathan et.al.|[2511.10611](http://arxiv.org/abs/2511.10611)|null|
 |**2025-11-13**|**The $L_p$ -error rate for randomized quasi-Monte Carlo self-normalized importance sampling of unbounded integrands**|Jiarui Du et.al.|[2511.10599](http://arxiv.org/abs/2511.10599)|null|
@@ -849,6 +869,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-14**|**Optimizing Mixture of Block Attention**|Guangxuan Xiao et.al.|[2511.11571](http://arxiv.org/abs/2511.11571)|null|
+|**2025-11-14**|**PRBench: Large-Scale Expert Rubrics for Evaluating High-Stakes Professional Reasoning**|Afra Feyza Akyürek et.al.|[2511.11562](http://arxiv.org/abs/2511.11562)|null|
+|**2025-11-14**|**Human-AI collaborative autonomous synthesis with pulsed laser deposition for remote epitaxy**|Asraful Haque et.al.|[2511.11558](http://arxiv.org/abs/2511.11558)|null|
+|**2025-11-14**|**Multistability of Self-Attention Dynamics in Transformers**|Claudio Altafini et.al.|[2511.11553](http://arxiv.org/abs/2511.11553)|null|
+|**2025-11-14**|**DocLens : A Tool-Augmented Multi-Agent Framework for Long Visual Document Understanding**|Dawei Zhu et.al.|[2511.11552](http://arxiv.org/abs/2511.11552)|null|
+|**2025-11-14**|**Aligning Machiavellian Agents: Behavior Steering via Test-Time Policy Shaping**|Dena Mujtaba et.al.|[2511.11551](http://arxiv.org/abs/2511.11551)|null|
+|**2025-11-14**|**Accurate models for recoil velocity distribution in black hole mergers with comparable to extreme mass-ratios and their astrophysical implications**|Tousif Islam et.al.|[2511.11536](http://arxiv.org/abs/2511.11536)|null|
+|**2025-11-14**|**Terrain Costmap Generation via Scaled Preference Conditioning**|Luisa Mao et.al.|[2511.11529](http://arxiv.org/abs/2511.11529)|null|
+|**2025-11-14**|**Bridging Hidden States in Vision-Language Models**|Benjamin Fein-Ashley et.al.|[2511.11526](http://arxiv.org/abs/2511.11526)|null|
+|**2025-11-14**|**CVChess: A Deep Learning Framework for Converting Chessboard Images to Forsyth-Edwards Notation**|Luthira Abeykoon et.al.|[2511.11522](http://arxiv.org/abs/2511.11522)|null|
+|**2025-11-14**|**Scalable Policy Evaluation with Video World Models**|Wei-Cheng Tseng et.al.|[2511.11520](http://arxiv.org/abs/2511.11520)|null|
+|**2025-11-14**|**Experience-Guided Adaptation of Inference-Time Reasoning Strategies**|Adam Stein et.al.|[2511.11519](http://arxiv.org/abs/2511.11519)|null|
+|**2025-11-14**|**W2S-AlignTree: Weak-to-Strong Inference-Time Alignment for Large Language Models via Monte Carlo Tree Search**|Zhenyu Ding et.al.|[2511.11518](http://arxiv.org/abs/2511.11518)|null|
+|**2025-11-14**|**Collaborative Representation Learning for Alignment of Tactile, Language, and Vision Modalities**|Yiyun Zhou et.al.|[2511.11512](http://arxiv.org/abs/2511.11512)|null|
+|**2025-11-14**|**FarSkip-Collective: Unhobbling Blocking Communication in Mixture of Experts Models**|Yonatan Dukler et.al.|[2511.11505](http://arxiv.org/abs/2511.11505)|null|
+|**2025-11-14**|**PAS : Prelim Attention Score for Detecting Object Hallucinations in Large Vision--Language Models**|Nhat Hoang-Xuan et.al.|[2511.11502](http://arxiv.org/abs/2511.11502)|null|
+|**2025-11-14**|**Honesty over Accuracy: Trustworthy Language Models through Reinforced Hesitation**|Mohamad Amin Mohamadi et.al.|[2511.11500](http://arxiv.org/abs/2511.11500)|null|
+|**2025-11-14**|**ImAgent: A Unified Multimodal Agent Framework for Test-Time Scalable Image Generation**|Kaishen Wang et.al.|[2511.11483](http://arxiv.org/abs/2511.11483)|null|
+|**2025-11-14**|**Rethinking Progression of Memory State in Robotic Manipulation: An Object-Centric Perspective**|Nhat Chung et.al.|[2511.11478](http://arxiv.org/abs/2511.11478)|null|
+|**2025-11-14**|**Context-aware Adaptive Visualizations for Critical Decision Making**|Angela Lopez-Cardona et.al.|[2511.11476](http://arxiv.org/abs/2511.11476)|null|
 |**2025-11-13**|**Enhancing the Outcome Reward-based RL Training of MLLMs with Self-Consistency Sampling**|Jiahao Wang et.al.|[2511.10648](http://arxiv.org/abs/2511.10648)|null|
 |**2025-11-13**|**ParoQuant: Pairwise Rotation Quantization for Efficient Reasoning LLM Inference**|Yesheng Liang et.al.|[2511.10645](http://arxiv.org/abs/2511.10645)|null|
 |**2025-11-13**|**Black-Box On-Policy Distillation of Large Language Models**|Tianzhu Ye et.al.|[2511.10643](http://arxiv.org/abs/2511.10643)|null|
@@ -1256,6 +1296,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-14**|**The Maximal Variance of Unilaterally Truncated Gaussian and Chi Distributions**|Robert J. Petrella et.al.|[2511.11566](http://arxiv.org/abs/2511.11566)|null|
+|**2025-11-14**|**Low-energy enhancement in the magnetic dipole radiation of actinide nuclei**|C. Rodgers et.al.|[2511.11565](http://arxiv.org/abs/2511.11565)|null|
+|**2025-11-14**|**Two Useful Facts About Generating Functions**|Alex Kasman et.al.|[2511.11559](http://arxiv.org/abs/2511.11559)|null|
+|**2025-11-14**|**Drone Swarm Energy Management**|Michael Z. Zgurovsky et.al.|[2511.11557](http://arxiv.org/abs/2511.11557)|null|
+|**2025-11-14**|**Aligning Machiavellian Agents: Behavior Steering via Test-Time Policy Shaping**|Dena Mujtaba et.al.|[2511.11551](http://arxiv.org/abs/2511.11551)|null|
+|**2025-11-14**|**Parameterized complexity of the f-Critical Set problem**|Thiago Marcilon et.al.|[2511.11546](http://arxiv.org/abs/2511.11546)|null|
+|**2025-11-14**|**STEM EBIC as a Quantitative Probe of Semiconductor Devices**|Sebastian Schneider et.al.|[2511.11528](http://arxiv.org/abs/2511.11528)|null|
+|**2025-11-14**|**W2S-AlignTree: Weak-to-Strong Inference-Time Alignment for Large Language Models via Monte Carlo Tree Search**|Zhenyu Ding et.al.|[2511.11518](http://arxiv.org/abs/2511.11518)|null|
+|**2025-11-14**|**Honesty over Accuracy: Trustworthy Language Models through Reinforced Hesitation**|Mohamad Amin Mohamadi et.al.|[2511.11500](http://arxiv.org/abs/2511.11500)|null|
+|**2025-11-14**|**Learning and Testing Convex Functions**|Renato Ferreira Pinto et.al.|[2511.11498](http://arxiv.org/abs/2511.11498)|null|
+|**2025-11-14**|**A Recursive Theory of Variational State Estimation: The Dynamic Programming Approach**|Filip Tronarp et.al.|[2511.11497](http://arxiv.org/abs/2511.11497)|null|
+|**2025-11-14**|**Intrinsic Dimension Estimation for Radio Galaxy Zoo using Diffusion Models**|Joan Font-Quer Roset et.al.|[2511.11490](http://arxiv.org/abs/2511.11490)|null|
+|**2025-11-14**|**Risk-Aware Deep Reinforcement Learning for Dynamic Portfolio Optimization**|Emmanuel Lwele et.al.|[2511.11481](http://arxiv.org/abs/2511.11481)|null|
+|**2025-11-14**|**Context-aware Adaptive Visualizations for Critical Decision Making**|Angela Lopez-Cardona et.al.|[2511.11476](http://arxiv.org/abs/2511.11476)|null|
+|**2025-11-14**|**Estimating the Effects of Heatwaves on Health: A Causal Inference Framework**|Giulio Grossi et.al.|[2511.11433](http://arxiv.org/abs/2511.11433)|null|
+|**2025-11-14**|**Multi-Phase Spacecraft Trajectory Optimization via Transformer-Based Reinforcement Learning**|Amit Jain et.al.|[2511.11402](http://arxiv.org/abs/2511.11402)|null|
+|**2025-11-14**|**Variational Quantum Algorithms for Particle Track Reconstruction**|Vincenzo Lipardi et.al.|[2511.11397](http://arxiv.org/abs/2511.11397)|null|
+|**2025-11-14**|**Modeling the Multi-Wavelength Afterglow of Short Gamma-Ray Bursts with a Plateau Phase**|Chen Deng et.al.|[2511.11396](http://arxiv.org/abs/2511.11396)|null|
+|**2025-11-14**|**Robust and Efficient Communication in Multi-Agent Reinforcement Learning**|Zejiao Liu et.al.|[2511.11393](http://arxiv.org/abs/2511.11393)|null|
+|**2025-11-14**|**Optimal Dividend, Reinsurance and Capital Injection Strategies for Collaborating Business Lines: The Case of Excess-of-Loss Reinsurance**|Tim J. Boonen et.al.|[2511.11383](http://arxiv.org/abs/2511.11383)|null|
 |**2025-11-13**|**Enhancing the Outcome Reward-based RL Training of MLLMs with Self-Consistency Sampling**|Jiahao Wang et.al.|[2511.10648](http://arxiv.org/abs/2511.10648)|null|
 |**2025-11-13**|**Black-Box On-Policy Distillation of Large Language Models**|Tianzhu Ye et.al.|[2511.10643](http://arxiv.org/abs/2511.10643)|null|
 |**2025-11-13**|**Robot Crash Course: Learning Soft and Stylized Falling**|Pascal Strauch et.al.|[2511.10635](http://arxiv.org/abs/2511.10635)|null|
