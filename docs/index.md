@@ -16,6 +16,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-17**|**From Power to Precision: Learning Fine-grained Dexterity for Multi-fingered Robotic Hands**|Jianglong Ye et.al.|[2511.13710](http://arxiv.org/abs/2511.13710)|null|
+|**2025-11-17**|**Efficient Calibration for Decision Making**|Parikshit Gopalan et.al.|[2511.13699](http://arxiv.org/abs/2511.13699)|null|
+|**2025-11-17**|**Investigating the Dark Energy Constraint from Strongly Lensed AGN at LSST-Scale**|Sydney Erickson et.al.|[2511.13669](http://arxiv.org/abs/2511.13669)|null|
+|**2025-11-17**|**Scalable Iterative Algorithm for Solving Optimal Transmission Switching with De-energization**|Benoît Jeanson et.al.|[2511.13662](http://arxiv.org/abs/2511.13662)|null|
+|**2025-11-17**|**Average hardness of SIVP for module lattices of fixed rank**|Koen de Boer et.al.|[2511.13659](http://arxiv.org/abs/2511.13659)|null|
+|**2025-11-17**|**OlmoEarth: Stable Latent Image Modeling for Multimodal Earth Observation**|Henry Herzog et.al.|[2511.13655](http://arxiv.org/abs/2511.13655)|null|
+|**2025-11-17**|**Live-SWE-agent: Can Software Engineering Agents Self-Evolve on the Fly?**|Chunqiu Steven Xia et.al.|[2511.13646](http://arxiv.org/abs/2511.13646)|null|
+|**2025-11-17**|**Towards Multimodal Representation Learning in Paediatric Kidney Disease**|Ana Durica et.al.|[2511.13637](http://arxiv.org/abs/2511.13637)|null|
+|**2025-11-17**|**Batch Acquisition Function Evaluations and Decouple Optimizer Updates for Faster Bayesian Optimization**|Kaichi Irie et.al.|[2511.13625](http://arxiv.org/abs/2511.13625)|null|
+|**2025-11-17**|**Market-Dependent Communication in Multi-Agent Alpha Generation**|Jerick Shi et.al.|[2511.13614](http://arxiv.org/abs/2511.13614)|null|
+|**2025-11-17**|**P1: Mastering Physics Olympiads with Reinforcement Learning**|Jiacheng Chen et.al.|[2511.13612](http://arxiv.org/abs/2511.13612)|null|
+|**2025-11-17**|**Variance Stabilizing Transformations for Electricity Price Forecasting in Periods of Increased Volatility**|Bartosz Uniejewski et.al.|[2511.13603](http://arxiv.org/abs/2511.13603)|null|
+|**2025-11-17**|**Omni Memory System for Personalized, Long Horizon, Self-Evolving Agents**|Piaohong Wang et.al.|[2511.13593](http://arxiv.org/abs/2511.13593)|null|
+|**2025-11-17**|**Evaluating and Scoring Ebolavirus Protein-protein Docking Models Using PIsToN**|Azam Shirali et.al.|[2511.13583](http://arxiv.org/abs/2511.13583)|null|
+|**2025-11-17**|**Accuracy is Not Enough: Poisoning Interpretability in Federated Learning via Color Skew**|Farhin Farhad Riya et.al.|[2511.13535](http://arxiv.org/abs/2511.13535)|null|
+|**2025-11-17**|**FreeAskWorld: An Interactive and Closed-Loop Simulator for Human-Centric Embodied AI**|Yuhang Peng et.al.|[2511.13524](http://arxiv.org/abs/2511.13524)|null|
+|**2025-11-17**|**Probing scalar-neutrino and scalar-dark-matter interactions with PandaX-4T**|PandaX Collaboration et.al.|[2511.13515](http://arxiv.org/abs/2511.13515)|null|
+|**2025-11-17**|**Applying Large Language Models to Characterize Public Narratives**|Elinor Poole-Dayan et.al.|[2511.13505](http://arxiv.org/abs/2511.13505)|null|
+|**2025-11-17**|**Tight and Practical Privacy Auditing for Differentially Private In-Context Learning**|Yuyang Xia et.al.|[2511.13502](http://arxiv.org/abs/2511.13502)|null|
+|**2025-11-17**|**PolicyBot - Reliable Question Answering over Policy Documents**|Gautam Nagarajan et.al.|[2511.13489](http://arxiv.org/abs/2511.13489)|null|
 |**2025-11-14**|**Who Moved My Distribution? Conformal Prediction for Interactive Multi-Agent Systems**|Allen Emmanuel Binny et.al.|[2511.11567](http://arxiv.org/abs/2511.11567)|null|
 |**2025-11-14**|**Human-AI collaborative autonomous synthesis with pulsed laser deposition for remote epitaxy**|Asraful Haque et.al.|[2511.11558](http://arxiv.org/abs/2511.11558)|null|
 |**2025-11-14**|**Drone Swarm Energy Management**|Michael Z. Zgurovsky et.al.|[2511.11557](http://arxiv.org/abs/2511.11557)|null|
@@ -862,6 +882,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-17**|**Scaling Spatial Intelligence with Multimodal Foundation Models**|Zhongang Cai et.al.|[2511.13719](http://arxiv.org/abs/2511.13719)|null|
+|**2025-11-17**|**TZ-LLM: Protecting On-Device Large Language Models with Arm TrustZone**|Xunjie Wang et.al.|[2511.13717](http://arxiv.org/abs/2511.13717)|null|
+|**2025-11-17**|**TiViBench: Benchmarking Think-in-Video Reasoning for Video Generative Models**|Harold Haodong Chen et.al.|[2511.13704](http://arxiv.org/abs/2511.13704)|null|
+|**2025-11-17**|**Crossing Borders: A Multimodal Challenge for Indian Poetry Translation and Image Generation**|Sofia Jamil et.al.|[2511.13689](http://arxiv.org/abs/2511.13689)|null|
+|**2025-11-17**|**Protein Secondary Structure Prediction Using 3D Graphs and Relation-Aware Message Passing Transformers**|Disha Varshney et.al.|[2511.13685](http://arxiv.org/abs/2511.13685)|null|
+|**2025-11-17**|**Training-Free Multi-View Extension of IC-Light for Textual Position-Aware Scene Relighting**|Jiangnan Ye et.al.|[2511.13684](http://arxiv.org/abs/2511.13684)|null|
+|**2025-11-17**|**Person-AI Bidirectional Fit - A Proof-Of-Concept Case Study Of Augmented Human-Ai Symbiosis In Management Decision-Making Process**|Agnieszka Bieńkowska et.al.|[2511.13670](http://arxiv.org/abs/2511.13670)|null|
+|**2025-11-17**|**Ontology-Driven Model-to-Model Transformation of Workflow Specifications**|Francisco Abreu et.al.|[2511.13661](http://arxiv.org/abs/2511.13661)|null|
+|**2025-11-17**|**Why is "Chicago" Predictive of Deceptive Reviews? Using LLMs to Discover Language Phenomena from Lexical Cues**|Jiaming Qu et.al.|[2511.13658](http://arxiv.org/abs/2511.13658)|null|
+|**2025-11-17**|**Weight-sparse transformers have interpretable circuits**|Leo Gao et.al.|[2511.13653](http://arxiv.org/abs/2511.13653)|null|
+|**2025-11-17**|**Part-X-MLLM: Part-aware 3D Multimodal Large Language Model**|Chunshi Wang et.al.|[2511.13647](http://arxiv.org/abs/2511.13647)|null|
+|**2025-11-17**|**Live-SWE-agent: Can Software Engineering Agents Self-Evolve on the Fly?**|Chunqiu Steven Xia et.al.|[2511.13646](http://arxiv.org/abs/2511.13646)|null|
+|**2025-11-17**|**CacheFlow: Compressive Streaming Memory for Efficient Long-Form Video Understanding**|Shrenik Patel et.al.|[2511.13644](http://arxiv.org/abs/2511.13644)|null|
+|**2025-11-17**|**Data Value in the Age of Scaling: Understanding LLM Scaling Dynamics Under Real-Synthetic Data Mixtures**|Haohui Wang et.al.|[2511.13640](http://arxiv.org/abs/2511.13640)|null|
+|**2025-11-17**|**Beyond Mimicry: Preference Coherence in LLMs**|Luhan Mikaelson et.al.|[2511.13630](http://arxiv.org/abs/2511.13630)|null|
+|**2025-11-17**|**CreBench: Human-Aligned Creativity Evaluation from Idea to Process to Product**|Kaiwen Xue et.al.|[2511.13626](http://arxiv.org/abs/2511.13626)|null|
+|**2025-11-17**|**Tissue Aware Nuclei Detection and Classification Model for Histopathology Images**|Kesi Xu et.al.|[2511.13615](http://arxiv.org/abs/2511.13615)|null|
+|**2025-11-17**|**P1: Mastering Physics Olympiads with Reinforcement Learning**|Jiacheng Chen et.al.|[2511.13612](http://arxiv.org/abs/2511.13612)|null|
+|**2025-11-17**|**Beyond SELECT: A Comprehensive Taxonomy-Guided Benchmark for Real-World Text-to-SQL Translation**|Hao Wang et.al.|[2511.13590](http://arxiv.org/abs/2511.13590)|null|
+|**2025-11-17**|**Adaptive Multi-Scale Integration Unlocks Robust Cell Annotation in Histopathology Images**|Yinuo Xu et.al.|[2511.13586](http://arxiv.org/abs/2511.13586)|null|
 |**2025-11-14**|**Optimizing Mixture of Block Attention**|Guangxuan Xiao et.al.|[2511.11571](http://arxiv.org/abs/2511.11571)|null|
 |**2025-11-14**|**PRBench: Large-Scale Expert Rubrics for Evaluating High-Stakes Professional Reasoning**|Afra Feyza Akyürek et.al.|[2511.11562](http://arxiv.org/abs/2511.11562)|null|
 |**2025-11-14**|**Human-AI collaborative autonomous synthesis with pulsed laser deposition for remote epitaxy**|Asraful Haque et.al.|[2511.11558](http://arxiv.org/abs/2511.11558)|null|
@@ -1287,6 +1327,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-17**|**TiViBench: Benchmarking Think-in-Video Reasoning for Video Generative Models**|Harold Haodong Chen et.al.|[2511.13704](http://arxiv.org/abs/2511.13704)|null|
+|**2025-11-17**|**Ultra Low Overhead Syndrome Extraction for the Steane code**|Boldizsár Poór et.al.|[2511.13700](http://arxiv.org/abs/2511.13700)|null|
+|**2025-11-17**|**Resilient Distribution Network Planning against Dynamic Malicious Power Injection Attacks**|Hampei Sasahara et.al.|[2511.13698](http://arxiv.org/abs/2511.13698)|null|
+|**2025-11-17**|**The physical properties of post-mass-transfer binaries**|Rhys Seeburger et.al.|[2511.13692](http://arxiv.org/abs/2511.13692)|null|
+|**2025-11-17**|**Distribution Matching Distillation Meets Reinforcement Learning**|Dengyang Jiang et.al.|[2511.13649](http://arxiv.org/abs/2511.13649)|null|
+|**2025-11-17**|**Sense and Sensitivity - I. Uncertainty analysis of the gas-phase chemistry in AGB outflows**|M. Van de Sande et.al.|[2511.13638](http://arxiv.org/abs/2511.13638)|null|
+|**2025-11-17**|**Towards Multimodal Representation Learning in Paediatric Kidney Disease**|Ana Durica et.al.|[2511.13637](http://arxiv.org/abs/2511.13637)|null|
+|**2025-11-17**|**Exploring the production of Terbium-161 in the Brazilian Multipurpose Reactor**|Fernando Cozim Melges et.al.|[2511.13634](http://arxiv.org/abs/2511.13634)|null|
+|**2025-11-17**|**P1: Mastering Physics Olympiads with Reinforcement Learning**|Jiacheng Chen et.al.|[2511.13612](http://arxiv.org/abs/2511.13612)|null|
+|**2025-11-17**|**Thermodynamics of the Fermi-Hubbard Model through Stochastic Calculus and Girsanov Transformation**|Detlef Lehmann et.al.|[2511.13581](http://arxiv.org/abs/2511.13581)|null|
+|**2025-11-17**|**Electron Correlation by Exchange Mapping in Electronic Structure Calculations**|Jerry L. Whitten et.al.|[2511.13570](http://arxiv.org/abs/2511.13570)|null|
+|**2025-11-17**|**Infinite-Horizon Optimal Control of Jump-Diffusion Models for Pollution-Dependent Disasters**|Daria Sakhanda et.al.|[2511.13568](http://arxiv.org/abs/2511.13568)|null|
+|**2025-11-17**|**Artificial Intelligence-driven Intelligent Wearable Systems: A full-stack Integration from Material Design to Personalized Interaction**|Jingyi Zhao et.al.|[2511.13565](http://arxiv.org/abs/2511.13565)|null|
+|**2025-11-17**|**Efficient Simulation of Hawkes Processes using their Affine Volterra Structure**|Eduardo Abi Jaber et.al.|[2511.13554](http://arxiv.org/abs/2511.13554)|null|
+|**2025-11-17**|**TSE-Net: Semi-supervised Monocular Height Estimation from Single Remote Sensing Images**|Sining Chen et.al.|[2511.13552](http://arxiv.org/abs/2511.13552)|null|
+|**2025-11-17**|**SO(3) real algebra method for finite baryon-number density QCD**|Hideo Suganuma et.al.|[2511.13551](http://arxiv.org/abs/2511.13551)|null|
+|**2025-11-17**|**MDIntrinsicDimension: Dimensionality-Based Analysis of Collective Motions in Macromolecules from Molecular Dynamics Trajectories**|Irene Cazzaniga et.al.|[2511.13550](http://arxiv.org/abs/2511.13550)|null|
+|**2025-11-17**|**Full range of infinite point blow-up exponents for the critical generalized KdV equation**|Nailya Manatova et.al.|[2511.13538](http://arxiv.org/abs/2511.13538)|null|
+|**2025-11-17**|**Smoothed-Cubic Spin-Glass Model of Random Lasers**|Marcello Benedetti et.al.|[2511.13508](http://arxiv.org/abs/2511.13508)|null|
+|**2025-11-17**|**Sampling Density for Gabor Phase Retrieval**|Ting Chen et.al.|[2511.13500](http://arxiv.org/abs/2511.13500)|null|
 |**2025-11-14**|**The Maximal Variance of Unilaterally Truncated Gaussian and Chi Distributions**|Robert J. Petrella et.al.|[2511.11566](http://arxiv.org/abs/2511.11566)|null|
 |**2025-11-14**|**Low-energy enhancement in the magnetic dipole radiation of actinide nuclei**|C. Rodgers et.al.|[2511.11565](http://arxiv.org/abs/2511.11565)|null|
 |**2025-11-14**|**Two Useful Facts About Generating Functions**|Alex Kasman et.al.|[2511.11559](http://arxiv.org/abs/2511.11559)|null|
