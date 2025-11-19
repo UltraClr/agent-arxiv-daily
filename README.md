@@ -21,6 +21,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-18**|**Robust Verification of Controllers under State Uncertainty via Hamilton-Jacobi Reachability Analysis**|Albert Lin et.al.|[2511.14755](http://arxiv.org/abs/2511.14755)|null|
+|**2025-11-18**|**A Sequential Operator-Splitting Framework for Exploration of Nonconvex Trajectory Optimization Solution Spaces**|Justin Ganiban et.al.|[2511.14752](http://arxiv.org/abs/2511.14752)|null|
+|**2025-11-18**|**Heterogeneous Multi-Agent Proximal Policy Optimization for Power Distribution System Restoration**|Parya Dolatyabi et.al.|[2511.14730](http://arxiv.org/abs/2511.14730)|null|
+|**2025-11-18**|**Graph Neural Networks for Vehicular Social Networks: Trends, Challenges, and Opportunities**|Elham Binshaflout et.al.|[2511.14720](http://arxiv.org/abs/2511.14720)|null|
+|**2025-11-18**|**Transferring Data from a Voronoi Mesh to an Adaptive Cartesian Grid in Pursuit of Self-consistent Top-down Star Formation**|Sean C. Lewis et.al.|[2511.14697](http://arxiv.org/abs/2511.14697)|null|
+|**2025-11-18**|**Talk, Snap, Complain: Validation-Aware Multimodal Expert Framework for Fine-Grained Customer Grievances**|Rishu Kumar Singh et.al.|[2511.14693](http://arxiv.org/abs/2511.14693)|null|
+|**2025-11-18**|**Ground Truth Generation for Multilingual Historical NLP using LLMs**|Clovis Gladstone et.al.|[2511.14688](http://arxiv.org/abs/2511.14688)|null|
+|**2025-11-18**|**Overcoming global sensitivity limitations: using active subspaces to explore discrepancies between global and local parameter sensitivities**|Huiyan Zou et.al.|[2511.14687](http://arxiv.org/abs/2511.14687)|null|
+|**2025-11-18**|**Exploring AlphaFold 3 for CD47 Antibody-Antigen Binding Affinity: An Unexpected Discovery of Reverse docking**|Yiyang Xu et.al.|[2511.14676](http://arxiv.org/abs/2511.14676)|null|
+|**2025-11-18**|**NORA-1.5: A Vision-Language-Action Model Trained using World Model- and Action-based Preference Rewards**|Chia-Yu Hung et.al.|[2511.14659](http://arxiv.org/abs/2511.14659)|null|
+|**2025-11-18**|**AutoTool: Efficient Tool Selection for Large Language Model Agents**|Jingyi Jia et.al.|[2511.14650](http://arxiv.org/abs/2511.14650)|null|
+|**2025-11-18**|**Enhancing Agentic Autonomous Scientific Discovery with Vision-Language Model Capabilities**|Kahaan Gandhi et.al.|[2511.14631](http://arxiv.org/abs/2511.14631)|null|
+|**2025-11-18**|**Expert-Guided POMDP Learning for Data-Efficient Modeling in Healthcare**|Marco Locatelli et.al.|[2511.14619](http://arxiv.org/abs/2511.14619)|null|
+|**2025-11-18**|**A Method for Characterizing Disease Progression from Acute Kidney Injury to Chronic Kidney Disease**|Yilu Fang et.al.|[2511.14603](http://arxiv.org/abs/2511.14603)|null|
+|**2025-11-18**|**Anomalous spontaneous induction of magnetic and electric fields in dense quark matter**|E. J. Ferrer et.al.|[2511.14602](http://arxiv.org/abs/2511.14602)|null|
+|**2025-11-18**|**ReflexGrad: Three-Way Synergistic Architecture for Zero-Shot Generalization in LLM Agents**|Ankush Kadu et.al.|[2511.14584](http://arxiv.org/abs/2511.14584)|null|
+|**2025-11-18**|**Non-vanishing of Artin $L$-functions associated with $D_4$ -quartic function fields ordered by conductor**|Victor Ahlquist et.al.|[2511.14576](http://arxiv.org/abs/2511.14576)|null|
+|**2025-11-18**|**CAPIRE: Modelling the Impact of Teacher Strikes and Inflation on Student Trajectories in Engineering Education**|H. R Paz et.al.|[2511.14573](http://arxiv.org/abs/2511.14573)|null|
+|**2025-11-18**|**Mind the Gaps: Measuring Visual Artifacts in Dimensionality Reduction**|Jaume Ros et.al.|[2511.14544](http://arxiv.org/abs/2511.14544)|null|
+|**2025-11-18**|**A General Framework for Physician Rostering Using Mixed-Integer Programming and a Web-Based Graphical User Interface**|Florian Meier et.al.|[2511.14536](http://arxiv.org/abs/2511.14536)|null|
 |**2025-11-17**|**From Power to Precision: Learning Fine-grained Dexterity for Multi-fingered Robotic Hands**|Jianglong Ye et.al.|[2511.13710](http://arxiv.org/abs/2511.13710)|null|
 |**2025-11-17**|**Efficient Calibration for Decision Making**|Parikshit Gopalan et.al.|[2511.13699](http://arxiv.org/abs/2511.13699)|null|
 |**2025-11-17**|**Investigating the Dark Energy Constraint from Strongly Lensed AGN at LSST-Scale**|Sydney Erickson et.al.|[2511.13669](http://arxiv.org/abs/2511.13669)|null|
@@ -889,6 +909,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-18**|**ARC Is a Vision Problem!**|Keya Hu et.al.|[2511.14761](http://arxiv.org/abs/2511.14761)|null|
+|**2025-11-18**|**UniGen-1.5: Enhancing Image Generation and Editing through Reward Unification in Reinforcement Learning**|Rui Tian et.al.|[2511.14760](http://arxiv.org/abs/2511.14760)|null|
+|**2025-11-18**|**$π^{*}_{0.6}$ : a VLA That Learns From Experience**|Ali Amin et.al.|[2511.14759](http://arxiv.org/abs/2511.14759)|null|
+|**2025-11-18**|**HMC: Learning Heterogeneous Meta-Control for Contact-Rich Loco-Manipulation**|Lai Wei et.al.|[2511.14756](http://arxiv.org/abs/2511.14756)|null|
+|**2025-11-18**|**SparseST: Exploiting Data Sparsity in Spatiotemporal Modeling and Prediction**|Junfeng Wu et.al.|[2511.14753](http://arxiv.org/abs/2511.14753)|null|
+|**2025-11-18**|**Vision Large Language Models Are Good Noise Handlers in Engagement Analysis**|Alexander Vedernikov et.al.|[2511.14749](http://arxiv.org/abs/2511.14749)|null|
+|**2025-11-18**|**Look-Ahead Reasoning on Learning Platforms**|Haiqing Zhu et.al.|[2511.14745](http://arxiv.org/abs/2511.14745)|null|
+|**2025-11-18**|**Measuring AI Progress in Drug Discovery: A Reproducible Leaderboard for the Tox21 Challenge**|Antonia Ebner et.al.|[2511.14744](http://arxiv.org/abs/2511.14744)|null|
+|**2025-11-18**|**LAUD: Integrating Large Language Models with Active Learning for Unlabeled Data**|Tzu-Hsuan Chou et.al.|[2511.14738](http://arxiv.org/abs/2511.14738)|null|
+|**2025-11-18**|**When AI Democratizes Exploitation: LLM-Assisted Strategic Manipulation of Fair Division Algorithms**|Priyanka Verma et.al.|[2511.14722](http://arxiv.org/abs/2511.14722)|null|
+|**2025-11-18**|**AdamHD: Decoupled Huber Decay Regularization for Language Model Pre-Training**|Fu-Ming Guo et.al.|[2511.14721](http://arxiv.org/abs/2511.14721)|null|
+|**2025-11-18**|**Strategic Innovation Management in the Age of Large Language Models Market Intelligence, Adaptive R&D, and Ethical Governance**|Raha Aghaei et.al.|[2511.14709](http://arxiv.org/abs/2511.14709)|null|
+|**2025-11-18**|**Subword Tokenization Strategies for Kurdish Word Embeddings**|Ali Salehi et.al.|[2511.14696](http://arxiv.org/abs/2511.14696)|null|
+|**2025-11-18**|**Near-Lossless Model Compression Enables Longer Context Inference in DNA Large Language Models**|Rui Zhu et.al.|[2511.14694](http://arxiv.org/abs/2511.14694)|null|
+|**2025-11-18**|**Talk, Snap, Complain: Validation-Aware Multimodal Expert Framework for Fine-Grained Customer Grievances**|Rishu Kumar Singh et.al.|[2511.14693](http://arxiv.org/abs/2511.14693)|null|
+|**2025-11-18**|**Attention via Synaptic Plasticity is All You Need: A Biologically Inspired Spiking Neuromorphic Transformer**|Kallol Mondal et.al.|[2511.14691](http://arxiv.org/abs/2511.14691)|null|
+|**2025-11-18**|**Ground Truth Generation for Multilingual Historical NLP using LLMs**|Clovis Gladstone et.al.|[2511.14688](http://arxiv.org/abs/2511.14688)|null|
+|**2025-11-18**|**Encoding and Understanding Astrophysical Information in Large Language Model-Generated Summaries**|Kiera McCormick et.al.|[2511.14685](http://arxiv.org/abs/2511.14685)|null|
+|**2025-11-18**|**SMRC: Aligning Large Language Models with Student Reasoning for Mathematical Error Correction**|Biaojie Zeng et.al.|[2511.14684](http://arxiv.org/abs/2511.14684)|null|
+|**2025-11-18**|**Quadratic Term Correction on Heaps' Law**|Oscar Fontanelli et.al.|[2511.14683](http://arxiv.org/abs/2511.14683)|null|
 |**2025-11-17**|**Scaling Spatial Intelligence with Multimodal Foundation Models**|Zhongang Cai et.al.|[2511.13719](http://arxiv.org/abs/2511.13719)|null|
 |**2025-11-17**|**TZ-LLM: Protecting On-Device Large Language Models with Arm TrustZone**|Xunjie Wang et.al.|[2511.13717](http://arxiv.org/abs/2511.13717)|null|
 |**2025-11-17**|**TiViBench: Benchmarking Think-in-Video Reasoning for Video Generative Models**|Harold Haodong Chen et.al.|[2511.13704](http://arxiv.org/abs/2511.13704)|null|
@@ -1336,6 +1376,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-18**|**UniGen-1.5: Enhancing Image Generation and Editing through Reward Unification in Reinforcement Learning**|Rui Tian et.al.|[2511.14760](http://arxiv.org/abs/2511.14760)|null|
+|**2025-11-18**|**$π^{*}_{0.6}$ : a VLA That Learns From Experience**|Ali Amin et.al.|[2511.14759](http://arxiv.org/abs/2511.14759)|null|
+|**2025-11-18**|**Heterogeneous Multi-Agent Proximal Policy Optimization for Power Distribution System Restoration**|Parya Dolatyabi et.al.|[2511.14730](http://arxiv.org/abs/2511.14730)|null|
+|**2025-11-18**|**Towards a Unified Analysis of Neural Networks in Nonparametric Instrumental Variable Regression: Optimization and Generalization**|Zonghao Chen et.al.|[2511.14710](http://arxiv.org/abs/2511.14710)|null|
+|**2025-11-18**|**Nonparametric Uniform Inference in Binary Classification and Policy Values**|Nan Liu andYanbo Liu et.al.|[2511.14700](http://arxiv.org/abs/2511.14700)|null|
+|**2025-11-18**|**SMRC: Aligning Large Language Models with Student Reasoning for Mathematical Error Correction**|Biaojie Zeng et.al.|[2511.14684](http://arxiv.org/abs/2511.14684)|null|
+|**2025-11-18**|**Quadratic Term Correction on Heaps' Law**|Oscar Fontanelli et.al.|[2511.14683](http://arxiv.org/abs/2511.14683)|null|
+|**2025-11-18**|**Estimation of Spatial and Temporal Autoregressive Effects using LASSO - An Example of Hourly Particulate Matter Concentrations**|Elkanah Nyabuto et.al.|[2511.14666](http://arxiv.org/abs/2511.14666)|null|
+|**2025-11-18**|**NORA-1.5: A Vision-Language-Action Model Trained using World Model- and Action-based Preference Rewards**|Chia-Yu Hung et.al.|[2511.14659](http://arxiv.org/abs/2511.14659)|null|
+|**2025-11-18**|**Failure to Mix: Large language models struggle to answer according to desired probability distributions**|Ivy Yuqian Yang et.al.|[2511.14630](http://arxiv.org/abs/2511.14630)|null|
+|**2025-11-18**|**Fusing Biomechanical and Spatio-Temporal Features for Fall Prediction: Characterizing and Mitigating the Simulation-to-Reality Gap**|Md Fokhrul Islam et.al.|[2511.14620](http://arxiv.org/abs/2511.14620)|null|
+|**2025-11-18**|**Seer: Online Context Learning for Fast Synchronous LLM Reinforcement Learning**|Ruoyu Qin et.al.|[2511.14617](http://arxiv.org/abs/2511.14617)|null|
+|**2025-11-18**|**XAttn-BMD: Multimodal Deep Learning with Cross-Attention for Femoral Neck Bone Mineral Density Estimation**|Yilin Zhang et.al.|[2511.14604](http://arxiv.org/abs/2511.14604)|null|
+|**2025-11-18**|**Anomalous spontaneous induction of magnetic and electric fields in dense quark matter**|E. J. Ferrer et.al.|[2511.14602](http://arxiv.org/abs/2511.14602)|null|
+|**2025-11-18**|**ReflexGrad: Three-Way Synergistic Architecture for Zero-Shot Generalization in LLM Agents**|Ankush Kadu et.al.|[2511.14584](http://arxiv.org/abs/2511.14584)|null|
+|**2025-11-18**|**Masked IRL: LLM-Guided Reward Disambiguation from Demonstrations and Language**|Minyoung Hwang et.al.|[2511.14565](http://arxiv.org/abs/2511.14565)|null|
+|**2025-11-18**|**Linear Combinations of Logarithms of $L$ -functions over Function Fields at Microscopic Shifts and Beyond**|Fatma Çiçek et.al.|[2511.14563](http://arxiv.org/abs/2511.14563)|null|
+|**2025-11-18**|**DeepBlip: Estimating Conditional Average Treatment Effects Over Time**|Haorui Ma et.al.|[2511.14545](http://arxiv.org/abs/2511.14545)|null|
+|**2025-11-18**|**Solving Navier-Stokes Equations Using Data-free Physics-Informed Neural Networks With Hard Boundary Conditions**|Ritik Pal et.al.|[2511.14497](http://arxiv.org/abs/2511.14497)|null|
+|**2025-11-18**|**Agent-R1: Training Powerful LLM Agents with End-to-End Reinforcement Learning**|Mingyue Cheng et.al.|[2511.14460](http://arxiv.org/abs/2511.14460)|null|
 |**2025-11-17**|**TiViBench: Benchmarking Think-in-Video Reasoning for Video Generative Models**|Harold Haodong Chen et.al.|[2511.13704](http://arxiv.org/abs/2511.13704)|null|
 |**2025-11-17**|**Ultra Low Overhead Syndrome Extraction for the Steane code**|Boldizsár Poór et.al.|[2511.13700](http://arxiv.org/abs/2511.13700)|null|
 |**2025-11-17**|**Resilient Distribution Network Planning against Dynamic Malicious Power Injection Attacks**|Hampei Sasahara et.al.|[2511.13698](http://arxiv.org/abs/2511.13698)|null|
