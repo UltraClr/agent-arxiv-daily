@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Agent Research Papers
-### Automatically Updated on 2025.11.19
+### Automatically Updated on 2025.11.20
 Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Autonomous Agent`,`LLM Agent`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -1371,7 +1371,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |**2025-11-18**|**$π^{*}_{0.6}$ : a VLA That Learns From Experience**|Ali Amin et.al.|[2511.14759](http://arxiv.org/abs/2511.14759)|null|
 |**2025-11-18**|**Heterogeneous Multi-Agent Proximal Policy Optimization for Power Distribution System Restoration**|Parya Dolatyabi et.al.|[2511.14730](http://arxiv.org/abs/2511.14730)|null|
 |**2025-11-18**|**Towards a Unified Analysis of Neural Networks in Nonparametric Instrumental Variable Regression: Optimization and Generalization**|Zonghao Chen et.al.|[2511.14710](http://arxiv.org/abs/2511.14710)|null|
-|**2025-11-18**|**Nonparametric Uniform Inference in Binary Classification and Policy Values**|Nan Liu andYanbo Liu et.al.|[2511.14700](http://arxiv.org/abs/2511.14700)|null|
+|**2025-11-18**|**Nonparametric Uniform Inference in Binary Classification and Policy Values**|Nan Liu et.al.|[2511.14700](http://arxiv.org/abs/2511.14700)|null|
 |**2025-11-18**|**SMRC: Aligning Large Language Models with Student Reasoning for Mathematical Error Correction**|Biaojie Zeng et.al.|[2511.14684](http://arxiv.org/abs/2511.14684)|null|
 |**2025-11-18**|**Quadratic Term Correction on Heaps' Law**|Oscar Fontanelli et.al.|[2511.14683](http://arxiv.org/abs/2511.14683)|null|
 |**2025-11-18**|**Estimation of Spatial and Temporal Autoregressive Effects using LASSO - An Example of Hourly Particulate Matter Concentrations**|Elkanah Nyabuto et.al.|[2511.14666](http://arxiv.org/abs/2511.14666)|null|
