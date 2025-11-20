@@ -21,6 +21,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-19**|**GeoVista: Web-Augmented Agentic Visual Reasoning for Geolocalization**|Yikun Wang et.al.|[2511.15705](http://arxiv.org/abs/2511.15705)|null|
+|**2025-11-19**|**RescueLens: LLM-Powered Triage and Action on Volunteer Feedback for Food Rescue**|Naveen Raman et.al.|[2511.15698](http://arxiv.org/abs/2511.15698)|null|
+|**2025-11-19**|**Walrus: A Cross-Domain Foundation Model for Continuum Dynamics**|Michael McCabe et.al.|[2511.15684](http://arxiv.org/abs/2511.15684)|null|
+|**2025-11-19**|**INQUIRE-Search: A Framework for Interactive Discovery in Large-Scale Biodiversity Databases**|Edward Vendrow et.al.|[2511.15656](http://arxiv.org/abs/2511.15656)|null|
+|**2025-11-19**|**Continual Reinforcement Learning for Cyber-Physical Systems: Lessons Learned and Open Challenges**|Kim N. Nolle et.al.|[2511.15652](http://arxiv.org/abs/2511.15652)|null|
+|**2025-11-19**|**Navigating Quantum Missteps in Agent-Based Modeling: A Schelling Model Case Study**|C. Nico Barati et.al.|[2511.15642](http://arxiv.org/abs/2511.15642)|null|
+|**2025-11-19**|**Fast and Certified Bounding of Security-Constrained DCOPF via Interval Bound Propagation**|Eren Tekeler et.al.|[2511.15624](http://arxiv.org/abs/2511.15624)|null|
+|**2025-11-19**|**What Does It Take to Be a Good AI Research Agent? Studying the Role of Ideation Diversity**|Alexis Audran-Reiss et.al.|[2511.15593](http://arxiv.org/abs/2511.15593)|null|
+|**2025-11-19**|**Graph Rewriting Language as a Platform for Quantum Diagrammatic Calculi**|Kayo Tei et.al.|[2511.15581](http://arxiv.org/abs/2511.15581)|null|
+|**2025-11-19**|**AVATAAR: Agentic Video Answering via Temporal Adaptive Alignment and Reasoning**|Urjitkumar Patel et.al.|[2511.15578](http://arxiv.org/abs/2511.15578)|null|
+|**2025-11-19**|**Experimental demonstration of non-local magic in a superconducting quantum processor**|Halima Giovanna Ahmad et.al.|[2511.15576](http://arxiv.org/abs/2511.15576)|null|
+|**2025-11-19**|**HSKBenchmark: Modeling and Benchmarking Chinese Second Language Acquisition in Large Language Models through Curriculum Tuning**|Qihao Yang et.al.|[2511.15574](http://arxiv.org/abs/2511.15574)|null|
+|**2025-11-19**|**Computer-Use Agents as Judges for Generative User Interface**|Kevin Qinghong Lin et.al.|[2511.15567](http://arxiv.org/abs/2511.15567)|null|
+|**2025-11-19**|**Excess of diffuse gamma-ray emission detected from the galaxy cluster Abell 119 from 14-year Fermi-LAT Data**|Gajanan D Harale et.al.|[2511.15559](http://arxiv.org/abs/2511.15559)|null|
+|**2025-11-19**|**A Physics Informed Machine Learning Framework for Optimal Sensor Placement and Parameter Estimation**|Georgios Venianakis et.al.|[2511.15543](http://arxiv.org/abs/2511.15543)|null|
+|**2025-11-19**|**Exploring the use of AI authors and reviewers at Agents4Science**|Federico Bianchi et.al.|[2511.15534](http://arxiv.org/abs/2511.15534)|null|
+|**2025-11-19**|**Partial-Wave Unitarity Bounds on Higher-Dimensional Operators from 2-to- $N$ Scattering**|Céline Degrande et.al.|[2511.15524](http://arxiv.org/abs/2511.15524)|null|
+|**2025-11-19**|**Efficient Exoplanet Imaging Simulations of the Habitable Worlds Observatory**|Jamila Taaki et.al.|[2511.15511](http://arxiv.org/abs/2511.15511)|null|
+|**2025-11-19**|**A thermo-mechanically coupled finite deformation model for freezing-induced damage in soft materials**|Ali Saeedi et.al.|[2511.15500](http://arxiv.org/abs/2511.15500)|null|
+|**2025-11-19**|**Robust H-infinity control and worst-case search in constrained parametric space**|Ervan Kassarian et.al.|[2511.15480](http://arxiv.org/abs/2511.15480)|null|
 |**2025-11-18**|**Robust Verification of Controllers under State Uncertainty via Hamilton-Jacobi Reachability Analysis**|Albert Lin et.al.|[2511.14755](http://arxiv.org/abs/2511.14755)|null|
 |**2025-11-18**|**A Sequential Operator-Splitting Framework for Exploration of Nonconvex Trajectory Optimization Solution Spaces**|Justin Ganiban et.al.|[2511.14752](http://arxiv.org/abs/2511.14752)|null|
 |**2025-11-18**|**Heterogeneous Multi-Agent Proximal Policy Optimization for Power Distribution System Restoration**|Parya Dolatyabi et.al.|[2511.14730](http://arxiv.org/abs/2511.14730)|null|
@@ -909,6 +929,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-19**|**Think Visually, Reason Textually: Vision-Language Synergy in ARC**|Beichen Zhang et.al.|[2511.15703](http://arxiv.org/abs/2511.15703)|null|
+|**2025-11-19**|**Joint Semantic-Channel Coding and Modulation for Token Communications**|Jingkai Ying et.al.|[2511.15699](http://arxiv.org/abs/2511.15699)|null|
+|**2025-11-19**|**RescueLens: LLM-Powered Triage and Action on Volunteer Feedback for Food Rescue**|Naveen Raman et.al.|[2511.15698](http://arxiv.org/abs/2511.15698)|null|
+|**2025-11-19**|**The Impact of Quantization on Large Reasoning Model Reinforcement Learning**|Medha Kumar et.al.|[2511.15694](http://arxiv.org/abs/2511.15694)|null|
+|**2025-11-19**|**MoDES: Accelerating Mixture-of-Experts Multimodal Large Language Models via Dynamic Expert Skipping**|Yushi Huang et.al.|[2511.15690](http://arxiv.org/abs/2511.15690)|null|
+|**2025-11-19**|**Walrus: A Cross-Domain Foundation Model for Continuum Dynamics**|Michael McCabe et.al.|[2511.15684](http://arxiv.org/abs/2511.15684)|null|
+|**2025-11-19**|**Quantum-Guided Test Case Minimization for LLM-Based Code Generation**|Huixiang Zhang et.al.|[2511.15665](http://arxiv.org/abs/2511.15665)|null|
+|**2025-11-19**|**VisPlay: Self-Evolving Vision-Language Models from Images**|Yicheng He et.al.|[2511.15661](http://arxiv.org/abs/2511.15661)|null|
+|**2025-11-19**|**Multi-Stage Residual-Aware Unsupervised Deep Learning Framework for Consistent Ultrasound Strain Elastography**|Shourov Joarder et.al.|[2511.15640](http://arxiv.org/abs/2511.15640)|null|
+|**2025-11-19**|**Hierarchical Semantic Tree Anchoring for CLIP-Based Class-Incremental Learning**|Tao Hu et.al.|[2511.15633](http://arxiv.org/abs/2511.15633)|null|
+|**2025-11-19**|**The SA-FARI Dataset: Segment Anything in Footage of Animals for Recognition and Identification**|Dante Francisco Wasmuht et.al.|[2511.15622](http://arxiv.org/abs/2511.15622)|null|
+|**2025-11-19**|**Lost in Vagueness: Towards Context-Sensitive Standards for Robustness Assessment under the EU AI Act**|Roberta Tamponi et.al.|[2511.15620](http://arxiv.org/abs/2511.15620)|null|
+|**2025-11-19**|**When to Think and When to Look: Uncertainty-Guided Lookback**|Jing Bi et.al.|[2511.15613](http://arxiv.org/abs/2511.15613)|null|
+|**2025-11-19**|**SRPO: Self-Referential Policy Optimization for Vision-Language-Action Models**|Senyu Fei et.al.|[2511.15605](http://arxiv.org/abs/2511.15605)|null|
+|**2025-11-19**|**Graph Rewriting Language as a Platform for Quantum Diagrammatic Calculi**|Kayo Tei et.al.|[2511.15581](http://arxiv.org/abs/2511.15581)|null|
+|**2025-11-19**|**AVATAAR: Agentic Video Answering via Temporal Adaptive Alignment and Reasoning**|Urjitkumar Patel et.al.|[2511.15578](http://arxiv.org/abs/2511.15578)|null|
+|**2025-11-19**|**A critical review of pre-post surveys designed to measure student epistemology in undergraduate science courses**|Kyriaki Chatzikyriakidou et.al.|[2511.15575](http://arxiv.org/abs/2511.15575)|null|
+|**2025-11-19**|**HSKBenchmark: Modeling and Benchmarking Chinese Second Language Acquisition in Large Language Models through Curriculum Tuning**|Qihao Yang et.al.|[2511.15574](http://arxiv.org/abs/2511.15574)|null|
+|**2025-11-19**|**Two-Faced Social Agents: Context Collapse in Role-Conditioned Large Language Models**|Vikram K Suresh et.al.|[2511.15573](http://arxiv.org/abs/2511.15573)|null|
+|**2025-11-19**|**Computer-Use Agents as Judges for Generative User Interface**|Kevin Qinghong Lin et.al.|[2511.15567](http://arxiv.org/abs/2511.15567)|null|
 |**2025-11-18**|**ARC Is a Vision Problem!**|Keya Hu et.al.|[2511.14761](http://arxiv.org/abs/2511.14761)|null|
 |**2025-11-18**|**UniGen-1.5: Enhancing Image Generation and Editing through Reward Unification in Reinforcement Learning**|Rui Tian et.al.|[2511.14760](http://arxiv.org/abs/2511.14760)|null|
 |**2025-11-18**|**$π^{*}_{0.6}$ : a VLA That Learns From Experience**|Ali Amin et.al.|[2511.14759](http://arxiv.org/abs/2511.14759)|null|
@@ -1376,6 +1416,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-19**|**GeoVista: Web-Augmented Agentic Visual Reasoning for Geolocalization**|Yikun Wang et.al.|[2511.15705](http://arxiv.org/abs/2511.15705)|null|
+|**2025-11-19**|**The Impact of Quantization on Large Reasoning Model Reinforcement Learning**|Medha Kumar et.al.|[2511.15694](http://arxiv.org/abs/2511.15694)|null|
+|**2025-11-19**|**Semiparametric Estimation of Fractional Integration: An Evaluation of Local Whittle Methods**|Jason R. Blevins et.al.|[2511.15689](http://arxiv.org/abs/2511.15689)|null|
+|**2025-11-19**|**Quantum measurement tomography with mini-batch stochastic gradient descent**|Akshay Gaikwad et.al.|[2511.15682](http://arxiv.org/abs/2511.15682)|null|
+|**2025-11-19**|**VisPlay: Self-Evolving Vision-Language Models from Images**|Yicheng He et.al.|[2511.15661](http://arxiv.org/abs/2511.15661)|null|
+|**2025-11-19**|**Continual Reinforcement Learning for Cyber-Physical Systems: Lessons Learned and Open Challenges**|Kim N. Nolle et.al.|[2511.15652](http://arxiv.org/abs/2511.15652)|null|
+|**2025-11-19**|**A Green's function approach to linearized Monge-Ampère equations in divergence form and application to singular Abreu type equations**|Chong Gu et.al.|[2511.15621](http://arxiv.org/abs/2511.15621)|null|
+|**2025-11-19**|**Magnetic electron-hole asymmetry in cuprates: a computational revisit**|Jiong Mei et.al.|[2511.15608](http://arxiv.org/abs/2511.15608)|null|
+|**2025-11-19**|**SRPO: Self-Referential Policy Optimization for Vision-Language-Action Models**|Senyu Fei et.al.|[2511.15605](http://arxiv.org/abs/2511.15605)|null|
+|**2025-11-19**|**Learning from Mistakes: Loss-Aware Memory Enhanced Continual Learning for LiDAR Place Recognition**|Xufei Wang et.al.|[2511.15597](http://arxiv.org/abs/2511.15597)|null|
+|**2025-11-19**|**A sharp threshold for arithmetic effects on the tail probabilities of lacunary sums**|Christoph Aistleitner et.al.|[2511.15595](http://arxiv.org/abs/2511.15595)|null|
+|**2025-11-19**|**QTIS: A QAOA-Based Quantum Time Interval Scheduler**|José A. Tirado-Domínguez et.al.|[2511.15590](http://arxiv.org/abs/2511.15590)|null|
+|**2025-11-19**|**Meta-Black-Box Optimization with Bi-Space Landscape Analysis and Dual-Control Mechanism for SAEA**|Yukun Du et.al.|[2511.15551](http://arxiv.org/abs/2511.15551)|null|
+|**2025-11-19**|**A Physics Informed Machine Learning Framework for Optimal Sensor Placement and Parameter Estimation**|Georgios Venianakis et.al.|[2511.15543](http://arxiv.org/abs/2511.15543)|null|
+|**2025-11-19**|**Theoretical Closed-loop Stability Bounds for Dynamical System Coupled with Diffusion Policies**|Gabriel Lauzier et.al.|[2511.15520](http://arxiv.org/abs/2511.15520)|null|
+|**2025-11-19**|**Robust H-infinity control and worst-case search in constrained parametric space**|Ervan Kassarian et.al.|[2511.15480](http://arxiv.org/abs/2511.15480)|null|
+|**2025-11-19**|**Challenging the $ω_0ω_a$ CDM parametrization through rational expansions in view of DESI data release**|Youri Carloni et.al.|[2511.15472](http://arxiv.org/abs/2511.15472)|null|
+|**2025-11-19**|**Gini Score under Ties and Case Weights**|Alexej Brauer et.al.|[2511.15446](http://arxiv.org/abs/2511.15446)|null|
+|**2025-11-19**|**Measure finite topology on the ring of measurable functions**|Soumajit Dey et.al.|[2511.15436](http://arxiv.org/abs/2511.15436)|null|
+|**2025-11-19**|**Viscous Dark Energy and Mass-Varying Dark Matter in Lyra Manifold: Cosmological Dynamics and Observational Constraints**|Giridhari Deogharia et.al.|[2511.15422](http://arxiv.org/abs/2511.15422)|null|
 |**2025-11-18**|**UniGen-1.5: Enhancing Image Generation and Editing through Reward Unification in Reinforcement Learning**|Rui Tian et.al.|[2511.14760](http://arxiv.org/abs/2511.14760)|null|
 |**2025-11-18**|**$π^{*}_{0.6}$ : a VLA That Learns From Experience**|Ali Amin et.al.|[2511.14759](http://arxiv.org/abs/2511.14759)|null|
 |**2025-11-18**|**Heterogeneous Multi-Agent Proximal Policy Optimization for Power Distribution System Restoration**|Parya Dolatyabi et.al.|[2511.14730](http://arxiv.org/abs/2511.14730)|null|
