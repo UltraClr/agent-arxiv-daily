@@ -21,6 +21,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-20**|**Dataset Distillation for Pre-Trained Self-Supervised Vision Models**|George Cazenavette et.al.|[2511.16674](http://arxiv.org/abs/2511.16674)|null|
+|**2025-11-20**|**EvoLMM: Self-Evolving Large Multimodal Models with Continuous Rewards**|Omkat Thawakar et.al.|[2511.16672](http://arxiv.org/abs/2511.16672)|null|
+|**2025-11-20**|**PartUV: Part-Based UV Unwrapping of 3D Meshes**|Zhaoning Wang et.al.|[2511.16659](http://arxiv.org/abs/2511.16659)|null|
+|**2025-11-20**|**SurvAgent: Hierarchical CoT-Enhanced Case Banking and Dichotomy-Based Multi-Agent System for Multimodal Survival Prediction**|Guolin Huang et.al.|[2511.16635](http://arxiv.org/abs/2511.16635)|null|
+|**2025-11-20**|**Subdivisions of lower Eulerian posets**|Alan Stapledon et.al.|[2511.16608](http://arxiv.org/abs/2511.16608)|null|
+|**2025-11-20**|**Systematically Deconstructing APVD Steganography and its Payload with a Unified Deep Learning Paradigm**|Kabbo Jit Deb et.al.|[2511.16604](http://arxiv.org/abs/2511.16604)|null|
+|**2025-11-20**|**Bridging VLMs and Embodied Intelligence with Deliberate Practice Policy Optimization**|Yi Zhang et.al.|[2511.16602](http://arxiv.org/abs/2511.16602)|null|
+|**2025-11-20**|**Green Resilience of Cyber-Physical Systems: Doctoral Dissertation**|Diaeddin Rimawi et.al.|[2511.16593](http://arxiv.org/abs/2511.16593)|null|
+|**2025-11-20**|**D-GARA: A Dynamic Benchmarking Framework for GUI Agent Robustness in Real-World Anomalies**|Sen Chen et.al.|[2511.16590](http://arxiv.org/abs/2511.16590)|null|
+|**2025-11-20**|**OpenQudit: Extensible and Accelerated Numerical Quantum Compilation via a JIT-Compiled DSL**|Ed Younis et.al.|[2511.16585](http://arxiv.org/abs/2511.16585)|null|
+|**2025-11-20**|**Consciousness in Artificial Intelligence? A Framework for Classifying Objections and Constraints**|Andres Campero et.al.|[2511.16582](http://arxiv.org/abs/2511.16582)|null|
+|**2025-11-20**|**Block-Separated Overpartitions and Their Fibonacci-Type Structure**|El-Mehdi Mehiri et.al.|[2511.16580](http://arxiv.org/abs/2511.16580)|null|
+|**2025-11-20**|**Synthesis of Safety Specifications for Probabilistic Systems**|Gaspard Ohlmann et.al.|[2511.16579](http://arxiv.org/abs/2511.16579)|null|
+|**2025-11-20**|**ECPv2: Fast, Efficient, and Scalable Global Optimization of Lipschitz Functions**|Fares Fourati et.al.|[2511.16575](http://arxiv.org/abs/2511.16575)|null|
+|**2025-11-20**|**FairLRF: Achieving Fairness through Sparse Low Rank Factorization**|Yuanbo Guo et.al.|[2511.16549](http://arxiv.org/abs/2511.16549)|null|
+|**2025-11-20**|**Contrastive vision-language learning with paraphrasing and negation**|Kwun Ho Ngan et.al.|[2511.16527](http://arxiv.org/abs/2511.16527)|null|
+|**2025-11-20**|**YOWO: You Only Walk Once to Jointly Map An Indoor Scene and Register Ceiling-mounted Cameras**|Fan Yang et.al.|[2511.16521](http://arxiv.org/abs/2511.16521)|null|
+|**2025-11-20**|**A Butterfly's Eye Camera for Intensity Interferometry with Cherenkov Telescopes**|Juan Cortina et.al.|[2511.16505](http://arxiv.org/abs/2511.16505)|null|
+|**2025-11-20**|**Quasi-metric spaces on which real-valued continuous functions are uniformly continuous**|Om Dev Singh et.al.|[2511.16503](http://arxiv.org/abs/2511.16503)|null|
+|**2025-11-20**|**Large Language Model-Based Reward Design for Deep Reinforcement Learning-Driven Autonomous Cyber Defense**|Sayak Mukherjee et.al.|[2511.16483](http://arxiv.org/abs/2511.16483)|null|
 |**2025-11-19**|**GeoVista: Web-Augmented Agentic Visual Reasoning for Geolocalization**|Yikun Wang et.al.|[2511.15705](http://arxiv.org/abs/2511.15705)|null|
 |**2025-11-19**|**RescueLens: LLM-Powered Triage and Action on Volunteer Feedback for Food Rescue**|Naveen Raman et.al.|[2511.15698](http://arxiv.org/abs/2511.15698)|null|
 |**2025-11-19**|**Walrus: A Cross-Domain Foundation Model for Continuum Dynamics**|Michael McCabe et.al.|[2511.15684](http://arxiv.org/abs/2511.15684)|null|
@@ -929,6 +949,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-20**|**Thinking-while-Generating: Interleaving Textual Reasoning throughout Visual Generation**|Ziyu Guo et.al.|[2511.16671](http://arxiv.org/abs/2511.16671)|null|
+|**2025-11-20**|**Learning to Think Fast and Slow for Visual Language Models**|Chenyu Lin et.al.|[2511.16670](http://arxiv.org/abs/2511.16670)|null|
+|**2025-11-20**|**Video-as-Answer: Predict and Generate Next Video Event with Joint-GRPO**|Junhao Cheng et.al.|[2511.16669](http://arxiv.org/abs/2511.16669)|null|
+|**2025-11-20**|**V-ReasonBench: Toward Unified Reasoning Benchmark Suite for Video Generation Models**|Yang Luo et.al.|[2511.16668](http://arxiv.org/abs/2511.16668)|null|
+|**2025-11-20**|**Taming the Long-Tail: Efficient Reasoning RL Training with Adaptive Drafter**|Qinghao Hu et.al.|[2511.16665](http://arxiv.org/abs/2511.16665)|null|
+|**2025-11-20**|**Nemotron Elastic: Towards Efficient Many-in-One Reasoning LLMs**|Ali Taghibakhshi et.al.|[2511.16664](http://arxiv.org/abs/2511.16664)|null|
+|**2025-11-20**|**Cognitive Foundations for Reasoning and Their Manifestation in LLMs**|Priyanka Kargupta et.al.|[2511.16660](http://arxiv.org/abs/2511.16660)|null|
+|**2025-11-20**|**Comparison of Text-Based and Image-Based Retrieval in Multimodal Retrieval Augmented Generation Large Language Model Systems**|Elias Lumer et.al.|[2511.16654](http://arxiv.org/abs/2511.16654)|null|
+|**2025-11-20**|**Evolution Strategies at the Hyperscale**|Bidipta Sarkar et.al.|[2511.16652](http://arxiv.org/abs/2511.16652)|null|
+|**2025-11-20**|**InternData-A1: Pioneering High-Fidelity Synthetic Data for Pre-training Generalist Policy**|Yang Tian et.al.|[2511.16651](http://arxiv.org/abs/2511.16651)|null|
+|**2025-11-20**|**Codec2Vec: Self-Supervised Speech Representation Learning Using Neural Speech Codecs**|Wei-Cheng Tseng et.al.|[2511.16639](http://arxiv.org/abs/2511.16639)|null|
+|**2025-11-20**|**SurvAgent: Hierarchical CoT-Enhanced Case Banking and Dichotomy-Based Multi-Agent System for Multimodal Survival Prediction**|Guolin Huang et.al.|[2511.16635](http://arxiv.org/abs/2511.16635)|null|
+|**2025-11-20**|**MedBayes-Lite: Bayesian Uncertainty Quantification for Safe Clinical Decision Support**|Elias Hossain et.al.|[2511.16625](http://arxiv.org/abs/2511.16625)|null|
+|**2025-11-20**|**SAM 3D: 3Dfy Anything in Images**|SAM 3D Team et.al.|[2511.16624](http://arxiv.org/abs/2511.16624)|null|
+|**2025-11-20**|**Bridging VLMs and Embodied Intelligence with Deliberate Practice Policy Optimization**|Yi Zhang et.al.|[2511.16602](http://arxiv.org/abs/2511.16602)|null|
+|**2025-11-20**|**You Only Forward Once: An Efficient Compositional Judging Paradigm**|Tianlong Zhang et.al.|[2511.16600](http://arxiv.org/abs/2511.16600)|null|
+|**2025-11-20**|**TimeViper: A Hybrid Mamba-Transformer Vision-Language Model for Efficient Long Video Understanding**|Boshen Xu et.al.|[2511.16595](http://arxiv.org/abs/2511.16595)|null|
+|**2025-11-20**|**Formal Abductive Latent Explanations for Prototype-Based Networks**|Jules Soria et.al.|[2511.16588](http://arxiv.org/abs/2511.16588)|null|
+|**2025-11-20**|**Integrating Symbolic Natural Language Understanding and Language Models for Word Sense Disambiguation**|Kexin Zhao et.al.|[2511.16577](http://arxiv.org/abs/2511.16577)|null|
+|**2025-11-20**|**POMA-3D: The Point Map Way to 3D Scene Understanding**|Ye Mao et.al.|[2511.16567](http://arxiv.org/abs/2511.16567)|null|
 |**2025-11-19**|**Think Visually, Reason Textually: Vision-Language Synergy in ARC**|Beichen Zhang et.al.|[2511.15703](http://arxiv.org/abs/2511.15703)|null|
 |**2025-11-19**|**Joint Semantic-Channel Coding and Modulation for Token Communications**|Jingkai Ying et.al.|[2511.15699](http://arxiv.org/abs/2511.15699)|null|
 |**2025-11-19**|**RescueLens: LLM-Powered Triage and Action on Volunteer Feedback for Food Rescue**|Naveen Raman et.al.|[2511.15698](http://arxiv.org/abs/2511.15698)|null|
@@ -1416,6 +1456,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-20**|**EvoLMM: Self-Evolving Large Multimodal Models with Continuous Rewards**|Omkat Thawakar et.al.|[2511.16672](http://arxiv.org/abs/2511.16672)|null|
+|**2025-11-20**|**Thinking-while-Generating: Interleaving Textual Reasoning throughout Visual Generation**|Ziyu Guo et.al.|[2511.16671](http://arxiv.org/abs/2511.16671)|null|
+|**2025-11-20**|**Learning to Think Fast and Slow for Visual Language Models**|Chenyu Lin et.al.|[2511.16670](http://arxiv.org/abs/2511.16670)|null|
+|**2025-11-20**|**Video-as-Answer: Predict and Generate Next Video Event with Joint-GRPO**|Junhao Cheng et.al.|[2511.16669](http://arxiv.org/abs/2511.16669)|null|
+|**2025-11-20**|**SceneDesigner: Controllable Multi-Object Image Generation with 9-DoF Pose Manipulation**|Zhenyuan Qin et.al.|[2511.16666](http://arxiv.org/abs/2511.16666)|null|
+|**2025-11-20**|**Taming the Long-Tail: Efficient Reasoning RL Training with Adaptive Drafter**|Qinghao Hu et.al.|[2511.16665](http://arxiv.org/abs/2511.16665)|null|
+|**2025-11-20**|**Dexterity from Smart Lenses: Multi-Fingered Robot Manipulation with In-the-Wild Human Demonstrations**|Irmak Guzey et.al.|[2511.16661](http://arxiv.org/abs/2511.16661)|null|
+|**2025-11-20**|**Stabilizing Policy Gradient Methods via Reward Profiling**|Shihab Ahmed et.al.|[2511.16629](http://arxiv.org/abs/2511.16629)|null|
+|**2025-11-20**|**MedBayes-Lite: Bayesian Uncertainty Quantification for Safe Clinical Decision Support**|Elias Hossain et.al.|[2511.16625](http://arxiv.org/abs/2511.16625)|null|
+|**2025-11-20**|**Deep Learning Framework for Enhanced Neutrino Reconstruction of Single-line Events in the ANTARES Telescope**|A. Albert et.al.|[2511.16614](http://arxiv.org/abs/2511.16614)|null|
+|**2025-11-20**|**KrkNLO matching and phenomenology for vector boson processes**|Pratixan Sarmah et.al.|[2511.16605](http://arxiv.org/abs/2511.16605)|null|
+|**2025-11-20**|**Bridging VLMs and Embodied Intelligence with Deliberate Practice Policy Optimization**|Yi Zhang et.al.|[2511.16602](http://arxiv.org/abs/2511.16602)|null|
+|**2025-11-20**|**Green Resilience of Cyber-Physical Systems: Doctoral Dissertation**|Diaeddin Rimawi et.al.|[2511.16593](http://arxiv.org/abs/2511.16593)|null|
+|**2025-11-20**|**gfnx: Fast and Scalable Library for Generative Flow Networks in JAX**|Daniil Tiapkin et.al.|[2511.16592](http://arxiv.org/abs/2511.16592)|null|
+|**2025-11-20**|**Differential decay rate of $B^+ \to J/ψK^+$ with the LHCb Upgrade I experiment**|LHCb collaboration et.al.|[2511.16564](http://arxiv.org/abs/2511.16564)|null|
+|**2025-11-20**|**Reinforcement learning of quantum circuit architectures for molecular potential energy curves**|Maureen Krumtünger et.al.|[2511.16559](http://arxiv.org/abs/2511.16559)|null|
+|**2025-11-20**|**MiMo-Embodied: X-Embodied Foundation Model Technical Report**|Xiaoshuai Hao et.al.|[2511.16518](http://arxiv.org/abs/2511.16518)|null|
+|**2025-11-20**|**Polynomial-Time Algorithms for Computing the Nucleolus: An Assessment**|Holger I. Meinhardt et.al.|[2511.16517](http://arxiv.org/abs/2511.16517)|null|
+|**2025-11-20**|**Quasi-metric spaces on which real-valued continuous functions are uniformly continuous**|Om Dev Singh et.al.|[2511.16503](http://arxiv.org/abs/2511.16503)|null|
+|**2025-11-20**|**Quantum corrections in general relativity explored through a GUP-inspired maximal acceleration analysis**|Christian Corda et.al.|[2511.16502](http://arxiv.org/abs/2511.16502)|null|
 |**2025-11-19**|**GeoVista: Web-Augmented Agentic Visual Reasoning for Geolocalization**|Yikun Wang et.al.|[2511.15705](http://arxiv.org/abs/2511.15705)|null|
 |**2025-11-19**|**The Impact of Quantization on Large Reasoning Model Reinforcement Learning**|Medha Kumar et.al.|[2511.15694](http://arxiv.org/abs/2511.15694)|null|
 |**2025-11-19**|**Semiparametric Estimation of Fractional Integration: An Evaluation of Local Whittle Methods**|Jason R. Blevins et.al.|[2511.15689](http://arxiv.org/abs/2511.15689)|null|
