@@ -16,6 +16,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-21**|**MDG: Masked Denoising Generation for Multi-Agent Behavior Modeling in Traffic Environments**|Zhiyu Huang et.al.|[2511.17496](http://arxiv.org/abs/2511.17496)|null|
+|**2025-11-21**|**Harnessing Data from Clustered LQR Systems: Personalized and Collaborative Policy Optimization**|Vinay Kanakeri et.al.|[2511.17489](http://arxiv.org/abs/2511.17489)|null|
+|**2025-11-21**|**Counterfactual World Models via Digital Twin-conditioned Video Diffusion**|Yiqing Shen et.al.|[2511.17481](http://arxiv.org/abs/2511.17481)|null|
+|**2025-11-21**|**PersonaAgent with GraphRAG: Community-Aware Knowledge Graphs for Personalized LLM**|Siqi Liang et.al.|[2511.17467](http://arxiv.org/abs/2511.17467)|null|
+|**2025-11-21**|**SRA-CP: Spontaneous Risk-Aware Selective Cooperative Perception**|Jiaxi Liu et.al.|[2511.17461](http://arxiv.org/abs/2511.17461)|null|
+|**2025-11-21**|**Minimalist machine-learned interatomic potentials can predict complex structural behaviors accurately**|Iñigo Robredo-Magro et.al.|[2511.17449](http://arxiv.org/abs/2511.17449)|null|
+|**2025-11-21**|**GRAPHIC--Guidelines for Reviewing Algorithmic Practices in Human-centred Design and Interaction for Creativity**|Joana Rovira Martins et.al.|[2511.17443](http://arxiv.org/abs/2511.17443)|null|
+|**2025-11-21**|**REMSA: An LLM Agent for Foundation Model Selection in Remote Sensing**|Binger Chen et.al.|[2511.17442](http://arxiv.org/abs/2511.17442)|null|
+|**2025-11-21**|**Multi-Agent Pointer Transformer: Seq-to-Seq Reinforcement Learning for Multi-Vehicle Dynamic Pickup-Delivery Problems**|Zengyu Zou et.al.|[2511.17435](http://arxiv.org/abs/2511.17435)|null|
+|**2025-11-21**|**PUCP-Metrix: A Comprehensive Open-Source Repository of Linguistic Metrics for Spanish**|Javier Alonso Villegas Luis et.al.|[2511.17402](http://arxiv.org/abs/2511.17402)|null|
+|**2025-11-21**|**Delegation and Lobbying**|Thomas Groll et.al.|[2511.17391](http://arxiv.org/abs/2511.17391)|null|
+|**2025-11-21**|**IndustryNav: Exploring Spatial Reasoning of Embodied Agents in Dynamic Industrial Navigation**|Yifan Li et.al.|[2511.17384](http://arxiv.org/abs/2511.17384)|null|
+|**2025-11-21**|**Anomaly Pattern-guided Transaction Bug Testing in Relational Databases**|Huicong Xu et.al.|[2511.17377](http://arxiv.org/abs/2511.17377)|null|
+|**2025-11-21**|**U-DESPE: a Bayesian Utility-based methodology for dosing regimen optimization in early-phase oncology trials based on Dose-Exposure, Safety, Pharmacodynamics, Efficacy**|Anaïs Andrillon et.al.|[2511.17376](http://arxiv.org/abs/2511.17376)|null|
+|**2025-11-21**|**Simulating Disky Broad Line Region Reverberation**|Mary Ogborn et.al.|[2511.17334](http://arxiv.org/abs/2511.17334)|null|
+|**2025-11-21**|**Agentifying Agentic AI**|Virginia Dignum et.al.|[2511.17332](http://arxiv.org/abs/2511.17332)|null|
+|**2025-11-21**|**AI Workers, Geopolitics, and Algorithmic Collective Action**|Sydney Reis et.al.|[2511.17331](http://arxiv.org/abs/2511.17331)|null|
+|**2025-11-21**|**Agentic Program Verification**|Haoxin Tu et.al.|[2511.17330](http://arxiv.org/abs/2511.17330)|null|
+|**2025-11-21**|**MusicAIR: A Multimodal AI Music Generation Framework Powered by an Algorithm-Driven Core**|Callie C. Liao et.al.|[2511.17323](http://arxiv.org/abs/2511.17323)|null|
+|**2025-11-21**|**ATMPlace: Analytical Thermo-Mechanical-Aware Placement Framework for 2.5D-IC**|Qipan Wang et.al.|[2511.17319](http://arxiv.org/abs/2511.17319)|null|
 |**2025-11-20**|**Dataset Distillation for Pre-Trained Self-Supervised Vision Models**|George Cazenavette et.al.|[2511.16674](http://arxiv.org/abs/2511.16674)|null|
 |**2025-11-20**|**EvoLMM: Self-Evolving Large Multimodal Models with Continuous Rewards**|Omkat Thawakar et.al.|[2511.16672](http://arxiv.org/abs/2511.16672)|null|
 |**2025-11-20**|**PartUV: Part-Based UV Unwrapping of 3D Meshes**|Zhaoning Wang et.al.|[2511.16659](http://arxiv.org/abs/2511.16659)|null|
@@ -942,6 +962,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-21**|**RynnVLA-002: A Unified Vision-Language-Action and World Model**|Jun Cen et.al.|[2511.17502](http://arxiv.org/abs/2511.17502)|null|
+|**2025-11-21**|**Harnessing Data from Clustered LQR Systems: Personalized and Collaborative Policy Optimization**|Vinay Kanakeri et.al.|[2511.17489](http://arxiv.org/abs/2511.17489)|null|
+|**2025-11-21**|**Downscaling Intelligence: Exploring Perception and Reasoning Bottlenecks in Small Multimodal Models**|Mark Endo et.al.|[2511.17487](http://arxiv.org/abs/2511.17487)|null|
+|**2025-11-21**|**Counterfactual World Models via Digital Twin-conditioned Video Diffusion**|Yiqing Shen et.al.|[2511.17481](http://arxiv.org/abs/2511.17481)|null|
+|**2025-11-21**|**Enhancing Quranic Learning: A Multimodal Deep Learning Approach for Arabic Phoneme Recognition**|Ayhan Kucukmanisa et.al.|[2511.17477](http://arxiv.org/abs/2511.17477)|null|
+|**2025-11-21**|**Masked-and-Reordered Self-Supervision for Reinforcement Learning from Verifiable Rewards**|Zhen Wang et.al.|[2511.17473](http://arxiv.org/abs/2511.17473)|null|
+|**2025-11-21**|**Moving superfluids in the rotating universe**|Jose Beltrán Jiménez et.al.|[2511.17472](http://arxiv.org/abs/2511.17472)|null|
+|**2025-11-21**|**PersonaAgent with GraphRAG: Community-Aware Knowledge Graphs for Personalized LLM**|Siqi Liang et.al.|[2511.17467](http://arxiv.org/abs/2511.17467)|null|
+|**2025-11-21**|**MMT-ARD: Multimodal Multi-Teacher Adversarial Distillation for Robust Vision-Language Models**|Yuqi Li et.al.|[2511.17448](http://arxiv.org/abs/2511.17448)|null|
+|**2025-11-21**|**REMSA: An LLM Agent for Foundation Model Selection in Remote Sensing**|Binger Chen et.al.|[2511.17442](http://arxiv.org/abs/2511.17442)|null|
+|**2025-11-21**|**RoboCOIN: An Open-Sourced Bimanual Robotic Data COllection for INtegrated Manipulation**|Shihan Wu et.al.|[2511.17441](http://arxiv.org/abs/2511.17441)|null|
+|**2025-11-21**|**SMILE: A Composite Lexical-Semantic Metric for Question-Answering Evaluation**|Shrikant Kendre et.al.|[2511.17432](http://arxiv.org/abs/2511.17432)|null|
+|**2025-11-21**|**Semantic and Semiotic Interplays in Text-to-Audio AI: Exploring Cognitive Dynamics and Musical Interactions**|Guilherme Coelho et.al.|[2511.17429](http://arxiv.org/abs/2511.17429)|null|
+|**2025-11-21**|**SPEAR-1: Scaling Beyond Robot Demonstrations via 3D Understanding**|Nikolay Nikolov et.al.|[2511.17411](http://arxiv.org/abs/2511.17411)|null|
+|**2025-11-21**|**That's not natural: The Impact of Off-Policy Training Data on Probe Performance**|Nathalie Kirch et.al.|[2511.17408](http://arxiv.org/abs/2511.17408)|null|
+|**2025-11-21**|**Beyond Multiple Choice: A Hybrid Framework for Unifying Robust Evaluation and Verifiable Reasoning Training**|Yesheng Liu et.al.|[2511.17405](http://arxiv.org/abs/2511.17405)|null|
+|**2025-11-21**|**Sparse Mixture-of-Experts for Multi-Channel Imaging: Are All Channel Interactions Required?**|Sukwon Yun et.al.|[2511.17400](http://arxiv.org/abs/2511.17400)|null|
+|**2025-11-21**|**MCMoE: Completing Missing Modalities with Mixture of Experts for Incomplete Multimodal Action Quality Assessment**|Huangbiao Xu et.al.|[2511.17397](http://arxiv.org/abs/2511.17397)|null|
+|**2025-11-21**|**MorphSeek: Fine-grained Latent Representation-Level Policy Optimization for Deformable Image Registration**|Runxun Zhang et.al.|[2511.17392](http://arxiv.org/abs/2511.17392)|null|
+|**2025-11-21**|**Selective Rotary Position Embedding**|Sajad Movahedi et.al.|[2511.17388](http://arxiv.org/abs/2511.17388)|null|
 |**2025-11-20**|**Thinking-while-Generating: Interleaving Textual Reasoning throughout Visual Generation**|Ziyu Guo et.al.|[2511.16671](http://arxiv.org/abs/2511.16671)|null|
 |**2025-11-20**|**Learning to Think Fast and Slow for Visual Language Models**|Chenyu Lin et.al.|[2511.16670](http://arxiv.org/abs/2511.16670)|null|
 |**2025-11-20**|**Video-as-Answer: Predict and Generate Next Video Event with Joint-GRPO**|Junhao Cheng et.al.|[2511.16669](http://arxiv.org/abs/2511.16669)|null|
@@ -1447,6 +1487,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-21**|**Exploring fixed points and eigenstates of quantum systems with reinforcement learning**|María Laura Olivera-Atencio et.al.|[2511.17491](http://arxiv.org/abs/2511.17491)|null|
+|**2025-11-21**|**Video-R4: Reinforcing Text-Rich Video Reasoning with Visual Rumination**|Yolo Yunlong Tang et.al.|[2511.17490](http://arxiv.org/abs/2511.17490)|null|
+|**2025-11-21**|**Harnessing Data from Clustered LQR Systems: Personalized and Collaborative Policy Optimization**|Vinay Kanakeri et.al.|[2511.17489](http://arxiv.org/abs/2511.17489)|null|
+|**2025-11-21**|**Masked-and-Reordered Self-Supervision for Reinforcement Learning from Verifiable Rewards**|Zhen Wang et.al.|[2511.17473](http://arxiv.org/abs/2511.17473)|null|
+|**2025-11-21**|**InTAct: Interval-based Task Activation Consolidation for Continual Learning**|Patryk Krukowski et.al.|[2511.17439](http://arxiv.org/abs/2511.17439)|null|
+|**2025-11-21**|**Iterating marginalized Bayes maps for likelihood maximization with application to nonlinear panel models**|Jesse Wheeler et.al.|[2511.17438](http://arxiv.org/abs/2511.17438)|null|
+|**2025-11-21**|**Multi-Agent Pointer Transformer: Seq-to-Seq Reinforcement Learning for Multi-Vehicle Dynamic Pickup-Delivery Problems**|Zengyu Zou et.al.|[2511.17435](http://arxiv.org/abs/2511.17435)|null|
+|**2025-11-21**|**Bayesian Bridge Gaussian Process Regression**|Minshen Xu et.al.|[2511.17415](http://arxiv.org/abs/2511.17415)|null|
+|**2025-11-21**|**Beyond Multiple Choice: A Hybrid Framework for Unifying Robust Evaluation and Verifiable Reasoning Training**|Yesheng Liu et.al.|[2511.17405](http://arxiv.org/abs/2511.17405)|null|
+|**2025-11-21**|**MorphSeek: Fine-grained Latent Representation-Level Policy Optimization for Deformable Image Registration**|Runxun Zhang et.al.|[2511.17392](http://arxiv.org/abs/2511.17392)|null|
+|**2025-11-21**|**Human Imitated Bipedal Locomotion with Frequency Based Gait Generator Network**|Yusuf Baran Ates et.al.|[2511.17387](http://arxiv.org/abs/2511.17387)|null|
+|**2025-11-21**|**Abstract fractional linear transformations**|David Handelman et.al.|[2511.17383](http://arxiv.org/abs/2511.17383)|null|
+|**2025-11-21**|**Critical BKT dynamics in the archetypal 2D spin system Ba $_2$CuSi$_2$O$_6$Cl$_2$**|K. M. Ranjith et.al.|[2511.17381](http://arxiv.org/abs/2511.17381)|null|
+|**2025-11-21**|**Agility Meets Stability: Versatile Humanoid Control with Heterogeneous Data**|Yixuan Pan et.al.|[2511.17373](http://arxiv.org/abs/2511.17373)|null|
+|**2025-11-21**|**R2PS: Worst-Case Robust Real-Time Pursuit Strategies under Partial Observability**|Runyu Lu et.al.|[2511.17367](http://arxiv.org/abs/2511.17367)|null|
+|**2025-11-21**|**SVRecon: Sparse Voxel Rasterization for Surface Reconstruction**|Seunghun Oh et.al.|[2511.17364](http://arxiv.org/abs/2511.17364)|null|
+|**2025-11-21**|**Convergence and stability of Q-learning in Hierarchical Reinforcement Learning**|Massimiliano Manenti et.al.|[2511.17351](http://arxiv.org/abs/2511.17351)|null|
+|**2025-11-21**|**ReBaPL: Repulsive Bayesian Prompt Learning**|Yassir Bendou et.al.|[2511.17339](http://arxiv.org/abs/2511.17339)|null|
+|**2025-11-21**|**Law-Strength Frontiers and a No-Free-Lunch Result for Law-Seeking Reinforcement Learning on Volatility Law Manifolds**|Jian'an Zhang et.al.|[2511.17304](http://arxiv.org/abs/2511.17304)|null|
+|**2025-11-21**|**MolSight: Optical Chemical Structure Recognition with SMILES Pretraining, Multi-Granularity Learning and Reinforcement Learning**|Wenrui Zhang et.al.|[2511.17300](http://arxiv.org/abs/2511.17300)|null|
 |**2025-11-20**|**EvoLMM: Self-Evolving Large Multimodal Models with Continuous Rewards**|Omkat Thawakar et.al.|[2511.16672](http://arxiv.org/abs/2511.16672)|null|
 |**2025-11-20**|**Thinking-while-Generating: Interleaving Textual Reasoning throughout Visual Generation**|Ziyu Guo et.al.|[2511.16671](http://arxiv.org/abs/2511.16671)|null|
 |**2025-11-20**|**Learning to Think Fast and Slow for Visual Language Models**|Chenyu Lin et.al.|[2511.16670](http://arxiv.org/abs/2511.16670)|null|
