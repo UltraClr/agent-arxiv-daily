@@ -21,6 +21,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-24**|**VDC-Agent: When Video Detailed Captioners Evolve Themselves via Agentic Self-Reflection**|Qiang Wang et.al.|[2511.19436](http://arxiv.org/abs/2511.19436)|null|
+|**2025-11-24**|**Cook and Clean Together: Teaching Embodied Agents for Parallel Task Execution**|Dingkang Liang et.al.|[2511.19430](http://arxiv.org/abs/2511.19430)|null|
+|**2025-11-24**|**Beyond Protein Language Models: An Agentic LLM Framework for Mechanistic Enzyme Design**|Bruno Jacob et.al.|[2511.19423](http://arxiv.org/abs/2511.19423)|null|
+|**2025-11-24**|**Be My Eyes: Extending Large Language Models to New Modalities Through Multi-Agent Collaboration**|James Y. Huang et.al.|[2511.19417](http://arxiv.org/abs/2511.19417)|null|
+|**2025-11-24**|**Learning Robust Social Strategies with Large Language Models**|Dereck Piche et.al.|[2511.19405](http://arxiv.org/abs/2511.19405)|null|
+|**2025-11-24**|**Frequency-Invariant Beamforming in Elevation and Azimuth via Autograd and Concentric Circular Microphone Arrays**|Jorge Ortigoso-Narro et.al.|[2511.19403](http://arxiv.org/abs/2511.19403)|null|
+|**2025-11-24**|**DR Tulu: Reinforcement Learning with Evolving Rubrics for Deep Research**|Rulin Shao et.al.|[2511.19399](http://arxiv.org/abs/2511.19399)|null|
+|**2025-11-24**|**BackSplit: The Importance of Sub-dividing the Background in Biomedical Lesion Segmentation**|Rachit Saluja et.al.|[2511.19394](http://arxiv.org/abs/2511.19394)|null|
+|**2025-11-24**|**Asymptotic linear dependence and ellipse statistics for multivariate two-sample homogeneity test**|Chifeng Shen et.al.|[2511.19381](http://arxiv.org/abs/2511.19381)|null|
+|**2025-11-24**|**Product Depth for Temporal Point Processes Observed Only Up to the First k Events**|Chifeng Shen et.al.|[2511.19375](http://arxiv.org/abs/2511.19375)|null|
+|**2025-11-24**|**LLM-Driven Stationarity-Aware Expert Demonstrations for Multi-Agent Reinforcement Learning in Mobile Systems**|Tianyang Duan et.al.|[2511.19368](http://arxiv.org/abs/2511.19368)|null|
+|**2025-11-24**|**Enhancing Conformal Prediction via Class Similarity**|Ariel Fargion et.al.|[2511.19359](http://arxiv.org/abs/2511.19359)|null|
+|**2025-11-24**|**Explicit Tonal Tension Conditioning via Dual-Level Beam Search for Symbolic Music Generation**|Maral Ebrahimzadeh et.al.|[2511.19342](http://arxiv.org/abs/2511.19342)|null|
+|**2025-11-24**|**Normative active inference: A numerical proof of principle for a computational and economic legal analytic approach to AI governance**|Axel Constant et.al.|[2511.19334](http://arxiv.org/abs/2511.19334)|null|
+|**2025-11-24**|**Revisiting model-independent constraints on spatial curvature and cosmic ladders calibration: updated and forecast analyses**|Arianna Favale et.al.|[2511.19332](http://arxiv.org/abs/2511.19332)|null|
+|**2025-11-24**|**Dynamic Leader-Follower Consensus with Adversaries: A Multi-Hop Relay Approach**|Liwei Yuan et.al.|[2511.19327](http://arxiv.org/abs/2511.19327)|null|
+|**2025-11-24**|**PRInTS: Reward Modeling for Long-Horizon Information Seeking**|Jaewoo Lee et.al.|[2511.19314](http://arxiv.org/abs/2511.19314)|null|
+|**2025-11-24**|**The TEQUILA catalog of variables in TESS full-frame images: Differential photometry light curves from the first two years of observations**|Bisi Bernard Ogunwale et.al.|[2511.19313](http://arxiv.org/abs/2511.19313)|null|
+|**2025-11-24**|**AutoEnv: Automated Environments for Measuring Cross-Environment Agent Learning**|Jiayi Zhang et.al.|[2511.19304](http://arxiv.org/abs/2511.19304)|null|
+|**2025-11-24**|**Unboxing the Black Box: Mechanistic Interpretability for Algorithmic Understanding of Neural Networks**|Bianka Kowalska et.al.|[2511.19265](http://arxiv.org/abs/2511.19265)|null|
 |**2025-11-21**|**MDG: Masked Denoising Generation for Multi-Agent Behavior Modeling in Traffic Environments**|Zhiyu Huang et.al.|[2511.17496](http://arxiv.org/abs/2511.17496)|null|
 |**2025-11-21**|**Harnessing Data from Clustered LQR Systems: Personalized and Collaborative Policy Optimization**|Vinay Kanakeri et.al.|[2511.17489](http://arxiv.org/abs/2511.17489)|null|
 |**2025-11-21**|**Counterfactual World Models via Digital Twin-conditioned Video Diffusion**|Yiqing Shen et.al.|[2511.17481](http://arxiv.org/abs/2511.17481)|null|
@@ -969,6 +989,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-24**|**VDC-Agent: When Video Detailed Captioners Evolve Themselves via Agentic Self-Reflection**|Qiang Wang et.al.|[2511.19436](http://arxiv.org/abs/2511.19436)|null|
+|**2025-11-24**|**Are Image-to-Video Models Good Zero-Shot Image Editors?**|Zechuan Zhang et.al.|[2511.19435](http://arxiv.org/abs/2511.19435)|null|
+|**2025-11-24**|**Mixture of Horizons in Action Chunking**|Dong Jing et.al.|[2511.19433](http://arxiv.org/abs/2511.19433)|null|
+|**2025-11-24**|**Cook and Clean Together: Teaching Embodied Agents for Parallel Task Execution**|Dingkang Liang et.al.|[2511.19430](http://arxiv.org/abs/2511.19430)|null|
+|**2025-11-24**|**Prompt Less, Smile More: MTP with Semantic Engineering in Lieu of Prompt Engineering**|Jayanaka L. Dantanarayana et.al.|[2511.19427](http://arxiv.org/abs/2511.19427)|null|
+|**2025-11-24**|**Beyond Protein Language Models: An Agentic LLM Framework for Mechanistic Enzyme Design**|Bruno Jacob et.al.|[2511.19423](http://arxiv.org/abs/2511.19423)|null|
+|**2025-11-24**|**SLMFix: Leveraging Small Language Models for Error Fixing with Reinforcement Learning**|David Jiahao Fu et.al.|[2511.19422](http://arxiv.org/abs/2511.19422)|null|
+|**2025-11-24**|**Refractive neutrino masses in the solar DM halo: Can the dark-LMA solution be revived?**|Susobhan Chattopadhyay et.al.|[2511.19420](http://arxiv.org/abs/2511.19420)|null|
+|**2025-11-24**|**Chain-of-Visual-Thought: Teaching VLMs to See and Think Better with Continuous Visual Tokens**|Yiming Qin et.al.|[2511.19418](http://arxiv.org/abs/2511.19418)|null|
+|**2025-11-24**|**Be My Eyes: Extending Large Language Models to New Modalities Through Multi-Agent Collaboration**|James Y. Huang et.al.|[2511.19417](http://arxiv.org/abs/2511.19417)|null|
+|**2025-11-24**|**Learning Robust Social Strategies with Large Language Models**|Dereck Piche et.al.|[2511.19405](http://arxiv.org/abs/2511.19405)|null|
+|**2025-11-24**|**DR Tulu: Reinforcement Learning with Evolving Rubrics for Deep Research**|Rulin Shao et.al.|[2511.19399](http://arxiv.org/abs/2511.19399)|null|
+|**2025-11-24**|**UISearch: Graph-Based Embeddings for Multimodal Enterprise UI Screenshots Retrieval**|Maroun Ayli et.al.|[2511.19380](http://arxiv.org/abs/2511.19380)|null|
+|**2025-11-24**|**LLM-Driven Stationarity-Aware Expert Demonstrations for Multi-Agent Reinforcement Learning in Mobile Systems**|Tianyang Duan et.al.|[2511.19368](http://arxiv.org/abs/2511.19368)|null|
+|**2025-11-24**|**An Anatomy Aware Hybrid Deep Learning Framework for Lung Cancer Tumor Stage Classification**|Saniah Kayenat Chowdhury et.al.|[2511.19367](http://arxiv.org/abs/2511.19367)|null|
+|**2025-11-24**|**Growing with the Generator: Self-paced GRPO for Video Generation**|Rui Li et.al.|[2511.19356](http://arxiv.org/abs/2511.19356)|null|
+|**2025-11-24**|**Leveraging LLMs for reward function design in reinforcement learning control tasks**|Franklin Cardenoso et.al.|[2511.19355](http://arxiv.org/abs/2511.19355)|null|
+|**2025-11-24**|**Scalable Parameter-Light Spectral Method for Clustering Short Text Embeddings with a Cohesion-Based Evaluation Metric**|Nikita Neveditsin et.al.|[2511.19350](http://arxiv.org/abs/2511.19350)|null|
+|**2025-11-24**|**Revisiting Feedback Models for HyDE**|Nour Jedidi et.al.|[2511.19349](http://arxiv.org/abs/2511.19349)|null|
+|**2025-11-24**|**Annotation-Free Class-Incremental Learning**|Hari Chandana Kuchibhotla et.al.|[2511.19344](http://arxiv.org/abs/2511.19344)|null|
 |**2025-11-21**|**RynnVLA-002: A Unified Vision-Language-Action and World Model**|Jun Cen et.al.|[2511.17502](http://arxiv.org/abs/2511.17502)|null|
 |**2025-11-21**|**Harnessing Data from Clustered LQR Systems: Personalized and Collaborative Policy Optimization**|Vinay Kanakeri et.al.|[2511.17489](http://arxiv.org/abs/2511.17489)|null|
 |**2025-11-21**|**Downscaling Intelligence: Exploring Perception and Reasoning Bottlenecks in Small Multimodal Models**|Mark Endo et.al.|[2511.17487](http://arxiv.org/abs/2511.17487)|null|
@@ -1496,6 +1536,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-24**|**SLMFix: Leveraging Small Language Models for Error Fixing with Reinforcement Learning**|David Jiahao Fu et.al.|[2511.19422](http://arxiv.org/abs/2511.19422)|null|
+|**2025-11-24**|**Stochastic Adaptive Optimization with Unreliable Inputs: A Unified Framework for High-Probability Complexity Analysis**|Katya Scheinberg et.al.|[2511.19411](http://arxiv.org/abs/2511.19411)|null|
+|**2025-11-24**|**Learning Robust Social Strategies with Large Language Models**|Dereck Piche et.al.|[2511.19405](http://arxiv.org/abs/2511.19405)|null|
+|**2025-11-24**|**DR Tulu: Reinforcement Learning with Evolving Rubrics for Deep Research**|Rulin Shao et.al.|[2511.19399](http://arxiv.org/abs/2511.19399)|null|
+|**2025-11-24**|**Identification, estimation and inference in Panel Vector Autoregressions using external instruments**|Raimondo Pala et.al.|[2511.19372](http://arxiv.org/abs/2511.19372)|null|
+|**2025-11-24**|**LLM-Driven Stationarity-Aware Expert Demonstrations for Multi-Agent Reinforcement Learning in Mobile Systems**|Tianyang Duan et.al.|[2511.19368](http://arxiv.org/abs/2511.19368)|null|
+|**2025-11-24**|**Growing with the Generator: Self-paced GRPO for Video Generation**|Rui Li et.al.|[2511.19356](http://arxiv.org/abs/2511.19356)|null|
+|**2025-11-24**|**Leveraging LLMs for reward function design in reinforcement learning control tasks**|Franklin Cardenoso et.al.|[2511.19355](http://arxiv.org/abs/2511.19355)|null|
+|**2025-11-24**|**Syn-GRPO: Self-Evolving Data Synthesis for MLLM Perception Reasoning**|Qihan Huang et.al.|[2511.19343](http://arxiv.org/abs/2511.19343)|null|
+|**2025-11-24**|**Simulating dynamics of the two-dimensional transverse-field Ising model: a comparative study of large-scale classical numerics**|Joseph Vovrosh et.al.|[2511.19340](http://arxiv.org/abs/2511.19340)|null|
+|**2025-11-24**|**On the PB Sudakov: NNLL coefficient, CS kernel and intrinsic-kt**|Aleksandra Lelek et.al.|[2511.19318](http://arxiv.org/abs/2511.19318)|null|
+|**2025-11-24**|**PRInTS: Reward Modeling for Long-Horizon Information Seeking**|Jaewoo Lee et.al.|[2511.19314](http://arxiv.org/abs/2511.19314)|null|
+|**2025-11-24**|**Diagnosis of mixed-state topological phases in strongly correlated systems via disorder parameters**|Shao-Hang Shi et.al.|[2511.19311](http://arxiv.org/abs/2511.19311)|null|
+|**2025-11-24**|**Universal scaling limits at the spectral singularity of structured random matrices**|Markus Ebke et.al.|[2511.19308](http://arxiv.org/abs/2511.19308)|null|
+|**2025-11-24**|**AutoEnv: Automated Environments for Measuring Cross-Environment Agent Learning**|Jiayi Zhang et.al.|[2511.19304](http://arxiv.org/abs/2511.19304)|null|
+|**2025-11-24**|**Tilings of a bounded region of the plane by maximal one-dimensional tiles**|Eduardo J. Aguilar et.al.|[2511.19288](http://arxiv.org/abs/2511.19288)|null|
+|**2025-11-24**|**Numerical Approximation In Real Domain Of Special Function Of Product Of A Variable And Its Double Exponential**|Narinder Kumar Wadhawan et.al.|[2511.19270](http://arxiv.org/abs/2511.19270)|null|
+|**2025-11-24**|**Leveraging Spatiotemporal Graph Neural Networks for Multi-Store Sales Forecasting**|Manish Singh et.al.|[2511.19267](http://arxiv.org/abs/2511.19267)|null|
+|**2025-11-24**|**Interpreting GFlowNets for Drug Discovery: Extracting Actionable Insights for Medicinal Chemistry**|Amirtha Varshini A S et.al.|[2511.19264](http://arxiv.org/abs/2511.19264)|null|
+|**2025-11-24**|**MAESTRO: Multi-Agent Environment Shaping through Task and Reward Optimization**|Boyuan Wu et.al.|[2511.19253](http://arxiv.org/abs/2511.19253)|null|
 |**2025-11-21**|**Exploring fixed points and eigenstates of quantum systems with reinforcement learning**|María Laura Olivera-Atencio et.al.|[2511.17491](http://arxiv.org/abs/2511.17491)|null|
 |**2025-11-21**|**Video-R4: Reinforcing Text-Rich Video Reasoning with Visual Rumination**|Yolo Yunlong Tang et.al.|[2511.17490](http://arxiv.org/abs/2511.17490)|null|
 |**2025-11-21**|**Harnessing Data from Clustered LQR Systems: Personalized and Collaborative Policy Optimization**|Vinay Kanakeri et.al.|[2511.17489](http://arxiv.org/abs/2511.17489)|null|
