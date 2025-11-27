@@ -16,6 +16,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-26**|**ToolOrchestra: Elevating Intelligence via Efficient Model and Tool Orchestration**|Hongjin Su et.al.|[2511.21689](http://arxiv.org/abs/2511.21689)|null|
+|**2025-11-26**|**Matrix: Peer-to-Peer Multi-Agent Synthetic Data Generation Framework**|Dong Wang et.al.|[2511.21686](http://arxiv.org/abs/2511.21686)|null|
+|**2025-11-26**|**Agentic Learner with Grow-and-Refine Multimodal Semantic Memory**|Weihao Bo et.al.|[2511.21678](http://arxiv.org/abs/2511.21678)|null|
+|**2025-11-26**|**AI/ML Model Cards in Edge AI Cyberinfrastructure: towards Agentic AI**|Beth Plale et.al.|[2511.21661](http://arxiv.org/abs/2511.21661)|null|
+|**2025-11-26**|**The Need for Benchmarks to Advance AI-Enabled Player Risk Detection in Gambling**|Kasra Ghaharian et.al.|[2511.21658](http://arxiv.org/abs/2511.21658)|null|
+|**2025-11-26**|**EvilGenie: A Reward Hacking Benchmark**|Jonathan Gabor et.al.|[2511.21654](http://arxiv.org/abs/2511.21654)|null|
+|**2025-11-26**|**Stochastic Optimal Control of Interacting Particle Systems in Hilbert Spaces and Applications**|Filippo de Feo et.al.|[2511.21646](http://arxiv.org/abs/2511.21646)|null|
+|**2025-11-26**|**Aligning LLMs Toward Multi-Turn Conversational Outcomes Using Iterative PPO**|Daniel R. Jiang et.al.|[2511.21638](http://arxiv.org/abs/2511.21638)|null|
+|**2025-11-26**|**Qwen3-VL Technical Report**|Shuai Bai et.al.|[2511.21631](http://arxiv.org/abs/2511.21631)|null|
+|**2025-11-26**|**Uniform inference for kernel instrumental variable regression**|Marvin Lob et.al.|[2511.21603](http://arxiv.org/abs/2511.21603)|null|
+|**2025-11-26**|**On the Limits of Innate Planning in Large Language Models**|Charles Schepanowski et.al.|[2511.21591](http://arxiv.org/abs/2511.21591)|null|
+|**2025-11-26**|**Approximate Bayesian Computation Made Easy: A Practical Guide to ABC-SMC for Dynamical Systems with \texttt{pymc}**|Mario Castro et.al.|[2511.21587](http://arxiv.org/abs/2511.21587)|null|
+|**2025-11-26**|**Model-Based Policy Adaptation for Closed-Loop End-to-End Autonomous Driving**|Haohong Lin et.al.|[2511.21584](http://arxiv.org/abs/2511.21584)|null|
+|**2025-11-26**|**BAMAS: Structuring Budget-Aware Multi-Agent Systems**|Liming Yang et.al.|[2511.21572](http://arxiv.org/abs/2511.21572)|null|
+|**2025-11-26**|**VacuumVLA: Boosting VLA Capabilities via a Unified Suction and Gripping Tool for Complex Robotic Manipulation**|Hui Zhou et.al.|[2511.21557](http://arxiv.org/abs/2511.21557)|null|
+|**2025-11-26**|**MAD-DAG: Protecting Blockchain Consensus from MEV**|Roi Bar-Zur et.al.|[2511.21552](http://arxiv.org/abs/2511.21552)|null|
+|**2025-11-26**|**Seeing Twice: How Side-by-Side T2I Comparison Changes Auditing Strategies**|Matheus Kunzler Maldaner et.al.|[2511.21547](http://arxiv.org/abs/2511.21547)|null|
+|**2025-11-26**|**Hidden symmetries and separability structures of Ovcharenko-Podolský and conformal-to-Carter spacetimes**|Finnian Gray et.al.|[2511.21538](http://arxiv.org/abs/2511.21538)|null|
+|**2025-11-26**|**Integrated emitters with CMOS-compatible tuning for large scale quantum SiN photonic circuits**|Jasper De Witte et.al.|[2511.21529](http://arxiv.org/abs/2511.21529)|null|
+|**2025-11-26**|**The Quantum Network of Assets: A Non-Classical Framework for Market Correlation and Structural Risk**|Hui Gong et.al.|[2511.21515](http://arxiv.org/abs/2511.21515)|null|
 |**2025-11-25**|**Latent Collaboration in Multi-Agent Systems**|Jiaru Zou et.al.|[2511.20639](http://arxiv.org/abs/2511.20639)|null|
 |**2025-11-25**|**Quantum-Resistant Authentication Scheme for RFID Systems Using Lattice-Based Cryptography**|Vaibhav Kumar et.al.|[2511.20630](http://arxiv.org/abs/2511.20630)|null|
 |**2025-11-25**|**The Consistency Critic: Correcting Inconsistencies in Generated Images via Reference-Guided Attentive Alignment**|Ziheng Ouyang et.al.|[2511.20614](http://arxiv.org/abs/2511.20614)|null|
@@ -1002,6 +1022,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-26**|**Revisiting Generalization Across Difficulty Levels: It's Not So Easy**|Yeganeh Kordi et.al.|[2511.21692](http://arxiv.org/abs/2511.21692)|null|
+|**2025-11-26**|**TraceGen: World Modeling in 3D Trace Space Enables Learning from Cross-Embodiment Videos**|Seungjae Lee et.al.|[2511.21690](http://arxiv.org/abs/2511.21690)|null|
+|**2025-11-26**|**ToolOrchestra: Elevating Intelligence via Efficient Model and Tool Orchestration**|Hongjin Su et.al.|[2511.21689](http://arxiv.org/abs/2511.21689)|null|
+|**2025-11-26**|**G $^2$ VLM: Geometry Grounded Vision Language Model with Unified 3D Reconstruction and Spatial Reasoning**|Wenbo Hu et.al.|[2511.21688](http://arxiv.org/abs/2511.21688)|null|
+|**2025-11-26**|**Matrix: Peer-to-Peer Multi-Agent Synthetic Data Generation Framework**|Dong Wang et.al.|[2511.21686](http://arxiv.org/abs/2511.21686)|null|
+|**2025-11-26**|**Mean-field Modelling of Moiré Materials: A User's Guide with Selected Applications to Twisted Bilayer Graphene**|Yves H. Kwan et.al.|[2511.21683](http://arxiv.org/abs/2511.21683)|null|
+|**2025-11-26**|**DSD: A Distributed Speculative Decoding Solution for Edge-Cloud Agile Large Model Serving**|Fengze Yu et.al.|[2511.21669](http://arxiv.org/abs/2511.21669)|null|
+|**2025-11-26**|**Escaping the Verifier: Learning to Reason via Demonstrations**|Locke Cai et.al.|[2511.21667](http://arxiv.org/abs/2511.21667)|null|
+|**2025-11-26**|**Attention-Guided Patch-Wise Sparse Adversarial Attacks on Vision-Language-Action Models**|Naifu Zhang et.al.|[2511.21663](http://arxiv.org/abs/2511.21663)|null|
+|**2025-11-26**|**Multi-Crit: Benchmarking Multimodal Judges on Pluralistic Criteria-Following**|Tianyi Xiong et.al.|[2511.21662](http://arxiv.org/abs/2511.21662)|null|
+|**2025-11-26**|**Aligning LLMs Toward Multi-Turn Conversational Outcomes Using Iterative PPO**|Daniel R. Jiang et.al.|[2511.21638](http://arxiv.org/abs/2511.21638)|null|
+|**2025-11-26**|**Qwen3-VL Technical Report**|Shuai Bai et.al.|[2511.21631](http://arxiv.org/abs/2511.21631)|null|
+|**2025-11-26**|**The author is dead, but what if they never lived? A reception experiment on Czech AI- and human-authored poetry**|Anna Marklová et.al.|[2511.21629](http://arxiv.org/abs/2511.21629)|null|
+|**2025-11-26**|**TAGFN: A Text-Attributed Graph Dataset for Fake News Detection in the Age of LLMs**|Kay Liu et.al.|[2511.21624](http://arxiv.org/abs/2511.21624)|null|
+|**2025-11-26**|**Automated Protein Motif Localization using Concept Activation Vectors in Protein Language Model Embedding Space**|Ahmad Shamail et.al.|[2511.21614](http://arxiv.org/abs/2511.21614)|null|
+|**2025-11-26**|**Beyond URLs: Metadata Diversity and Position for Efficient LLM Pretraining**|Dongyang Fan et.al.|[2511.21613](http://arxiv.org/abs/2511.21613)|null|
+|**2025-11-26**|**Auxiliary Metrics Help Decoding Skill Neurons in the Wild**|Yixiu Zhao et.al.|[2511.21610](http://arxiv.org/abs/2511.21610)|null|
+|**2025-11-26**|**Beyond Accuracy: An Empirical Study of Uncertainty Estimation in Imputation**|Zarin Tahia Hossain et.al.|[2511.21607](http://arxiv.org/abs/2511.21607)|null|
+|**2025-11-26**|**ReSAM: Refine, Requery, and Reinforce: Self-Prompting Point-Supervised Segmentation for Remote Sensing Images**|M. Naseer Subhani et.al.|[2511.21606](http://arxiv.org/abs/2511.21606)|null|
+|**2025-11-26**|**Tidal forces around the Letelier-Alencar cloud of strings black hole**|Marcos V. de S. Silva et.al.|[2511.21604](http://arxiv.org/abs/2511.21604)|null|
 |**2025-11-25**|**RubricRL: Simple Generalizable Rewards for Text-to-Image Generation**|Xuelu Feng et.al.|[2511.20651](http://arxiv.org/abs/2511.20651)|null|
 |**2025-11-25**|**MedROV: Towards Real-Time Open-Vocabulary Detection Across Diverse Medical Imaging Modalities**|Tooba Tehreem Sheikh et.al.|[2511.20650](http://arxiv.org/abs/2511.20650)|null|
 |**2025-11-25**|**LocateAnything3D: Vision-Language 3D Detection with Chain-of-Sight**|Yunze Man et.al.|[2511.20648](http://arxiv.org/abs/2511.20648)|null|
@@ -1567,6 +1607,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-26**|**ToolOrchestra: Elevating Intelligence via Efficient Model and Tool Orchestration**|Hongjin Su et.al.|[2511.21689](http://arxiv.org/abs/2511.21689)|null|
+|**2025-11-26**|**Multivalued backward stochastic differential equations with jumps and moving boundary**|Badr Elmansouri et.al.|[2511.21679](http://arxiv.org/abs/2511.21679)|null|
+|**2025-11-26**|**Escaping the Verifier: Learning to Reason via Demonstrations**|Locke Cai et.al.|[2511.21667](http://arxiv.org/abs/2511.21667)|null|
+|**2025-11-26**|**EvilGenie: A Reward Hacking Benchmark**|Jonathan Gabor et.al.|[2511.21654](http://arxiv.org/abs/2511.21654)|null|
+|**2025-11-26**|**Optimal Bit Detection in Thermal Noise Communication Systems Under Rician Fading**|Mohamed El Jbari et.al.|[2511.21649](http://arxiv.org/abs/2511.21649)|null|
+|**2025-11-26**|**Stochastic Optimal Control of Interacting Particle Systems in Hilbert Spaces and Applications**|Filippo de Feo et.al.|[2511.21646](http://arxiv.org/abs/2511.21646)|null|
+|**2025-11-26**|**Estimates for convolution operators on Hardy spaces associated with ball quasi-Banach function spaces**|Pablo Rocha et.al.|[2511.21642](http://arxiv.org/abs/2511.21642)|null|
+|**2025-11-26**|**Aligning LLMs Toward Multi-Turn Conversational Outcomes Using Iterative PPO**|Daniel R. Jiang et.al.|[2511.21638](http://arxiv.org/abs/2511.21638)|null|
+|**2025-11-26**|**Bang-Bang Evasion: Its Stochastic Optimality and a Terminal-Set-Based Implementation**|Liraz Mudrik et.al.|[2511.21633](http://arxiv.org/abs/2511.21633)|null|
+|**2025-11-26**|**Dynamics of generalized abcd Boussinesq solitary waves under a slowly variable bottom**|André de Laire et.al.|[2511.21632](http://arxiv.org/abs/2511.21632)|null|
+|**2025-11-26**|**A complete solution of the Erdős-Kleitman matching problem for $n\le 3s$**|Andrey Kupavskii et.al.|[2511.21628](http://arxiv.org/abs/2511.21628)|null|
+|**2025-11-26**|**Two behavioural pseudometrics for continuous-time Markov processes**|Linan Chen et.al.|[2511.21621](http://arxiv.org/abs/2511.21621)|null|
+|**2025-11-26**|**Closed Form HJB Solution for Continuous-Time Optimal Control of a Non-Linear Input-Affine System**|Akash Vyas et.al.|[2511.21593](http://arxiv.org/abs/2511.21593)|null|
+|**2025-11-26**|**MoGAN: Improving Motion Quality in Video Diffusion via Few-Step Motion Adversarial Post-Training**|Haotian Xue et.al.|[2511.21592](http://arxiv.org/abs/2511.21592)|null|
+|**2025-11-26**|**Approximate Bayesian Computation Made Easy: A Practical Guide to ABC-SMC for Dynamical Systems with \texttt{pymc}**|Mario Castro et.al.|[2511.21587](http://arxiv.org/abs/2511.21587)|null|
+|**2025-11-26**|**Learning When to Stop: Adaptive Latent Reasoning via Reinforcement Learning**|Alex Ning et.al.|[2511.21581](http://arxiv.org/abs/2511.21581)|null|
+|**2025-11-26**|**A Generalized Control Function Approach to Production Function Estimation**|Ulrich Doraszelski et.al.|[2511.21578](http://arxiv.org/abs/2511.21578)|null|
+|**2025-11-26**|**BAMAS: Structuring Budget-Aware Multi-Agent Systems**|Liming Yang et.al.|[2511.21572](http://arxiv.org/abs/2511.21572)|null|
+|**2025-11-26**|**Some aspects of robustness in modern Markov Chain Monte Carlo**|Sam Power et.al.|[2511.21563](http://arxiv.org/abs/2511.21563)|null|
+|**2025-11-26**|**Efficient bayesian spatially varying coefficients modeling for censored data using the vecchia approximation**|Yacine Mohamed Idir et.al.|[2511.21553](http://arxiv.org/abs/2511.21553)|null|
 |**2025-11-25**|**RubricRL: Simple Generalizable Rewards for Text-to-Image Generation**|Xuelu Feng et.al.|[2511.20651](http://arxiv.org/abs/2511.20651)|null|
 |**2025-11-25**|**Diverse Video Generation with Determinantal Point Process-Guided Policy Optimization**|Tahira Kazimi et.al.|[2511.20647](http://arxiv.org/abs/2511.20647)|null|
 |**2025-11-25**|**Reinforcing Action Policies by Prophesying**|Jiahui Zhang et.al.|[2511.20633](http://arxiv.org/abs/2511.20633)|null|
