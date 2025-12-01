@@ -21,6 +21,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-28**|**Thinking by Doing: Building Efficient World Model Reasoning in LLMs via Multi-turn Interaction**|Bao Shu et.al.|[2511.23476](http://arxiv.org/abs/2511.23476)|null|
+|**2025-11-28**|**Arbitrary control of the temporal waveform of photons during spontaneous emission**|Carl Thomas et.al.|[2511.23462](http://arxiv.org/abs/2511.23462)|null|
+|**2025-11-28**|**Designing Rules for Choosing a Winner in a Debate**|Alexander Heckett et.al.|[2511.23454](http://arxiv.org/abs/2511.23454)|null|
+|**2025-11-28**|**Random purification channel made simple**|Filippo Girardi et.al.|[2511.23451](http://arxiv.org/abs/2511.23451)|null|
+|**2025-11-28**|**ASTRO: Adaptive Stitching via Dynamics-Guided Trajectory Rollouts**|Hang Yu et.al.|[2511.23442](http://arxiv.org/abs/2511.23442)|null|
+|**2025-11-28**|**Towards Continuous Intelligence Growth: Self-Training, Continual Learning, and Dual-Scale Memory in SuperIntelliAgent**|Jianzhe Lin et.al.|[2511.23436](http://arxiv.org/abs/2511.23436)|null|
+|**2025-11-28**|**Consensus Tree Estimation with False Discovery Rate Control via Partially Ordered Sets**|Maria Alejandra Valdez Cabrera et.al.|[2511.23433](http://arxiv.org/abs/2511.23433)|null|
+|**2025-11-28**|**MegaChat: A Synthetic Persian Q&A Dataset for High-Quality Sales Chatbot Evaluation**|Mahdi Rahmani et.al.|[2511.23397](http://arxiv.org/abs/2511.23397)|null|
+|**2025-11-28**|**Bounded-Error Quantum Simulation via Hamiltonian and Lindbladian Learning**|Tristan Kraft et.al.|[2511.23392](http://arxiv.org/abs/2511.23392)|null|
+|**2025-11-28**|**Hierarchical AI-Meteorologist: LLM-Agent System for Multi-Scale and Explainable Weather Forecast Reporting**|Daniil Sukhorukov et.al.|[2511.23387](http://arxiv.org/abs/2511.23387)|null|
+|**2025-11-28**|**Identifying bars in galaxies using machine learning**|Rajit Shrivastava et.al.|[2511.23383](http://arxiv.org/abs/2511.23383)|null|
+|**2025-11-28**|**AugGen: Augmenting Task-Based Learning in Professional Creative Software with LLM-Generated Scaffolded UIs**|Yimeng Liu et.al.|[2511.23379](http://arxiv.org/abs/2511.23379)|null|
+|**2025-11-28**|**Agentic AI Framework for Smart Inventory Replenishment**|Toqeer Ali Syed et.al.|[2511.23366](http://arxiv.org/abs/2511.23366)|null|
+|**2025-11-28**|**Functional Program Synthesis with Higher-Order Functions and Recursion Schemes**|Matheus Campos Fernandes et.al.|[2511.23354](http://arxiv.org/abs/2511.23354)|null|
+|**2025-11-28**|**Distributed Dynamic Associative Memory via Online Convex Optimization**|Bowen Wang et.al.|[2511.23347](http://arxiv.org/abs/2511.23347)|null|
+|**2025-11-28**|**ParaGate: Parasitic-Driven Domain Adaptation Transfer Learning for Netlist Performance Prediction**|Bin Sun et.al.|[2511.23340](http://arxiv.org/abs/2511.23340)|null|
+|**2025-11-28**|**Optimization and application of ultra-high field preclinical high-resolution and 3D 1H-MRSI using compressed sensing**|Brayan Alves et.al.|[2511.23331](http://arxiv.org/abs/2511.23331)|null|
+|**2025-11-28**|**MCP vs RAG vs NLWeb vs HTML: A Comparison of the Effectiveness and Efficiency of Different Agent Interfaces to the Web (Technical Report)**|Aaron Steiner et.al.|[2511.23281](http://arxiv.org/abs/2511.23281)|null|
+|**2025-11-28**|**Beyond Curve Fitting: Neuro-Symbolic Agents for Context-Aware Epidemic Forecasting**|Joongwon Chae et.al.|[2511.23276](http://arxiv.org/abs/2511.23276)|null|
+|**2025-11-28**|**Behavior-Equivalent Token: Single-Token Replacement for Long Prompts in LLMs**|Jiancheng Dong et.al.|[2511.23271](http://arxiv.org/abs/2511.23271)|null|
 |**2025-11-26**|**ToolOrchestra: Elevating Intelligence via Efficient Model and Tool Orchestration**|Hongjin Su et.al.|[2511.21689](http://arxiv.org/abs/2511.21689)|null|
 |**2025-11-26**|**Matrix: Peer-to-Peer Multi-Agent Synthetic Data Generation Framework**|Dong Wang et.al.|[2511.21686](http://arxiv.org/abs/2511.21686)|null|
 |**2025-11-26**|**Agentic Learner with Grow-and-Refine Multimodal Semantic Memory**|Weihao Bo et.al.|[2511.21678](http://arxiv.org/abs/2511.21678)|null|
@@ -1029,6 +1049,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-28**|**Video-R2: Reinforcing Consistent and Grounded Reasoning in Multimodal Language Models**|Muhammad Maaz et.al.|[2511.23478](http://arxiv.org/abs/2511.23478)|null|
+|**2025-11-28**|**Video-CoM: Interactive Video Reasoning via Chain of Manipulations**|Hanoona Rasheed et.al.|[2511.23477](http://arxiv.org/abs/2511.23477)|null|
+|**2025-11-28**|**Thinking by Doing: Building Efficient World Model Reasoning in LLMs via Multi-turn Interaction**|Bao Shu et.al.|[2511.23476](http://arxiv.org/abs/2511.23476)|null|
+|**2025-11-28**|**ThetaEvolve: Test-time Learning on Open Problems**|Yiping Wang et.al.|[2511.23473](http://arxiv.org/abs/2511.23473)|null|
+|**2025-11-28**|**Visual Generation Tuning**|Jiahao Guo et.al.|[2511.23469](http://arxiv.org/abs/2511.23469)|null|
+|**2025-11-28**|**The Price of Progress: Algorithmic Efficiency and the Falling Cost of AI Inference**|Hans Gundlach et.al.|[2511.23455](http://arxiv.org/abs/2511.23455)|null|
+|**2025-11-28**|**Towards Continuous Intelligence Growth: Self-Training, Continual Learning, and Dual-Scale Memory in SuperIntelliAgent**|Jianzhe Lin et.al.|[2511.23436](http://arxiv.org/abs/2511.23436)|null|
+|**2025-11-28**|**The EBLM Project XVIII. 3D Obliquities of Five Low-Mass Eclipsing Binaries**|Becca Spejcher et.al.|[2511.23430](http://arxiv.org/abs/2511.23430)|null|
+|**2025-11-28**|**Hunyuan-GameCraft-2: Instruction-following Interactive Game World Model**|Junshu Tang et.al.|[2511.23429](http://arxiv.org/abs/2511.23429)|null|
+|**2025-11-28**|**Evaluating LLMs for One-Shot Patching of Real and Artificial Vulnerabilities**|Aayush Garg et.al.|[2511.23408](http://arxiv.org/abs/2511.23408)|null|
+|**2025-11-28**|**LFM2 Technical Report**|Alexander Amini et.al.|[2511.23404](http://arxiv.org/abs/2511.23404)|null|
+|**2025-11-28**|**Quantized-Tinyllava: a new multimodal foundation model enables efficient split learning**|Jiajun Guo et.al.|[2511.23402](http://arxiv.org/abs/2511.23402)|null|
+|**2025-11-28**|**MegaChat: A Synthetic Persian Q&A Dataset for High-Quality Sales Chatbot Evaluation**|Mahdi Rahmani et.al.|[2511.23397](http://arxiv.org/abs/2511.23397)|null|
+|**2025-11-28**|**Ambiguity Awareness Optimization: Towards Semantic Disambiguation for Direct Preference Optimization**|Jian Li et.al.|[2511.23391](http://arxiv.org/abs/2511.23391)|null|
+|**2025-11-28**|**Improving motor imagery decoding methods for an EEG-based mobile brain-computer interface in the context of the 2024 Cybathlon**|Isabel Whiteley Tscherniak et.al.|[2511.23384](http://arxiv.org/abs/2511.23384)|null|
+|**2025-11-28**|**Identifying bars in galaxies using machine learning**|Rajit Shrivastava et.al.|[2511.23383](http://arxiv.org/abs/2511.23383)|null|
+|**2025-11-28**|**DEAL-300K: Diffusion-based Editing Area Localization with a 300K-Scale Dataset and Frequency-Prompted Baseline**|Rui Zhang et.al.|[2511.23377](http://arxiv.org/abs/2511.23377)|null|
+|**2025-11-28**|**Optimizing Multimodal Language Models through Attention-based Interpretability**|Alexander Sergeev et.al.|[2511.23375](http://arxiv.org/abs/2511.23375)|null|
+|**2025-11-28**|**Scaling HuBERT for African Languages: From Base to Large and XL**|Antoine Caubrière et.al.|[2511.23370](http://arxiv.org/abs/2511.23370)|null|
+|**2025-11-28**|**Towards Improving Interpretability of Language Model Generation through a Structured Knowledge Discovery Approach**|Shuqi Liu et.al.|[2511.23335](http://arxiv.org/abs/2511.23335)|null|
 |**2025-11-26**|**Revisiting Generalization Across Difficulty Levels: It's Not So Easy**|Yeganeh Kordi et.al.|[2511.21692](http://arxiv.org/abs/2511.21692)|null|
 |**2025-11-26**|**TraceGen: World Modeling in 3D Trace Space Enables Learning from Cross-Embodiment Videos**|Seungjae Lee et.al.|[2511.21690](http://arxiv.org/abs/2511.21690)|null|
 |**2025-11-26**|**ToolOrchestra: Elevating Intelligence via Efficient Model and Tool Orchestration**|Hongjin Su et.al.|[2511.21689](http://arxiv.org/abs/2511.21689)|null|
@@ -1616,6 +1656,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-28**|**Video-R2: Reinforcing Consistent and Grounded Reasoning in Multimodal Language Models**|Muhammad Maaz et.al.|[2511.23478](http://arxiv.org/abs/2511.23478)|null|
+|**2025-11-28**|**Video-CoM: Interactive Video Reasoning via Chain of Manipulations**|Hanoona Rasheed et.al.|[2511.23477](http://arxiv.org/abs/2511.23477)|null|
+|**2025-11-28**|**Thinking by Doing: Building Efficient World Model Reasoning in LLMs via Multi-turn Interaction**|Bao Shu et.al.|[2511.23476](http://arxiv.org/abs/2511.23476)|null|
+|**2025-11-28**|**ThetaEvolve: Test-time Learning on Open Problems**|Yiping Wang et.al.|[2511.23473](http://arxiv.org/abs/2511.23473)|null|
+|**2025-11-28**|**The $L$-test: Increasing the Linear Model $F$ -test's Power Under Sparsity Without Sacrificing Validity**|Danielle Paulson et.al.|[2511.23466](http://arxiv.org/abs/2511.23466)|null|
+|**2025-11-28**|**SmallWorlds: Assessing Dynamics Understanding of World Models in Isolated Environments**|Xinyi Li et.al.|[2511.23465](http://arxiv.org/abs/2511.23465)|null|
+|**2025-11-28**|**Arbitrary control of the temporal waveform of photons during spontaneous emission**|Carl Thomas et.al.|[2511.23462](http://arxiv.org/abs/2511.23462)|null|
+|**2025-11-28**|**Convergence rates of self-repellent random walks, their local time and Event Chain Monte Carlo**|Andreas Eberle et.al.|[2511.23453](http://arxiv.org/abs/2511.23453)|null|
+|**2025-11-28**|**ASTRO: Adaptive Stitching via Dynamics-Guided Trajectory Rollouts**|Hang Yu et.al.|[2511.23442](http://arxiv.org/abs/2511.23442)|null|
+|**2025-11-28**|**A Heuristic for Matrix Product State Simulation of Out-of-Equilibrium Dynamics of Two-Dimensional Transverse-Field Ising Models**|Salvatore Mandrà et.al.|[2511.23438](http://arxiv.org/abs/2511.23438)|null|
+|**2025-11-28**|**Towards Continuous Intelligence Growth: Self-Training, Continual Learning, and Dual-Scale Memory in SuperIntelliAgent**|Jianzhe Lin et.al.|[2511.23436](http://arxiv.org/abs/2511.23436)|null|
+|**2025-11-28**|**Variation of Microphysical Parameters in Reverse-shock Scenario**|Nissim Fraija et.al.|[2511.23426](http://arxiv.org/abs/2511.23426)|null|
+|**2025-11-28**|**SU( $N_c$) confinement and color $N_c$ -ality**|V. Tomas Mari Surkau et.al.|[2511.23413](http://arxiv.org/abs/2511.23413)|null|
+|**2025-11-28**|**From CAD to POMDP: Probabilistic Planning for Robotic Disassembly of End-of-Life Products**|Jan Baumgärtner et.al.|[2511.23407](http://arxiv.org/abs/2511.23407)|null|
+|**2025-11-28**|**Ambiguity Awareness Optimization: Towards Semantic Disambiguation for Direct Preference Optimization**|Jian Li et.al.|[2511.23391](http://arxiv.org/abs/2511.23391)|null|
+|**2025-11-28**|**Quantum Matrix Spherical Functions**|Stein Meereboer et.al.|[2511.23367](http://arxiv.org/abs/2511.23367)|null|
+|**2025-11-28**|**Homomorphism Testing with Resilience to Online Manipulations**|Esty Kelman et.al.|[2511.23363](http://arxiv.org/abs/2511.23363)|null|
+|**2025-11-28**|**Synchrotron Self-Compton Model of TeV Afterglows in Gamma-Ray Bursts**|Edilberto Aguilar-Ruiz et.al.|[2511.23349](http://arxiv.org/abs/2511.23349)|null|
+|**2025-11-28**|**Efficient Estimation of Sum-Parameters for Multi-Component Complex Exponential Signals with Theoretical Cramer-Rao Bound Analysis**|Huiguang Zhang et.al.|[2511.23318](http://arxiv.org/abs/2511.23318)|null|
+|**2025-11-28**|**Emergent Coordination and Phase Structure in Independent Multi-Agent Reinforcement Learning**|Azusa Yamaguchi et.al.|[2511.23315](http://arxiv.org/abs/2511.23315)|null|
 |**2025-11-26**|**ToolOrchestra: Elevating Intelligence via Efficient Model and Tool Orchestration**|Hongjin Su et.al.|[2511.21689](http://arxiv.org/abs/2511.21689)|null|
 |**2025-11-26**|**Multivalued backward stochastic differential equations with jumps and moving boundary**|Badr Elmansouri et.al.|[2511.21679](http://arxiv.org/abs/2511.21679)|null|
 |**2025-11-26**|**Escaping the Verifier: Learning to Reason via Demonstrations**|Locke Cai et.al.|[2511.21667](http://arxiv.org/abs/2511.21667)|null|
