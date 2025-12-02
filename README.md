@@ -21,6 +21,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-01**|**LLM CHESS: Benchmarking Reasoning and Instruction-Following in LLMs through Chess**|Sai Kolasani et.al.|[2512.01992](http://arxiv.org/abs/2512.01992)|null|
+|**2025-12-01**|**Neural steering vectors reveal dose and exposure-dependent impacts of human-AI relationships**|Hannah Rose Kirk et.al.|[2512.01991](http://arxiv.org/abs/2512.01991)|null|
+|**2025-12-01**|**Forecasting in Offline Reinforcement Learning for Non-stationary Environments**|Suzan Ece Ada et.al.|[2512.01987](http://arxiv.org/abs/2512.01987)|null|
+|**2025-12-01**|**Fault-tolerant mutual-visibility: complexity and solutions for grid-like networks**|Serafino Cicerone et.al.|[2512.01978](http://arxiv.org/abs/2512.01978)|null|
+|**2025-12-01**|**How Far Are We from Genuinely Useful Deep Research Agents?**|Dingling Zhang et.al.|[2512.01948](http://arxiv.org/abs/2512.01948)|null|
+|**2025-12-01**|**Agentic Policy Optimization via Instruction-Policy Co-Evolution**|Han Zhou et.al.|[2512.01945](http://arxiv.org/abs/2512.01945)|null|
+|**2025-12-01**|**An Empirical Study of Agent Developer Practices in AI Agent Frameworks**|Yanlin Wang et.al.|[2512.01939](http://arxiv.org/abs/2512.01939)|null|
+|**2025-12-01**|**Parametric processes in nonlinear structures with reflections: a transfer matrix method approach**|Salvador Poveda-Hospital et.al.|[2512.01921](http://arxiv.org/abs/2512.01921)|null|
+|**2025-12-01**|**Latent Debate: A Surrogate Framework for Interpreting LLM Thinking**|Lihu Chen et.al.|[2512.01909](http://arxiv.org/abs/2512.01909)|null|
+|**2025-12-01**|**NeuroHJR: Hamilton-Jacobi Reachability-based Obstacle Avoidance in Complex Environments with Physics-Informed Neural Networks**|Granthik Halder et.al.|[2512.01897](http://arxiv.org/abs/2512.01897)|null|
+|**2025-12-01**|**OPOR-Bench: Evaluating Large Language Models on Online Public Opinion Report Generation**|Jinzheng Yu et.al.|[2512.01896](http://arxiv.org/abs/2512.01896)|null|
+|**2025-12-01**|**Predicting Human Chess Moves: An AI Assisted Analysis of Chess Games Using Skill-group Specific n-gram Language Models**|Daren Zhong et.al.|[2512.01880](http://arxiv.org/abs/2512.01880)|null|
+|**2025-12-01**|**Graph Distance as Surprise: Free Energy Minimization in Knowledge Graph Reasoning**|Gaganpreet Jhajj et.al.|[2512.01878](http://arxiv.org/abs/2512.01878)|null|
+|**2025-12-01**|**Model theory, differential algebra and functional transcendence**|Amador Martin-Pizarro et.al.|[2512.01866](http://arxiv.org/abs/2512.01866)|null|
+|**2025-12-01**|**COACH: Collaborative Agents for Contextual Highlighting - A Multi-Agent Framework for Sports Video Analysis**|Tsz-To Wong et.al.|[2512.01853](http://arxiv.org/abs/2512.01853)|null|
+|**2025-12-01**|**Non-archimedean Infinite Hecke Algebra**|Milo Bechtloff Weising et.al.|[2512.01835](http://arxiv.org/abs/2512.01835)|null|
+|**2025-12-01**|**The partial K function**|Jake P. Grainger et.al.|[2512.01823](http://arxiv.org/abs/2512.01823)|null|
+|**2025-12-01**|**InnoGym: Benchmarking the Innovation Potential of AI Agents**|Jintian Zhang et.al.|[2512.01822](http://arxiv.org/abs/2512.01822)|null|
+|**2025-12-01**|**Dimension-free error estimate for diffusion model and optimal scheduling**|Valentin de Bortoli et.al.|[2512.01820](http://arxiv.org/abs/2512.01820)|null|
+|**2025-12-01**|**DeepCAVE: A Visualization and Analysis Tool for Automated Machine Learning**|Sarah Segel et.al.|[2512.01810](http://arxiv.org/abs/2512.01810)|null|
 |**2025-11-28**|**Thinking by Doing: Building Efficient World Model Reasoning in LLMs via Multi-turn Interaction**|Bao Shu et.al.|[2511.23476](http://arxiv.org/abs/2511.23476)|null|
 |**2025-11-28**|**Arbitrary control of the temporal waveform of photons during spontaneous emission**|Carl Thomas et.al.|[2511.23462](http://arxiv.org/abs/2511.23462)|null|
 |**2025-11-28**|**Designing Rules for Choosing a Winner in a Debate**|Alexander Heckett et.al.|[2511.23454](http://arxiv.org/abs/2511.23454)|null|
@@ -1049,6 +1069,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-01**|**ManualVLA: A Unified VLA Model for Chain-of-Thought Manual Generation and Robotic Manipulation**|Chenyang Gu et.al.|[2512.02013](http://arxiv.org/abs/2512.02013)|null|
+|**2025-12-01**|**Improved Mean Flows: On the Challenges of Fastforward Generative Models**|Zhengyang Geng et.al.|[2512.02012](http://arxiv.org/abs/2512.02012)|null|
+|**2025-12-01**|**Four Over Six: More Accurate NVFP4 Quantization with Adaptive Block Scaling**|Jack Cook et.al.|[2512.02010](http://arxiv.org/abs/2512.02010)|null|
+|**2025-12-01**|**AirSim360: A Panoramic Simulation Platform within Drone View**|Xian Ge et.al.|[2512.02009](http://arxiv.org/abs/2512.02009)|null|
+|**2025-12-01**|**The Art of Scaling Test-Time Compute for Large Language Models**|Aradhye Agarwal et.al.|[2512.02008](http://arxiv.org/abs/2512.02008)|null|
+|**2025-12-01**|**AlignSAE: Concept-Aligned Sparse Autoencoders**|Minglai Yang et.al.|[2512.02004](http://arxiv.org/abs/2512.02004)|null|
+|**2025-12-01**|**LLM-Driven Corrective Robot Operation Code Generation with Static Text-Based Simulation**|Wenhao Wang et.al.|[2512.02002](http://arxiv.org/abs/2512.02002)|null|
+|**2025-12-01**|**LLM CHESS: Benchmarking Reasoning and Instruction-Following in LLMs through Chess**|Sai Kolasani et.al.|[2512.01992](http://arxiv.org/abs/2512.01992)|null|
+|**2025-12-01**|**PAI-Bench: A Comprehensive Benchmark For Physical AI**|Fengzhe Zhou et.al.|[2512.01989](http://arxiv.org/abs/2512.01989)|null|
+|**2025-12-01**|**Orientational lineage memory and mechanical ordering during diffusion-limited growth**|Ilias-Marios Sarris et.al.|[2512.01981](http://arxiv.org/abs/2512.01981)|null|
+|**2025-12-01**|**Low-Rank Prehab: Preparing Neural Networks for SVD Compression**|Haoran Qin et.al.|[2512.01980](http://arxiv.org/abs/2512.01980)|null|
+|**2025-12-01**|**Chain-of-Ground: Improving GUI Grounding via Iterative Reasoning and Reference Feedback**|Aiden Yiliu Li et.al.|[2512.01979](http://arxiv.org/abs/2512.01979)|null|
+|**2025-12-01**|**Consistent Synthetic Sequences Unlock Structural Diversity in Fully Atomistic De Novo Protein Design**|Danny Reidenbach et.al.|[2512.01976](http://arxiv.org/abs/2512.01976)|null|
+|**2025-12-01**|**SGDiff: Scene Graph Guided Diffusion Model for Image Collaborative SegCaptioning**|Xu Zhang et.al.|[2512.01975](http://arxiv.org/abs/2512.01975)|null|
+|**2025-12-01**|**From Atomic to Composite: Reinforcement Learning Enables Generalization in Complementary Reasoning**|Sitao Cheng et.al.|[2512.01970](http://arxiv.org/abs/2512.01970)|null|
+|**2025-12-01**|**Learned-Rule-Augmented Large Language Model Evaluators**|Jie Meng et.al.|[2512.01958](http://arxiv.org/abs/2512.01958)|null|
+|**2025-12-01**|**KV Pareto: Systems-Level Optimization of KV Cache and Model Compression for Long Context Inference**|Sai Gokhale et.al.|[2512.01953](http://arxiv.org/abs/2512.01953)|null|
+|**2025-12-01**|**GrndCtrl: Grounding World Models via Self-Supervised Reward Alignment**|Haoyang He et.al.|[2512.01952](http://arxiv.org/abs/2512.01952)|null|
+|**2025-12-01**|**Order and shape dependence of mechanical relaxation in proliferating active matter**|Jonas Isensee et.al.|[2512.01950](http://arxiv.org/abs/2512.01950)|null|
+|**2025-12-01**|**Script: Graph-Structured and Query-Conditioned Semantic Token Pruning for Multimodal Large Language Models**|Zhongyu Yang et.al.|[2512.01949](http://arxiv.org/abs/2512.01949)|null|
 |**2025-11-28**|**Video-R2: Reinforcing Consistent and Grounded Reasoning in Multimodal Language Models**|Muhammad Maaz et.al.|[2511.23478](http://arxiv.org/abs/2511.23478)|null|
 |**2025-11-28**|**Video-CoM: Interactive Video Reasoning via Chain of Manipulations**|Hanoona Rasheed et.al.|[2511.23477](http://arxiv.org/abs/2511.23477)|null|
 |**2025-11-28**|**Thinking by Doing: Building Efficient World Model Reasoning in LLMs via Multi-turn Interaction**|Bao Shu et.al.|[2511.23476](http://arxiv.org/abs/2511.23476)|null|
@@ -1656,6 +1696,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-01**|**A Diffusion Model Framework for Maximum Entropy Reinforcement Learning**|Sebastian Sanokowski et.al.|[2512.02019](http://arxiv.org/abs/2512.02019)|null|
+|**2025-12-01**|**Learning Dexterous Manipulation Skills from Imperfect Simulations**|Elvis Hsieh et.al.|[2512.02011](http://arxiv.org/abs/2512.02011)|null|
+|**2025-12-01**|**Learning Sim-to-Real Humanoid Locomotion in 15 Minutes**|Younggyo Seo et.al.|[2512.01996](http://arxiv.org/abs/2512.01996)|null|
+|**2025-12-01**|**RoaD: Rollouts as Demonstrations for Closed-Loop Supervised Fine-Tuning of Autonomous Driving Policies**|Guillermo Garcia-Cobo et.al.|[2512.01993](http://arxiv.org/abs/2512.01993)|null|
+|**2025-12-01**|**Artemis: Structured Visual Reasoning for Perception Policy Learning**|Wei Tang et.al.|[2512.01988](http://arxiv.org/abs/2512.01988)|null|
+|**2025-12-01**|**Forecasting in Offline Reinforcement Learning for Non-stationary Environments**|Suzan Ece Ada et.al.|[2512.01987](http://arxiv.org/abs/2512.01987)|null|
+|**2025-12-01**|**From Atomic to Composite: Reinforcement Learning Enables Generalization in Complementary Reasoning**|Sitao Cheng et.al.|[2512.01970](http://arxiv.org/abs/2512.01970)|null|
+|**2025-12-01**|**Learned-Rule-Augmented Large Language Model Evaluators**|Jie Meng et.al.|[2512.01958](http://arxiv.org/abs/2512.01958)|null|
+|**2025-12-01**|**Spontaneous Symmetry Breaking in Two-dimensional Long-range Heisenberg Model**|Dingyun Yao et.al.|[2512.01956](http://arxiv.org/abs/2512.01956)|null|
+|**2025-12-01**|**GrndCtrl: Grounding World Models via Self-Supervised Reward Alignment**|Haoyang He et.al.|[2512.01952](http://arxiv.org/abs/2512.01952)|null|
+|**2025-12-01**|**Agentic Policy Optimization via Instruction-Policy Co-Evolution**|Han Zhou et.al.|[2512.01945](http://arxiv.org/abs/2512.01945)|null|
+|**2025-12-01**|**Prescribed energy solutions of concave-convex type problems involving sign-changing or vanishing weights**|Kanishka Perera et.al.|[2512.01931](http://arxiv.org/abs/2512.01931)|null|
+|**2025-12-01**|**Jacobi Forms of Affine Weight in Higher Cogenus and Nearly Holomorphic Functions**|Jan Feldmann et.al.|[2512.01926](http://arxiv.org/abs/2512.01926)|null|
+|**2025-12-01**|**Rectifying LLM Thought from Lens of Optimization**|Junnan Liu et.al.|[2512.01925](http://arxiv.org/abs/2512.01925)|null|
+|**2025-12-01**|**Tight Bounds for Feedback Vertex Set Parameterized by Clique-width**|Narek Bojikian et.al.|[2512.01900](http://arxiv.org/abs/2512.01900)|null|
+|**2025-12-01**|**New Spiking Architecture for Multi-Modal Decision-Making in Autonomous Vehicles**|Aref Ghoreishee et.al.|[2512.01882](http://arxiv.org/abs/2512.01882)|null|
+|**2025-12-01**|**Graph Distance as Surprise: Free Energy Minimization in Knowledge Graph Reasoning**|Gaganpreet Jhajj et.al.|[2512.01878](http://arxiv.org/abs/2512.01878)|null|
+|**2025-12-01**|**Topological Order in Deep State**|Ahmed Abouelkomsan et.al.|[2512.01863](http://arxiv.org/abs/2512.01863)|null|
+|**2025-12-01**|**Beyond SFT: Reinforcement Learning for Safer Large Reasoning Models with Better Reasoning Ability**|Jinghan Jia et.al.|[2512.01848](http://arxiv.org/abs/2512.01848)|null|
+|**2025-12-01**|**OpenREAD: Reinforced Open-Ended Reasoing for End-to-End Autonomous Driving with LLM-as-Critic**|Songyan Zhang et.al.|[2512.01830](http://arxiv.org/abs/2512.01830)|null|
 |**2025-11-28**|**Video-R2: Reinforcing Consistent and Grounded Reasoning in Multimodal Language Models**|Muhammad Maaz et.al.|[2511.23478](http://arxiv.org/abs/2511.23478)|null|
 |**2025-11-28**|**Video-CoM: Interactive Video Reasoning via Chain of Manipulations**|Hanoona Rasheed et.al.|[2511.23477](http://arxiv.org/abs/2511.23477)|null|
 |**2025-11-28**|**Thinking by Doing: Building Efficient World Model Reasoning in LLMs via Multi-turn Interaction**|Bao Shu et.al.|[2511.23476](http://arxiv.org/abs/2511.23476)|null|
