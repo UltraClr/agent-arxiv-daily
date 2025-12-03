@@ -16,6 +16,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-02**|**PPTArena: A Benchmark for Agentic PowerPoint Editing**|Michael Ofengenden et.al.|[2512.03042](http://arxiv.org/abs/2512.03042)|null|
+|**2025-12-02**|**Generation of strong ultralow-phase-noise microwave fields with tunable ellipticity for ultracold polar molecules**|Shrestha Biswas et.al.|[2512.03007](http://arxiv.org/abs/2512.03007)|null|
+|**2025-12-02**|**From Moderation to Mediation: Can LLMs Serve as Mediators in Online Flame Wars?**|Dawei Li et.al.|[2512.03005](http://arxiv.org/abs/2512.03005)|null|
+|**2025-12-02**|**DynamicVerse: A Physically-Aware Multimodal Framework for 4D World Modeling**|Kairun Wen et.al.|[2512.03000](http://arxiv.org/abs/2512.03000)|null|
+|**2025-12-02**|**InEx: Hallucination Mitigation via Introspection and Cross-Modal Multi-Agent Collaboration**|Zhongyu Yang et.al.|[2512.02981](http://arxiv.org/abs/2512.02981)|null|
+|**2025-12-02**|**Many-body $k$ -local ground states as probes for unitary quantum metrology**|Majid Hassani et.al.|[2512.02976](http://arxiv.org/abs/2512.02976)|null|
+|**2025-12-02**|**The Evolutionary Ecology of Software: Constraints, Innovation, and the AI Disruption**|Sergi Valverde et.al.|[2512.02953](http://arxiv.org/abs/2512.02953)|null|
+|**2025-12-02**|**Fast Gaussian Process Approximations for Autocorrelated Data**|Ahmadreza Chokhachian et.al.|[2512.02925](http://arxiv.org/abs/2512.02925)|null|
+|**2025-12-02**|**Distinguishing ram pressure from gravitational interactions: Applying the Size-Shape Difference method to real galaxies**|Augusto E. Lassen et.al.|[2512.02923](http://arxiv.org/abs/2512.02923)|null|
+|**2025-12-02**|**On the distribution of very short character sums**|Paweł Nosal et.al.|[2512.02915](http://arxiv.org/abs/2512.02915)|null|
+|**2025-12-02**|**Hypothesis Testing for Generalized Thurstone Models**|Anuran Makur et.al.|[2512.02912](http://arxiv.org/abs/2512.02912)|null|
+|**2025-12-02**|**FluxLab: Creating 3D Printable Shape-Changing Devices with Integrated Deformation Sensing**|Hsuanling Lee et.al.|[2512.02911](http://arxiv.org/abs/2512.02911)|null|
+|**2025-12-02**|**SAT-MapIt: A SAT-based Modulo Scheduling Mapper for Coarse Grain Reconfigurable Architectures**|Cristian Tirelli et.al.|[2512.02875](http://arxiv.org/abs/2512.02875)|null|
+|**2025-12-02**|**Think in Parallel, Answer as One: Logit Averaging for Open-Ended Reasoning**|Haonan Wang et.al.|[2512.02874](http://arxiv.org/abs/2512.02874)|null|
+|**2025-12-02**|**Limiting Reduction and Modified Gravity**|Antonis Antoniou et.al.|[2512.02871](http://arxiv.org/abs/2512.02871)|null|
+|**2025-12-02**|**Network Self-Configuration based on Fine-Tuned Small Language Models**|Oscar G. Lira et.al.|[2512.02861](http://arxiv.org/abs/2512.02861)|null|
+|**2025-12-02**|**Radiologist Copilot: An Agentic Assistant with Orchestrated Tools for Radiology Reporting with Quality Control**|Yongrui Yu et.al.|[2512.02814](http://arxiv.org/abs/2512.02814)|null|
+|**2025-12-02**|**Enhancing Automated Paper Reproduction via Prompt-Free Collaborative Agents**|Zijie Lin et.al.|[2512.02812](http://arxiv.org/abs/2512.02812)|null|
+|**2025-12-02**|**Phase-Adaptive LLM Framework with Multi-Stage Validation for Construction Robot Task Allocation: A Systematic Benchmark Against Traditional Optimization Algorithms**|Shyam prasad reddy Kaitha et.al.|[2512.02810](http://arxiv.org/abs/2512.02810)|null|
+|**2025-12-02**|**Perception of AI-Generated Music -- The Role of Composer Identity, Personality Traits, Music Preferences, and Perceived Humanness**|David Stammer et.al.|[2512.02785](http://arxiv.org/abs/2512.02785)|null|
 |**2025-12-01**|**LLM CHESS: Benchmarking Reasoning and Instruction-Following in LLMs through Chess**|Sai Kolasani et.al.|[2512.01992](http://arxiv.org/abs/2512.01992)|null|
 |**2025-12-01**|**Neural steering vectors reveal dose and exposure-dependent impacts of human-AI relationships**|Hannah Rose Kirk et.al.|[2512.01991](http://arxiv.org/abs/2512.01991)|null|
 |**2025-12-01**|**Forecasting in Offline Reinforcement Learning for Non-stationary Environments**|Suzan Ece Ada et.al.|[2512.01987](http://arxiv.org/abs/2512.01987)|null|
@@ -1062,6 +1082,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-02**|**CAMEO: Correspondence-Attention Alignment for Multi-View Diffusion Models**|Minkyung Kwon et.al.|[2512.03045](http://arxiv.org/abs/2512.03045)|null|
+|**2025-12-02**|**OneThinker: All-in-one Reasoning Model for Image and Video**|Kaituo Feng et.al.|[2512.03043](http://arxiv.org/abs/2512.03043)|null|
+|**2025-12-02**|**ViSAudio: End-to-End Video-Driven Binaural Spatial Audio Generation**|Mengchen Zhang et.al.|[2512.03036](http://arxiv.org/abs/2512.03036)|null|
+|**2025-12-02**|**The Moral Consistency Pipeline: Continuous Ethical Evaluation for Large Language Models**|Saeid Jamshidi et.al.|[2512.03026](http://arxiv.org/abs/2512.03026)|null|
+|**2025-12-02**|**LORE: A Large Generative Model for Search Relevance**|Chenji Lu et.al.|[2512.03025](http://arxiv.org/abs/2512.03025)|null|
+|**2025-12-02**|**TokenPowerBench: Benchmarking the Power Consumption of LLM Inference**|Chenxu Niu et.al.|[2512.03024](http://arxiv.org/abs/2512.03024)|null|
+|**2025-12-02**|**Unrolled Networks are Conditional Probability Flows in MRI Reconstruction**|Kehan Qi et.al.|[2512.03020](http://arxiv.org/abs/2512.03020)|null|
+|**2025-12-02**|**Distribution-Calibrated Inference time compute for Thinking LLM-as-a-Judge**|Hamid Dadkhahi et.al.|[2512.03019](http://arxiv.org/abs/2512.03019)|null|
+|**2025-12-02**|**Instant Video Models: Universal Adapters for Stabilizing Image-Based Networks**|Matthew Dutson et.al.|[2512.03014](http://arxiv.org/abs/2512.03014)|null|
+|**2025-12-02**|**In-Context Sync-LoRA for Portrait Video Editing**|Sagi Polaczek et.al.|[2512.03013](http://arxiv.org/abs/2512.03013)|null|
+|**2025-12-02**|**From Moderation to Mediation: Can LLMs Serve as Mediators in Online Flame Wars?**|Dawei Li et.al.|[2512.03005](http://arxiv.org/abs/2512.03005)|null|
+|**2025-12-02**|**Invasive Context Engineering to Control Large Language Models**|Thomas Rivasseau et.al.|[2512.03001](http://arxiv.org/abs/2512.03001)|null|
+|**2025-12-02**|**GraphFusion3D: Dynamic Graph Attention Convolution with Adaptive Cross-Modal Transformer for 3D Object Detection**|Md Sohag Mia et.al.|[2512.02991](http://arxiv.org/abs/2512.02991)|null|
+|**2025-12-02**|**Fine-Tuned Large Language Models for Logical Translation: Reducing Hallucinations with Lang2Logic**|Muyu Pan et.al.|[2512.02987](http://arxiv.org/abs/2512.02987)|null|
+|**2025-12-02**|**ProteinPNet: Prototypical Part Networks for Concept Learning in Spatial Proteomics**|Louis McConnell et.al.|[2512.02983](http://arxiv.org/abs/2512.02983)|null|
+|**2025-12-02**|**InEx: Hallucination Mitigation via Introspection and Cross-Modal Multi-Agent Collaboration**|Zhongyu Yang et.al.|[2512.02981](http://arxiv.org/abs/2512.02981)|null|
+|**2025-12-02**|**Contextual Image Attack: How Visual Context Exposes Multimodal Safety Vulnerabilities**|Yuan Xiong et.al.|[2512.02973](http://arxiv.org/abs/2512.02973)|null|
+|**2025-12-02**|**Lumos: Let there be Language Model System Certification**|Isha Chaudhary et.al.|[2512.02966](http://arxiv.org/abs/2512.02966)|null|
+|**2025-12-02**|**The Evolutionary Ecology of Software: Constraints, Innovation, and the AI Disruption**|Sergi Valverde et.al.|[2512.02953](http://arxiv.org/abs/2512.02953)|null|
+|**2025-12-02**|**AutoNeural: Co-Designing Vision-Language Models for NPU Inference**|Wei Chen et.al.|[2512.02924](http://arxiv.org/abs/2512.02924)|null|
 |**2025-12-01**|**ManualVLA: A Unified VLA Model for Chain-of-Thought Manual Generation and Robotic Manipulation**|Chenyang Gu et.al.|[2512.02013](http://arxiv.org/abs/2512.02013)|null|
 |**2025-12-01**|**Improved Mean Flows: On the Challenges of Fastforward Generative Models**|Zhengyang Geng et.al.|[2512.02012](http://arxiv.org/abs/2512.02012)|null|
 |**2025-12-01**|**Four Over Six: More Accurate NVFP4 Quantization with Adaptive Block Scaling**|Jack Cook et.al.|[2512.02010](http://arxiv.org/abs/2512.02010)|null|
@@ -1687,6 +1727,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-02**|**OneThinker: All-in-one Reasoning Model for Image and Video**|Kaituo Feng et.al.|[2512.03043](http://arxiv.org/abs/2512.03043)|null|
+|**2025-12-02**|**Entanglement evolution from entangled multipodal states**|Konstantinos Chalas et.al.|[2512.03032](http://arxiv.org/abs/2512.03032)|null|
+|**2025-12-02**|**SMP: Reusable Score-Matching Motion Priors for Physics-Based Character Control**|Yuxuan Mu et.al.|[2512.03028](http://arxiv.org/abs/2512.03028)|null|
+|**2025-12-02**|**LORE: A Large Generative Model for Search Relevance**|Chenji Lu et.al.|[2512.03025](http://arxiv.org/abs/2512.03025)|null|
+|**2025-12-02**|**New insights into hydrogen-assisted intergranular cracking in nickel**|S. Quan et.al.|[2512.02979](http://arxiv.org/abs/2512.02979)|null|
+|**2025-12-02**|**Spinons and Spin-Charge Separation at the Deconfined Quantum Critical Point**|Sibin Yang et.al.|[2512.02962](http://arxiv.org/abs/2512.02962)|null|
+|**2025-12-02**|**Exceptional Point Dynamics in Photonic Time Crystals for Enhanced Optical Sensing**|Saurabh Mani Tripathi et.al.|[2512.02945](http://arxiv.org/abs/2512.02945)|null|
+|**2025-12-02**|**The Convex Matching Distance in Multiparameter Persistence**|Patrizio Frosini et.al.|[2512.02944](http://arxiv.org/abs/2512.02944)|null|
+|**2025-12-02**|**Eisenstein cohomology and congruences for the ratios of Rankin--Selberg $L$ -functions**|P. Narayanan et.al.|[2512.02927](http://arxiv.org/abs/2512.02927)|null|
+|**2025-12-02**|**Asymptotics for additive functionals of particle systems via Stein's method**|Arturo Jaramillo et.al.|[2512.02922](http://arxiv.org/abs/2512.02922)|null|
+|**2025-12-02**|**Congruences for the ratios of Rankin--Selberg $L$ -functions**|P. Narayanan et.al.|[2512.02919](http://arxiv.org/abs/2512.02919)|null|
+|**2025-12-02**|**MindGPT-4ov: An Enhanced MLLM via a Multi-Stage Post-Training Paradigm**|Wei Chen et.al.|[2512.02895](http://arxiv.org/abs/2512.02895)|null|
+|**2025-12-02**|**OptPO: Optimal Rollout Allocation for Test-time Policy Optimization**|Youkang Wang et.al.|[2512.02882](http://arxiv.org/abs/2512.02882)|null|
+|**2025-12-02**|**Insights into Extragalactic Background Light constraints with MAGIC archival data**|R. Grau et.al.|[2512.02880](http://arxiv.org/abs/2512.02880)|null|
+|**2025-12-02**|**Taming Camera-Controlled Video Generation with Verifiable Geometry Reward**|Zhaoqing Wang et.al.|[2512.02870](http://arxiv.org/abs/2512.02870)|null|
+|**2025-12-02**|**Assessing the performance of correlation-based multi-fidelity neural emulators**|Cristian J. Villatoro et.al.|[2512.02868](http://arxiv.org/abs/2512.02868)|null|
+|**2025-12-02**|**ReVSeg: Incentivizing the Reasoning Chain for Video Segmentation with Reinforcement Learning**|Yifan Li et.al.|[2512.02835](http://arxiv.org/abs/2512.02835)|null|
+|**2025-12-02**|**Steering Vision-Language-Action Models as Anti-Exploration: A Test-Time Scaling Approach**|Siyuan Yang et.al.|[2512.02834](http://arxiv.org/abs/2512.02834)|null|
+|**2025-12-02**|**A benchmark dataset for evaluating Syndrome Differentiation and Treatment in large language models**|Kunning Li et.al.|[2512.02816](http://arxiv.org/abs/2512.02816)|null|
+|**2025-12-02**|**Phase-Adaptive LLM Framework with Multi-Stage Validation for Construction Robot Task Allocation: A Systematic Benchmark Against Traditional Optimization Algorithms**|Shyam prasad reddy Kaitha et.al.|[2512.02810](http://arxiv.org/abs/2512.02810)|null|
 |**2025-12-01**|**A Diffusion Model Framework for Maximum Entropy Reinforcement Learning**|Sebastian Sanokowski et.al.|[2512.02019](http://arxiv.org/abs/2512.02019)|null|
 |**2025-12-01**|**Learning Dexterous Manipulation Skills from Imperfect Simulations**|Elvis Hsieh et.al.|[2512.02011](http://arxiv.org/abs/2512.02011)|null|
 |**2025-12-01**|**Learning Sim-to-Real Humanoid Locomotion in 15 Minutes**|Younggyo Seo et.al.|[2512.01996](http://arxiv.org/abs/2512.01996)|null|
