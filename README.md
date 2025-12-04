@@ -21,6 +21,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-03**|**Permutation Flows I: Triangulations of Flow Polytopes (Research Announcement)**|Rafael S. González D'León et.al.|[2512.04078](http://arxiv.org/abs/2512.04078)|null|
+|**2025-12-03**|**Semi-Markov Decision Process Framework for Age of Incorrect Information Minimization**|Ismail Cosandal et.al.|[2512.04077](http://arxiv.org/abs/2512.04077)|null|
+|**2025-12-03**|**SpaceTools: Tool-Augmented Spatial Reasoning via Double Interactive RL**|Siyi Chen et.al.|[2512.04069](http://arxiv.org/abs/2512.04069)|null|
+|**2025-12-03**|**Learning Steerable Clarification Policies with Collaborative Self-play**|Jonathan Berant et.al.|[2512.04068](http://arxiv.org/abs/2512.04068)|null|
+|**2025-12-03**|**Affordances of Digital and Blockchain-based Community Currencies: The Case of Sarafu Network in Kenya**|Patricia Marcella Evite et.al.|[2512.04030](http://arxiv.org/abs/2512.04030)|null|
+|**2025-12-03**|**Thermalization from quenching in coupled oscillators**|M. Harinarayanan et.al.|[2512.04028](http://arxiv.org/abs/2512.04028)|null|
+|**2025-12-03**|**Teaching Old Tokenizers New Words: Efficient Tokenizer Adaptation for Pre-trained Models**|Taido Purason et.al.|[2512.03989](http://arxiv.org/abs/2512.03989)|null|
+|**2025-12-03**|**Benchmark for Planning and Control with Large Language Model Agents: Blocksworld with Model Context Protocol**|Niklas Jobs et.al.|[2512.03955](http://arxiv.org/abs/2512.03955)|null|
+|**2025-12-03**|**Performance and efficiency of a transformer-based quark/gluon jet tagger in the ATLAS experiment**|ATLAS Collaboration et.al.|[2512.03949](http://arxiv.org/abs/2512.03949)|null|
+|**2025-12-03**|**Classification of User Satisfaction in HRI with Social Signals in the Wild**|Michael Schiffmann et.al.|[2512.03945](http://arxiv.org/abs/2512.03945)|null|
+|**2025-12-03**|**Functorial properties of Schwinger-DeWitt expansion and Mellin-Barnes representation**|Andrei O. Barvinsky et.al.|[2512.03944](http://arxiv.org/abs/2512.03944)|null|
+|**2025-12-03**|**DSP: A Statistically-Principled Structural Polarization Measure**|Giulia Preti et.al.|[2512.03937](http://arxiv.org/abs/2512.03937)|null|
+|**2025-12-03**|**Driving is a Game: Combining Planning and Prediction with Bayesian Iterative Best Response**|Aron Distelzweig et.al.|[2512.03936](http://arxiv.org/abs/2512.03936)|null|
+|**2025-12-03**|**Autonomous Agents and Policy Compliance: A Framework for Reasoning About Penalties**|Vineel Tummala et.al.|[2512.03931](http://arxiv.org/abs/2512.03931)|null|
+|**2025-12-03**|**Integrating High Performance In-Memory Data Streaming and In-Situ Visualization in Hybrid MPI+OpenMP PIC MC Simulations Towards Exascale**|Jeremy J. Williams et.al.|[2512.03914](http://arxiv.org/abs/2512.03914)|null|
+|**2025-12-03**|**Hierarchical Vision Language Action Model Using Success and Failure Demonstrations**|Jeongeun Park et.al.|[2512.03913](http://arxiv.org/abs/2512.03913)|null|
+|**2025-12-03**|**Probabilistic Foundations of Fuzzy Simplicial Sets for Nonlinear Dimensionality Reduction**|Janis Keck et.al.|[2512.03899](http://arxiv.org/abs/2512.03899)|null|
+|**2025-12-03**|**Shadow geometry of Kerr MOG naked singularity and analysis of accretion disk luminosity**|Saira Yasmin et.al.|[2512.03896](http://arxiv.org/abs/2512.03896)|null|
+|**2025-12-03**|**A Hierarchical Tree-based approach for creating Configurable and Static Deep Research Agent (Static-DRA)**|Saurav Prateek et.al.|[2512.03887](http://arxiv.org/abs/2512.03887)|null|
+|**2025-12-03**|**Adhera: A Human-Centered Health Informatics Solution for Reducing Informal Caregiver Burden through Improved Medication Adherence**|Zhiyin Zhou et.al.|[2512.03878](http://arxiv.org/abs/2512.03878)|null|
 |**2025-12-02**|**PPTArena: A Benchmark for Agentic PowerPoint Editing**|Michael Ofengenden et.al.|[2512.03042](http://arxiv.org/abs/2512.03042)|null|
 |**2025-12-02**|**Generation of strong ultralow-phase-noise microwave fields with tunable ellipticity for ultracold polar molecules**|Shrestha Biswas et.al.|[2512.03007](http://arxiv.org/abs/2512.03007)|null|
 |**2025-12-02**|**From Moderation to Mediation: Can LLMs Serve as Mediators in Online Flame Wars?**|Dawei Li et.al.|[2512.03005](http://arxiv.org/abs/2512.03005)|null|
@@ -1089,6 +1109,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-03**|**Unique Lives, Shared World: Learning from Single-Life Videos**|Tengda Han et.al.|[2512.04085](http://arxiv.org/abs/2512.04085)|null|
+|**2025-12-03**|**SimFlow: Simplified and End-to-End Training of Latent Normalizing Flows**|Qinyu Zhao et.al.|[2512.04084](http://arxiv.org/abs/2512.04084)|null|
+|**2025-12-03**|**PosterCopilot: Toward Layout Reasoning and Controllable Editing for Professional Graphic Design**|Jiazhe Wei et.al.|[2512.04082](http://arxiv.org/abs/2512.04082)|null|
+|**2025-12-03**|**SkillFactory: Self-Distillation For Learning Cognitive Behaviors**|Zayne Sprague et.al.|[2512.04072](http://arxiv.org/abs/2512.04072)|null|
+|**2025-12-03**|**SpaceTools: Tool-Augmented Spatial Reasoning via Double Interactive RL**|Siyi Chen et.al.|[2512.04069](http://arxiv.org/abs/2512.04069)|null|
+|**2025-12-03**|**Eval Factsheets: A Structured Framework for Documenting AI Evaluations**|Florian Bordes et.al.|[2512.04062](http://arxiv.org/abs/2512.04062)|null|
+|**2025-12-03**|**Stable Signer: Hierarchical Sign Language Generative Model**|Sen Fang et.al.|[2512.04048](http://arxiv.org/abs/2512.04048)|null|
+|**2025-12-03**|**MarkTune: Improving the Quality-Detectability Trade-off in Open-Weight LLM Watermarking**|Yizhou Zhao et.al.|[2512.04044](http://arxiv.org/abs/2512.04044)|null|
+|**2025-12-03**|**RELIC: Interactive Video World Model with Long-Horizon Memory**|Yicong Hong et.al.|[2512.04040](http://arxiv.org/abs/2512.04040)|null|
+|**2025-12-03**|**Jina-VLM: Small Multilingual Vision Language Model**|Andreas Koukounas et.al.|[2512.04032](http://arxiv.org/abs/2512.04032)|null|
+|**2025-12-03**|**Large Language Models for Limited Noisy Data: A Gravitational Wave Identification Study**|Yixuan Li et.al.|[2512.04031](http://arxiv.org/abs/2512.04031)|null|
+|**2025-12-03**|**Teaching Using Immersion - Explaining Magnetism and Eclipses in a Planetarium Dome**|Patricia H Reiff et.al.|[2512.04027](http://arxiv.org/abs/2512.04027)|null|
+|**2025-12-03**|**Ultra-lightweight Neural Video Representation Compression**|Ho Man Kwan et.al.|[2512.04019](http://arxiv.org/abs/2512.04019)|null|
+|**2025-12-03**|**AugServe: Adaptive Request Scheduling for Augmented Large Language Model Inference Serving**|Ying Wang et.al.|[2512.04013](http://arxiv.org/abs/2512.04013)|null|
+|**2025-12-03**|**Learning to Comparison-Shop**|Jie Tang et.al.|[2512.04009](http://arxiv.org/abs/2512.04009)|null|
+|**2025-12-03**|**Physics-Embedded Gaussian Process for Traffic State Estimation**|Yanlin Chen et.al.|[2512.04004](http://arxiv.org/abs/2512.04004)|null|
+|**2025-12-03**|**Training-Free Policy Violation Detection via Activation-Space Whitening in LLMs**|Oren Rachmil et.al.|[2512.03994](http://arxiv.org/abs/2512.03994)|null|
+|**2025-12-03**|**DIQ-H: Evaluating Hallucination Persistence in VLMs Under Temporal Visual Degradation**|Zexin Lin et.al.|[2512.03992](http://arxiv.org/abs/2512.03992)|null|
+|**2025-12-03**|**Teaching Old Tokenizers New Words: Efficient Tokenizer Adaptation for Pre-trained Models**|Taido Purason et.al.|[2512.03989](http://arxiv.org/abs/2512.03989)|null|
+|**2025-12-03**|**DirectDrag: High-Fidelity, Mask-Free, Prompt-Free Drag-based Image Editing via Readout-Guided Feature Alignment**|Sheng-Hao Liao et.al.|[2512.03981](http://arxiv.org/abs/2512.03981)|null|
 |**2025-12-02**|**CAMEO: Correspondence-Attention Alignment for Multi-View Diffusion Models**|Minkyung Kwon et.al.|[2512.03045](http://arxiv.org/abs/2512.03045)|null|
 |**2025-12-02**|**OneThinker: All-in-one Reasoning Model for Image and Video**|Kaituo Feng et.al.|[2512.03043](http://arxiv.org/abs/2512.03043)|null|
 |**2025-12-02**|**ViSAudio: End-to-End Video-Driven Binaural Spatial Audio Generation**|Mengchen Zhang et.al.|[2512.03036](http://arxiv.org/abs/2512.03036)|null|
@@ -1736,6 +1776,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-03**|**PosterCopilot: Toward Layout Reasoning and Controllable Editing for Professional Graphic Design**|Jiazhe Wei et.al.|[2512.04082](http://arxiv.org/abs/2512.04082)|null|
+|**2025-12-03**|**Semi-Markov Decision Process Framework for Age of Incorrect Information Minimization**|Ismail Cosandal et.al.|[2512.04077](http://arxiv.org/abs/2512.04077)|null|
+|**2025-12-03**|**SkillFactory: Self-Distillation For Learning Cognitive Behaviors**|Zayne Sprague et.al.|[2512.04072](http://arxiv.org/abs/2512.04072)|null|
+|**2025-12-03**|**SpaceTools: Tool-Augmented Spatial Reasoning via Double Interactive RL**|Siyi Chen et.al.|[2512.04069](http://arxiv.org/abs/2512.04069)|null|
+|**2025-12-03**|**Learning Steerable Clarification Policies with Collaborative Self-play**|Jonathan Berant et.al.|[2512.04068](http://arxiv.org/abs/2512.04068)|null|
+|**2025-12-03**|**Sign-Resolved Statistics and the Origin of Bias in Quantum Monte Carlo**|Ryan Larson et.al.|[2512.04056](http://arxiv.org/abs/2512.04056)|null|
+|**2025-12-03**|**MarkTune: Improving the Quality-Detectability Trade-off in Open-Weight LLM Watermarking**|Yizhou Zhao et.al.|[2512.04044](http://arxiv.org/abs/2512.04044)|null|
+|**2025-12-03**|**Predicting parameters of a model cuprate superconductor using machine learning**|V. A. Ulitko et.al.|[2512.04024](http://arxiv.org/abs/2512.04024)|null|
+|**2025-12-03**|**Diagonalizing the Softmax: Hadamard Initialization for Tractable Cross-Entropy Dynamics**|Connall Garrod et.al.|[2512.04006](http://arxiv.org/abs/2512.04006)|null|
+|**2025-12-03**|**A Strict Comparison Principle for Integro-Differential Hamilton-Jacobi-Bellman Equations on Domains with Boundary**|Serena Della Corte et.al.|[2512.04005](http://arxiv.org/abs/2512.04005)|null|
+|**2025-12-03**|**Highly Efficient Test-Time Scaling for T2I Diffusion Models with Text Embedding Perturbation**|Hang Xu et.al.|[2512.03996](http://arxiv.org/abs/2512.03996)|null|
+|**2025-12-03**|**Guided Flow Policy: Learning from High-Value Actions in Offline Reinforcement Learning**|Franki Nguimatsia Tiofack et.al.|[2512.03973](http://arxiv.org/abs/2512.03973)|null|
+|**2025-12-03**|**Training for Identity, Inference for Controllability: A Unified Approach to Tuning-Free Face Personalization**|Lianyu Pang et.al.|[2512.03964](http://arxiv.org/abs/2512.03964)|null|
+|**2025-12-03**|**TempR1: Improving Temporal Understanding of MLLMs via Temporal-Aware Multi-Task Reinforcement Learning**|Tao Wu et.al.|[2512.03963](http://arxiv.org/abs/2512.03963)|null|
+|**2025-12-03**|**Primary gravitational waves at high frequencies I: Origin of suppression in the power spectrum**|Alipriyo Hoory et.al.|[2512.03959](http://arxiv.org/abs/2512.03959)|null|
+|**2025-12-03**|**Performance and efficiency of a transformer-based quark/gluon jet tagger in the ATLAS experiment**|ATLAS Collaboration et.al.|[2512.03949](http://arxiv.org/abs/2512.03949)|null|
+|**2025-12-03**|**Discontinuous Strongly Quasiconvex Functions**|Nguyen Thi Van Hang et.al.|[2512.03934](http://arxiv.org/abs/2512.03934)|null|
+|**2025-12-03**|**Integrating High Performance In-Memory Data Streaming and In-Situ Visualization in Hybrid MPI+OpenMP PIC MC Simulations Towards Exascale**|Jeremy J. Williams et.al.|[2512.03914](http://arxiv.org/abs/2512.03914)|null|
+|**2025-12-03**|**Hierarchical Vision Language Action Model Using Success and Failure Demonstrations**|Jeongeun Park et.al.|[2512.03913](http://arxiv.org/abs/2512.03913)|null|
+|**2025-12-03**|**Autonomous Reinforcement Learning Robot Control with Intel's Loihi 2 Neuromorphic Hardware**|Kenneth Stewart et.al.|[2512.03911](http://arxiv.org/abs/2512.03911)|null|
 |**2025-12-02**|**OneThinker: All-in-one Reasoning Model for Image and Video**|Kaituo Feng et.al.|[2512.03043](http://arxiv.org/abs/2512.03043)|null|
 |**2025-12-02**|**Entanglement evolution from entangled multipodal states**|Konstantinos Chalas et.al.|[2512.03032](http://arxiv.org/abs/2512.03032)|null|
 |**2025-12-02**|**SMP: Reusable Score-Matching Motion Priors for Physics-Based Character Control**|Yuxuan Mu et.al.|[2512.03028](http://arxiv.org/abs/2512.03028)|null|
