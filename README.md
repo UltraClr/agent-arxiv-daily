@@ -21,6 +21,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-05**|**Strongly Coupled Quantum Forces**|Yuval Grossman et.al.|[2512.05968](http://arxiv.org/abs/2512.05968)|null|
+|**2025-12-05**|**Categorifying isomonodromic deformations via Lie groupoids I: Logarithmic singularities**|Waleed Qaisar et.al.|[2512.05966](http://arxiv.org/abs/2512.05966)|null|
+|**2025-12-05**|**Trusted AI Agents in the Cloud**|Teofil Bodea et.al.|[2512.05951](http://arxiv.org/abs/2512.05951)|null|
+|**2025-12-05**|**Removing correlated noise stripes from the Nancy Grace Roman Space Telescope survey images**|Katherine Laliotis et.al.|[2512.05949](http://arxiv.org/abs/2512.05949)|null|
+|**2025-12-05**|**Developing synthetic microdata through machine learning for firm-level business surveys**|Jorge Cisneros Paz et.al.|[2512.05948](http://arxiv.org/abs/2512.05948)|null|
+|**2025-12-05**|**Designing an Optimal Sensor Network via Minimizing Information Loss**|Daniel Waxman et.al.|[2512.05940](http://arxiv.org/abs/2512.05940)|null|
+|**2025-12-05**|**PRiSM: An Agentic Multimodal Benchmark for Scientific Reasoning via Python-Grounded Evaluation**|Shima Imani et.al.|[2512.05930](http://arxiv.org/abs/2512.05930)|null|
+|**2025-12-05**|**NICE: Neural Implicit Craniofacial Model for Orthognathic Surgery Prediction**|Jiawen Yang et.al.|[2512.05920](http://arxiv.org/abs/2512.05920)|null|
+|**2025-12-05**|**Natural Language Summarization Enables Multi-Repository Bug Localization by LLMs in Microservice Architectures**|Amirkia Rafiei Oskooei et.al.|[2512.05908](http://arxiv.org/abs/2512.05908)|null|
+|**2025-12-05**|**From Text to Returns: Using Large Language Models for Mutual Fund Portfolio Optimization and Risk-Adjusted Allocation**|Abrar Hossain Mufakir Qamar Ansari Haziq Jeelani Monia Digra Fayeq Jeelani Syed et.al.|[2512.05907](http://arxiv.org/abs/2512.05907)|null|
+|**2025-12-05**|**Computer simulations of the Stark effect in the helium-beta complex of krypton in ICF conditions**|G. Pérez-Callejo et.al.|[2512.05903](http://arxiv.org/abs/2512.05903)|null|
+|**2025-12-05**|**Euclid Quick Data Release (Q1). From simulations to sky: Advancing machine-learning lens detection with real Euclid data**|Euclid Collaboration et.al.|[2512.05899](http://arxiv.org/abs/2512.05899)|null|
+|**2025-12-05**|**Bootstrapping Fuzzers for Compilers of Low-Resource Language Dialects Using Language Models**|Sairam Vaidya et.al.|[2512.05887](http://arxiv.org/abs/2512.05887)|null|
+|**2025-12-05**|**A Continuous Nonlinear Optimization Perspective on the Spin Glass Problem**|Phil Duxbury et.al.|[2512.05852](http://arxiv.org/abs/2512.05852)|null|
+|**2025-12-05**|**Invariant Price of Anarchy: a Metric for Welfarist Traffic Control**|Ilia Shilov et.al.|[2512.05843](http://arxiv.org/abs/2512.05843)|null|
+|**2025-12-05**|**Multimodal Oncology Agent for IDH1 Mutation Prediction in Low-Grade Glioma**|Hafsa Akebli et.al.|[2512.05824](http://arxiv.org/abs/2512.05824)|null|
+|**2025-12-05**|**Optimal Safety-Aware Scheduling for Multi-Agent Aerial 3D Printing with Utility Maximization under Dependency Constraints**|Marios-Nektarios Stamatopoulos et.al.|[2512.05815](http://arxiv.org/abs/2512.05815)|null|
+|**2025-12-05**|**Floer sections in multisymplectic geometry**|Ronen Brilleslijper et.al.|[2512.05797](http://arxiv.org/abs/2512.05797)|null|
+|**2025-12-05**|**Task-Specific Trust Evaluation for Multi-Hop Collaborator Selection via GNN-Aided Distributed Agentic AI**|Botao Zhu et.al.|[2512.05788](http://arxiv.org/abs/2512.05788)|null|
+|**2025-12-05**|**Machine Learning-Informed 3+1 Sterile Neutrino Global Fits using Posterior Density Estimation of Electron Disappearance Data**|Joshua Villarreal et.al.|[2512.05784](http://arxiv.org/abs/2512.05784)|null|
 |**2025-12-04**|**Deep infant brain segmentation from multi-contrast MRI**|Malte Hoffmann et.al.|[2512.05114](http://arxiv.org/abs/2512.05114)|null|
 |**2025-12-04**|**ARM-Thinker: Reinforcing Multimodal Generative Reward Models with Agentic Tool Use and Visual Reasoning**|Shengyuan Ding et.al.|[2512.05111](http://arxiv.org/abs/2512.05111)|null|
 |**2025-12-04**|**Breaking the bandwidth-efficiency trade-off in soliton microcombs via mode coupling**|Yang Liu et.al.|[2512.05090](http://arxiv.org/abs/2512.05090)|null|
@@ -1129,6 +1149,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-05**|**Enhancing Retrieval-Augmented Generation with Entity Linking for Educational Platforms**|Francesco Granata et.al.|[2512.05967](http://arxiv.org/abs/2512.05967)|null|
+|**2025-12-05**|**EditThinker: Unlocking Iterative Reasoning for Any Image Editor**|Hongyu Li et.al.|[2512.05965](http://arxiv.org/abs/2512.05965)|null|
+|**2025-12-05**|**Training-Time Action Conditioning for Efficient Real-Time Chunking**|Kevin Black et.al.|[2512.05964](http://arxiv.org/abs/2512.05964)|null|
+|**2025-12-05**|**M4-RAG: A Massive-Scale Multilingual Multi-Cultural Multimodal RAG**|David Anugraha et.al.|[2512.05959](http://arxiv.org/abs/2512.05959)|null|
+|**2025-12-05**|**MaxShapley: Towards Incentive-compatible Generative Search with Fair Context Attribution**|Sara Patel et.al.|[2512.05958](http://arxiv.org/abs/2512.05958)|null|
+|**2025-12-05**|**SIMPACT: Simulation-Enabled Action Planning using Vision-Language Models**|Haowen Liu et.al.|[2512.05955](http://arxiv.org/abs/2512.05955)|null|
+|**2025-12-05**|**SymPyBench: A Dynamic Benchmark for Scientific Reasoning with Executable Python Code**|Shima Imani et.al.|[2512.05954](http://arxiv.org/abs/2512.05954)|null|
+|**2025-12-05**|**Trusted AI Agents in the Cloud**|Teofil Bodea et.al.|[2512.05951](http://arxiv.org/abs/2512.05951)|null|
+|**2025-12-05**|**TRACE: A Framework for Analyzing and Enhancing Stepwise Reasoning in Vision-Language Models**|Shima Imani et.al.|[2512.05943](http://arxiv.org/abs/2512.05943)|null|
+|**2025-12-05**|**Zoom in, Click out: Unlocking and Evaluating the Potential of Zooming for GUI Grounding**|Zhiyuan Jiang et.al.|[2512.05941](http://arxiv.org/abs/2512.05941)|null|
+|**2025-12-05**|**Adsorption energies are necessary but not sufficient to identify good catalysts**|Shahana Chatterjee et.al.|[2512.05938](http://arxiv.org/abs/2512.05938)|null|
+|**2025-12-05**|**Speech World Model: Causal State-Action Planning with Explicit Reasoning for Speech**|Xuanru Zhou et.al.|[2512.05933](http://arxiv.org/abs/2512.05933)|null|
+|**2025-12-05**|**Physically-Based Simulation of Automotive LiDAR**|L. Dudzik et.al.|[2512.05932](http://arxiv.org/abs/2512.05932)|null|
+|**2025-12-05**|**PRiSM: An Agentic Multimodal Benchmark for Scientific Reasoning via Python-Grounded Evaluation**|Shima Imani et.al.|[2512.05930](http://arxiv.org/abs/2512.05930)|null|
+|**2025-12-05**|**LLM Harms: A Taxonomy and Discussion**|Kevin Chen et.al.|[2512.05929](http://arxiv.org/abs/2512.05929)|null|
+|**2025-12-05**|**KQ-SVD: Compressing the KV Cache with Provable Guarantees on Attention Fidelity**|Damien Lesens et.al.|[2512.05916](http://arxiv.org/abs/2512.05916)|null|
+|**2025-12-05**|**From Text to Returns: Using Large Language Models for Mutual Fund Portfolio Optimization and Risk-Adjusted Allocation**|Abrar Hossain Mufakir Qamar Ansari Haziq Jeelani Monia Digra Fayeq Jeelani Syed et.al.|[2512.05907](http://arxiv.org/abs/2512.05907)|null|
+|**2025-12-05**|**SCAIL: Towards Studio-Grade Character Animation via In-Context Learning of 3D-Consistent Pose Representations**|Wenhao Yan et.al.|[2512.05905](http://arxiv.org/abs/2512.05905)|null|
+|**2025-12-05**|**Euclid Quick Data Release (Q1). From simulations to sky: Advancing machine-learning lens detection with real Euclid data**|Euclid Collaboration et.al.|[2512.05899](http://arxiv.org/abs/2512.05899)|null|
+|**2025-12-05**|**A Machine Learning Framework for Predicting Glass-Forming Ability in Ternary Alloy Systems**|Fatemeh Mahmoudi et.al.|[2512.05895](http://arxiv.org/abs/2512.05895)|null|
 |**2025-12-04**|**Value Gradient Guidance for Flow Matching Alignment**|Zhen Liu et.al.|[2512.05116](http://arxiv.org/abs/2512.05116)|null|
 |**2025-12-04**|**DraCo: Draft as CoT for Text-to-Image Preview and Rare Concept Generation**|Dongzhi Jiang et.al.|[2512.05112](http://arxiv.org/abs/2512.05112)|null|
 |**2025-12-04**|**ARM-Thinker: Reinforcing Multimodal Generative Reward Models with Agentic Tool Use and Visual Reasoning**|Shengyuan Ding et.al.|[2512.05111](http://arxiv.org/abs/2512.05111)|null|
@@ -1816,6 +1856,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-05**|**EditThinker: Unlocking Iterative Reasoning for Any Image Editor**|Hongyu Li et.al.|[2512.05965](http://arxiv.org/abs/2512.05965)|null|
+|**2025-12-05**|**Whatever Remains Must Be True: Filtering Drives Reasoning in LLMs, Shaping Diversity**|Germán Kruszewski et.al.|[2512.05962](http://arxiv.org/abs/2512.05962)|null|
+|**2025-12-05**|**MaxShapley: Towards Incentive-compatible Generative Search with Fair Context Attribution**|Sara Patel et.al.|[2512.05958](http://arxiv.org/abs/2512.05958)|null|
+|**2025-12-05**|**Correspondence-Oriented Imitation Learning: Flexible Visuomotor Control with 3D Conditioning**|Yunhao Cao et.al.|[2512.05953](http://arxiv.org/abs/2512.05953)|null|
+|**2025-12-05**|**Variational Quantum Rainbow Deep Q-Network for Optimizing Resource Allocation Problem**|Truong Thanh Hung Nguyen et.al.|[2512.05946](http://arxiv.org/abs/2512.05946)|null|
+|**2025-12-05**|**A poset representation for stable contracts in a two-sided market generated by integer choice functions**|Alexander V. Karzanov et.al.|[2512.05942](http://arxiv.org/abs/2512.05942)|null|
+|**2025-12-05**|**A Residual Variance Matching Recursive Least Squares Filter for Real-time UAV Terrain Following**|Xiaobo Wu et.al.|[2512.05918](http://arxiv.org/abs/2512.05918)|null|
+|**2025-12-05**|**Functional dual-slope frequency-domain near-infrared spectroscopy data interpreted with two- and three-layer models**|Jodee Frias et.al.|[2512.05877](http://arxiv.org/abs/2512.05877)|null|
+|**2025-12-05**|**Invariant Price of Anarchy: a Metric for Welfarist Traffic Control**|Ilia Shilov et.al.|[2512.05843](http://arxiv.org/abs/2512.05843)|null|
+|**2025-12-05**|**Toward Efficient and Robust Behavior Models for Multi-Agent Driving Simulation**|Fabian Konstantinidis et.al.|[2512.05812](http://arxiv.org/abs/2512.05812)|null|
+|**2025-12-05**|**Twisting the Hagedorn temperature in planar $\mathcal{N}=4$ super Yang-Mills**|Simon Ekhammar et.al.|[2512.05810](http://arxiv.org/abs/2512.05810)|null|
+|**2025-12-05**|**Probing the effectiveness of World Models for Spatial Reasoning through Test-time Scaling**|Saurav Jha et.al.|[2512.05809](http://arxiv.org/abs/2512.05809)|null|
+|**2025-12-05**|**Real-time Remote Tracking and Autonomous Planning for Whale Rendezvous using Robots**|Sushmita Bhattacharya et.al.|[2512.05808](http://arxiv.org/abs/2512.05808)|null|
+|**2025-12-05**|**Three-loop jet function for boosted top quarks**|Alberto M. Clavero et.al.|[2512.05795](http://arxiv.org/abs/2512.05795)|null|
+|**2025-12-05**|**Machine Learning-Informed 3+1 Sterile Neutrino Global Fits using Posterior Density Estimation of Electron Disappearance Data**|Joshua Villarreal et.al.|[2512.05784](http://arxiv.org/abs/2512.05784)|null|
+|**2025-12-05**|**Towards agent-based-model informed neural networks**|Nino Antulov-Fantulin et.al.|[2512.05764](http://arxiv.org/abs/2512.05764)|null|
+|**2025-12-05**|**USV: Unified Sparsification for Accelerating Video Diffusion Models**|Xinjian Wu et.al.|[2512.05754](http://arxiv.org/abs/2512.05754)|null|
+|**2025-12-05**|**A Fast Anti-Jamming Cognitive Radar Deployment Algorithm Based on Reinforcement Learning**|Wencheng Cai et.al.|[2512.05753](http://arxiv.org/abs/2512.05753)|null|
+|**2025-12-05**|**Stochastic Reconfiguration with Warm-Started SVD**|Dexuan Zhou et.al.|[2512.05749](http://arxiv.org/abs/2512.05749)|null|
+|**2025-12-05**|**Capturing Classic Authorial Style in Long-Form Story Generation with GRPO Fine-Tuning**|Jinlong Liu et.al.|[2512.05747](http://arxiv.org/abs/2512.05747)|null|
 |**2025-12-04**|**Value Gradient Guidance for Flow Matching Alignment**|Zhen Liu et.al.|[2512.05116](http://arxiv.org/abs/2512.05116)|null|
 |**2025-12-04**|**ARM-Thinker: Reinforcing Multimodal Generative Reward Models with Agentic Tool Use and Visual Reasoning**|Shengyuan Ding et.al.|[2512.05111](http://arxiv.org/abs/2512.05111)|null|
 |**2025-12-04**|**STARE-VLA: Progressive Stage-Aware Reinforcement for Fine-Tuning Vision-Language-Action Models**|Feng Xu et.al.|[2512.05107](http://arxiv.org/abs/2512.05107)|null|
