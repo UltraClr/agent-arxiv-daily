@@ -1,5 +1,5 @@
 # Agent Research Papers
-### Automatically Updated on 2025.12.08
+### Automatically Updated on 2025.12.09
 Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Autonomous Agent`,`LLM Agent`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -41,6 +41,12 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |**2025-12-05**|**Floer sections in multisymplectic geometry**|Ronen Brilleslijper et.al.|[2512.05797](http://arxiv.org/abs/2512.05797)|null|
 |**2025-12-05**|**Task-Specific Trust Evaluation for Multi-Hop Collaborator Selection via GNN-Aided Distributed Agentic AI**|Botao Zhu et.al.|[2512.05788](http://arxiv.org/abs/2512.05788)|null|
 |**2025-12-05**|**Machine Learning-Informed 3+1 Sterile Neutrino Global Fits using Posterior Density Estimation of Electron Disappearance Data**|Joshua Villarreal et.al.|[2512.05784](http://arxiv.org/abs/2512.05784)|null|
+|**2025-12-05**|**GRASP: Graph Reasoning Agents for Systems Pharmacology with Human-in-the-Loop**|Omid Bazgir et.al.|[2512.05502](http://arxiv.org/abs/2512.05502)|null|
+|**2025-12-05**|**Model Gateway: Model Management Platform for Model-Driven Drug Discovery**|Yan-Shiun Wu et.al.|[2512.05462](http://arxiv.org/abs/2512.05462)|null|
+|**2025-12-05**|**Please Don't Kill My Vibe: Empowering Agents with Data Flow Control**|Charlie Summers et.al.|[2512.05374](http://arxiv.org/abs/2512.05374)|null|
+|**2025-12-05**|**MCP-AI: Protocol-Driven Intelligence Framework for Autonomous Reasoning in Healthcare**|Zag ElSayed et.al.|[2512.05365](http://arxiv.org/abs/2512.05365)|null|
+|**2025-12-04**|**WhatsCode: Large-Scale GenAI Deployment for Developer Efficiency at WhatsApp**|Ke Mao et.al.|[2512.05314](http://arxiv.org/abs/2512.05314)|null|
+|**2025-12-04**|**Beyond Detection: A Comprehensive Benchmark and Study on Representation Learning for Fine-Grained Webshell Family Classification**|Feijiang Han et.al.|[2512.05288](http://arxiv.org/abs/2512.05288)|null|
 |**2025-12-04**|**Deep infant brain segmentation from multi-contrast MRI**|Malte Hoffmann et.al.|[2512.05114](http://arxiv.org/abs/2512.05114)|null|
 |**2025-12-04**|**ARM-Thinker: Reinforcing Multimodal Generative Reward Models with Agentic Tool Use and Visual Reasoning**|Shengyuan Ding et.al.|[2512.05111](http://arxiv.org/abs/2512.05111)|null|
 |**2025-12-04**|**Breaking the bandwidth-efficiency trade-off in soliton microcombs via mode coupling**|Yang Liu et.al.|[2512.05090](http://arxiv.org/abs/2512.05090)|null|
@@ -61,6 +67,13 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |**2025-12-04**|**Declarative Synthesis and Multi-Objective Optimization of Stripboard Circuit Layouts Using Answer Set Programming**|Fang Li et.al.|[2512.04910](http://arxiv.org/abs/2512.04910)|null|
 |**2025-12-04**|**Chameleon: Adaptive Adversarial Agents for Scaling-Based Visual Prompt Injection in Multimodal AI Systems**|M Zeeshan et.al.|[2512.04895](http://arxiv.org/abs/2512.04895)|null|
 |**2025-12-04**|**Data-driven Methods for Delay Differential Equations**|Dimitri Breda et.al.|[2512.04894](http://arxiv.org/abs/2512.04894)|null|
+|**2025-12-04**|**Enabling Ethical AI: A case study in using Ontological Context for Justified Agentic AI Decisions**|Liam McGee et.al.|[2512.04822](http://arxiv.org/abs/2512.04822)|null|
+|**2025-12-04**|**SIMA 2: A Generalist Embodied Agent for Virtual Worlds**|SIMA team et.al.|[2512.04797](http://arxiv.org/abs/2512.04797)|null|
+|**2025-12-04**|**ASTRIDE: A Security Threat Modeling Platform for Agentic-AI Applications**|Eranga Bandara et.al.|[2512.04785](http://arxiv.org/abs/2512.04785)|null|
+|**2025-12-04**|**POLARIS: Is Multi-Agentic Reasoning the Next Wave in Engineering Self-Adaptive Systems?**|Divyansh Pandey et.al.|[2512.04702](http://arxiv.org/abs/2512.04702)|null|
+|**2025-12-04**|**Towards Ethical Multi-Agent Systems of Large Language Models: A Mechanistic Interpretability Perspective**|Jae Hee Lee et.al.|[2512.04691](http://arxiv.org/abs/2512.04691)|null|
+|**2025-12-04**|**Natural Language Actor-Critic: Scalable Off-Policy Learning in Language Space**|Joey Hong et.al.|[2512.04601](http://arxiv.org/abs/2512.04601)|null|
+|**2025-12-04**|**When Robots Should Say "I Don't Know": Benchmarking Abstention in Embodied Question Answering**|Tao Wu et.al.|[2512.04597](http://arxiv.org/abs/2512.04597)|null|
 |**2025-12-03**|**Permutation Flows I: Triangulations of Flow Polytopes (Research Announcement)**|Rafael S. González D'León et.al.|[2512.04078](http://arxiv.org/abs/2512.04078)|null|
 |**2025-12-03**|**Semi-Markov Decision Process Framework for Age of Incorrect Information Minimization**|Ismail Cosandal et.al.|[2512.04077](http://arxiv.org/abs/2512.04077)|null|
 |**2025-12-03**|**SpaceTools: Tool-Augmented Spatial Reasoning via Double Interactive RL**|Siyi Chen et.al.|[2512.04069](http://arxiv.org/abs/2512.04069)|null|
@@ -1143,7 +1156,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |**2024-01-30**|**A mechanism for discovering semantic relationships among agent communication protocols**|Idoia Berges et.al.|[2401.16216](http://arxiv.org/abs/2401.16216)|null|
 |**2024-01-23**|**Semantic Web Technology for Agent Communication Protocols**|Idoia Berges et.al.|[2401.11841](http://arxiv.org/abs/2401.11841)|null|
 
-<p align=right>(<a href=#updated-on-20251208>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251209>back to top</a>)</p>
 
 ## Large Language Models
 
@@ -1169,6 +1182,13 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |**2025-12-05**|**SCAIL: Towards Studio-Grade Character Animation via In-Context Learning of 3D-Consistent Pose Representations**|Wenhao Yan et.al.|[2512.05905](http://arxiv.org/abs/2512.05905)|null|
 |**2025-12-05**|**Euclid Quick Data Release (Q1). From simulations to sky: Advancing machine-learning lens detection with real Euclid data**|Euclid Collaboration et.al.|[2512.05899](http://arxiv.org/abs/2512.05899)|null|
 |**2025-12-05**|**A Machine Learning Framework for Predicting Glass-Forming Ability in Ternary Alloy Systems**|Fatemeh Mahmoudi et.al.|[2512.05895](http://arxiv.org/abs/2512.05895)|null|
+|**2025-12-05**|**Bootstrapping Fuzzers for Compilers of Low-Resource Language Dialects Using Language Models**|Sairam Vaidya et.al.|[2512.05887](http://arxiv.org/abs/2512.05887)|null|
+|**2025-12-05**|**InstructMPC: A Human-LLM-in-the-Loop Framework for Context-Aware Power Grid Control**|Ruixiang Wu et.al.|[2512.05876](http://arxiv.org/abs/2512.05876)|null|
+|**2025-12-05**|**Optimizing Medical Question-Answering Systems: A Comparative Study of Fine-Tuned and Zero-Shot Large Language Models with RAG Framework**|Tasnimul Hassan et.al.|[2512.05863](http://arxiv.org/abs/2512.05863)|null|
+|**2025-12-05**|**VRSA: Jailbreaking Multimodal Large Language Models through Visual Reasoning Sequential Attack**|Shiji Zhao et.al.|[2512.05853](http://arxiv.org/abs/2512.05853)|null|
+|**2025-12-05**|**Using Large Language Models to Create Personalized Networks From Therapy Sessions**|Clarissa W. Ong et.al.|[2512.05836](http://arxiv.org/abs/2512.05836)|null|
+|**2025-12-05**|**Probing the effectiveness of World Models for Spatial Reasoning through Test-time Scaling**|Saurav Jha et.al.|[2512.05809](http://arxiv.org/abs/2512.05809)|null|
+|**2025-12-05**|**Mechanistic Interpretability of Antibody Language Models Using SAEs**|Rebonto Haque et.al.|[2512.05794](http://arxiv.org/abs/2512.05794)|null|
 |**2025-12-04**|**Value Gradient Guidance for Flow Matching Alignment**|Zhen Liu et.al.|[2512.05116](http://arxiv.org/abs/2512.05116)|null|
 |**2025-12-04**|**DraCo: Draft as CoT for Text-to-Image Preview and Rare Concept Generation**|Dongzhi Jiang et.al.|[2512.05112](http://arxiv.org/abs/2512.05112)|null|
 |**2025-12-04**|**ARM-Thinker: Reinforcing Multimodal Generative Reward Models with Agentic Tool Use and Visual Reasoning**|Shengyuan Ding et.al.|[2512.05111](http://arxiv.org/abs/2512.05111)|null|
@@ -1850,7 +1870,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |**2023-09-06**|**Making Large Language Models Better Reasoners with Alignment**|Peiyi Wang et.al.|[2309.02144](http://arxiv.org/abs/2309.02144)|null|
 |**2023-06-27**|**Low-Rank Prune-And-Factorize for Language Model Compression**|Siyu Ren et.al.|[2306.14152](http://arxiv.org/abs/2306.14152)|null|
 
-<p align=right>(<a href=#updated-on-20251208>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251209>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -1876,6 +1896,15 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |**2025-12-05**|**A Fast Anti-Jamming Cognitive Radar Deployment Algorithm Based on Reinforcement Learning**|Wencheng Cai et.al.|[2512.05753](http://arxiv.org/abs/2512.05753)|null|
 |**2025-12-05**|**Stochastic Reconfiguration with Warm-Started SVD**|Dexuan Zhou et.al.|[2512.05749](http://arxiv.org/abs/2512.05749)|null|
 |**2025-12-05**|**Capturing Classic Authorial Style in Long-Form Story Generation with GRPO Fine-Tuning**|Jinlong Liu et.al.|[2512.05747](http://arxiv.org/abs/2512.05747)|null|
+|**2025-12-05**|**A High-Order Immersed Boundary Method for Fluid-Structure Interaction Problems**|Yingjie Xia et.al.|[2512.05733](http://arxiv.org/abs/2512.05733)|null|
+|**2025-12-05**|**Taylor Approximation Variance Reduction for Approximation Errors in PDE-constrained Bayesian Inverse Problems**|Ruanui Nicholson et.al.|[2512.05723](http://arxiv.org/abs/2512.05723)|null|
+|**2025-12-05**|**$α$ -Potential Games for Decentralized Control of Connected and Automated Vehicles**|Xuan Di et.al.|[2512.05712](http://arxiv.org/abs/2512.05712)|null|
+|**2025-12-05**|**Bayesian Active Inference for Intelligent UAV Anti-Jamming and Adaptive Trajectory Planning**|Ali Krayani et.al.|[2512.05711](http://arxiv.org/abs/2512.05711)|null|
+|**2025-12-05**|**LA-RL: Language Action-guided Reinforcement Learning with Safety Guarantees for Autonomous Highway Driving**|Yiming Shu et.al.|[2512.05686](http://arxiv.org/abs/2512.05686)|null|
+|**2025-12-05**|**MedTutor-R1: Socratic Personalized Medical Teaching with Multi-Agent Simulation**|Zhitao He et.al.|[2512.05671](http://arxiv.org/abs/2512.05671)|null|
+|**2025-12-05**|**Efficient sequential Bayesian inference for state-space epidemic models using ensemble data assimilation**|Dhorasso Temfack et.al.|[2512.05650](http://arxiv.org/abs/2512.05650)|null|
+|**2025-12-05**|**Entropy Ratio Clipping as a Soft Global Constraint for Stable Reinforcement Learning**|Zhenpeng Su et.al.|[2512.05591](http://arxiv.org/abs/2512.05591)|null|
+|**2025-12-05**|**RoBoN: Routed Online Best-of-n for Test-Time Scaling with Multiple LLMs**|Jonathan Geuter et.al.|[2512.05542](http://arxiv.org/abs/2512.05542)|null|
 |**2025-12-04**|**Value Gradient Guidance for Flow Matching Alignment**|Zhen Liu et.al.|[2512.05116](http://arxiv.org/abs/2512.05116)|null|
 |**2025-12-04**|**ARM-Thinker: Reinforcing Multimodal Generative Reward Models with Agentic Tool Use and Visual Reasoning**|Shengyuan Ding et.al.|[2512.05111](http://arxiv.org/abs/2512.05111)|null|
 |**2025-12-04**|**STARE-VLA: Progressive Stage-Aware Reinforcement for Fine-Tuning Vision-Language-Action Models**|Feng Xu et.al.|[2512.05107](http://arxiv.org/abs/2512.05107)|null|
@@ -2568,7 +2597,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |**2019-11-14**|**Accelerating Training in Pommerman with Imitation and Reinforcement Learning**|Hardik Meisheri et.al.|[1911.04947](http://arxiv.org/abs/1911.04947)|null|
 |**2018-11-20**|**Modelling the Dynamic Joint Policy of Teammates with Attention Multi-agent DDPG**|Hangyu Mao et.al.|[1811.07029](http://arxiv.org/abs/1811.07029)|null|
 
-<p align=right>(<a href=#updated-on-20251208>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251209>back to top</a>)</p>
 
 Notes: 
 
