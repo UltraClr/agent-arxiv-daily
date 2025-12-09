@@ -21,6 +21,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-08**|**The Adoption and Usage of AI Agents: Early Evidence from Perplexity**|Jeremy Yang et.al.|[2512.07828](http://arxiv.org/abs/2512.07828)|null|
+|**2025-12-08**|**Automating High Energy Physics Data Analysis with LLM-Powered Agents**|Eli Gendreau-Distler et.al.|[2512.07785](http://arxiv.org/abs/2512.07785)|null|
+|**2025-12-08**|**Reliable agent engineering should integrate machine-compatible organizational principles**|R. Patrick Xian et.al.|[2512.07665](http://arxiv.org/abs/2512.07665)|null|
+|**2025-12-08**|**The Agent Capability Problem: Predicting Solvability Through Information-Theoretic Bounds**|Shahar Lutati et.al.|[2512.07631](http://arxiv.org/abs/2512.07631)|null|
+|**2025-12-08**|**Online Segment Any 3D Thing as Instance Tracking**|Hanshi Wang et.al.|[2512.07599](http://arxiv.org/abs/2512.07599)|null|
+|**2025-12-08**|**VulnLLM-R: Specialized Reasoning LLM with Agent Scaffold for Vulnerability Detection**|Yuzhou Nie et.al.|[2512.07533](http://arxiv.org/abs/2512.07533)|null|
+|**2025-12-08**|**How Do LLMs Fail In Agentic Scenarios? A Qualitative Analysis of Success and Failure Scenarios of Various LLMs in Agentic Simulations**|JV Roig et.al.|[2512.07497](http://arxiv.org/abs/2512.07497)|null|
+|**2025-12-08**|**Enhancing Agentic RL with Progressive Reward Shaping and Value-based Sampling Policy Optimization**|Zhuoran Zhuang et.al.|[2512.07478](http://arxiv.org/abs/2512.07478)|null|
+|**2025-12-08**|**Understanding LLM Agent Behaviours via Game Theory: Strategy Recognition, Biases and Multi-Agent Dynamics**|Trung-Kiet Huynh et.al.|[2512.07462](http://arxiv.org/abs/2512.07462)|null|
+|**2025-12-08**|**Native Parallel Reasoner: Reasoning in Parallelism via Self-Distilled Reinforcement Learning**|Tong Wu et.al.|[2512.07461](http://arxiv.org/abs/2512.07461)|null|
+|**2025-12-08**|**Adaptive Tuning of Parameterized Traffic Controllers via Multi-Agent Reinforcement Learning**|Giray Önür et.al.|[2512.07417](http://arxiv.org/abs/2512.07417)|null|
+|**2025-12-08**|**Training Language Models to Use Prolog as a Tool**|Niklas Mellgren et.al.|[2512.07407](http://arxiv.org/abs/2512.07407)|null|
+|**2025-12-08**|**DeepAgent: A Dual Stream Multi Agent Fusion for Robust Multimodal Deepfake Detection**|Sayeem Been Zaman et.al.|[2512.07351](http://arxiv.org/abs/2512.07351)|null|
+|**2025-12-08**|**Towards Accurate UAV Image Perception: Guiding Vision-Language Models with Stronger Task Prompts**|Mingning Guo et.al.|[2512.07302](http://arxiv.org/abs/2512.07302)|null|
+|**2025-12-08**|**SIT-Graph: State Integrated Tool Graph for Multi-Turn Agents**|Sijia Li et.al.|[2512.07287](http://arxiv.org/abs/2512.07287)|null|
+|**2025-12-08**|**DART: Leveraging Multi-Agent Disagreement for Tool Recruitment in Multimodal Reasoning**|Nithin Sivakumaran et.al.|[2512.07132](http://arxiv.org/abs/2512.07132)|null|
+|**2025-12-08**|**Human Agency and Creativity in AI-Assisted Learning Environments**|Yun Dai et.al.|[2512.07117](http://arxiv.org/abs/2512.07117)|null|
+|**2025-12-08**|**VIGIL: A Reflective Runtime for Self-Healing Agents**|Christopher Cruz et.al.|[2512.07094](http://arxiv.org/abs/2512.07094)|null|
+|**2025-12-08**|**ClinNoteAgents: An LLM Multi-Agent System for Predicting and Interpreting Heart Failure 30-Day Readmission from Clinical Notes**|Rongjia Zhou et.al.|[2512.07081](http://arxiv.org/abs/2512.07081)|null|
+|**2025-12-07**|**MATEX: A Multi-Agent Framework for Explaining Ethereum Transactions**|Zifan Peng et.al.|[2512.06933](http://arxiv.org/abs/2512.06933)|null|
 |**2025-12-05**|**Strongly Coupled Quantum Forces**|Yuval Grossman et.al.|[2512.05968](http://arxiv.org/abs/2512.05968)|null|
 |**2025-12-05**|**Categorifying isomonodromic deformations via Lie groupoids I: Logarithmic singularities**|Waleed Qaisar et.al.|[2512.05966](http://arxiv.org/abs/2512.05966)|null|
 |**2025-12-05**|**Trusted AI Agents in the Cloud**|Teofil Bodea et.al.|[2512.05951](http://arxiv.org/abs/2512.05951)|null|
@@ -1162,6 +1182,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-08**|**Relational Visual Similarity**|Thao Nguyen et.al.|[2512.07833](http://arxiv.org/abs/2512.07833)|null|
+|**2025-12-08**|**Do Generalisation Results Generalise?**|Matteo Boglioni et.al.|[2512.07832](http://arxiv.org/abs/2512.07832)|null|
+|**2025-12-08**|**Provable Long-Range Benefits of Next-Token Prediction**|Xinyuan Cao et.al.|[2512.07818](http://arxiv.org/abs/2512.07818)|null|
+|**2025-12-08**|**Understanding Privacy Risks in Code Models Through Training Dynamics: A Causal Approach**|Hua Yang et.al.|[2512.07814](http://arxiv.org/abs/2512.07814)|null|
+|**2025-12-08**|**LLM Use for Mental Health: Crowdsourcing Users' Sentiment-based Perspectives and Values from Social Discussions**|Lingyao Li et.al.|[2512.07797](http://arxiv.org/abs/2512.07797)|null|
+|**2025-12-08**|**Large Causal Models from Large Language Models**|Sridhar Mahadevan et.al.|[2512.07796](http://arxiv.org/abs/2512.07796)|null|
+|**2025-12-08**|**ReasonBENCH: Benchmarking the (In)Stability of LLM Reasoning**|Nearchos Potamitis et.al.|[2512.07795](http://arxiv.org/abs/2512.07795)|null|
+|**2025-12-08**|**Automating High Energy Physics Data Analysis with LLM-Powered Agents**|Eli Gendreau-Distler et.al.|[2512.07785](http://arxiv.org/abs/2512.07785)|null|
+|**2025-12-08**|**On the Interplay of Pre-Training, Mid-Training, and RL on Reasoning Language Models**|Charlie Zhang et.al.|[2512.07783](http://arxiv.org/abs/2512.07783)|null|
+|**2025-12-08**|**GatedFWA: Linear Flash Windowed Attention with Gated Associative Memory**|Jiaxu Liu et.al.|[2512.07782](http://arxiv.org/abs/2512.07782)|null|
+|**2025-12-08**|**Distribution Matching Variational AutoEncoder**|Sen Ye et.al.|[2512.07778](http://arxiv.org/abs/2512.07778)|null|
+|**2025-12-08**|**Mary, the Cheeseburger-Eating Vegetarian: Do LLMs Recognize Incoherence in Narratives?**|Karin de Langis et.al.|[2512.07777](http://arxiv.org/abs/2512.07777)|null|
+|**2025-12-08**|**RL-MTJail: Reinforcement Learning for Automated Black-Box Multi-Turn Jailbreaking of Large Language Models**|Xiqiao Xiong et.al.|[2512.07761](http://arxiv.org/abs/2512.07761)|null|
+|**2025-12-08**|**SpatialDreamer: Incentivizing Spatial Reasoning via Active Mental Imagery**|Meng Cao et.al.|[2512.07733](http://arxiv.org/abs/2512.07733)|null|
+|**2025-12-08**|**SAVE: Sparse Autoencoder-Driven Visual Information Enhancement for Mitigating Object Hallucination**|Sangha Park et.al.|[2512.07730](http://arxiv.org/abs/2512.07730)|null|
+|**2025-12-08**|**Privacy Practices of Browser Agents**|Alisha Ukani et.al.|[2512.07725](http://arxiv.org/abs/2512.07725)|null|
+|**2025-12-08**|**In-Context and Few-Shots Learning for Forecasting Time Series Data based on Large Language Models**|Saroj Gopali et.al.|[2512.07705](http://arxiv.org/abs/2512.07705)|null|
+|**2025-12-08**|**HalluShift++: Bridging Language and Vision through Internal Representation Shifts for Hierarchical Hallucinations in MLLMs**|Sujoy Nath et.al.|[2512.07687](http://arxiv.org/abs/2512.07687)|null|
+|**2025-12-08**|**When Large Language Models Do Not Work: Online Incivility Prediction through Graph Neural Networks**|Zihan Chen et.al.|[2512.07684](http://arxiv.org/abs/2512.07684)|null|
+|**2025-12-08**|**Depth-Wise Activation Steering for Honest Language Models**|Gracjan Góral et.al.|[2512.07667](http://arxiv.org/abs/2512.07667)|null|
 |**2025-12-05**|**Enhancing Retrieval-Augmented Generation with Entity Linking for Educational Platforms**|Francesco Granata et.al.|[2512.05967](http://arxiv.org/abs/2512.05967)|null|
 |**2025-12-05**|**EditThinker: Unlocking Iterative Reasoning for Any Image Editor**|Hongyu Li et.al.|[2512.05965](http://arxiv.org/abs/2512.05965)|null|
 |**2025-12-05**|**Training-Time Action Conditioning for Efficient Real-Time Chunking**|Kevin Black et.al.|[2512.05964](http://arxiv.org/abs/2512.05964)|null|
@@ -1876,6 +1916,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-08**|**An Adaptive Multi-Layered Honeynet Architecture for Threat Behavior Analysis via Deep Learning**|Lukas Johannes Möller et.al.|[2512.07827](http://arxiv.org/abs/2512.07827)|null|
+|**2025-12-08**|**Trapped Fermions Through Kolmogorov-Arnold Wavefunctions**|Paulo F. Bedaque et.al.|[2512.07800](http://arxiv.org/abs/2512.07800)|null|
+|**2025-12-08**|**On the Interplay of Pre-Training, Mid-Training, and RL on Reasoning Language Models**|Charlie Zhang et.al.|[2512.07783](http://arxiv.org/abs/2512.07783)|null|
+|**2025-12-08**|**RL-MTJail: Reinforcement Learning for Automated Black-Box Multi-Turn Jailbreaking of Large Language Models**|Xiqiao Xiong et.al.|[2512.07761](http://arxiv.org/abs/2512.07761)|null|
+|**2025-12-08**|**DiffusionDriveV2: Reinforcement Learning-Constrained Truncated Diffusion Modeling in End-to-End Autonomous Driving**|Jialv Zou et.al.|[2512.07745](http://arxiv.org/abs/2512.07745)|null|
+|**2025-12-08**|**SpatialDreamer: Incentivizing Spatial Reasoning via Active Mental Imagery**|Meng Cao et.al.|[2512.07733](http://arxiv.org/abs/2512.07733)|null|
+|**2025-12-08**|**Each Prompt Matters: Scaling Reinforcement Learning Without Wasting Rollouts on Hundred-Billion-Scale MoE**|Anxiang Zeng et.al.|[2512.07710](http://arxiv.org/abs/2512.07710)|null|
+|**2025-12-08**|**Delay-Aware Diffusion Policy: Bridging the Observation-Execution Gap in Dynamic Tasks**|Aileen Liao et.al.|[2512.07697](http://arxiv.org/abs/2512.07697)|null|
+|**2025-12-08**|**Prospects for measuring electroweak production of $Zγγ$ and 2 jets at the LHC**|Ran Ding et.al.|[2512.07689](http://arxiv.org/abs/2512.07689)|null|
+|**2025-12-08**|**Observability of eccentricity in a population of merging compact binaries**|Mukesh Kumar Singh et.al.|[2512.07688](http://arxiv.org/abs/2512.07688)|null|
+|**2025-12-08**|**The Agent Capability Problem: Predicting Solvability Through Information-Theoretic Bounds**|Shahar Lutati et.al.|[2512.07631](http://arxiv.org/abs/2512.07631)|null|
+|**2025-12-08**|**Comparative Analysis and Parametric Tuning of PPO, GRPO, and DAPO for LLM Reasoning Enhancement**|Yongsheng Lian et.al.|[2512.07611](http://arxiv.org/abs/2512.07611)|null|
+|**2025-12-08**|**Critical Density-Wave Vestigial Phases of Commensurate Pair Density Wave**|Chu-Tian Gao et.al.|[2512.07591](http://arxiv.org/abs/2512.07591)|null|
+|**2025-12-08**|**Understanding Individual Decision-Making in Multi-Agent Reinforcement Learning: A Dynamical Systems Approach**|James Rudd-Jones et.al.|[2512.07588](http://arxiv.org/abs/2512.07588)|null|
+|**2025-12-08**|**LongCat-Image Technical Report**|Meituan LongCat Team et.al.|[2512.07584](http://arxiv.org/abs/2512.07584)|null|
+|**2025-12-08**|**ReLaX: Reasoning with Latent Exploration for Large Reasoning Models**|Shimin Zhang et.al.|[2512.07558](http://arxiv.org/abs/2512.07558)|null|
+|**2025-12-08**|**Model-Based Reinforcement Learning Under Confounding**|Nishanth Venkatesh et.al.|[2512.07528](http://arxiv.org/abs/2512.07528)|null|
+|**2025-12-08**|**How Do LLMs Fail In Agentic Scenarios? A Qualitative Analysis of Success and Failure Scenarios of Various LLMs in Agentic Simulations**|JV Roig et.al.|[2512.07497](http://arxiv.org/abs/2512.07497)|null|
+|**2025-12-08**|**Enhancing Agentic RL with Progressive Reward Shaping and Value-based Sampling Policy Optimization**|Zhuoran Zhuang et.al.|[2512.07478](http://arxiv.org/abs/2512.07478)|null|
+|**2025-12-08**|**Recovery of the optimal control value function in reproducing kernel Hilbert spaces from verification conditions**|Tobias Ehring et.al.|[2512.07477](http://arxiv.org/abs/2512.07477)|null|
 |**2025-12-05**|**EditThinker: Unlocking Iterative Reasoning for Any Image Editor**|Hongyu Li et.al.|[2512.05965](http://arxiv.org/abs/2512.05965)|null|
 |**2025-12-05**|**Whatever Remains Must Be True: Filtering Drives Reasoning in LLMs, Shaping Diversity**|Germán Kruszewski et.al.|[2512.05962](http://arxiv.org/abs/2512.05962)|null|
 |**2025-12-05**|**MaxShapley: Towards Incentive-compatible Generative Search with Fair Context Attribution**|Sara Patel et.al.|[2512.05958](http://arxiv.org/abs/2512.05958)|null|
