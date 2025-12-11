@@ -16,6 +16,20 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-10**|**VisualActBench: Can VLMs See and Act like a Human?**|Daoan Zhang et.al.|[2512.09907](http://arxiv.org/abs/2512.09907)|null|
+|**2025-12-10**|**Comparing AI Agents to Cybersecurity Professionals in Real-World Penetration Testing**|Justin W. Lin et.al.|[2512.09882](http://arxiv.org/abs/2512.09882)|null|
+|**2025-12-10**|**UrbanNav: Learning Language-Guided Urban Navigation from Web-Scale Human Trajectories**|Yanghong Mei et.al.|[2512.09607](http://arxiv.org/abs/2512.09607)|null|
+|**2025-12-10**|**SWEnergy: An Empirical Study on Energy Efficiency in Agentic Issue Resolution Frameworks with SLMs**|Arihant Tripathy et.al.|[2512.09543](http://arxiv.org/abs/2512.09543)|null|
+|**2025-12-10**|**Architectures for Building Agentic AI**|Sławomir Nowaczyk et.al.|[2512.09458](http://arxiv.org/abs/2512.09458)|null|
+|**2025-12-10**|**GAIR: GUI Automation via Information-Joint Reasoning and Group Reflection**|Zishu Wei et.al.|[2512.09396](http://arxiv.org/abs/2512.09396)|null|
+|**2025-12-10**|**Optimizing Data Extraction from Materials Science Literature: A Study of Tools Using Large Language Models**|Wenkai Ning et.al.|[2512.09370](http://arxiv.org/abs/2512.09370)|null|
+|**2025-12-10**|**ObliInjection: Order-Oblivious Prompt Injection Attack to LLM Agents with Multi-source Data**|Ruiqi Wang et.al.|[2512.09321](http://arxiv.org/abs/2512.09321)|null|
+|**2025-12-10**|**Scene-agnostic Hierarchical Bimanual Task Planning via Visual Affordance Reasoning**|Kwang Bin Lee et.al.|[2512.09310](http://arxiv.org/abs/2512.09310)|null|
+|**2025-12-10**|**The Illusion of Rationality: Tacit Bias and Strategic Dominance in Frontier LLM Negotiation Games**|Manuel S. Ríos et.al.|[2512.09254](http://arxiv.org/abs/2512.09254)|null|
+|**2025-12-09**|**WOLF: Werewolf-based Observations for LLM Deception and Falsehoods**|Mrinal Agarwal et.al.|[2512.09187](http://arxiv.org/abs/2512.09187)|null|
+|**2025-12-09**|**Evolving Excellence: Automated Optimization of LLM-based Agents**|Paul Brookes et.al.|[2512.09108](http://arxiv.org/abs/2512.09108)|null|
+|**2025-12-09**|**Mental Models of Autonomy and Sentience Shape Reactions to AI**|Janet V. T. Pauketat et.al.|[2512.09085](http://arxiv.org/abs/2512.09085)|null|
+|**2025-12-09**|**AgentComp: From Agentic Reasoning to Compositional Mastery in Text-to-Image Models**|Arman Zarei et.al.|[2512.09081](http://arxiv.org/abs/2512.09081)|null|
 |**2025-12-09**|**Fed-SE: Federated Self-Evolution for Privacy-Constrained Multi-Environment LLM Agents**|Xiang Chen et.al.|[2512.08870](http://arxiv.org/abs/2512.08870)|null|
 |**2025-12-09**|**A Practical Guide for Designing, Developing, and Deploying Production-Grade Agentic AI Workflows**|Eranga Bandara et.al.|[2512.08769](http://arxiv.org/abs/2512.08769)|null|
 |**2025-12-09**|**Difference-in-Differences with Interval Data**|Daisuke Kurisu et.al.|[2512.08759](http://arxiv.org/abs/2512.08759)|null|
@@ -1195,6 +1209,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-10**|**ReViSE: Towards Reason-Informed Video Editing in Unified Models with Self-Reflective Learning**|Xinyu Liu et.al.|[2512.09924](http://arxiv.org/abs/2512.09924)|null|
+|**2025-12-10**|**Supervised learning pays attention**|Erin Craig et.al.|[2512.09912](http://arxiv.org/abs/2512.09912)|null|
+|**2025-12-10**|**Efficient Continual Learning in Neural Machine Translation: A Low-Rank Adaptation Approach**|Salvador Carrión et.al.|[2512.09910](http://arxiv.org/abs/2512.09910)|null|
+|**2025-12-10**|**VisualActBench: Can VLMs See and Act like a Human?**|Daoan Zhang et.al.|[2512.09907](http://arxiv.org/abs/2512.09907)|null|
+|**2025-12-10**|**SCOPE: Language Models as One-Time Teacher for Hierarchical Planning in Text Environments**|Haoye Lu et.al.|[2512.09897](http://arxiv.org/abs/2512.09897)|null|
+|**2025-12-10**|**Exploring Protein Language Model Architecture-Induced Biases for Antibody Comprehension**|Mengren et.al.|[2512.09894](http://arxiv.org/abs/2512.09894)|null|
+|**2025-12-10**|**Provably Learning from Modern Language Models via Low Logit Rank**|Noah Golowich et.al.|[2512.09892](http://arxiv.org/abs/2512.09892)|null|
+|**2025-12-10**|**HPM-KD: Hierarchical Progressive Multi-Teacher Framework for Knowledge Distillation and Efficient Model Compression**|Gustavo Coelho Haase et.al.|[2512.09886](http://arxiv.org/abs/2512.09886)|null|
+|**2025-12-10**|**Benchmarking Document Parsers on Mathematical Formula Extraction from PDFs**|Pius Horn et.al.|[2512.09874](http://arxiv.org/abs/2512.09874)|null|
+|**2025-12-10**|**FlipLLM: Efficient Bit-Flip Attacks on Multimodal LLMs using Reinforcement Learning**|Khurram Khalil et.al.|[2512.09872](http://arxiv.org/abs/2512.09872)|null|
+|**2025-12-10**|**MedForget: Hierarchy-Aware Multimodal Unlearning Testbed for Medical AI**|Fengli Wu et.al.|[2512.09867](http://arxiv.org/abs/2512.09867)|null|
+|**2025-12-10**|**UniUGP: Unifying Understanding, Generation, and Planing For End-to-end Autonomous Driving**|Hao Lu et.al.|[2512.09864](http://arxiv.org/abs/2512.09864)|null|
+|**2025-12-10**|**Mitigating Social Bias in English and Urdu Language Models Using PRM-Guided Candidate Selection and Sequential Refinement**|Muneeb Ur Raheem Khan et.al.|[2512.09854](http://arxiv.org/abs/2512.09854)|null|
+|**2025-12-10**|**ChronusOmni: Improving Time Awareness of Omni Large Language Models**|Yijing Chen et.al.|[2512.09841](http://arxiv.org/abs/2512.09841)|null|
+|**2025-12-10**|**LLMs in Interpreting Legal Documents**|Simone Corbo et.al.|[2512.09830](http://arxiv.org/abs/2512.09830)|null|
+|**2025-12-10**|**RIFT: A Scalable Methodology for LLM Accelerator Fault Assessment using Reinforcement Learning**|Khurram Khalil et.al.|[2512.09829](http://arxiv.org/abs/2512.09829)|null|
+|**2025-12-10**|**DynaIP: Dynamic Image Prompt Adapter for Scalable Zero-shot Personalized Text-to-Image Generation**|Zhizhong Wang et.al.|[2512.09814](http://arxiv.org/abs/2512.09814)|null|
+|**2025-12-10**|**M3Net: A Multi-Metric Mixture of Experts Network Digital Twin with Graph Neural Networks**|Blessed Guda et.al.|[2512.09797](http://arxiv.org/abs/2512.09797)|null|
+|**2025-12-10**|**DeepSeek's WEIRD Behavior: The cultural alignment of Large Language Models and the effects of prompt language and cultural prompting**|James Luther et.al.|[2512.09772](http://arxiv.org/abs/2512.09772)|null|
+|**2025-12-10**|**Defining Cost Function of Steganography with Large Language Models**|Hanzhou Wu et.al.|[2512.09769](http://arxiv.org/abs/2512.09769)|null|
 |**2025-12-09**|**Same Content, Different Answers: Cross-Modal Inconsistency in MLLMs**|Angela van Sprang et.al.|[2512.08923](http://arxiv.org/abs/2512.08923)|null|
 |**2025-12-09**|**Unified Diffusion Transformer for High-fidelity Text-Aware Image Restoration**|Jin Hyeon Kim et.al.|[2512.08922](http://arxiv.org/abs/2512.08922)|null|
 |**2025-12-09**|**Revisiting the Scaling Properties of Downstream Metrics in Large Language Model Training**|Jakub Krajewski et.al.|[2512.08894](http://arxiv.org/abs/2512.08894)|null|
@@ -1947,6 +1981,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-10**|**STACHE: Local Black-Box Explanations for Reinforcement Learning Policies**|Andrew Elashkin et.al.|[2512.09909](http://arxiv.org/abs/2512.09909)|null|
+|**2025-12-10**|**FlipLLM: Efficient Bit-Flip Attacks on Multimodal LLMs using Reinforcement Learning**|Khurram Khalil et.al.|[2512.09872](http://arxiv.org/abs/2512.09872)|null|
+|**2025-12-10**|**Simultaneous Tactile-Visual Perception for Learning Multimodal Robot Manipulation**|Yuyang Li et.al.|[2512.09851](http://arxiv.org/abs/2512.09851)|null|
+|**2025-12-10**|**ChronusOmni: Improving Time Awareness of Omni Large Language Models**|Yijing Chen et.al.|[2512.09841](http://arxiv.org/abs/2512.09841)|null|
+|**2025-12-10**|**RIFT: A Scalable Methodology for LLM Accelerator Fault Assessment using Reinforcement Learning**|Khurram Khalil et.al.|[2512.09829](http://arxiv.org/abs/2512.09829)|null|
+|**2025-12-10**|**Prefrontal scaling of reward prediction error readout gates reinforcement-derived adaptive behavior in primates**|Tian Sang et.al.|[2512.09761](http://arxiv.org/abs/2512.09761)|null|
+|**2025-12-10**|**MOA: Multi-Objective Alignment for Role-Playing Agents**|Chonghua Liao et.al.|[2512.09756](http://arxiv.org/abs/2512.09756)|null|
+|**2025-12-10**|**Dimensional crossover and finite-range effects in a quasi-two-dimensional gas of fermionic dimers**|Giovanni Midei et.al.|[2512.09753](http://arxiv.org/abs/2512.09753)|null|
+|**2025-12-10**|**Tachyonic dark energy- Constraints from current observations**|Ramanpreet Singh et.al.|[2512.09744](http://arxiv.org/abs/2512.09744)|null|
+|**2025-12-10**|**Gaussian Process Aggregation for Root-Parallel Monte Carlo Tree Search with Continuous Actions**|Junlin Xiao et.al.|[2512.09727](http://arxiv.org/abs/2512.09727)|null|
+|**2025-12-10**|**Bayesian Model Selection with an Application to Cosmology**|Nikoloz Gigiberia et.al.|[2512.09724](http://arxiv.org/abs/2512.09724)|null|
+|**2025-12-10**|**Flexible Reconfigurable Intelligent Surface-Aided Covert Communications in UAV Networks**|Chong Huang et.al.|[2512.09714](http://arxiv.org/abs/2512.09714)|null|
+|**2025-12-10**|**Training One Model to Master Cross-Level Agentic Actions via Reinforcement Learning**|Kaichen He et.al.|[2512.09706](http://arxiv.org/abs/2512.09706)|null|
+|**2025-12-10**|**Dynamic one-time delivery of critical data by small and sparse UAV swarms: a model problem for MARL scaling studies**|Mika Persson et.al.|[2512.09682](http://arxiv.org/abs/2512.09682)|null|
+|**2025-12-10**|**d-TreeRPO: Towards More Reliable Policy Optimization for Diffusion Language Models**|Leyi Pan et.al.|[2512.09675](http://arxiv.org/abs/2512.09675)|null|
+|**2025-12-10**|**A Monotone--Operator Proof of Existence and Uniqueness for a Simple Stationary Mean Field Game**|Hikmatullo Ismatov et.al.|[2512.09671](http://arxiv.org/abs/2512.09671)|null|
+|**2025-12-10**|**Persistent Cycle Representatives and Generalized Landscapes for Codimension 1 Persistent Homology**|Fabian Lenzen et.al.|[2512.09668](http://arxiv.org/abs/2512.09668)|null|
+|**2025-12-10**|**SynthPix: A lightspeed PIV images generator**|Antonio Terpin et.al.|[2512.09664](http://arxiv.org/abs/2512.09664)|null|
+|**2025-12-10**|**Theoretical Characterization of the Magnetic Properties of Vanadium-doped Ti2C MXenes**|Carlos Patiño et.al.|[2512.09657](http://arxiv.org/abs/2512.09657)|null|
+|**2025-12-10**|**Graph-Based Bayesian Optimization for Quantum Circuit Architecture Search with Uncertainty Calibrated Surrogates**|Prashant Kumar Choudhary et.al.|[2512.09586](http://arxiv.org/abs/2512.09586)|null|
 |**2025-12-09**|**No Labels, No Problem: Training Visual Reasoners with Multimodal Verifiers**|Damiano Marsili et.al.|[2512.08889](http://arxiv.org/abs/2512.08889)|null|
 |**2025-12-09**|**IPPO Learns the Game, Not the Team: A Study on Generalization in Heterogeneous Agent Teams**|Ryan LeRoy et.al.|[2512.08877](http://arxiv.org/abs/2512.08877)|null|
 |**2025-12-09**|**Toward Quantitative Modeling of Cybersecurity Risks Due to AI Misuse**|Steve Barrett et.al.|[2512.08864](http://arxiv.org/abs/2512.08864)|null|
