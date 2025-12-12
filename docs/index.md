@@ -16,10 +16,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-11**|**Asynchronous Reasoning: Training-Free Interactive Thinking LLMs**|George Yakushev et.al.|[2512.10931](http://arxiv.org/abs/2512.10931)|null|
+|**2025-12-11**|**CompanionCast: A Multi-Agent Conversational AI Framework with Spatial Audio for Social Co-Viewing Experiences**|Yiyang Wang et.al.|[2512.10918](http://arxiv.org/abs/2512.10918)|null|
+|**2025-12-11**|**Opportunities and Challenges in Harnessing Digital Technology for Effective Teaching and Learning**|Zhongzhou Chen et.al.|[2512.10777](http://arxiv.org/abs/2512.10777)|null|
+|**2025-12-11**|**Remember Me, Refine Me: A Dynamic Procedural Memory Framework for Experience-Driven Agent Evolution**|Zouying Cao et.al.|[2512.10696](http://arxiv.org/abs/2512.10696)|null|
+|**2025-12-11**|**On the ground state of the nonlinear Schr{ö}dinger equation: asymptotic behavior at the endpoint powers**|Rémi Carles et.al.|[2512.10690](http://arxiv.org/abs/2512.10690)|null|
+|**2025-12-11**|**LEO-RobotAgent: A General-purpose Robotic Agent for Language-driven Embodied Operator**|Lihuang Chen et.al.|[2512.10605](http://arxiv.org/abs/2512.10605)|null|
+|**2025-12-11**|**Achieving Olympia-Level Geometry Large Language Model Agent via Complexity Boosting Reinforcement Learning**|Haiteng Zhao et.al.|[2512.10534](http://arxiv.org/abs/2512.10534)|null|
+|**2025-12-11**|**Zero-shot 3D Map Generation with LLM Agents: A Dual-Agent Architecture for Procedural Content Generation**|Lim Chien Her et.al.|[2512.10501](http://arxiv.org/abs/2512.10501)|null|
+|**2025-12-11**|**Confucius Code Agent: An Open-sourced AI Software Engineer at Industrial Scale**|Zhaodong Wang et.al.|[2512.10398](http://arxiv.org/abs/2512.10398)|null|
+|**2025-12-11**|**Cross-modal Retrieval Models for Stripped Binary Analysis**|Guoqiang Chen et.al.|[2512.10393](http://arxiv.org/abs/2512.10393)|null|
+|**2025-12-11**|**EpiPlanAgent: Agentic Automated Epidemic Response Planning**|Kangkun Mao et.al.|[2512.10313](http://arxiv.org/abs/2512.10313)|null|
+|**2025-12-11**|**CP-Env: Evaluating Large Language Models on Clinical Pathways in a Controllable Hospital Environment**|Yakun Zhu et.al.|[2512.10206](http://arxiv.org/abs/2512.10206)|null|
+|**2025-12-11**|**AutoMedic: An Automated Evaluation Framework for Clinical Conversational Agents with Medical Dataset Grounding**|Gyutaek Oh et.al.|[2512.10195](http://arxiv.org/abs/2512.10195)|null|
+|**2025-12-11**|**SWEnergy: An Empirical Study on Energy Efficiency in Agentic Issue Resolution Frameworks with SLMs**|Arihant Tripathy et.al.|[2512.09543](http://arxiv.org/abs/2512.09543)|null|
+|**2025-12-10**|**Workflow is All You Need: Escaping the "Statistical Smoothing Trap" via High-Entropy Information Foraging and Adversarial Pacing**|Zhongjie Jiang et.al.|[2512.10121](http://arxiv.org/abs/2512.10121)|null|
+|**2025-12-10**|**Detailed balance in large language model-driven agents**|Zhuo-Yang Song et.al.|[2512.10047](http://arxiv.org/abs/2512.10047)|null|
+|**2025-12-10**|**DynaMate: An Autonomous Agent for Protein-Ligand Molecular Dynamics Simulations**|Salomé Guilbert et.al.|[2512.10034](http://arxiv.org/abs/2512.10034)|null|
 |**2025-12-10**|**VisualActBench: Can VLMs See and Act like a Human?**|Daoan Zhang et.al.|[2512.09907](http://arxiv.org/abs/2512.09907)|null|
 |**2025-12-10**|**Comparing AI Agents to Cybersecurity Professionals in Real-World Penetration Testing**|Justin W. Lin et.al.|[2512.09882](http://arxiv.org/abs/2512.09882)|null|
 |**2025-12-10**|**UrbanNav: Learning Language-Guided Urban Navigation from Web-Scale Human Trajectories**|Yanghong Mei et.al.|[2512.09607](http://arxiv.org/abs/2512.09607)|null|
-|**2025-12-10**|**SWEnergy: An Empirical Study on Energy Efficiency in Agentic Issue Resolution Frameworks with SLMs**|Arihant Tripathy et.al.|[2512.09543](http://arxiv.org/abs/2512.09543)|null|
 |**2025-12-10**|**Architectures for Building Agentic AI**|Sławomir Nowaczyk et.al.|[2512.09458](http://arxiv.org/abs/2512.09458)|null|
 |**2025-12-10**|**GAIR: GUI Automation via Information-Joint Reasoning and Group Reflection**|Zishu Wei et.al.|[2512.09396](http://arxiv.org/abs/2512.09396)|null|
 |**2025-12-10**|**Optimizing Data Extraction from Materials Science Literature: A Study of Tools Using Large Language Models**|Wenkai Ning et.al.|[2512.09370](http://arxiv.org/abs/2512.09370)|null|
@@ -1209,6 +1225,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-11**|**Towards Efficient and Effective Multi-Camera Encoding for End-to-End Driving**|Jiawei Yang et.al.|[2512.10947](http://arxiv.org/abs/2512.10947)|null|
+|**2025-12-11**|**VL-JEPA: Joint Embedding Predictive Architecture for Vision-language**|Delong Chen et.al.|[2512.10942](http://arxiv.org/abs/2512.10942)|null|
+|**2025-12-11**|**BabyVLM-V2: Toward Developmentally Grounded Pretraining and Benchmarking of Vision Foundation Models**|Shengao Wang et.al.|[2512.10932](http://arxiv.org/abs/2512.10932)|null|
+|**2025-12-11**|**Asynchronous Reasoning: Training-Free Interactive Thinking LLMs**|George Yakushev et.al.|[2512.10931](http://arxiv.org/abs/2512.10931)|null|
+|**2025-12-11**|**FoundationMotion: Auto-Labeling and Reasoning about Spatial Movement in Videos**|Yulu Gan et.al.|[2512.10927](http://arxiv.org/abs/2512.10927)|null|
+|**2025-12-11**|**SparseSwaps: Tractable LLM Pruning Mask Refinement at Scale**|Max Zimmer et.al.|[2512.10922](http://arxiv.org/abs/2512.10922)|null|
+|**2025-12-11**|**Multi-Granular Node Pruning for Circuit Discovery**|Muhammad Umair Haider et.al.|[2512.10903](http://arxiv.org/abs/2512.10903)|null|
+|**2025-12-11**|**LLMs Can Assist with Proposal Selection at Large User Facilities**|Lijie Ding et.al.|[2512.10895](http://arxiv.org/abs/2512.10895)|null|
+|**2025-12-11**|**DuetSVG: Unified Multimodal SVG Generation with Internal Visual Guidance**|Peiying Zhang et.al.|[2512.10894](http://arxiv.org/abs/2512.10894)|null|
+|**2025-12-11**|**PubTables-v2: A new large-scale dataset for full-page and multi-page table extraction**|Brandon Smock et.al.|[2512.10888](http://arxiv.org/abs/2512.10888)|null|
+|**2025-12-11**|**Computational emotion analysis with multimodal LLMs: Current evidence on an emerging methodological opportunity**|Hauke Licht et.al.|[2512.10882](http://arxiv.org/abs/2512.10882)|null|
+|**2025-12-11**|**Guided Transfer Learning for Discrete Diffusion Models**|Julian Kleutgens et.al.|[2512.10877](http://arxiv.org/abs/2512.10877)|null|
+|**2025-12-11**|**From Macro to Micro: Benchmarking Microscopic Spatial Intelligence on Molecules via Vision-Language Models**|Zongzhao Li et.al.|[2512.10867](http://arxiv.org/abs/2512.10867)|null|
+|**2025-12-11**|**MMSI-Video-Bench: A Holistic Benchmark for Video-Based Spatial Intelligence**|Jingli Lin et.al.|[2512.10863](http://arxiv.org/abs/2512.10863)|null|
+|**2025-12-11**|**Scaling Behavior of Discrete Diffusion Language Models**|Dimitri von Rütte et.al.|[2512.10858](http://arxiv.org/abs/2512.10858)|null|
+|**2025-12-11**|**Large Language Models for Superconductor Discovery**|Suman Itani et.al.|[2512.10847](http://arxiv.org/abs/2512.10847)|null|
+|**2025-12-11**|**LabelFusion: Learning to Fuse LLMs and Transformer Classifiers for Robust Text Classification**|Michael Schlee et.al.|[2512.10793](http://arxiv.org/abs/2512.10793)|null|
+|**2025-12-11**|**The FACTS Leaderboard: A Comprehensive Benchmark for Large Language Model Factuality**|Aileen Cheng et.al.|[2512.10791](http://arxiv.org/abs/2512.10791)|null|
+|**2025-12-11**|**Natural Language Interface for Firewall Configuration**|F. Taghiyev et.al.|[2512.10789](http://arxiv.org/abs/2512.10789)|null|
+|**2025-12-11**|**Developing and Evaluating a Large Language Model-Based Automated Feedback System Grounded in Evidence-Centered Design for Supporting Physics Problem Solving**|Holger Maus et.al.|[2512.10785](http://arxiv.org/abs/2512.10785)|null|
 |**2025-12-10**|**ReViSE: Towards Reason-Informed Video Editing in Unified Models with Self-Reflective Learning**|Xinyu Liu et.al.|[2512.09924](http://arxiv.org/abs/2512.09924)|null|
 |**2025-12-10**|**Supervised learning pays attention**|Erin Craig et.al.|[2512.09912](http://arxiv.org/abs/2512.09912)|null|
 |**2025-12-10**|**Efficient Continual Learning in Neural Machine Translation: A Low-Rank Adaptation Approach**|Salvador Carrión et.al.|[2512.09910](http://arxiv.org/abs/2512.09910)|null|
@@ -1981,6 +2017,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-11**|**Are We Ready for RL in Text-to-3D Generation? A Progressive Investigation**|Yiwen Tang et.al.|[2512.10949](http://arxiv.org/abs/2512.10949)|null|
+|**2025-12-11**|**Curriculum-Based Reinforcement Learning for Autonomous UAV Navigation in Unknown Curved Tubular Conduit**|Zamirddine Mari et.al.|[2512.10934](http://arxiv.org/abs/2512.10934)|null|
+|**2025-12-11**|**Digital Twin Supervised Reinforcement Learning Framework for Autonomous Underwater Navigation**|Zamirddine Mari et.al.|[2512.10925](http://arxiv.org/abs/2512.10925)|null|
+|**2025-12-11**|**Reinforcement Learning in Financial Decision Making: A Systematic Review of Performance, Challenges, and Implementation Strategies**|Mohammad Rezoanul Hoque et.al.|[2512.10913](http://arxiv.org/abs/2512.10913)|null|
+|**2025-12-11**|**Iterative Compositional Data Generation for Robot Control**|Anh-Quan Pham et.al.|[2512.10891](http://arxiv.org/abs/2512.10891)|null|
+|**2025-12-11**|**Impact of geometry on 1D molecular-kinetics simulations of acoustic-gravity wave propagation into the exosphere**|Jose A. Perez Chavez et.al.|[2512.10887](http://arxiv.org/abs/2512.10887)|null|
+|**2025-12-11**|**Bayesian Symbolic Regression via Posterior Sampling**|Geoffrey F. Bomarito et.al.|[2512.10849](http://arxiv.org/abs/2512.10849)|null|
+|**2025-12-11**|**Learning Controllable and Diverse Player Behaviors in Multi-Agent Environments**|Atahan Cilan et.al.|[2512.10835](http://arxiv.org/abs/2512.10835)|null|
+|**2025-12-11**|**V-OCBF: Learning Safety Filters from Offline Data via Value-Guided Offline Control Barrier Functions**|Mumuksh Tayal et.al.|[2512.10822](http://arxiv.org/abs/2512.10822)|null|
+|**2025-12-11**|**Complexity and multi-functional variants of the Quantum-to-Quantum Bernoulli Factories**|Francesco Hoch et.al.|[2512.10810](http://arxiv.org/abs/2512.10810)|null|
+|**2025-12-11**|**OPV: Outcome-based Process Verifier for Efficient Long Chain-of-Thought Verification**|Zijian Wu et.al.|[2512.10756](http://arxiv.org/abs/2512.10756)|null|
+|**2025-12-11**|**Learning to Split: A Reinforcement-Learning-Guided Splitting Heuristic for Neural Network Verification**|Maya Swisa et.al.|[2512.10747](http://arxiv.org/abs/2512.10747)|null|
+|**2025-12-11**|**Long-horizon Reasoning Agent for Olympiad-Level Mathematical Problem Solving**|Songyang Gao et.al.|[2512.10739](http://arxiv.org/abs/2512.10739)|null|
+|**2025-12-11**|**Disperon QED**|Yizhou Fang et.al.|[2512.10709](http://arxiv.org/abs/2512.10709)|null|
+|**2025-12-11**|**How to Brake? Ethical Emergency Braking with Deep Reinforcement Learning**|Jianbo Wang et.al.|[2512.10698](http://arxiv.org/abs/2512.10698)|null|
+|**2025-12-11**|**Enhancing Radiology Report Generation and Visual Grounding using Reinforcement Learning**|Benjamin Gundersen et.al.|[2512.10691](http://arxiv.org/abs/2512.10691)|null|
+|**2025-12-11**|**A Cryogenic Muon Tagging System Based on Kinetic Inductance Detectors for Superconducting Quantum Processors**|Ambra Mariani et.al.|[2512.10679](http://arxiv.org/abs/2512.10679)|null|
+|**2025-12-11**|**AgriGPT-Omni: A Unified Speech-Vision-Text Framework for Multilingual Agricultural Intelligence**|Bo Yang et.al.|[2512.10624](http://arxiv.org/abs/2512.10624)|null|
+|**2025-12-11**|**Dynamics of multidimensional Simple Clock Auctions**|Jad Zeroual et.al.|[2512.10614](http://arxiv.org/abs/2512.10614)|null|
+|**2025-12-11**|**Multi-Objective Reward and Preference Optimization: Theory and Algorithms**|Akhil Agnihotri et.al.|[2512.10601](http://arxiv.org/abs/2512.10601)|null|
 |**2025-12-10**|**STACHE: Local Black-Box Explanations for Reinforcement Learning Policies**|Andrew Elashkin et.al.|[2512.09909](http://arxiv.org/abs/2512.09909)|null|
 |**2025-12-10**|**FlipLLM: Efficient Bit-Flip Attacks on Multimodal LLMs using Reinforcement Learning**|Khurram Khalil et.al.|[2512.09872](http://arxiv.org/abs/2512.09872)|null|
 |**2025-12-10**|**Simultaneous Tactile-Visual Perception for Learning Multimodal Robot Manipulation**|Yuyang Li et.al.|[2512.09851](http://arxiv.org/abs/2512.09851)|null|
