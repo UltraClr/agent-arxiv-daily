@@ -21,6 +21,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-15**|**AgentIAD: Tool-Augmented Single-Agent for Industrial Anomaly Detection**|Junwen Miao et.al.|[2512.13671](http://arxiv.org/abs/2512.13671)|null|
+|**2025-12-15**|**Memory in the Age of AI Agents**|Yuyang Hu et.al.|[2512.13564](http://arxiv.org/abs/2512.13564)|null|
+|**2025-12-15**|**Async Control: Stress-testing Asynchronous Control Measures for LLM Agents**|Asa Cooper Stickland et.al.|[2512.13526](http://arxiv.org/abs/2512.13526)|null|
+|**2025-12-15**|**From User Interface to Agent Interface: Efficiency Optimization of UI Representations for LLM Agents**|Dezhi Ran et.al.|[2512.13438](http://arxiv.org/abs/2512.13438)|null|
+|**2025-12-15**|**Differentiable Evolutionary Reinforcement Learning**|Sitao Cheng et.al.|[2512.13399](http://arxiv.org/abs/2512.13399)|null|
+|**2025-12-15**|**MedInsightBench: Evaluating Medical Analytics Agents Through Multi-Step Insight Discovery in Multimodal Medical Data**|Zhenghao Zhu et.al.|[2512.13297](http://arxiv.org/abs/2512.13297)|null|
+|**2025-12-15**|**AutoTool: Dynamic Tool Selection and Integration for Agentic Reasoning**|Jiaru Zou et.al.|[2512.13278](http://arxiv.org/abs/2512.13278)|null|
+|**2025-12-15**|**Toward Ambulatory Vision: Learning Visually-Grounded Active View Selection**|Juil Koo et.al.|[2512.13250](http://arxiv.org/abs/2512.13250)|null|
+|**2025-12-15**|**Finch: Benchmarking Finance & Accounting across Spreadsheet-Centric Enterprise Workflows**|Haoyu Dong et.al.|[2512.13168](http://arxiv.org/abs/2512.13168)|null|
+|**2025-12-15**|**SpeakRL: Synergizing Reasoning, Speaking, and Acting in Language Models with Reinforcement Learning**|Emre Can Acikgoz et.al.|[2512.13159](http://arxiv.org/abs/2512.13159)|null|
+|**2025-12-15**|**MAC: A Multi-Agent Framework for Interactive User Clarification in Multi-turn Conversations**|Emre Can Acikgoz et.al.|[2512.13154](http://arxiv.org/abs/2512.13154)|null|
+|**2025-12-15**|**Motus: A Unified Latent Action World Model**|Hongzhe Bi et.al.|[2512.13030](http://arxiv.org/abs/2512.13030)|null|
+|**2025-12-15**|**Safe Control of Multi-Agent Systems with Minimal Communication**|Mo Yang et.al.|[2512.13021](http://arxiv.org/abs/2512.13021)|null|
+|**2025-12-15**|**Quantigence: A Multi-Agent AI Framework for Quantum Security Research**|Abdulmalik Alquwayfili et.al.|[2512.12989](http://arxiv.org/abs/2512.12989)|null|
+|**2025-12-15**|**QwenLong-L1.5: Post-Training Recipe for Long-Context Reasoning and Memory Management**|Weizhou Shen et.al.|[2512.12967](http://arxiv.org/abs/2512.12967)|null|
+|**2025-12-15**|**Building from Scratch: A Multi-Agent Framework with Human-in-the-Loop for Multilingual Legal Terminology Mapping**|Lingyi Meng et.al.|[2512.12950](http://arxiv.org/abs/2512.12950)|null|
+|**2025-12-14**|**Fault-Tolerant Sandboxing for AI Coding Agents: A Transactional Approach to Safe Autonomous Execution**|Boyang Yan et.al.|[2512.12806](http://arxiv.org/abs/2512.12806)|null|
+|**2025-12-14**|**Beyond Task Completion: An Assessment Framework for Evaluating Agentic AI Systems**|Sreemaee Akshathala et.al.|[2512.12791](http://arxiv.org/abs/2512.12791)|null|
+|**2025-12-14**|**NL2Repo-Bench: Towards Long-Horizon Repository Generation Evaluation of Coding Agents**|Jingzhe Ding et.al.|[2512.12730](http://arxiv.org/abs/2512.12730)|null|
+|**2025-12-14**|**Towards AI Agents Supported Research Problem Formulation**|Anrafel Fernandes Pereira et.al.|[2512.12719](http://arxiv.org/abs/2512.12719)|null|
 |**2025-12-12**|**Evaluating Cooperative Resilience in Multiagent Systems: A Comparison Between Humans and LLMs**|Manuela Chacon-Chamorro et.al.|[2512.11689](http://arxiv.org/abs/2512.11689)|null|
 |**2025-12-12**|**MedAI: Evaluating TxAgent's Therapeutic Agentic Reasoning in the NeurIPS CURE-Bench Competition**|Tim Cofala et.al.|[2512.11682](http://arxiv.org/abs/2512.11682)|null|
 |**2025-12-12**|**Risk Limited Asset Allocation with a Budget Threshold Utility Function and Leptokurtotic Distributions of Returns**|Graham L Giller et.al.|[2512.11666](http://arxiv.org/abs/2512.11666)|null|
@@ -1250,6 +1270,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-15**|**Beyond surface form: A pipeline for semantic analysis in Alzheimer's Disease detection from spontaneous speech**|Dylan Phelps et.al.|[2512.13685](http://arxiv.org/abs/2512.13685)|null|
+|**2025-12-15**|**AgentIAD: Tool-Augmented Single-Agent for Industrial Anomaly Detection**|Junwen Miao et.al.|[2512.13671](http://arxiv.org/abs/2512.13671)|null|
+|**2025-12-15**|**A Scientific Reasoning Model for Organic Synthesis Procedure Generation**|Guoqing Liu et.al.|[2512.13668](http://arxiv.org/abs/2512.13668)|null|
+|**2025-12-15**|**RoboTracer: Mastering Spatial Trace with Reasoning in Vision-Language Models for Robotics**|Enshen Zhou et.al.|[2512.13660](http://arxiv.org/abs/2512.13660)|null|
+|**2025-12-15**|**Embedding-Based Rankings of Educational Resources based on Learning Outcome Alignment: Benchmarking, Expert Validation, and Learner Performance**|Mohammadreza Molavi et.al.|[2512.13658](http://arxiv.org/abs/2512.13658)|null|
+|**2025-12-15**|**Comparative Analysis of LLM Abliteration Methods: A Cross-Architecture Evaluation**|Richard J. Young et.al.|[2512.13655](http://arxiv.org/abs/2512.13655)|null|
+|**2025-12-15**|**Large-Language Memorization During the Classification of United States Supreme Court Cases**|John E. Ortega et.al.|[2512.13654](http://arxiv.org/abs/2512.13654)|null|
+|**2025-12-15**|**MindDrive: A Vision-Language-Action Model for Autonomous Driving via Online Reinforcement Learning**|Haoyu Fu et.al.|[2512.13636](http://arxiv.org/abs/2512.13636)|null|
+|**2025-12-15**|**StutterFuse: Mitigating Modality Collapse in Stuttering Detection with Jaccard-Weighted Metric Learning and Gated Fusion**|Guransh Singh et.al.|[2512.13632](http://arxiv.org/abs/2512.13632)|null|
+|**2025-12-15**|**Temporal Tokenization Strategies for Event Sequence Modeling with Large Language Models**|Zefang Liu et.al.|[2512.13618](http://arxiv.org/abs/2512.13618)|null|
+|**2025-12-15**|**Do-Undo: Generating and Reversing Physical Actions in Vision-Language Models**|Shweta Mahajan et.al.|[2512.13609](http://arxiv.org/abs/2512.13609)|null|
+|**2025-12-15**|**Textual Gradients are a Flawed Metaphor for Automatic Prompt Optimization**|Daniel Melcer et.al.|[2512.13598](http://arxiv.org/abs/2512.13598)|null|
+|**2025-12-15**|**ReFusion: A Diffusion Large Language Model with Parallel Autoregressive Decoding**|Jia-Nan Li et.al.|[2512.13586](http://arxiv.org/abs/2512.13586)|null|
+|**2025-12-15**|**Reproducing and Dissecting Denoising Language Models for Speech Recognition**|Dorian Koch et.al.|[2512.13576](http://arxiv.org/abs/2512.13576)|null|
+|**2025-12-15**|**MMhops-R1: Multimodal Multi-hop Reasoning**|Tao Zhang et.al.|[2512.13573](http://arxiv.org/abs/2512.13573)|null|
+|**2025-12-15**|**Janus: Disaggregating Attention and Experts for Scalable MoE Inference**|Zhexiang Zhang et.al.|[2512.13525](http://arxiv.org/abs/2512.13525)|null|
+|**2025-12-15**|**Fine-tuned LLM-based Code Migration Framework**|Oleg Grynets et.al.|[2512.13515](http://arxiv.org/abs/2512.13515)|null|
+|**2025-12-15**|**MedCEG: Reinforcing Verifiable Medical Reasoning with Critical Evidence Graph**|Linjie Mu et.al.|[2512.13510](http://arxiv.org/abs/2512.13510)|null|
+|**2025-12-15**|**SkipCat: Rank-Maximized Low-Rank Compression of Large Language Models via Shared Projection and Block Skipping**|Yu-Chen Lu et.al.|[2512.13494](http://arxiv.org/abs/2512.13494)|null|
+|**2025-12-15**|**From Zipf's Law to Neural Scaling through Heaps' Law and Hilberg's Hypothesis**|Łukasz Dębowski et.al.|[2512.13491](http://arxiv.org/abs/2512.13491)|null|
 |**2025-12-12**|**Softmax as Linear Attention in the Large-Prompt Regime: a Measure-based Perspective**|Etienne Boursier et.al.|[2512.11784](http://arxiv.org/abs/2512.11784)|null|
 |**2025-12-12**|**Super Suffixes: Bypassing Text Generation Alignment and Guard Models Simultaneously**|Andrew Adiletta et.al.|[2512.11783](http://arxiv.org/abs/2512.11783)|null|
 |**2025-12-12**|**Multiscale Causal Geometric Deep Learning for Modeling Brain Structure**|Chengzhi Xia et.al.|[2512.11738](http://arxiv.org/abs/2512.11738)|null|
@@ -2064,6 +2104,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-15**|**AgentIAD: Tool-Augmented Single-Agent for Industrial Anomaly Detection**|Junwen Miao et.al.|[2512.13671](http://arxiv.org/abs/2512.13671)|null|
+|**2025-12-15**|**A Scientific Reasoning Model for Organic Synthesis Procedure Generation**|Guoqing Liu et.al.|[2512.13668](http://arxiv.org/abs/2512.13668)|null|
+|**2025-12-15**|**Advancing Machine Learning Optimization of Chiral Photonic Metasurface: Comparative Study of Neural Network and Genetic Algorithm Approaches**|Davide Filippozzi et.al.|[2512.13656](http://arxiv.org/abs/2512.13656)|null|
+|**2025-12-15**|**MindDrive: A Vision-Language-Action Model for Autonomous Driving via Online Reinforcement Learning**|Haoyu Fu et.al.|[2512.13636](http://arxiv.org/abs/2512.13636)|null|
+|**2025-12-15**|**SCR2-ST: Combine Single Cell with Spatial Transcriptomics for Efficient Active Sampling via Reinforcement Learning**|Junchao Zhu et.al.|[2512.13635](http://arxiv.org/abs/2512.13635)|null|
+|**2025-12-15**|**Nemotron-Cascade: Scaling Cascaded Reinforcement Learning for General-Purpose Reasoning Models**|Boxin Wang et.al.|[2512.13607](http://arxiv.org/abs/2512.13607)|null|
+|**2025-12-15**|**Image Diffusion Preview with Consistency Solver**|Fu-Yun Wang et.al.|[2512.13592](http://arxiv.org/abs/2512.13592)|null|
+|**2025-12-15**|**MMhops-R1: Multimodal Multi-hop Reasoning**|Tao Zhang et.al.|[2512.13573](http://arxiv.org/abs/2512.13573)|null|
+|**2025-12-15**|**Memory in the Age of AI Agents**|Yuyang Hu et.al.|[2512.13564](http://arxiv.org/abs/2512.13564)|null|
+|**2025-12-15**|**Disability insurance with collective health claims: A mean-field approach**|Christian Furrer et.al.|[2512.13562](http://arxiv.org/abs/2512.13562)|null|
+|**2025-12-15**|**Magnetic order and novel quantum criticality in the strongly interacting quasicrystals**|Cong Zhang et.al.|[2512.13546](http://arxiv.org/abs/2512.13546)|null|
+|**2025-12-15**|**How Low Can You Go? The Data-Light SE Challenge**|Kishan Kumar Ganguly et.al.|[2512.13524](http://arxiv.org/abs/2512.13524)|null|
+|**2025-12-15**|**Reinforcement Learning based 6-DoF Maneuvers for Microgravity Intravehicular Docking: A Simulation Study with Int-Ball2 in ISS-JEM**|Aman Arora et.al.|[2512.13514](http://arxiv.org/abs/2512.13514)|null|
+|**2025-12-15**|**MedCEG: Reinforcing Verifiable Medical Reasoning with Critical Evidence Graph**|Linjie Mu et.al.|[2512.13510](http://arxiv.org/abs/2512.13510)|null|
+|**2025-12-15**|**Seedance 1.5 pro: A Native Audio-Visual Joint Generation Foundation Model**|Siyan Chen et.al.|[2512.13507](http://arxiv.org/abs/2512.13507)|null|
+|**2025-12-15**|**Differentiable Evolutionary Reinforcement Learning**|Sitao Cheng et.al.|[2512.13399](http://arxiv.org/abs/2512.13399)|null|
+|**2025-12-15**|**QoS-Aware State-Augmented Learnable Framework for 5G NR-U/Wi-Fi Coexistence: Impact of Parameter Selection and Enhanced Collision Resolution**|Mohammad Reza Fasihi et.al.|[2512.13393](http://arxiv.org/abs/2512.13393)|null|
+|**2025-12-15**|**Universal Dexterous Functional Grasping via Demonstration-Editing Reinforcement Learning**|Chuan Mao et.al.|[2512.13380](http://arxiv.org/abs/2512.13380)|null|
+|**2025-12-15**|**Fast Policy Learning for 6-DOF Position Control of Underwater Vehicles**|Sümer Tunçay et.al.|[2512.13359](http://arxiv.org/abs/2512.13359)|null|
+|**2025-12-15**|**Control of a Twin Rotor using Twin Delayed Deep Deterministic Policy Gradient (TD3)**|Zeyad Gamal et.al.|[2512.13356](http://arxiv.org/abs/2512.13356)|null|
 |**2025-12-12**|**AnchorDream: Repurposing Video Diffusion for Embodiment-Aware Robot Data Synthesis**|Junjie Ye et.al.|[2512.11797](http://arxiv.org/abs/2512.11797)|null|
 |**2025-12-12**|**Agile Flight Emerges from Multi-Agent Competitive Racing**|Vineet Pasumarti et.al.|[2512.11781](http://arxiv.org/abs/2512.11781)|null|
 |**2025-12-12**|**SUMFORU: An LLM-Based Review Summarization Framework for Personalized Purchase Decision Support**|Yuming Feng et.al.|[2512.11755](http://arxiv.org/abs/2512.11755)|null|
