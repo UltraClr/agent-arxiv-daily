@@ -21,6 +21,24 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-16**|**Beyond Text-to-SQL: Autonomous Research-Driven Database Exploration with DAR**|Ostap Vykhopen et.al.|[2512.14622](http://arxiv.org/abs/2512.14622)|null|
+|**2025-12-16**|**Model-First Reasoning LLM Agents: Reducing Hallucinations through Explicit Problem Modeling**|Annu Rana et.al.|[2512.14474](http://arxiv.org/abs/2512.14474)|null|
+|**2025-12-16**|**Reasoning-Style Poisoning of LLM Agents via Stealthy Style Transfer: Process-Level Attacks and Runtime Monitoring in RSV Space**|Xingfu Zhou et.al.|[2512.14448](http://arxiv.org/abs/2512.14448)|null|
+|**2025-12-16**|**A4-Agent: An Agentic Framework for Zero-Shot Affordance Reasoning**|Zixin Zhang et.al.|[2512.14442](http://arxiv.org/abs/2512.14442)|null|
+|**2025-12-16**|**Multi-Agent Medical Decision Consensus Matrix System: An Intelligent Collaborative Framework for Oncology MDT Consultations**|Xudong Han et.al.|[2512.14321](http://arxiv.org/abs/2512.14321)|null|
+|**2025-12-16**|**From Context to EDUs: Faithful and Structured Context Compression via Elementary Discourse Unit Decomposition**|Yiqing Zhou et.al.|[2512.14244](http://arxiv.org/abs/2512.14244)|null|
+|**2025-12-16**|**PentestEval: Benchmarking LLM-based Penetration Testing with Modular and Stage-Level Design**|Ruozhao Yang et.al.|[2512.14233](http://arxiv.org/abs/2512.14233)|null|
+|**2025-12-16**|**IntentMiner: Intent Inversion Attack via Tool Call Analysis in the Model Context Protocol**|Yunhao Yao et.al.|[2512.14166](http://arxiv.org/abs/2512.14166)|null|
+|**2025-12-16**|**Incentivizing Tool-augmented Thinking with Images for Medical Image Analysis**|Yankai Jiang et.al.|[2512.14157](http://arxiv.org/abs/2512.14157)|null|
+|**2025-12-16**|**Astraea: A State-Aware Scheduling Engine for LLM-Powered Agents**|Hongqiu Ni et.al.|[2512.14142](http://arxiv.org/abs/2512.14142)|null|
+|**2025-12-16**|**From Obfuscated to Obvious: A Comprehensive JavaScript Deobfuscation Tool for Security Analysis**|Dongchao Zhou et.al.|[2512.14070](http://arxiv.org/abs/2512.14070)|null|
+|**2025-12-16**|**MobileWorldBench: Towards Semantic World Modeling For Mobile Agents**|Shufan Li et.al.|[2512.14014](http://arxiv.org/abs/2512.14014)|null|
+|**2025-12-16**|**Professional Software Developers Don't Vibe, They Control: AI Agent Use for Coding in 2025**|Ruanqianqian Huang et.al.|[2512.14012](http://arxiv.org/abs/2512.14012)|null|
+|**2025-12-16**|**FocalComm: Hard Instance-Aware Multi-Agent Perception**|Dereje Shenkut et.al.|[2512.13982](http://arxiv.org/abs/2512.13982)|null|
+|**2025-12-15**|**Olmo 3**|Team Olmo et.al.|[2512.13961](http://arxiv.org/abs/2512.13961)|null|
+|**2025-12-15**|**Multi-Agent Collaborative Framework for Intelligent IT Operations: An AOI System with Context-Aware Compression and Dynamic Task Scheduling**|Zishan Bai et.al.|[2512.13956](http://arxiv.org/abs/2512.13956)|null|
+|**2025-12-15**|**Hierarchical Multi-agent Large Language Model Reasoning for Autonomous Functional Materials Discovery**|Samuel Rothfarb et.al.|[2512.13930](http://arxiv.org/abs/2512.13930)|null|
+|**2025-12-15**|**Verification-Guided Context Optimization for Tool Calling via Hierarchical LLMs-as-Editors**|Henger Li et.al.|[2512.13860](http://arxiv.org/abs/2512.13860)|null|
 |**2025-12-15**|**AgentIAD: Tool-Augmented Single-Agent for Industrial Anomaly Detection**|Junwen Miao et.al.|[2512.13671](http://arxiv.org/abs/2512.13671)|null|
 |**2025-12-15**|**Memory in the Age of AI Agents**|Yuyang Hu et.al.|[2512.13564](http://arxiv.org/abs/2512.13564)|null|
 |**2025-12-15**|**Async Control: Stress-testing Asynchronous Control Measures for LLM Agents**|Asa Cooper Stickland et.al.|[2512.13526](http://arxiv.org/abs/2512.13526)|null|
@@ -1270,6 +1288,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-16**|**TimeLens: Rethinking Video Temporal Grounding with Multimodal LLMs**|Jun Zhang et.al.|[2512.14698](http://arxiv.org/abs/2512.14698)|null|
+|**2025-12-16**|**Spoken DialogSum: An Emotion-Rich Conversational Dataset for Spoken Dialogue Summarization**|Yen-Ju Lu et.al.|[2512.14687](http://arxiv.org/abs/2512.14687)|null|
+|**2025-12-16**|**Fast and Accurate Causal Parallel Decoding using Jacobi Forcing**|Lanxiang Hu et.al.|[2512.14681](http://arxiv.org/abs/2512.14681)|null|
+|**2025-12-16**|**EVOLVE-VLA: Test-Time Training from Environment Feedback for Vision-Language-Action Models**|Zechen Bai et.al.|[2512.14666](http://arxiv.org/abs/2512.14666)|null|
+|**2025-12-16**|**Focus: A Streaming Concentration Architecture for Efficient Vision-Language Models**|Chiyue Wei et.al.|[2512.14661](http://arxiv.org/abs/2512.14661)|null|
+|**2025-12-16**|**Adapting Speech Language Model to Singing Voice Synthesis**|Yiwen Zhao et.al.|[2512.14657](http://arxiv.org/abs/2512.14657)|null|
+|**2025-12-16**|**TiME: Tiny Monolingual Encoders for Efficient NLP Pipelines**|David Schulmeister et.al.|[2512.14645](http://arxiv.org/abs/2512.14645)|null|
+|**2025-12-16**|**Beyond Text-to-SQL: Autonomous Research-Driven Database Exploration with DAR**|Ostap Vykhopen et.al.|[2512.14622](http://arxiv.org/abs/2512.14622)|null|
+|**2025-12-16**|**WorldPlay: Towards Long-Term Geometric Consistency for Real-Time Interactive World Modeling**|Wenqiang Sun et.al.|[2512.14614](http://arxiv.org/abs/2512.14614)|null|
+|**2025-12-16**|**PerProb: Indirectly Evaluating Memorization in Large Language Models**|Yihan Liao et.al.|[2512.14600](http://arxiv.org/abs/2512.14600)|null|
+|**2025-12-16**|**LLM-driven Knowledge Enhancement for Multimodal Cancer Survival Prediction**|Chenyu Zhao et.al.|[2512.14594](http://arxiv.org/abs/2512.14594)|null|
+|**2025-12-16**|**Towards Nepali-language LLMs: Efficient GPT training with a Nepali BPE tokenizer**|Adarsha Shrestha et.al.|[2512.14585](http://arxiv.org/abs/2512.14585)|null|
+|**2025-12-16**|**Pairwise Comparison for Bias Identification and Quantification**|Fabian Haak et.al.|[2512.14565](http://arxiv.org/abs/2512.14565)|null|
+|**2025-12-16**|**Polypersona: Persona-Grounded LLM for Synthetic Survey Responses**|Tejaswani Dash et.al.|[2512.14562](http://arxiv.org/abs/2512.14562)|null|
+|**2025-12-16**|**Agreement Between Large Language Models and Human Raters in Essay Scoring: A Research Synthesis**|Hongli Li et.al.|[2512.14561](http://arxiv.org/abs/2512.14561)|null|
+|**2025-12-16**|**VLegal-Bench: Cognitively Grounded Benchmark for Vietnamese Legal Reasoning of Large Language Models**|Nguyen Tien Dong et.al.|[2512.14554](http://arxiv.org/abs/2512.14554)|null|
+|**2025-12-16**|**Dual Language Models: Balancing Training Efficiency and Overfitting Resilience**|David Samuel et.al.|[2512.14549](http://arxiv.org/abs/2512.14549)|null|
+|**2025-12-16**|**VersatileFFN: Achieving Parameter Efficiency in LLMs via Adaptive Wide-and-Deep Reuse**|Ying Nie et.al.|[2512.14531](http://arxiv.org/abs/2512.14531)|null|
+|**2025-12-16**|**RecGPT-V2 Technical Report**|Chao Yi et.al.|[2512.14503](http://arxiv.org/abs/2512.14503)|null|
+|**2025-12-16**|**C-ing Clearly: Enhanced Binary Code Explanations using C code**|Teodor Poncu et.al.|[2512.14500](http://arxiv.org/abs/2512.14500)|null|
 |**2025-12-15**|**Beyond surface form: A pipeline for semantic analysis in Alzheimer's Disease detection from spontaneous speech**|Dylan Phelps et.al.|[2512.13685](http://arxiv.org/abs/2512.13685)|null|
 |**2025-12-15**|**AgentIAD: Tool-Augmented Single-Agent for Industrial Anomaly Detection**|Junwen Miao et.al.|[2512.13671](http://arxiv.org/abs/2512.13671)|null|
 |**2025-12-15**|**A Scientific Reasoning Model for Organic Synthesis Procedure Generation**|Guoqing Liu et.al.|[2512.13668](http://arxiv.org/abs/2512.13668)|null|
@@ -2104,6 +2142,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-16**|**TimeLens: Rethinking Video Temporal Grounding with Multimodal LLMs**|Jun Zhang et.al.|[2512.14698](http://arxiv.org/abs/2512.14698)|null|
+|**2025-12-16**|**CRISP: Contact-Guided Real2Sim from Monocular Video with Planar Scene Primitives**|Zihan Wang et.al.|[2512.14696](http://arxiv.org/abs/2512.14696)|null|
+|**2025-12-16**|**Model-Based Reinforcement Learning in Discrete-Action Non-Markovian Reward Decision Processes**|Alessandro Trapasso et.al.|[2512.14617](http://arxiv.org/abs/2512.14617)|null|
+|**2025-12-16**|**Estimating Program Participation with Partial Validation**|Augustine Denteh et.al.|[2512.14616](http://arxiv.org/abs/2512.14616)|null|
+|**2025-12-16**|**Fair sampling of ground-state configurations using hybrid quantum-classical MCMC algorithms**|Yuichiro Nakano et.al.|[2512.14552](http://arxiv.org/abs/2512.14552)|null|
+|**2025-12-16**|**RecGPT-V2 Technical Report**|Chao Yi et.al.|[2512.14503](http://arxiv.org/abs/2512.14503)|null|
+|**2025-12-16**|**PushGen: Push Notifications Generation with LLM**|Shifu Bie et.al.|[2512.14490](http://arxiv.org/abs/2512.14490)|null|
+|**2025-12-16**|**Hybrid Cognitive IoT with Cooperative Caching and SWIPT-EH: A Hierarchical Reinforcement Learning Framework**|Nadia Abdolkhani et.al.|[2512.14488](http://arxiv.org/abs/2512.14488)|null|
+|**2025-12-16**|**Context-Picker: Dynamic context selection using multi-stage reinforcement learning**|Siyuan Zhu et.al.|[2512.14465](http://arxiv.org/abs/2512.14465)|null|
+|**2025-12-16**|**Leggett's bound and superfluidity in strongly interacting bosons**|Lorenzo Pizzino et.al.|[2512.14346](http://arxiv.org/abs/2512.14346)|null|
+|**2025-12-16**|**A data-physics hybrid generative model for patient-specific post-stroke motor rehabilitation using wearable sensor data**|Yanning Dai et.al.|[2512.14329](http://arxiv.org/abs/2512.14329)|null|
+|**2025-12-16**|**Multi-Agent Medical Decision Consensus Matrix System: An Intelligent Collaborative Framework for Oncology MDT Consultations**|Xudong Han et.al.|[2512.14321](http://arxiv.org/abs/2512.14321)|null|
+|**2025-12-16**|**A Threshold-Triggered Deep Q-Network-Based Framework for Self-Healing in Autonomic Software-Defined IIoT-Edge Networks**|Agrippina Mwangi et.al.|[2512.14297](http://arxiv.org/abs/2512.14297)|null|
+|**2025-12-16**|**GLM-TTS Technical Report**|Jiayan Cui et.al.|[2512.14291](http://arxiv.org/abs/2512.14291)|null|
+|**2025-12-16**|**Understanding and Improving Hyperbolic Deep Reinforcement Learning**|Timo Klein et.al.|[2512.14202](http://arxiv.org/abs/2512.14202)|null|
+|**2025-12-16**|**Incentivizing Tool-augmented Thinking with Images for Medical Image Analysis**|Yankai Jiang et.al.|[2512.14157](http://arxiv.org/abs/2512.14157)|null|
+|**2025-12-16**|**Vertically resolved minimal-set k-distribution for thermal infrared absorption in the Venus atmosphere**|Boris Fomin et.al.|[2512.14120](http://arxiv.org/abs/2512.14120)|null|
+|**2025-12-16**|**A First-Order Logic-Based Alternative to Reward Models in RLHF**|Chunjin Jian et.al.|[2512.14100](http://arxiv.org/abs/2512.14100)|null|
+|**2025-12-16**|**RADAR: Accelerating Large Language Model Inference With RL-Based Dynamic Draft Trees**|Junjie Ma et.al.|[2512.14069](http://arxiv.org/abs/2512.14069)|null|
+|**2025-12-16**|**Context Representation via Action-Free Transformer encoder-decoder for Meta Reinforcement Learning**|Amir M. Soufi Enayati et.al.|[2512.14057](http://arxiv.org/abs/2512.14057)|null|
 |**2025-12-15**|**AgentIAD: Tool-Augmented Single-Agent for Industrial Anomaly Detection**|Junwen Miao et.al.|[2512.13671](http://arxiv.org/abs/2512.13671)|null|
 |**2025-12-15**|**A Scientific Reasoning Model for Organic Synthesis Procedure Generation**|Guoqing Liu et.al.|[2512.13668](http://arxiv.org/abs/2512.13668)|null|
 |**2025-12-15**|**Advancing Machine Learning Optimization of Chiral Photonic Metasurface: Comparative Study of Neural Network and Genetic Algorithm Approaches**|Davide Filippozzi et.al.|[2512.13656](http://arxiv.org/abs/2512.13656)|null|
