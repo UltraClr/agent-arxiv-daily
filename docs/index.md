@@ -16,6 +16,18 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-17**|**Artism: AI-Driven Dual-Engine System for Art Generation and Critique**|Shuai Liu et.al.|[2512.15710](http://arxiv.org/abs/2512.15710)|null|
+|**2025-12-17**|**BashArena: A Control Setting for Highly Privileged AI Agents**|Adam Kaufman et.al.|[2512.15688](http://arxiv.org/abs/2512.15688)|null|
+|**2025-12-17**|**Mapis: A Knowledge-Graph Grounded Multi-Agent Framework for Evidence-Based PCOS Diagnosis**|Zanxiang He et.al.|[2512.15398](http://arxiv.org/abs/2512.15398)|null|
+|**2025-12-17**|**SCOPE: Prompt Evolution for Enhancing Agent Effectiveness**|Zehua Pei et.al.|[2512.15374](http://arxiv.org/abs/2512.15374)|null|
+|**2025-12-17**|**Revisiting Task-Oriented Dataset Search in the Era of Large Language Models: Challenges, Benchmark, and Solution**|Zixin Wei et.al.|[2512.15363](http://arxiv.org/abs/2512.15363)|null|
+|**2025-12-17**|**SynthSeg-Agents: Multi-Agent Synthetic Data Generation for Zero-Shot Weakly Supervised Semantic Segmentation**|Wangyu Wu et.al.|[2512.15310](http://arxiv.org/abs/2512.15310)|null|
+|**2025-12-17**|**Automatic generation of input files with optimised k-point meshes for Quantum Espresso self-consistent field single point total energy calculations**|Elena Patyukova et.al.|[2512.15303](http://arxiv.org/abs/2512.15303)|null|
+|**2025-12-17**|**CangLing-KnowFlow: A Unified Knowledge-and-Flow-fused Agent for Comprehensive Remote Sensing Applications**|Zhengchao Chen et.al.|[2512.15231](http://arxiv.org/abs/2512.15231)|null|
+|**2025-12-17**|**MCPZoo: A Large-Scale Dataset of Runnable Model Context Protocol Servers for AI Agent**|Mengying Wu et.al.|[2512.15144](http://arxiv.org/abs/2512.15144)|null|
+|**2025-12-16**|**AgroAskAI: A Multi-Agentic AI Framework for Supporting Smallholder Farmers' Enquiries Globally**|Nadine Angela Cantonjos et.al.|[2512.14910](http://arxiv.org/abs/2512.14910)|null|
+|**2025-12-16**|**Imitation Learning for Multi-turn LM Agents via On-policy Expert Corrections**|Niklas Lauffer et.al.|[2512.14895](http://arxiv.org/abs/2512.14895)|null|
+|**2025-12-16**|**MALCDF: A Distributed Multi-Agent LLM Framework for Real-Time Cyber**|Arth Bhardwaj et.al.|[2512.14846](http://arxiv.org/abs/2512.14846)|null|
 |**2025-12-16**|**Beyond Text-to-SQL: Autonomous Research-Driven Database Exploration with DAR**|Ostap Vykhopen et.al.|[2512.14622](http://arxiv.org/abs/2512.14622)|null|
 |**2025-12-16**|**Model-First Reasoning LLM Agents: Reducing Hallucinations through Explicit Problem Modeling**|Annu Rana et.al.|[2512.14474](http://arxiv.org/abs/2512.14474)|null|
 |**2025-12-16**|**Reasoning-Style Poisoning of LLM Agents via Stealthy Style Transfer: Process-Level Attacks and Runtime Monitoring in RSV Space**|Xingfu Zhou et.al.|[2512.14448](http://arxiv.org/abs/2512.14448)|null|
@@ -1281,6 +1293,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-17**|**DiffusionVL: Translating Any Autoregressive Models into Diffusion Vision Language Models**|Lunbin Zeng et.al.|[2512.15713](http://arxiv.org/abs/2512.15713)|null|
+|**2025-12-17**|**Dynamic Rebatching for Efficient Early-Exit Inference with DREX**|Xuting Liu et.al.|[2512.15705](http://arxiv.org/abs/2512.15705)|null|
+|**2025-12-17**|**VLIC: Vision-Language Models As Perceptual Judges for Human-Aligned Image Compression**|Kyle Sargent et.al.|[2512.15701](http://arxiv.org/abs/2512.15701)|null|
+|**2025-12-17**|**Skyra: AI-Generated Video Detection via Grounded Artifact Reasoning**|Yifei Li et.al.|[2512.15693](http://arxiv.org/abs/2512.15693)|null|
+|**2025-12-17**|**Can LLMs Guide Their Own Exploration? Gradient-Guided Reinforcement Learning for LLM Reasoning**|Zhenwen Liang et.al.|[2512.15687](http://arxiv.org/abs/2512.15687)|null|
+|**2025-12-17**|**Activation Oracles: Training and Evaluating LLMs as General-Purpose Activation Explainers**|Adam Karvonen et.al.|[2512.15674](http://arxiv.org/abs/2512.15674)|null|
+|**2025-12-17**|**Explaining the Reasoning of Large Language Models Using Attribution Graphs**|Chase Walker et.al.|[2512.15663](http://arxiv.org/abs/2512.15663)|null|
+|**2025-12-17**|**Stepwise Think-Critique: A Unified Framework for Robust and Interpretable LLM Reasoning**|Jiaqi Xu et.al.|[2512.15662](http://arxiv.org/abs/2512.15662)|null|
+|**2025-12-17**|**Characterizing Mamba's Selective Memory using Auto-Encoders**|Tamanna Hossain et.al.|[2512.15653](http://arxiv.org/abs/2512.15653)|null|
+|**2025-12-17**|**VTCBench: Can Vision-Language Models Understand Long Context with Vision-Text Compression?**|Hongbo Zhao et.al.|[2512.15649](http://arxiv.org/abs/2512.15649)|null|
+|**2025-12-17**|**IC-Effect: Precise and Efficient Video Effects Editing via In-Context Learning**|Yuanhang Li et.al.|[2512.15635](http://arxiv.org/abs/2512.15635)|null|
+|**2025-12-17**|**How Much is Too Much? Exploring LoRA Rank Trade-offs for Retaining Knowledge and Domain Robustness**|Darshita Rathore et.al.|[2512.15634](http://arxiv.org/abs/2512.15634)|null|
+|**2025-12-17**|**Evaluating Metrics for Safety with LLM-as-Judges**|Kester Clegg et.al.|[2512.15617](http://arxiv.org/abs/2512.15617)|null|
+|**2025-12-17**|**Behavior Tokens Speak Louder: Disentangled Explainable Recommendation with Behavior Vocabulary**|Xinshun Feng et.al.|[2512.15614](http://arxiv.org/abs/2512.15614)|null|
+|**2025-12-17**|**Autoregressive Language Models are Secretly Energy-Based Models: Insights into the Lookahead Capabilities of Next-Token Prediction**|Mathieu Blondel et.al.|[2512.15605](http://arxiv.org/abs/2512.15605)|null|
+|**2025-12-17**|**You Never Know a Person, You Only Know Their Defenses: Detecting Levels of Psychological Defense Mechanisms in Supportive Conversations**|Hongbin Na et.al.|[2512.15601](http://arxiv.org/abs/2512.15601)|null|
+|**2025-12-17**|**Corrective Diffusion Language Models**|Shuibai Zhang et.al.|[2512.15596](http://arxiv.org/abs/2512.15596)|null|
+|**2025-12-17**|**Bolmo: Byteifying the Next Generation of Language Models**|Benjamin Minixhofer et.al.|[2512.15586](http://arxiv.org/abs/2512.15586)|null|
+|**2025-12-17**|**Evaluating Large Language Models in Scientific Discovery**|Zhangde Song et.al.|[2512.15567](http://arxiv.org/abs/2512.15567)|null|
+|**2025-12-17**|**GRAN-TED: Generating Robust, Aligned, and Nuanced Text Embedding for Diffusion Models**|Bozhou Li et.al.|[2512.15560](http://arxiv.org/abs/2512.15560)|null|
 |**2025-12-16**|**TimeLens: Rethinking Video Temporal Grounding with Multimodal LLMs**|Jun Zhang et.al.|[2512.14698](http://arxiv.org/abs/2512.14698)|null|
 |**2025-12-16**|**Spoken DialogSum: An Emotion-Rich Conversational Dataset for Spoken Dialogue Summarization**|Yen-Ju Lu et.al.|[2512.14687](http://arxiv.org/abs/2512.14687)|null|
 |**2025-12-16**|**Fast and Accurate Causal Parallel Decoding using Jacobi Forcing**|Lanxiang Hu et.al.|[2512.14681](http://arxiv.org/abs/2512.14681)|null|
@@ -2133,6 +2165,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-17**|**Can LLMs Guide Their Own Exploration? Gradient-Guided Reinforcement Learning for LLM Reasoning**|Zhenwen Liang et.al.|[2512.15687](http://arxiv.org/abs/2512.15687)|null|
+|**2025-12-17**|**Revisiting the Phase Diagram of Hard Sphere Dumbbells with Nested Sampling: Known Phases and New Packing Variants**|Omar-Farouk Adesida et.al.|[2512.15665](http://arxiv.org/abs/2512.15665)|null|
+|**2025-12-17**|**Stepwise Think-Critique: A Unified Framework for Robust and Interpretable LLM Reasoning**|Jiaqi Xu et.al.|[2512.15662](http://arxiv.org/abs/2512.15662)|null|
+|**2025-12-17**|**Autoregressive Language Models are Secretly Energy-Based Models: Insights into the Lookahead Capabilities of Next-Token Prediction**|Mathieu Blondel et.al.|[2512.15605](http://arxiv.org/abs/2512.15605)|null|
+|**2025-12-17**|**Deep Reinforcement Learning for EH-Enabled Cognitive-IoT Under Jamming Attacks**|Nadia Abdolkhani et.al.|[2512.15558](http://arxiv.org/abs/2512.15558)|null|
+|**2025-12-17**|**OMCL: Open-vocabulary Monte Carlo Localization**|Evgenii Kruzhkov et.al.|[2512.15557](http://arxiv.org/abs/2512.15557)|null|
+|**2025-12-17**|**Autonomous Pressure Control in MuVacAS via Deep Reinforcement Learning and Deep Learning Surrogate Models**|Guillermo Rodriguez-Llorente et.al.|[2512.15521](http://arxiv.org/abs/2512.15521)|null|
+|**2025-12-17**|**On regularity of compressions and diagonals of operator functions**|Vladimir Müller et.al.|[2512.15467](http://arxiv.org/abs/2512.15467)|null|
+|**2025-12-17**|**Double Horizon Model-Based Policy Optimization**|Akihiro Kubo et.al.|[2512.15439](http://arxiv.org/abs/2512.15439)|null|
+|**2025-12-17**|**Statistical repulsion on hyperons in two-color dense QCD**|Masato Nagatsuka et.al.|[2512.15434](http://arxiv.org/abs/2512.15434)|null|
+|**2025-12-17**|**FM-EAC: Feature Model-based Enhanced Actor-Critic for Multi-Task Control in Dynamic Environments**|Quanxi Zhou et.al.|[2512.15430](http://arxiv.org/abs/2512.15430)|null|
+|**2025-12-17**|**Can AI Generate more Comprehensive Test Scenarios? Review on Automated Driving Systems Test Scenario Generation Methods**|Ji Zhou et.al.|[2512.15422](http://arxiv.org/abs/2512.15422)|null|
+|**2025-12-17**|**EUBRL: Epistemic Uncertainty Directed Bayesian Reinforcement Learning**|Jianfei Ma et.al.|[2512.15405](http://arxiv.org/abs/2512.15405)|null|
+|**2025-12-17**|**Deep Learning-Driven Quantitative Spectroscopic Photoacoustic Imaging for Segmentation and Oxygen Saturation Estimation**|Ruibo Shang et.al.|[2512.15394](http://arxiv.org/abs/2512.15394)|null|
+|**2025-12-17**|**Environmental Policy and Firm Performance in Europe: A Difference-in-Differences Approach with Spillovers**|Andrea Ciaccio et.al.|[2512.15377](http://arxiv.org/abs/2512.15377)|null|
+|**2025-12-17**|**Amplitude-amplified coherence detection and estimation**|Rhea Alexander et.al.|[2512.15352](http://arxiv.org/abs/2512.15352)|null|
+|**2025-12-17**|**Explicit Solution to a government debt reduction problem: a stochastic control approach**|Claudia Ceci et.al.|[2512.15296](http://arxiv.org/abs/2512.15296)|null|
+|**2025-12-17**|**Graph Contextual Reinforcement Learning for Efficient Directed Controller Synthesis**|Toshihide Ubukata et.al.|[2512.15295](http://arxiv.org/abs/2512.15295)|null|
+|**2025-12-17**|**Learning-Based Phase Shift Optimization of Liquid Crystal RIS in Dynamic mmWave Networks**|Le Hao et.al.|[2512.15279](http://arxiv.org/abs/2512.15279)|null|
+|**2025-12-17**|**Well Begun, Half Done: Reinforcement Learning with Prefix Optimization for LLM Reasoning**|Yiliu Sun et.al.|[2512.15274](http://arxiv.org/abs/2512.15274)|null|
 |**2025-12-16**|**TimeLens: Rethinking Video Temporal Grounding with Multimodal LLMs**|Jun Zhang et.al.|[2512.14698](http://arxiv.org/abs/2512.14698)|null|
 |**2025-12-16**|**CRISP: Contact-Guided Real2Sim from Monocular Video with Planar Scene Primitives**|Zihan Wang et.al.|[2512.14696](http://arxiv.org/abs/2512.14696)|null|
 |**2025-12-16**|**Model-Based Reinforcement Learning in Discrete-Action Non-Markovian Reward Decision Processes**|Alessandro Trapasso et.al.|[2512.14617](http://arxiv.org/abs/2512.14617)|null|
