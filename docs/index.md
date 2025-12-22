@@ -16,6 +16,21 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-19**|**XAgen: An Explainability Tool for Identifying and Correcting Failures in Multi-Agent Workflows**|Xinru Wang et.al.|[2512.17896](http://arxiv.org/abs/2512.17896)|null|
+|**2025-12-19**|**ReX-MLE: The Autonomous Agent Benchmark for Medical Imaging Challenges**|Roshan Kenia et.al.|[2512.17838](http://arxiv.org/abs/2512.17838)|null|
+|**2025-12-19**|**Systemic Risks of Interacting AI**|Paul Darius et.al.|[2512.17793](http://arxiv.org/abs/2512.17793)|null|
+|**2025-12-19**|**A Practical Solution to Systematically Monitor Inconsistencies in SBOM-based Vulnerability Scanners**|Martin Rosso et.al.|[2512.17710](http://arxiv.org/abs/2512.17710)|null|
+|**2025-12-19**|**Binding Agent ID: Unleashing the Power of AI Agents with accountability and credibility**|Zibin Lin et.al.|[2512.17538](http://arxiv.org/abs/2512.17538)|null|
+|**2025-12-19**|**Are Vision Language Models Cross-Cultural Theory of Mind Reasoners?**|Zabir Al Nazi et.al.|[2512.17394](http://arxiv.org/abs/2512.17394)|null|
+|**2025-12-19**|**CodeDance: A Dynamic Tool-integrated MLLM for Executable Visual Reasoning**|Qi Song et.al.|[2512.17312](http://arxiv.org/abs/2512.17312)|null|
+|**2025-12-19**|**DAVE: A VLM Vision Encoder for Document Understanding and Web Agents**|Brandon Huang et.al.|[2512.17221](http://arxiv.org/abs/2512.17221)|null|
+|**2025-12-19**|**Conservative Bias in Multi-Teacher Learning: Why Agents Prefer Low-Reward Advisors**|Maher Mesto et.al.|[2512.17180](http://arxiv.org/abs/2512.17180)|null|
+|**2025-12-19**|**Biosecurity-Aware AI: Agentic Risk Auditing of Soft Prompt Attacks on ESM-Based Variant Predictors**|Huixin Zhan et.al.|[2512.17146](http://arxiv.org/abs/2512.17146)|null|
+|**2025-12-18**|**Verifying Hadwiger's Conjecture for Examples of Graphs with $α(G) = 2$**|Jofre Costa et.al.|[2512.17114](http://arxiv.org/abs/2512.17114)|null|
+|**2025-12-18**|**On the Role of Contextual Information and Ego States in LLM Agent Behavior for Transactional Analysis Dialogues**|Monika Zamojska et.al.|[2512.17060](http://arxiv.org/abs/2512.17060)|null|
+|**2025-12-18**|**Dynamic Tool Dependency Retrieval for Efficient Function Calling**|Bhrij Patel et.al.|[2512.17052](http://arxiv.org/abs/2512.17052)|null|
+|**2025-12-18**|**Turn-PPO: Turn-Level Advantage Estimation with PPO for Improved Multi-Turn RL in Agentic LLMs**|Junbo Li et.al.|[2512.17008](http://arxiv.org/abs/2512.17008)|null|
+|**2025-12-18**|**A Benchmark and Agentic Framework for Omni-Modal Reasoning and Tool Use in Long Videos**|Mohammed Irfan Kurpath et.al.|[2512.16978](http://arxiv.org/abs/2512.16978)|null|
 |**2025-12-18**|**AdaTooler-V: Adaptive Tool-Use for Images and Videos**|Chaoyang Wang et.al.|[2512.16918](http://arxiv.org/abs/2512.16918)|null|
 |**2025-12-18**|**MomaGraph: State-Aware Unified Scene Graphs with Vision-Language Model for Embodied Task Planning**|Yuanchen Ju et.al.|[2512.16909](http://arxiv.org/abs/2512.16909)|null|
 |**2025-12-18**|**Distributional AGI Safety**|Nenad Tomašev et.al.|[2512.16856](http://arxiv.org/abs/2512.16856)|null|
@@ -1313,6 +1328,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-19**|**XAgen: An Explainability Tool for Identifying and Correcting Failures in Multi-Agent Workflows**|Xinru Wang et.al.|[2512.17896](http://arxiv.org/abs/2512.17896)|null|
+|**2025-12-19**|**ShareChat: A Dataset of Chatbot Conversations in the Wild**|Yueru Yan et.al.|[2512.17843](http://arxiv.org/abs/2512.17843)|null|
+|**2025-12-19**|**ReX-MLE: The Autonomous Agent Benchmark for Medical Imaging Challenges**|Roshan Kenia et.al.|[2512.17838](http://arxiv.org/abs/2512.17838)|null|
+|**2025-12-19**|**Structure-Aware Antibody Design with Affinity-Optimized Inverse Folding**|Xinyan Zhao et.al.|[2512.17815](http://arxiv.org/abs/2512.17815)|null|
+|**2025-12-19**|**LLM-based Behaviour Driven Development for Hardware Design**|Rolf Drechsler et.al.|[2512.17814](http://arxiv.org/abs/2512.17814)|null|
+|**2025-12-19**|**DEER: A Comprehensive and Reliable Benchmark for Deep-Research Expert Reports**|Janghoon Han et.al.|[2512.17776](http://arxiv.org/abs/2512.17776)|null|
+|**2025-12-19**|**In Times of Crisis: An Exploratory Study of Media and Political Discourse on YouTube During the 2024 French Elections**|Vera Sosnovik et.al.|[2512.17768](http://arxiv.org/abs/2512.17768)|null|
+|**2025-12-19**|**AncientBench: Towards Comprehensive Evaluation on Excavated and Transmitted Chinese Corpora**|Zhihan Zhou et.al.|[2512.17756](http://arxiv.org/abs/2512.17756)|null|
+|**2025-12-19**|**When the Gold Standard isn't Necessarily Standard: Challenges of Evaluating the Translation of User-Generated Content**|Lydia Nishimwe et.al.|[2512.17738](http://arxiv.org/abs/2512.17738)|null|
+|**2025-12-19**|**AdaptPrompt: Parameter-Efficient Adaptation of VLMs for Generalizable Deepfake Detection**|Yichen Jiang et.al.|[2512.17730](http://arxiv.org/abs/2512.17730)|null|
+|**2025-12-19**|**Toward Ethical AI Through Bayesian Uncertainty in Neural Question Answering**|Riccardo Di Sipio et.al.|[2512.17677](http://arxiv.org/abs/2512.17677)|null|
+|**2025-12-19**|**Region-Constraint In-Context Generation for Instructional Video Editing**|Zhongwei Zhang et.al.|[2512.17650](http://arxiv.org/abs/2512.17650)|null|
+|**2025-12-19**|**Generative Human-Object Interaction Detection via Differentiable Cognitive Steering of Multi-modal LLMs**|Zhaolin Cai et.al.|[2512.17640](http://arxiv.org/abs/2512.17640)|null|
+|**2025-12-19**|**Linear Personality Probing and Steering in LLMs: A Big Five Study**|Michel Frising et.al.|[2512.17639](http://arxiv.org/abs/2512.17639)|null|
+|**2025-12-19**|**Trust-Region Adaptive Policy Optimization**|Mingyu Su et.al.|[2512.17636](http://arxiv.org/abs/2512.17636)|null|
+|**2025-12-19**|**Confidence-Credibility Aware Weighted Ensembles of Small LLMs Outperform Large LLMs in Emotion Detection**|Menna Elgabry et.al.|[2512.17630](http://arxiv.org/abs/2512.17630)|null|
+|**2025-12-19**|**PathFLIP: Fine-grained Language-Image Pretraining for Versatile Computational Pathology**|Fengchun Liu et.al.|[2512.17621](http://arxiv.org/abs/2512.17621)|null|
+|**2025-12-19**|**HeadHunt-VAD: Hunting Robust Anomaly-Sensitive Heads in MLLM for Tuning-Free Video Anomaly Detection**|Zhaolin Cai et.al.|[2512.17601](http://arxiv.org/abs/2512.17601)|null|
+|**2025-12-19**|**Enabling Disaggregated Multi-Stage MLLM Inference via GPU-Internal Scheduling and Resource Sharing**|Lingxiao Zhao et.al.|[2512.17574](http://arxiv.org/abs/2512.17574)|null|
+|**2025-12-19**|**Towards Explainable Conversational AI for Early Diagnosis with Large Language Models**|Maliha Tabassum et.al.|[2512.17559](http://arxiv.org/abs/2512.17559)|null|
 |**2025-12-18**|**AdaTooler-V: Adaptive Tool-Use for Images and Videos**|Chaoyang Wang et.al.|[2512.16918](http://arxiv.org/abs/2512.16918)|null|
 |**2025-12-18**|**Generative Adversarial Reasoner: Enhancing LLM Reasoning with Adversarial Reinforcement Learning**|Qihao Liu et.al.|[2512.16917](http://arxiv.org/abs/2512.16917)|null|
 |**2025-12-18**|**Exploration v.s. Exploitation: Rethinking RLVR through Clipping, Entropy, and Spurious Reward**|Peter Chen et.al.|[2512.16912](http://arxiv.org/abs/2512.16912)|null|
@@ -2205,6 +2240,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-19**|**Plane Strong Connectivity Augmentation**|Stéphane Bessy et.al.|[2512.17904](http://arxiv.org/abs/2512.17904)|null|
+|**2025-12-19**|**Feasibility to probe the dynamical scotogenic model at the LHC**|Gustavo Ardila-Tafurth et.al.|[2512.17903](http://arxiv.org/abs/2512.17903)|null|
+|**2025-12-19**|**Distributionally Robust Imitation Learning: Layered Control Architecture for Certifiable Autonomy**|Aditya Gahlawat et.al.|[2512.17899](http://arxiv.org/abs/2512.17899)|null|
+|**2025-12-19**|**Delayed Acceptance Slice Sampling**|Kevin Bitterlich et.al.|[2512.17868](http://arxiv.org/abs/2512.17868)|null|
+|**2025-12-19**|**AnyTask: an Automated Task and Data Generation Framework for Advancing Sim-to-Real Policy Learning**|Ran Gong et.al.|[2512.17853](http://arxiv.org/abs/2512.17853)|null|
+|**2025-12-19**|**Planning as Descent: Goal-Conditioned Latent Trajectory Synthesis in Learned Energy Landscapes**|Carlos Vélez García et.al.|[2512.17846](http://arxiv.org/abs/2512.17846)|null|
+|**2025-12-19**|**NeuRehab: A Reinforcement Learning and Spiking Neural Network-Based Rehab Automation Framework**|Phani Pavan Kambhampati et.al.|[2512.17841](http://arxiv.org/abs/2512.17841)|null|
+|**2025-12-19**|**Quenching statistics in Si and Ge SPADs using particle Monte Carlo simulation**|Philippe Dollfus et.al.|[2512.17818](http://arxiv.org/abs/2512.17818)|null|
+|**2025-12-19**|**Quantum Monte Carlo studies of U(1) lattice gauge models of Kondo breakdown**|Gaopei Pan et.al.|[2512.17801](http://arxiv.org/abs/2512.17801)|null|
+|**2025-12-19**|**Recursive state estimation via approximate modal paths**|Filip Tronarp et.al.|[2512.17737](http://arxiv.org/abs/2512.17737)|null|
+|**2025-12-19**|**Revisiting the Broken Symmetry Phase of Solid Hydrogen: A Neural Network Variational Monte Carlo Study**|Shengdu Chai et.al.|[2512.17703](http://arxiv.org/abs/2512.17703)|null|
+|**2025-12-19**|**Generative Multi-Objective Bayesian Optimization with Scalable Batch Evaluations for Sample-Efficient De Novo Molecular Design**|Madhav R. Muthyala et.al.|[2512.17659](http://arxiv.org/abs/2512.17659)|null|
+|**2025-12-19**|**Estimating Spatially Resolved Radiation Fields Using Neural Networks**|Felix Lehner et.al.|[2512.17654](http://arxiv.org/abs/2512.17654)|null|
+|**2025-12-19**|**About Time: Model-free Reinforcement Learning with Timed Reward Machines**|Anirban Majumdar et.al.|[2512.17637](http://arxiv.org/abs/2512.17637)|null|
+|**2025-12-19**|**Trust-Region Adaptive Policy Optimization**|Mingyu Su et.al.|[2512.17636](http://arxiv.org/abs/2512.17636)|null|
+|**2025-12-19**|**SCOPE: Sequential Causal Optimization of Process Interventions**|Jakob De Moor et.al.|[2512.17629](http://arxiv.org/abs/2512.17629)|null|
+|**2025-12-19**|**Surrogate-Accelerated Bayesian Inversion for Exoplanet Interior Characterization**|Tijn De Wringer et.al.|[2512.17626](http://arxiv.org/abs/2512.17626)|null|
+|**2025-12-19**|**Learning Safe Autonomous Driving Policies Using Predictive Safety Representations**|Mahesh Keswani et.al.|[2512.17586](http://arxiv.org/abs/2512.17586)|null|
+|**2025-12-19**|**Kinematics-Aware Diffusion Policy with Consistent 3D Observation and Action Space for Whole-Arm Robotic Manipulation**|Kangchen Lv et.al.|[2512.17568](http://arxiv.org/abs/2512.17568)|null|
+|**2025-12-19**|**HydroGym: A Reinforcement Learning Platform for Fluid Dynamics**|Christian Lagemann et.al.|[2512.17534](http://arxiv.org/abs/2512.17534)|null|
 |**2025-12-18**|**Differences That Matter: Auditing Models for Capability Gap Discovery and Rectification**|Qihao Liu et.al.|[2512.16921](http://arxiv.org/abs/2512.16921)|null|
 |**2025-12-18**|**AdaTooler-V: Adaptive Tool-Use for Images and Videos**|Chaoyang Wang et.al.|[2512.16918](http://arxiv.org/abs/2512.16918)|null|
 |**2025-12-18**|**Generative Adversarial Reasoner: Enhancing LLM Reasoning with Adversarial Reinforcement Learning**|Qihao Liu et.al.|[2512.16917](http://arxiv.org/abs/2512.16917)|null|
