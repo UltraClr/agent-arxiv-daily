@@ -16,6 +16,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-22**|**GenEnv: Difficulty-Aligned Co-Evolution Between LLM Agents and Environment Simulators**|Jiacheng Guo et.al.|[2512.19682](http://arxiv.org/abs/2512.19682)|null|
+|**2025-12-22**|**LeLaR: The First In-Orbit Demonstration of an AI-Based Satellite Attitude Controller**|Kirill Djebko et.al.|[2512.19576](http://arxiv.org/abs/2512.19576)|null|
+|**2025-12-22**|**Towards Closed-Loop Embodied Empathy Evolution: Probing LLM-Centric Lifelong Empathic Motion Generation in Unseen Scenarios**|Jiawen Wang et.al.|[2512.19551](http://arxiv.org/abs/2512.19551)|null|
+|**2025-12-22**|**QuantiPhy: A Quantitative Benchmark Evaluating Physical Reasoning Abilities of Vision-Language Models**|Li Puyin et.al.|[2512.19526](http://arxiv.org/abs/2512.19526)|null|
+|**2025-12-22**|**An Agentic Framework for Autonomous Materials Computation**|Zeyu Xia et.al.|[2512.19458](http://arxiv.org/abs/2512.19458)|null|
+|**2025-12-22**|**MobileWorld: Benchmarking Autonomous Mobile Agents in Agent-User Interactive, and MCP-Augmented Environments**|Quyu Kong et.al.|[2512.19432](http://arxiv.org/abs/2512.19432)|null|
+|**2025-12-22**|**EchoTrail-GUI: Building Actionable Memory for GUI Agents via Critic-Guided Self-Exploration**|Runze Li et.al.|[2512.19396](http://arxiv.org/abs/2512.19396)|null|
+|**2025-12-22**|**Helios: A Foundational Language Model for Smart Energy Knowledge Reasoning and Application**|Haoyu Jiang et.al.|[2512.19299](http://arxiv.org/abs/2512.19299)|null|
+|**2025-12-22**|**Vibe Reasoning: Eliciting Frontier AI Mathematical Capabilities -- A Case Study on IMO 2025 Problem 6**|Jiaao Wu et.al.|[2512.19287](http://arxiv.org/abs/2512.19287)|null|
+|**2025-12-22**|**DeliveryBench: Can Agents Earn Profit in Real World?**|Lingjun Mao et.al.|[2512.19234](http://arxiv.org/abs/2512.19234)|null|
+|**2025-12-22**|**AWPO: Enhancing Tool-Use of Large Language Models through Explicit Integration of Reasoning Rewards**|Zihan Lin et.al.|[2512.19126](http://arxiv.org/abs/2512.19126)|null|
+|**2025-12-22**|**Tool-Augmented Hybrid Ensemble Reasoning with Distillation for Bilingual Mathematical Problem Solving**|Peiqing Lu et.al.|[2512.19093](http://arxiv.org/abs/2512.19093)|null|
+|**2025-12-22**|**$γ(3,4)$ `Attention' in Cognitive Agents: Ontology-Free Knowledge Representations With Promise Theoretic Semantics**|Mark Burgess et.al.|[2512.19084](http://arxiv.org/abs/2512.19084)|null|
+|**2025-12-22**|**PEAK: A Performance Engineering AI-Assistant for GPU Kernels Powered by Natural Language Transformations**|Muhammad Usman Tariq et.al.|[2512.19018](http://arxiv.org/abs/2512.19018)|null|
+|**2025-12-22**|**DREAM: Dynamic Red-teaming across Environments for AI Models**|Liming Lu et.al.|[2512.19016](http://arxiv.org/abs/2512.19016)|null|
+|**2025-12-22**|**ORPR: An OR-Guided Pretrain-then-Reinforce Learning Model for Inventory Management**|Lingjie Zhao et.al.|[2512.19001](http://arxiv.org/abs/2512.19001)|null|
+|**2025-12-22**|**Learning Hierarchical Procedural Memory for LLM Agents through Bayesian Selection and Contrastive Refinement**|Saman Forouzandeh et.al.|[2512.18950](http://arxiv.org/abs/2512.18950)|null|
+|**2025-12-21**|**Modular Automatic Complexity Analysis of Recursive Integer Programs**|Nils Lommen et.al.|[2512.18851](http://arxiv.org/abs/2512.18851)|null|
+|**2025-12-21**|**InSight-o3: Empowering Multimodal Foundation Models with Generalized Visual Search**|Kaican Li et.al.|[2512.18745](http://arxiv.org/abs/2512.18745)|null|
+|**2025-12-21**|**X-Talk: On the Underestimated Potential of Modular Speech-to-Speech Dialogue System**|Zhanxun Liu et.al.|[2512.18706](http://arxiv.org/abs/2512.18706)|null|
 |**2025-12-19**|**XAgen: An Explainability Tool for Identifying and Correcting Failures in Multi-Agent Workflows**|Xinru Wang et.al.|[2512.17896](http://arxiv.org/abs/2512.17896)|null|
 |**2025-12-19**|**ReX-MLE: The Autonomous Agent Benchmark for Medical Imaging Challenges**|Roshan Kenia et.al.|[2512.17838](http://arxiv.org/abs/2512.17838)|null|
 |**2025-12-19**|**Systemic Risks of Interacting AI**|Paul Darius et.al.|[2512.17793](http://arxiv.org/abs/2512.17793)|null|
@@ -1328,6 +1348,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-22**|**Scalably Enhancing the Clinical Validity of a Task Benchmark with Physician Oversight**|Junze Ye et.al.|[2512.19691](http://arxiv.org/abs/2512.19691)|null|
+|**2025-12-22**|**Visual-Aware CoT: Achieving High-Fidelity Visual Consistency in Unified Models**|Zixuan Ye et.al.|[2512.19686](http://arxiv.org/abs/2512.19686)|null|
+|**2025-12-22**|**From Indoor to Open World: Revealing the Spatial Reasoning Gap in MLLMs**|Mingrui Wu et.al.|[2512.19683](http://arxiv.org/abs/2512.19683)|null|
+|**2025-12-22**|**GenEnv: Difficulty-Aligned Co-Evolution Between LLM Agents and Environment Simulators**|Jiacheng Guo et.al.|[2512.19682](http://arxiv.org/abs/2512.19682)|null|
+|**2025-12-22**|**Multimodal LLMs for Historical Dataset Construction from Archival Image Scans: German Patents (1877-1918)**|Niclas Griesshaber et.al.|[2512.19675](http://arxiv.org/abs/2512.19675)|null|
+|**2025-12-22**|**Bottom-up Policy Optimization: Your Language Model Policy Secretly Contains Internal Policies**|Yuqiao Tan et.al.|[2512.19673](http://arxiv.org/abs/2512.19673)|null|
+|**2025-12-22**|**Beyond CLIP: Knowledge-Enhanced Multimodal Transformers for Cross-Modal Alignment in Diabetic Retinopathy Diagnosis**|Argha Kamal Samanta et.al.|[2512.19663](http://arxiv.org/abs/2512.19663)|null|
+|**2025-12-22**|**Exploring Zero-Shot ACSA with Unified Meaning Representation in Chain-of-Thought Prompting**|Filippos Ventirozos et.al.|[2512.19651](http://arxiv.org/abs/2512.19651)|null|
+|**2025-12-22**|**Exploring the features used for summary evaluation by Human and GPT**|Zahra Sadeghi et.al.|[2512.19620](http://arxiv.org/abs/2512.19620)|null|
+|**2025-12-22**|**MapTrace: Scalable Data Generation for Route Tracing on Maps**|Artemis Panagopoulou et.al.|[2512.19609](http://arxiv.org/abs/2512.19609)|null|
+|**2025-12-22**|**RAPID-LLM: Resilience-Aware Performance analysis of Infrastructure for Distributed LLM Training and Inference**|George Karfakis et.al.|[2512.19606](http://arxiv.org/abs/2512.19606)|null|
+|**2025-12-22**|**Increasing the Thinking Budget is Not All You Need**|Ignacio Iacobacci et.al.|[2512.19585](http://arxiv.org/abs/2512.19585)|null|
+|**2025-12-22**|**The Epistemological Consequences of Large Language Models: Rethinking collective intelligence and institutional knowledge**|Angjelin Hila et.al.|[2512.19570](http://arxiv.org/abs/2512.19570)|null|
+|**2025-12-22**|**Towards Closed-Loop Embodied Empathy Evolution: Probing LLM-Centric Lifelong Empathic Motion Generation in Unseen Scenarios**|Jiawen Wang et.al.|[2512.19551](http://arxiv.org/abs/2512.19551)|null|
+|**2025-12-22**|**Event Extraction in Large Language Model**|Bobo Li et.al.|[2512.19537](http://arxiv.org/abs/2512.19537)|null|
+|**2025-12-22**|**CASA: Cross-Attention via Self-Attention for Efficient Vision-Language Fusion**|Moritz Böhle et.al.|[2512.19535](http://arxiv.org/abs/2512.19535)|null|
+|**2025-12-22**|**Learning Continuous Solvent Effects from Transient Flow Data: A Graph Neural Network Benchmark on Catechol Rearrangement**|Hongsheng Xing et.al.|[2512.19530](http://arxiv.org/abs/2512.19530)|null|
+|**2025-12-22**|**QuantiPhy: A Quantitative Benchmark Evaluating Physical Reasoning Abilities of Vision-Language Models**|Li Puyin et.al.|[2512.19526](http://arxiv.org/abs/2512.19526)|null|
+|**2025-12-22**|**Anatomy-R1: Enhancing Anatomy Reasoning in Multimodal Large Language Models via Anatomical Similarity Curriculum and Group Diversity Augmentation**|Ziyang Song et.al.|[2512.19512](http://arxiv.org/abs/2512.19512)|null|
+|**2025-12-22**|**Beyond Language Boundaries: Uncovering Programming Language Families for Code Language Models**|Shangbo Yun et.al.|[2512.19509](http://arxiv.org/abs/2512.19509)|null|
 |**2025-12-19**|**XAgen: An Explainability Tool for Identifying and Correcting Failures in Multi-Agent Workflows**|Xinru Wang et.al.|[2512.17896](http://arxiv.org/abs/2512.17896)|null|
 |**2025-12-19**|**ShareChat: A Dataset of Chatbot Conversations in the Wild**|Yueru Yan et.al.|[2512.17843](http://arxiv.org/abs/2512.17843)|null|
 |**2025-12-19**|**ReX-MLE: The Autonomous Agent Benchmark for Medical Imaging Challenges**|Roshan Kenia et.al.|[2512.17838](http://arxiv.org/abs/2512.17838)|null|
@@ -2240,6 +2280,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-22**|**Scalably Enhancing the Clinical Validity of a Task Benchmark with Physician Oversight**|Junze Ye et.al.|[2512.19691](http://arxiv.org/abs/2512.19691)|null|
+|**2025-12-22**|**Partition Function Estimation Using Analog Quantum Processors**|Thinh Le et.al.|[2512.19685](http://arxiv.org/abs/2512.19685)|null|
+|**2025-12-22**|**VA- $π$ : Variational Policy Alignment for Pixel-Aware Autoregressive Generation**|Xinyao Liao et.al.|[2512.19680](http://arxiv.org/abs/2512.19680)|null|
+|**2025-12-22**|**Bottom-up Policy Optimization: Your Language Model Policy Secretly Contains Internal Policies**|Yuqiao Tan et.al.|[2512.19673](http://arxiv.org/abs/2512.19673)|null|
+|**2025-12-22**|**CORE: Compensable Reward as a Catalyst for Improving Offline RL in Wireless Networks**|Lipeng Zu et.al.|[2512.19671](http://arxiv.org/abs/2512.19671)|null|
+|**2025-12-22**|**Generative diffusion models for agricultural AI: plant image generation, indoor-to-outdoor translation, and expert preference alignment**|Da Tan et.al.|[2512.19632](http://arxiv.org/abs/2512.19632)|null|
+|**2025-12-22**|**Learning Generalizable Hand-Object Tracking from Synthetic Demonstrations**|Yinhuai Wang et.al.|[2512.19583](http://arxiv.org/abs/2512.19583)|null|
+|**2025-12-22**|**LeLaR: The First In-Orbit Demonstration of an AI-Based Satellite Attitude Controller**|Kirill Djebko et.al.|[2512.19576](http://arxiv.org/abs/2512.19576)|null|
+|**2025-12-22**|**Variational Autoregressive Networks Applied to $φ^4$ Field Theory Systems**|Moxian Qian et.al.|[2512.19575](http://arxiv.org/abs/2512.19575)|null|
+|**2025-12-22**|**CARE What Fails: Contrastive Anchored-REflection for Verifiable Multimodal**|Yongxin Wang et.al.|[2512.19554](http://arxiv.org/abs/2512.19554)|null|
+|**2025-12-22**|**LacaDM: A Latent Causal Diffusion Model for Multiobjective Reinforcement Learning**|Xueming Yan et.al.|[2512.19516](http://arxiv.org/abs/2512.19516)|null|
+|**2025-12-22**|**A Gauss-Newton-Induced Structure-Exploiting Algorithm for Differentiable Optimal Control**|Yuankun Chen et.al.|[2512.19447](http://arxiv.org/abs/2512.19447)|null|
+|**2025-12-22**|**CodeSimpleQA: Scaling Factuality in Code Large Language Models**|Jian Yang et.al.|[2512.19424](http://arxiv.org/abs/2512.19424)|null|
+|**2025-12-22**|**EchoTrail-GUI: Building Actionable Memory for GUI Agents via Critic-Guided Self-Exploration**|Runze Li et.al.|[2512.19396](http://arxiv.org/abs/2512.19396)|null|
+|**2025-12-22**|**Superconductivity in Electron Liquids: Precision Many-Body Treatment of Coulomb Interaction**|Xiansheng Cai et.al.|[2512.19382](http://arxiv.org/abs/2512.19382)|null|
+|**2025-12-22**|**Learning General Policies with Policy Gradient Methods**|Simon Ståhlberg et.al.|[2512.19366](http://arxiv.org/abs/2512.19366)|null|
+|**2025-12-22**|**From Points to Coalitions: Hierarchical Contrastive Shapley Values for Prioritizing Data Samples**|Canran Xiao et.al.|[2512.19363](http://arxiv.org/abs/2512.19363)|null|
+|**2025-12-22**|**Interpretable Hybrid Deep Q-Learning Framework for IoT-Based Food Spoilage Prediction with Synthetic Data Generation and Hardware Validation**|Isshaan Singh et.al.|[2512.19361](http://arxiv.org/abs/2512.19361)|null|
+|**2025-12-22**|**On the inclusion of the pion form factor in $e^+e^- \to π^+π^-$ beyond leading order**|Francesco P. Ucci et.al.|[2512.19359](http://arxiv.org/abs/2512.19359)|null|
+|**2025-12-22**|**First-Order Representation Languages for Goal-Conditioned RL**|Simon Ståhlberg et.al.|[2512.19355](http://arxiv.org/abs/2512.19355)|null|
 |**2025-12-19**|**Plane Strong Connectivity Augmentation**|Stéphane Bessy et.al.|[2512.17904](http://arxiv.org/abs/2512.17904)|null|
 |**2025-12-19**|**Feasibility to probe the dynamical scotogenic model at the LHC**|Gustavo Ardila-Tafurth et.al.|[2512.17903](http://arxiv.org/abs/2512.17903)|null|
 |**2025-12-19**|**Distributionally Robust Imitation Learning: Layered Control Architecture for Certifiable Autonomy**|Aditya Gahlawat et.al.|[2512.17899](http://arxiv.org/abs/2512.17899)|null|
