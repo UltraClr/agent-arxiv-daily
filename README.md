@@ -21,6 +21,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-23**|**LongVideoAgent: Multi-Agent Reasoning with Long Videos**|Runtao Liu et.al.|[2512.20618](http://arxiv.org/abs/2512.20618)|null|
+|**2025-12-23**|**Step-DeepResearch Technical Report**|Chen Hu et.al.|[2512.20491](http://arxiv.org/abs/2512.20491)|null|
+|**2025-12-23**|**Bohrium + SciMaster: Building the Infrastructure and Ecosystem for Agentic Science at Scale**|Linfeng Zhang et.al.|[2512.20469](http://arxiv.org/abs/2512.20469)|null|
+|**2025-12-23**|**Laser: Governing Long-Horizon Agentic Search via Structured Protocol and Context Register**|Shuting Wang et.al.|[2512.20458](http://arxiv.org/abs/2512.20458)|null|
+|**2025-12-23**|**Chain-of-Anomaly Thoughts with Large Vision-Language Models**|Pedro Domingos et.al.|[2512.20417](http://arxiv.org/abs/2512.20417)|null|
+|**2025-12-23**|**CRAFT: Continuous Reasoning and Agentic Feedback Tuning for Multimodal Text-to-Image Generation**|V. Kovalev et.al.|[2512.20362](http://arxiv.org/abs/2512.20362)|null|
+|**2025-12-23**|**AprielGuard**|Jaykumar Kasundra et.al.|[2512.20293](http://arxiv.org/abs/2512.20293)|null|
+|**2025-12-23**|**SlideTailor: Personalized Presentation Slide Generation for Scientific Papers**|Wenzheng Zeng et.al.|[2512.20292](http://arxiv.org/abs/2512.20292)|null|
+|**2025-12-23**|**Synthesizing Procedural Memory: Challenges and Architectures in Automated Workflow Generation**|Nishant Gaurav et.al.|[2512.20278](http://arxiv.org/abs/2512.20278)|null|
+|**2025-12-23**|**Graph-Symbolic Policy Enforcement and Control (G-SPEC): A Neuro-Symbolic Framework for Safe Agentic AI in 5G Autonomous Networks**|Divya Vijay et.al.|[2512.20275](http://arxiv.org/abs/2512.20275)|null|
+|**2025-12-23**|**MemR $^3$ : Memory Retrieval via Reflective Reasoning for LLM Agents**|Xingbo Du et.al.|[2512.20237](http://arxiv.org/abs/2512.20237)|null|
+|**2025-12-23**|**TongSIM: A General Platform for Simulating Intelligent Machines**|Zhe Sun et.al.|[2512.20206](http://arxiv.org/abs/2512.20206)|null|
+|**2025-12-23**|**Reaching Agreement Among Reasoning LLM Agents**|Chaoyi Ruan et.al.|[2512.20184](http://arxiv.org/abs/2512.20184)|null|
+|**2025-12-23**|**Fun-Audio-Chat Technical Report**|Qian Chen et.al.|[2512.20156](http://arxiv.org/abs/2512.20156)|null|
+|**2025-12-23**|**MolAct: An Agentic RL Framework for Molecular Editing and Property Optimization**|Zhuo Yang et.al.|[2512.20135](http://arxiv.org/abs/2512.20135)|null|
+|**2025-12-23**|**ABBEL: LLM Agents Acting through Belief Bottlenecks Expressed in Language**|Aly Lidayan et.al.|[2512.20111](http://arxiv.org/abs/2512.20111)|null|
+|**2025-12-23**|**Detecting Non-Optimal Decisions of Embodied Agents via Diversity-Guided Metamorphic Testing**|Wenzhao Wu et.al.|[2512.20083](http://arxiv.org/abs/2512.20083)|null|
+|**2025-12-23**|**S $^3$ IT: A Benchmark for Spatially Situated Social Intelligence Test**|Zhe Sun et.al.|[2512.19992](http://arxiv.org/abs/2512.19992)|null|
+|**2025-12-22**|**PRISM: A Personality-Driven Multi-Agent Framework for Social Media Simulation**|Zhixiang Lu et.al.|[2512.19933](http://arxiv.org/abs/2512.19933)|null|
+|**2025-12-22**|**HARMON-E: Hierarchical Agentic Reasoning for Multimodal Oncology Notes to Extract Structured Data**|Shashi Kant Gupta et.al.|[2512.19864](http://arxiv.org/abs/2512.19864)|null|
 |**2025-12-22**|**GenEnv: Difficulty-Aligned Co-Evolution Between LLM Agents and Environment Simulators**|Jiacheng Guo et.al.|[2512.19682](http://arxiv.org/abs/2512.19682)|null|
 |**2025-12-22**|**LeLaR: The First In-Orbit Demonstration of an AI-Based Satellite Attitude Controller**|Kirill Djebko et.al.|[2512.19576](http://arxiv.org/abs/2512.19576)|null|
 |**2025-12-22**|**Towards Closed-Loop Embodied Empathy Evolution: Probing LLM-Centric Lifelong Empathic Motion Generation in Unseen Scenarios**|Jiawen Wang et.al.|[2512.19551](http://arxiv.org/abs/2512.19551)|null|
@@ -1355,6 +1375,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-23**|**Making Large Language Models Efficient Dense Retrievers**|Yibin Lei et.al.|[2512.20612](http://arxiv.org/abs/2512.20612)|null|
+|**2025-12-23**|**MoE-DiffuSeq: Enhancing Long-Document Diffusion Models with Sparse Attention and Mixture of Experts**|Alexandros Christoforos et.al.|[2512.20604](http://arxiv.org/abs/2512.20604)|null|
+|**2025-12-23**|**Cube Bench: A Benchmark for Spatial Visual Reasoning in MLLMs**|Dhruv Anand et.al.|[2512.20595](http://arxiv.org/abs/2512.20595)|null|
+|**2025-12-23**|**LightTact: A Visual-Tactile Fingertip Sensor for Deformation-Independent Contact Sensing**|Changyi Lin et.al.|[2512.20591](http://arxiv.org/abs/2512.20591)|null|
+|**2025-12-23**|**Automated stereotactic radiosurgery planning using a human-in-the-loop reasoning large language model agent**|Humza Nusrat et.al.|[2512.20586](http://arxiv.org/abs/2512.20586)|null|
+|**2025-12-23**|**Can LLMs Predict Their Own Failures? Self-Awareness via Internal Circuits**|Amirhosein Ghasemabadi et.al.|[2512.20578](http://arxiv.org/abs/2512.20578)|null|
+|**2025-12-23**|**Fail Fast, Win Big: Rethinking the Drafting Strategy in Speculative Decoding via Diffusion LLMs**|Rui Pan et.al.|[2512.20573](http://arxiv.org/abs/2512.20573)|null|
+|**2025-12-23**|**FlashVLM: Text-Guided Visual Token Selection for Large Multimodal Models**|Kaitong Cai et.al.|[2512.20561](http://arxiv.org/abs/2512.20561)|null|
+|**2025-12-23**|**Learning to Reason in 4D: Dynamic Spatial Understanding for Vision Language Models**|Shengchao Zhou et.al.|[2512.20557](http://arxiv.org/abs/2512.20557)|null|
+|**2025-12-23**|**Multi-Grained Text-Guided Image Fusion for Multi-Exposure and Multi-Focus Scenarios**|Mingwei Tang et.al.|[2512.20556](http://arxiv.org/abs/2512.20556)|null|
+|**2025-12-23**|**LLM-Based Authoring of Agent-Based Narratives through Scene Descriptions**|Vinayak Regmi et.al.|[2512.20550](http://arxiv.org/abs/2512.20550)|null|
+|**2025-12-23**|**Benchmarking LLMs for Predictive Applications in the Intensive Care Units**|Chehak Malhotra et.al.|[2512.20520](http://arxiv.org/abs/2512.20520)|null|
+|**2025-12-23**|**Coherence in the brain unfolds across separable temporal regimes**|Davide Stauba et.al.|[2512.20481](http://arxiv.org/abs/2512.20481)|null|
+|**2025-12-23**|**Laser: Governing Long-Horizon Agentic Search via Structured Protocol and Context Register**|Shuting Wang et.al.|[2512.20458](http://arxiv.org/abs/2512.20458)|null|
+|**2025-12-23**|**Chain-of-Anomaly Thoughts with Large Vision-Language Models**|Pedro Domingos et.al.|[2512.20417](http://arxiv.org/abs/2512.20417)|null|
+|**2025-12-23**|**ChatGPT: Excellent Paper! Accept It. Editor: Imposter Found! Review Rejected**|Kanchon Gharami et.al.|[2512.20405](http://arxiv.org/abs/2512.20405)|null|
+|**2025-12-23**|**BRIDGE: Budget-aware Reasoning via Intermediate Distillation with Guided Examples**|Xuan-An Le et.al.|[2512.20403](http://arxiv.org/abs/2512.20403)|null|
+|**2025-12-23**|**CRAFT: Continuous Reasoning and Agentic Feedback Tuning for Multimodal Text-to-Image Generation**|V. Kovalev et.al.|[2512.20362](http://arxiv.org/abs/2512.20362)|null|
+|**2025-12-23**|**A DeepSeek-Powered AI System for Automated Chest Radiograph Interpretation in Clinical Practice**|Yaowei Bai et.al.|[2512.20344](http://arxiv.org/abs/2512.20344)|null|
+|**2025-12-23**|**MMEDIT: A Unified Framework for Multi-Type Audio Editing via Audio Language Model**|Ye Tao et.al.|[2512.20339](http://arxiv.org/abs/2512.20339)|null|
 |**2025-12-22**|**Scalably Enhancing the Clinical Validity of a Task Benchmark with Physician Oversight**|Junze Ye et.al.|[2512.19691](http://arxiv.org/abs/2512.19691)|null|
 |**2025-12-22**|**Visual-Aware CoT: Achieving High-Fidelity Visual Consistency in Unified Models**|Zixuan Ye et.al.|[2512.19686](http://arxiv.org/abs/2512.19686)|null|
 |**2025-12-22**|**From Indoor to Open World: Revealing the Spatial Reasoning Gap in MLLMs**|Mingrui Wu et.al.|[2512.19683](http://arxiv.org/abs/2512.19683)|null|
@@ -2289,6 +2329,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-23**|**LongVideoAgent: Multi-Agent Reasoning with Long Videos**|Runtao Liu et.al.|[2512.20618](http://arxiv.org/abs/2512.20618)|null|
+|**2025-12-23**|**Emergent temporal abstractions in autoregressive models enable hierarchical reinforcement learning**|Seijin Kobayashi et.al.|[2512.20605](http://arxiv.org/abs/2512.20605)|null|
+|**2025-12-23**|**Leveraging High-Fidelity Digital Models and Reinforcement Learning for Mission Engineering: A Case Study of Aerial Firefighting Under Perfect Information**|İbrahim Oğuz Çetinkaya et.al.|[2512.20589](http://arxiv.org/abs/2512.20589)|null|
+|**2025-12-23**|**Certified Lower Bounds and Efficient Estimation of Minimum Accuracy in Quantum Kernel Methods**|Demerson N. Gonçalves et.al.|[2512.20588](http://arxiv.org/abs/2512.20588)|null|
+|**2025-12-23**|**Performative Policy Gradient: Optimality in Performative Reinforcement Learning**|Debabrota Basu et.al.|[2512.20576](http://arxiv.org/abs/2512.20576)|null|
+|**2025-12-23**|**LEAD: Minimizing Learner-Expert Asymmetry in End-to-End Driving**|Long Nguyen et.al.|[2512.20563](http://arxiv.org/abs/2512.20563)|null|
+|**2025-12-23**|**Comparative study of plasmons in half-filled graphene via Quantum Monte Carlo and Random Phase Approximation**|Maksim Ulybyshev et.al.|[2512.20559](http://arxiv.org/abs/2512.20559)|null|
+|**2025-12-23**|**Recurrent Off-Policy Deep Reinforcement Learning Doesn't Have to be Slow**|Tyler Clark et.al.|[2512.20513](http://arxiv.org/abs/2512.20513)|null|
+|**2025-12-23**|**Quantum vs thermal fluctuations in phase transitions of two-dimensional superconductors**|Andrea Ponticelli et.al.|[2512.20476](http://arxiv.org/abs/2512.20476)|null|
+|**2025-12-23**|**Characterization of the BIFROST spectrometer through virtual experiments**|Kristine M. L. Krighaar et.al.|[2512.20463](http://arxiv.org/abs/2512.20463)|null|
+|**2025-12-23**|**Topic-informed dynamic mixture model for occupational heterogeneity in health risk behaviors**|Lorenzo Schiavon et.al.|[2512.20408](http://arxiv.org/abs/2512.20408)|null|
+|**2025-12-23**|**Resilient Packet Forwarding: A Reinforcement Learning Approach to Routing in Gaussian Interconnected Networks with Clustered Faults**|Mohammad Walid Charrwi et.al.|[2512.20394](http://arxiv.org/abs/2512.20394)|null|
+|**2025-12-23**|**Identifying Appropriately-Sized Services with Deep Reinforcement Learning**|Syeda Tasnim Fabiha et.al.|[2512.20381](http://arxiv.org/abs/2512.20381)|null|
+|**2025-12-23**|**RIS-Empowered OTFS Modulation With Faster-than-Nyquist Signaling in High-Mobility Wireless Communications**|Chaorong Zhang et.al.|[2512.20332](http://arxiv.org/abs/2512.20332)|null|
+|**2025-12-23**|**TableGPT-R1: Advancing Tabular Reasoning Through Reinforcement Learning**|Saisai Yang et.al.|[2512.20312](http://arxiv.org/abs/2512.20312)|null|
+|**2025-12-23**|**Graph-Symbolic Policy Enforcement and Control (G-SPEC): A Neuro-Symbolic Framework for Safe Agentic AI in 5G Autonomous Networks**|Divya Vijay et.al.|[2512.20275](http://arxiv.org/abs/2512.20275)|null|
+|**2025-12-23**|**Koopman for stochastic dynamics: error bounds for kernel extended dynamic mode decomposition**|Maximiliano Hertel et.al.|[2512.20247](http://arxiv.org/abs/2512.20247)|null|
+|**2025-12-23**|**Generalisation in Multitask Fitted Q-Iteration and Offline Q-learning**|Kausthubh Manda et.al.|[2512.20220](http://arxiv.org/abs/2512.20220)|null|
+|**2025-12-23**|**Joint Design of Embedded Index Coding and Beamforming for MIMO-based Distributed Computing via Multi-Agent Reinforcement Learning**|Heekang Song et.al.|[2512.20201](http://arxiv.org/abs/2512.20201)|null|
+|**2025-12-23**|**Decay of $f(R)$ quintessence into dark matter: mitigating the Hubble tension?**|Giovanni Montani et.al.|[2512.20193](http://arxiv.org/abs/2512.20193)|null|
 |**2025-12-22**|**Scalably Enhancing the Clinical Validity of a Task Benchmark with Physician Oversight**|Junze Ye et.al.|[2512.19691](http://arxiv.org/abs/2512.19691)|null|
 |**2025-12-22**|**Partition Function Estimation Using Analog Quantum Processors**|Thinh Le et.al.|[2512.19685](http://arxiv.org/abs/2512.19685)|null|
 |**2025-12-22**|**VA- $π$ : Variational Policy Alignment for Pixel-Aware Autoregressive Generation**|Xinyao Liao et.al.|[2512.19680](http://arxiv.org/abs/2512.19680)|null|
