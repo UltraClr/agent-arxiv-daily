@@ -16,6 +16,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-24**|**Scaling Laws for Economic Productivity: Experimental Evidence in LLM-Assisted Consulting, Data Analyst, and Management Tasks**|Ali Merali et.al.|[2512.21316](http://arxiv.org/abs/2512.21316)|null|
+|**2025-12-24**|**ReaSeq: Unleashing World Knowledge via Reasoning for Sequential Modeling**|Chuan Wang et.al.|[2512.21257](http://arxiv.org/abs/2512.21257)|null|
+|**2025-12-24**|**CoTDeceptor:Adversarial Code Obfuscation Against CoT-Enhanced LLM Code Agents**|Haoyang Li et.al.|[2512.21250](http://arxiv.org/abs/2512.21250)|null|
+|**2025-12-24**|**RoboSafe: Safeguarding Embodied Agents via Executable Safety Logic**|Le Wang et.al.|[2512.21220](http://arxiv.org/abs/2512.21220)|null|
+|**2025-12-24**|**Agentic Explainable Artificial Intelligence (Agentic XAI) Approach To Explore Better Explanation**|Tomoaki Yamaguchi et.al.|[2512.21066](http://arxiv.org/abs/2512.21066)|null|
+|**2025-12-24**|**LLM-Empowered Agentic AI for QoE-Aware Network Slicing Management in Industrial IoT**|Xudong Wang et.al.|[2512.20997](http://arxiv.org/abs/2512.20997)|null|
+|**2025-12-24**|**TrafficSimAgent: A Hierarchical Agent Framework for Autonomous Traffic Simulation with MCP Control**|Yuwei Du et.al.|[2512.20996](http://arxiv.org/abs/2512.20996)|null|
+|**2025-12-24**|**AegisAgent: An Autonomous Defense Agent Against Prompt Injection Attacks in LLM-HARs**|Yihan Wang et.al.|[2512.20986](http://arxiv.org/abs/2512.20986)|null|
+|**2025-12-24**|**SPOT!: Map-Guided LLM Agent for Unsupervised Multi-CCTV Dynamic Object Tracking**|Yujin Noh et.al.|[2512.20975](http://arxiv.org/abs/2512.20975)|null|
+|**2025-12-24**|**DAO-Agent: Zero Knowledge-Verified Incentives for Decentralized Multi-Agent Coordination**|Yihan Xia et.al.|[2512.20973](http://arxiv.org/abs/2512.20973)|null|
+|**2025-12-24**|**One Tool Is Enough: Reinforcement Learning for Repository-Level LLM Agents**|Zhaoxi Zhang et.al.|[2512.20957](http://arxiv.org/abs/2512.20957)|null|
+|**2025-12-24**|**ETP-R1: Evolving Topological Planning with Reinforcement Fine-tuning for Vision-Language Navigation in Continuous Environments**|Shuhao Ye et.al.|[2512.20940](http://arxiv.org/abs/2512.20940)|null|
+|**2025-12-24**|**Reasoning-Driven Amodal Completion: Collaborative Agents and Perceptual Evaluation**|Hongxing Fan et.al.|[2512.20936](http://arxiv.org/abs/2512.20936)|null|
+|**2025-12-24**|**Transductive Visual Programming: Evolving Tool Libraries from Experience for Spatial Reasoning**|Shengguang Wu et.al.|[2512.20934](http://arxiv.org/abs/2512.20934)|null|
+|**2025-12-24**|**Embodied AI-Enhanced IoMT Edge Computing: UAV Trajectory Optimization and Task Offloading with Mobility Prediction**|Siqi Mu et.al.|[2512.20902](http://arxiv.org/abs/2512.20902)|null|
+|**2025-12-24**|**The Silent Scholar Problem: A Probabilistic Framework for Breaking Epistemic Asymmetry in LLM Agents**|Zan-Kai Chong et.al.|[2512.20884](http://arxiv.org/abs/2512.20884)|null|
+|**2025-12-24**|**Better Call Graphs: A New Dataset of Function Call Graphs for Malware Classification**|Jakir Hossain et.al.|[2512.20872](http://arxiv.org/abs/2512.20872)|null|
+|**2025-12-24**|**NVIDIA Nemotron 3: Efficient and Open Intelligence**|NVIDIA et.al.|[2512.20856](http://arxiv.org/abs/2512.20856)|null|
+|**2025-12-23**|**Nemotron 3 Nano: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Model for Agentic Reasoning**|NVIDIA et.al.|[2512.20848](http://arxiv.org/abs/2512.20848)|null|
+|**2025-12-23**|**MAR:Multi-Agent Reflexion Improves Reasoning Abilities in LLMs**|Onat Ozer et.al.|[2512.20845](http://arxiv.org/abs/2512.20845)|null|
 |**2025-12-23**|**LongVideoAgent: Multi-Agent Reasoning with Long Videos**|Runtao Liu et.al.|[2512.20618](http://arxiv.org/abs/2512.20618)|null|
 |**2025-12-23**|**Step-DeepResearch Technical Report**|Chen Hu et.al.|[2512.20491](http://arxiv.org/abs/2512.20491)|null|
 |**2025-12-23**|**Bohrium + SciMaster: Building the Infrastructure and Ecosystem for Agentic Science at Scale**|Linfeng Zhang et.al.|[2512.20469](http://arxiv.org/abs/2512.20469)|null|
@@ -1368,6 +1388,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-24**|**Beyond Memorization: A Multi-Modal Ordinal Regression Benchmark to Expose Popularity Bias in Vision-Language Models**|Li-Zhong Szu-Tu et.al.|[2512.21337](http://arxiv.org/abs/2512.21337)|null|
+|**2025-12-24**|**Streaming Video Instruction Tuning**|Jiaer Xia et.al.|[2512.21334](http://arxiv.org/abs/2512.21334)|null|
+|**2025-12-24**|**C2LLM Technical Report: A New Frontier in Code Retrieval via Adaptive Cross-Attention Pooling**|Jin Qin et.al.|[2512.21332](http://arxiv.org/abs/2512.21332)|null|
+|**2025-12-24**|**Your Reasoning Benchmark May Not Test Reasoning: Revealing Perception Bottleneck in Abstract Reasoning Benchmarks**|Xinhe Wang et.al.|[2512.21329](http://arxiv.org/abs/2512.21329)|null|
+|**2025-12-24**|**Parallel Token Prediction for Language Models**|Felix Draxler et.al.|[2512.21323](http://arxiv.org/abs/2512.21323)|null|
+|**2025-12-24**|**Scaling Laws for Economic Productivity: Experimental Evidence in LLM-Assisted Consulting, Data Analyst, and Management Tasks**|Ali Merali et.al.|[2512.21316](http://arxiv.org/abs/2512.21316)|null|
+|**2025-12-24**|**A Plan Reuse Mechanism for LLM-Driven Agent**|Guopeng Li et.al.|[2512.21309](http://arxiv.org/abs/2512.21309)|null|
+|**2025-12-24**|**Quadrupped-Legged Robot Movement Plan Generation using Large Language Model**|Muhtadin et.al.|[2512.21293](http://arxiv.org/abs/2512.21293)|null|
+|**2025-12-24**|**SMART SLM: Structured Memory and Reasoning Transformer, A Small Language Model for Accurate Document Assistance**|Divij Dudeja et.al.|[2512.21280](http://arxiv.org/abs/2512.21280)|null|
+|**2025-12-24**|**ReaSeq: Unleashing World Knowledge via Reasoning for Sequential Modeling**|Chuan Wang et.al.|[2512.21257](http://arxiv.org/abs/2512.21257)|null|
+|**2025-12-24**|**LookPlanGraph: Embodied Instruction Following Method with VLM Graph Augmentation**|Anatoly O. Onishchenko et.al.|[2512.21243](http://arxiv.org/abs/2512.21243)|null|
+|**2025-12-24**|**Assessing the Software Security Comprehension of Large Language Models**|Mohammed Latif Siddiq et.al.|[2512.21238](http://arxiv.org/abs/2512.21238)|null|
+|**2025-12-24**|**Casting a SPELL: Sentence Pairing Exploration for LLM Limitation-breaking**|Yifan Huang et.al.|[2512.21236](http://arxiv.org/abs/2512.21236)|null|
+|**2025-12-24**|**MiST: Understanding the Role of Mid-Stage Scientific Training in Developing Chemical Reasoning Models**|Andres M Bran et.al.|[2512.21231](http://arxiv.org/abs/2512.21231)|null|
+|**2025-12-24**|**Leveraging Lightweight Entity Extraction for Scalable Event-Based Image Retrieval**|Dao Sy Duy Minh et.al.|[2512.21221](http://arxiv.org/abs/2512.21221)|null|
+|**2025-12-24**|**RoboSafe: Safeguarding Embodied Agents via Executable Safety Logic**|Le Wang et.al.|[2512.21220](http://arxiv.org/abs/2512.21220)|null|
+|**2025-12-24**|**Latent Implicit Visual Reasoning**|Kelvin Li et.al.|[2512.21218](http://arxiv.org/abs/2512.21218)|null|
+|**2025-12-24**|**SpidR-Adapt: A Universal Speech Representation Model for Few-Shot Adaptation**|Mahi Luthra et.al.|[2512.21204](http://arxiv.org/abs/2512.21204)|null|
+|**2025-12-24**|**VisRes Bench: On Evaluating the Visual Reasoning Capabilities of VLMs**|Brigitta Malagurski Törtei et.al.|[2512.21194](http://arxiv.org/abs/2512.21194)|null|
+|**2025-12-24**|**Encrypted Traffic Detection in Resource Constrained IoT Networks: A Diffusion Model and LLM Integrated Framework**|Hongjuan Li et.al.|[2512.21144](http://arxiv.org/abs/2512.21144)|null|
 |**2025-12-23**|**Making Large Language Models Efficient Dense Retrievers**|Yibin Lei et.al.|[2512.20612](http://arxiv.org/abs/2512.20612)|null|
 |**2025-12-23**|**MoE-DiffuSeq: Enhancing Long-Document Diffusion Models with Sparse Attention and Mixture of Experts**|Alexandros Christoforos et.al.|[2512.20604](http://arxiv.org/abs/2512.20604)|null|
 |**2025-12-23**|**Cube Bench: A Benchmark for Spatial Visual Reasoning in MLLMs**|Dhruv Anand et.al.|[2512.20595](http://arxiv.org/abs/2512.20595)|null|
@@ -2320,6 +2360,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-24**|**Autonomous Uncertainty Quantification for Computational Point-of-care Sensors**|Artem Goncharov et.al.|[2512.21335](http://arxiv.org/abs/2512.21335)|null|
+|**2025-12-24**|**Minijets and Broken Stationarity in a Blazar : Novel Insights into the Origin of $γ$ -ray Variability in CTA 102**|Agniva Roychowdhury et.al.|[2512.21240](http://arxiv.org/abs/2512.21240)|null|
+|**2025-12-24**|**RoboCade: Gamifying Robot Data Collection**|Suvir Mirchandani et.al.|[2512.21235](http://arxiv.org/abs/2512.21235)|null|
+|**2025-12-24**|**MiST: Understanding the Role of Mid-Stage Scientific Training in Developing Chemical Reasoning Models**|Andres M Bran et.al.|[2512.21231](http://arxiv.org/abs/2512.21231)|null|
+|**2025-12-24**|**Production of charmed particles in proton-proton and light nucleus-nucleus interactions in Geant4 FTF model**|A. Galoyan et.al.|[2512.21184](http://arxiv.org/abs/2512.21184)|null|
+|**2025-12-24**|**Equivariant Multiscale Learned Invertible Reconstruction for Cone Beam CT: From Simulated to Real Data**|Nikita Moriakov et.al.|[2512.21180](http://arxiv.org/abs/2512.21180)|null|
+|**2025-12-24**|**Equilibrium investment under dynamic preference uncertainty**|Luca De Gennaro Aquino et.al.|[2512.21149](http://arxiv.org/abs/2512.21149)|null|
+|**2025-12-24**|**Thermodynamic sampling of materials using neutral-atom quantum computers**|Bruno Camino et.al.|[2512.21142](http://arxiv.org/abs/2512.21142)|null|
+|**2025-12-24**|**Global End-Effector Pose Control of an Underactuated Aerial Manipulator via Reinforcement Learning**|Shlok Deshmukh et.al.|[2512.21085](http://arxiv.org/abs/2512.21085)|null|
+|**2025-12-24**|**Dyna-Style Reinforcement Learning Modeling and Control of Non-linear Dynamics**|Karim Abdelsalam et.al.|[2512.21081](http://arxiv.org/abs/2512.21081)|null|
+|**2025-12-24**|**LSTM-Based Modeling and Reinforcement Learning Control of a Magnetically Actuated Catheter**|Arya Rashidinejad Meibodi et.al.|[2512.21063](http://arxiv.org/abs/2512.21063)|null|
+|**2025-12-24**|**Policy-Conditioned Policies for Multi-Agent Task Solving**|Yue Lin et.al.|[2512.21024](http://arxiv.org/abs/2512.21024)|null|
+|**2025-12-24**|**LLM Swiss Round: Aggregating Multi-Benchmark Performance via Competitive Swiss-System Dynamics**|Jiashuo Liu et.al.|[2512.21010](http://arxiv.org/abs/2512.21010)|null|
+|**2025-12-24**|**LLM-Empowered Agentic AI for QoE-Aware Network Slicing Management in Industrial IoT**|Xudong Wang et.al.|[2512.20997](http://arxiv.org/abs/2512.20997)|null|
+|**2025-12-24**|**IMPACTX: An X-ray Spectral Model for Polar Dust and Clumpy Torus**|Kanta Fujiwara et.al.|[2512.20993](http://arxiv.org/abs/2512.20993)|null|
+|**2025-12-24**|**Generalised Linear Models in Deep Bayesian RL with Learnable Basis Functions**|Jingyang You et.al.|[2512.20974](http://arxiv.org/abs/2512.20974)|null|
+|**2025-12-24**|**ReACT-Drug: Reaction-Template Guided Reinforcement Learning for de novo Drug Design**|R Yadunandan et.al.|[2512.20958](http://arxiv.org/abs/2512.20958)|null|
+|**2025-12-24**|**One Tool Is Enough: Reinforcement Learning for Repository-Level LLM Agents**|Zhaoxi Zhang et.al.|[2512.20957](http://arxiv.org/abs/2512.20957)|null|
+|**2025-12-24**|**Guardrailed Elasticity Pricing: A Churn-Aware Forecasting Playbook for Subscription Strategy**|Deepit Sapru et.al.|[2512.20932](http://arxiv.org/abs/2512.20932)|null|
+|**2025-12-24**|**Model-free stochastic linear quadratic control for discrete-time systems with multiplicative and additive noises via semidefinite programming**|Jing Guo et.al.|[2512.20911](http://arxiv.org/abs/2512.20911)|null|
 |**2025-12-23**|**LongVideoAgent: Multi-Agent Reasoning with Long Videos**|Runtao Liu et.al.|[2512.20618](http://arxiv.org/abs/2512.20618)|null|
 |**2025-12-23**|**Emergent temporal abstractions in autoregressive models enable hierarchical reinforcement learning**|Seijin Kobayashi et.al.|[2512.20605](http://arxiv.org/abs/2512.20605)|null|
 |**2025-12-23**|**Leveraging High-Fidelity Digital Models and Reinforcement Learning for Mission Engineering: A Case Study of Aerial Firefighting Under Perfect Information**|İbrahim Oğuz Çetinkaya et.al.|[2512.20589](http://arxiv.org/abs/2512.20589)|null|
