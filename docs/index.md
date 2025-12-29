@@ -16,6 +16,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-26**|**Agentic Structured Graph Traversal for Root Cause Analysis of Code-related Incidents in Cloud Applications**|Shengkun Cui et.al.|[2512.22113](http://arxiv.org/abs/2512.22113)|null|
+|**2025-12-26**|**A2P-Vis: an Analyzer-to-Presenter Agentic Pipeline for Visual Insights Generation and Reporting**|Shuyu Gan et.al.|[2512.22101](http://arxiv.org/abs/2512.22101)|null|
+|**2025-12-26**|**MAI-UI Technical Report: Real-World Centric Foundation GUI Agents**|Hanzhang Zhou et.al.|[2512.22047](http://arxiv.org/abs/2512.22047)|null|
+|**2025-12-26**|**SWE-RM: Execution-free Feedback For Software Engineering Agents**|KaShun Shum et.al.|[2512.21919](http://arxiv.org/abs/2512.21919)|null|
+|**2025-12-26**|**SpatialBench: Can Agents Analyze Real-World Spatial Biology Data?**|Kenny Workman et.al.|[2512.21907](http://arxiv.org/abs/2512.21907)|null|
+|**2025-12-26**|**Aerial World Model for Long-horizon Visual Generation and Navigation in 3D Space**|Weichen Zhang et.al.|[2512.21887](http://arxiv.org/abs/2512.21887)|null|
+|**2025-12-26**|**MASFIN: A Multi-Agent System for Decomposed Financial Reasoning and Forecasting**|Marc S. Montalvo et.al.|[2512.21878](http://arxiv.org/abs/2512.21878)|null|
+|**2025-12-25**|**Accelerating Scientific Discovery with Autonomous Goal-evolving Agents**|Yuanqi Du et.al.|[2512.21782](http://arxiv.org/abs/2512.21782)|null|
+|**2025-12-25**|**How Do Agents Perform Code Optimization? An Empirical Study**|Huiyun Peng et.al.|[2512.21757](http://arxiv.org/abs/2512.21757)|null|
+|**2025-12-25**|**PERELMAN: Pipeline for scientific literature meta-analysis. Technical report**|Daniil Sherki et.al.|[2512.21727](http://arxiv.org/abs/2512.21727)|null|
+|**2025-12-25**|**HELP: Hierarchical Embodied Language Planner for Household Tasks**|Alexandr V. Korchemnyi et.al.|[2512.21723](http://arxiv.org/abs/2512.21723)|null|
+|**2025-12-25**|**Multiconnectivity for SAGIN: Current Trends, Challenges, AI-driven Solutions, and Opportunities**|Abd Ullah Khan et.al.|[2512.21717](http://arxiv.org/abs/2512.21717)|null|
+|**2025-12-25**|**AstraNav-World: World Model for Foresight Control and Consistency**|Junjun Hu et.al.|[2512.21714](http://arxiv.org/abs/2512.21714)|null|
+|**2025-12-25**|**RAPTOR: Real-Time High-Resolution UAV Video Prediction with Efficient Video Attention**|Zhan Chen et.al.|[2512.21710](http://arxiv.org/abs/2512.21710)|null|
+|**2025-12-25**|**Towards Responsible and Explainable AI Agents with Consensus-Driven Reasoning**|Eranga Bandara et.al.|[2512.21699](http://arxiv.org/abs/2512.21699)|null|
+|**2025-12-25**|**AstraNav-Memory: Contexts Compression for Long Memory**|Botao Ren et.al.|[2512.21627](http://arxiv.org/abs/2512.21627)|null|
+|**2025-12-25**|**AMS-IO-Bench and AMS-IO-Agent: Benchmarking and Structured Reasoning for Analog and Mixed-Signal Integrated Circuit Input/Output Design**|Zhishuai Zhang et.al.|[2512.21613](http://arxiv.org/abs/2512.21613)|null|
+|**2025-12-25**|**Videos are Sample-Efficient Supervisions: Behavior Cloning from Videos via Latent Representations**|Xin Liu et.al.|[2512.21586](http://arxiv.org/abs/2512.21586)|null|
+|**2025-12-25**|**The AI Committee: A Multi-Agent Framework for Automated Validation and Remediation of Web-Sourced Data**|Sunith Vallabhaneni et.al.|[2512.21481](http://arxiv.org/abs/2512.21481)|null|
+|**2025-12-24**|**Fuzzwise: Intelligent Initial Corpus Generation for Fuzzing**|Hridya Dhulipala et.al.|[2512.21440](http://arxiv.org/abs/2512.21440)|null|
 |**2025-12-24**|**Scaling Laws for Economic Productivity: Experimental Evidence in LLM-Assisted Consulting, Data Analyst, and Management Tasks**|Ali Merali et.al.|[2512.21316](http://arxiv.org/abs/2512.21316)|null|
 |**2025-12-24**|**ReaSeq: Unleashing World Knowledge via Reasoning for Sequential Modeling**|Chuan Wang et.al.|[2512.21257](http://arxiv.org/abs/2512.21257)|null|
 |**2025-12-24**|**CoTDeceptor:Adversarial Code Obfuscation Against CoT-Enhanced LLM Code Agents**|Haoyang Li et.al.|[2512.21250](http://arxiv.org/abs/2512.21250)|null|
@@ -1388,6 +1408,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-26**|**See Less, See Right: Bi-directional Perceptual Shaping For Multimodal Reasoning**|Shuoshuo Zhang et.al.|[2512.22120](http://arxiv.org/abs/2512.22120)|null|
+|**2025-12-26**|**Introducing TrGLUE and SentiTurca: A Comprehensive Benchmark for Turkish General Language Understanding and Sentiment Analysis**|Duygu Altinok et.al.|[2512.22100](http://arxiv.org/abs/2512.22100)|null|
+|**2025-12-26**|**Unifying Learning Dynamics and Generalization in Transformers Scaling Law**|Chiwun Yang et.al.|[2512.22088](http://arxiv.org/abs/2512.22088)|null|
+|**2025-12-26**|**Context as a Tool: Context Management for Long-Horizon SWE-Agents**|Shukai Liu et.al.|[2512.22087](http://arxiv.org/abs/2512.22087)|null|
+|**2025-12-26**|**Agent-based simulation of online social networks and disinformation**|Alejandro Buitrago López et.al.|[2512.22082](http://arxiv.org/abs/2512.22082)|null|
+|**2025-12-26**|**Prefill vs. Decode Bottlenecks: SRAM-Frequency Tradeoffs and the Memory-Bandwidth Ceiling**|Hannah Atmer et.al.|[2512.22066](http://arxiv.org/abs/2512.22066)|null|
+|**2025-12-26**|**FUSCO: High-Performance Distributed Data Shuffling via Transformation-Communication Fusion**|Zhuoran Zhu et.al.|[2512.22036](http://arxiv.org/abs/2512.22036)|null|
+|**2025-12-26**|**Context-Aware Intelligent Chatbot Framework Leveraging Mobile Sensing**|Ziyan Zhang et.al.|[2512.22032](http://arxiv.org/abs/2512.22032)|null|
+|**2025-12-26**|**iSHIFT: Lightweight Slow-Fast GUI Agent with Adaptive Perception**|Sarthak Mehrotra et.al.|[2512.22009](http://arxiv.org/abs/2512.22009)|null|
+|**2025-12-26**|**DuaDeep-SeqAffinity: Dual-Stream Deep Learning Framework for Sequence-Only Antigen-Antibody Affinity Prediction**|Aicha Boutorh et.al.|[2512.22007](http://arxiv.org/abs/2512.22007)|null|
+|**2025-12-26**|**Look Closer! An Adversarial Parametric Editing Framework for Hallucination Mitigation in VLMs**|Jiayu Hu et.al.|[2512.21999](http://arxiv.org/abs/2512.21999)|null|
+|**2025-12-26**|**LVLM-Aided Alignment of Task-Specific Vision Models**|Alexander Koebler et.al.|[2512.21985](http://arxiv.org/abs/2512.21985)|null|
+|**2025-12-26**|**Perceive and Calibrate: Analyzing and Enhancing Robustness of Medical Multi-Modal Large Language Models**|Dunyuan XU et.al.|[2512.21964](http://arxiv.org/abs/2512.21964)|null|
+|**2025-12-26**|**Broken Words, Broken Performance: Effect of Tokenization on Performance of LLMs**|Sachin Pawar et.al.|[2512.21933](http://arxiv.org/abs/2512.21933)|null|
+|**2025-12-26**|**SWE-RM: Execution-free Feedback For Software Engineering Agents**|KaShun Shum et.al.|[2512.21919](http://arxiv.org/abs/2512.21919)|null|
+|**2025-12-26**|**Semiparametric Preference Optimization: Your Language Model is Secretly a Single-Index Model**|Nathan Kallus et.al.|[2512.21917](http://arxiv.org/abs/2512.21917)|null|
+|**2025-12-26**|**Exploring the Heterogeneity of Tabular Data: A Diversity-aware Data Generator via LLMs**|Yafeng Tang et.al.|[2512.21915](http://arxiv.org/abs/2512.21915)|null|
+|**2025-12-26**|**GQ-VAE: A gated quantized VAE for learning variable length tokens**|Theo Datta et.al.|[2512.21913](http://arxiv.org/abs/2512.21913)|null|
+|**2025-12-26**|**Accelerate Speculative Decoding with Sparse Computation in Verification**|Jikai Wang et.al.|[2512.21911](http://arxiv.org/abs/2512.21911)|null|
+|**2025-12-26**|**Explainable Statute Prediction via Attention-based Model and LLM Prompting**|Sachin Pawar et.al.|[2512.21902](http://arxiv.org/abs/2512.21902)|null|
 |**2025-12-24**|**Beyond Memorization: A Multi-Modal Ordinal Regression Benchmark to Expose Popularity Bias in Vision-Language Models**|Li-Zhong Szu-Tu et.al.|[2512.21337](http://arxiv.org/abs/2512.21337)|null|
 |**2025-12-24**|**Streaming Video Instruction Tuning**|Jiaer Xia et.al.|[2512.21334](http://arxiv.org/abs/2512.21334)|null|
 |**2025-12-24**|**C2LLM Technical Report: A New Frontier in Code Retrieval via Adaptive Cross-Attention Pooling**|Jin Qin et.al.|[2512.21332](http://arxiv.org/abs/2512.21332)|null|
@@ -2360,6 +2400,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-26**|**Charge-Informed Quantum Error Correction**|Vlad Temkin et.al.|[2512.22119](http://arxiv.org/abs/2512.22119)|null|
+|**2025-12-26**|**Index-Tracking Portfolio Construction and Rebalancing under Bayesian Sparse Modelling and Uncertainty Quantification**|Dimitrios Roxanas et.al.|[2512.22109](http://arxiv.org/abs/2512.22109)|null|
+|**2025-12-26**|**Hybrid Deep Reinforcement Learning for Joint Resource Allocation in Multi-Active RIS-Aided Uplink Communications**|Mohamed Shalma et.al.|[2512.22107](http://arxiv.org/abs/2512.22107)|null|
+|**2025-12-26**|**Exact inference via quasi-conjugacy in two-parameter Poisson-Dirichlet hidden Markov models**|Marco Dalla Pria et.al.|[2512.22098](http://arxiv.org/abs/2512.22098)|null|
+|**2025-12-26**|**Heterogeneous fragmentation of empty sites promotes cooperation in phenotypically diverse populations with tag-mediated interactions**|Hui Zhang et.al.|[2512.22077](http://arxiv.org/abs/2512.22077)|null|
+|**2025-12-26**|**Rotationally invariant dynamical lattice regulators for Euclidean quantum field theories**|Tsogtgerel Gantumur et.al.|[2512.22072](http://arxiv.org/abs/2512.22072)|null|
+|**2025-12-26**|**MAI-UI Technical Report: Real-World Centric Foundation GUI Agents**|Hanzhang Zhou et.al.|[2512.22047](http://arxiv.org/abs/2512.22047)|null|
+|**2025-12-26**|**Meta-Learning-Based Handover Management in NextG O-RAN**|Michail Kalntis et.al.|[2512.22022](http://arxiv.org/abs/2512.22022)|null|
+|**2025-12-26**|**Spacetime Spins: Statistical mechanics for error correction with stabilizer circuits**|Cory T. Aitchison et.al.|[2512.21991](http://arxiv.org/abs/2512.21991)|null|
+|**2025-12-26**|**Latency-Optimal Cache-aided Multicast Streaming via Forward-Backward Reinforcement Learning**|Mohsen Amidzadeh et.al.|[2512.21954](http://arxiv.org/abs/2512.21954)|null|
+|**2025-12-26**|**Multi-reference Trial State for Lattice Quantum Monte Carlo Simulations**|Teng Wang et.al.|[2512.21942](http://arxiv.org/abs/2512.21942)|null|
+|**2025-12-26**|**SWE-RM: Execution-free Feedback For Software Engineering Agents**|KaShun Shum et.al.|[2512.21919](http://arxiv.org/abs/2512.21919)|null|
+|**2025-12-26**|**A Comedy of Estimators: On KL Regularization in RL Training of LLMs**|Vedant Shah et.al.|[2512.21852](http://arxiv.org/abs/2512.21852)|null|
+|**2025-12-26**|**A Cohomological Framework for Topological Phases from Momentum-Space Crystallographic Groups**|T. R. Liu et.al.|[2512.21844](http://arxiv.org/abs/2512.21844)|null|
+|**2025-12-26**|**Contextual Biasing for LLM-Based ASR with Hotword Retrieval and Reinforcement Learning**|YuXiang Kong et.al.|[2512.21828](http://arxiv.org/abs/2512.21828)|null|
+|**2025-12-26**|**Q-A3C2: Quantum Reinforcement Learning with Time-Series Dynamic Clustering for Adaptive ETF Stock Selection**|Yen-Ku Liu et.al.|[2512.21819](http://arxiv.org/abs/2512.21819)|null|
+|**2025-12-25**|**Direct Deep Neural-network Extraction of Generalized Parton Distributions**|Dima Watkins et.al.|[2512.21761](http://arxiv.org/abs/2512.21761)|null|
+|**2025-12-25**|**On Critical Temperature and Finite Size Scaling of Continuous Spin $2d$ Ising Model**|Swapna Mahapatra et.al.|[2512.21748](http://arxiv.org/abs/2512.21748)|null|
+|**2025-12-25**|**Concentration-Dependent Tungsten Effects on Short-Range Order and Deformation Behavior in Ni-W alloys**|Shaozun Liu et.al.|[2512.21745](http://arxiv.org/abs/2512.21745)|null|
+|**2025-12-25**|**Multiconnectivity for SAGIN: Current Trends, Challenges, AI-driven Solutions, and Opportunities**|Abd Ullah Khan et.al.|[2512.21717](http://arxiv.org/abs/2512.21717)|null|
 |**2025-12-24**|**Autonomous Uncertainty Quantification for Computational Point-of-care Sensors**|Artem Goncharov et.al.|[2512.21335](http://arxiv.org/abs/2512.21335)|null|
 |**2025-12-24**|**Minijets and Broken Stationarity in a Blazar : Novel Insights into the Origin of $γ$ -ray Variability in CTA 102**|Agniva Roychowdhury et.al.|[2512.21240](http://arxiv.org/abs/2512.21240)|null|
 |**2025-12-24**|**RoboCade: Gamifying Robot Data Collection**|Suvir Mirchandani et.al.|[2512.21235](http://arxiv.org/abs/2512.21235)|null|
