@@ -21,6 +21,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-31**|**Context-aware LLM-based AI Agents for Human-centered Energy Management Systems in Smart Buildings**|Tianzhi He et.al.|[2512.25055](http://arxiv.org/abs/2512.25055)|null|
+|**2025-12-31**|**MAMA-Memeia! Multi-Aspect Multi-Agent Collaboration for Depressive Symptoms Identification in Memes**|Siddhant Agarwal et.al.|[2512.25015](http://arxiv.org/abs/2512.25015)|null|
+|**2025-12-31**|**DarkEQA: Benchmarking Vision-Language Models for Embodied Question Answering in Low-Light Indoor Environments**|Yohan Park et.al.|[2512.24985](http://arxiv.org/abs/2512.24985)|null|
+|**2025-12-31**|**Let It Flow: Agentic Crafting on Rock and Roll, Building the ROME Model within an Open Agentic Learning Ecosystem**|Weixun Wang et.al.|[2512.24873](http://arxiv.org/abs/2512.24873)|null|
+|**2025-12-31**|**VLN-MME: Diagnosing MLLMs as Language-guided Visual Navigation agents**|Xunyi Zhao et.al.|[2512.24851](http://arxiv.org/abs/2512.24851)|null|
+|**2025-12-31**|**PrivacyBench: A Conversational Benchmark for Evaluating Privacy in Personalized AI**|Srija Mukhopadhyay et.al.|[2512.24848](http://arxiv.org/abs/2512.24848)|null|
+|**2025-12-31**|**AstroReview: An LLM-driven Multi-Agent Framework for Telescope Proposal Peer Review and Refinement**|Yutong Wang et.al.|[2512.24754](http://arxiv.org/abs/2512.24754)|null|
+|**2025-12-31**|**R-Debater: Retrieval-Augmented Debate Generation through Argumentative Memory**|Maoyuan Li et.al.|[2512.24684](http://arxiv.org/abs/2512.24684)|null|
+|**2025-12-31**|**Do Large Language Models Know What They Are Capable Of?**|Casey O. Barkan et.al.|[2512.24661](http://arxiv.org/abs/2512.24661)|null|
+|**2025-12-31**|**AudioFab: Building A General and Intelligent Audio Factory through Tool Learning**|Cheng Zhu et.al.|[2512.24645](http://arxiv.org/abs/2512.24645)|null|
+|**2025-12-31**|**How Do Agentic AI Systems Deal With Software Energy Concerns? A Pull Request-Based Study**|Tanjum Motin Mitul et.al.|[2512.24636](http://arxiv.org/abs/2512.24636)|null|
+|**2025-12-31**|**ReflecToMeet: An AI-Assisted Reflection Based System to Enhance Collaborative Preparedness**|Md Nazmus Sakib et.al.|[2512.24632](http://arxiv.org/abs/2512.24632)|null|
+|**2025-12-31**|**How Do Agentic AI Systems Address Performance Optimizations? A BERTopic-Based Analysis of Pull Requests**|Md Nahidul Islam Opu et.al.|[2512.24630](http://arxiv.org/abs/2512.24630)|null|
+|**2025-12-31**|**Youtu-LLM: Unlocking the Native Agentic Potential for Lightweight Large Language Models**|Junru Lu et.al.|[2512.24618](http://arxiv.org/abs/2512.24618)|null|
+|**2025-12-31**|**Youtu-Agent: Scaling Agent Productivity with Automated Generation and Hybrid Policy Optimization**|Yuchen Shi et.al.|[2512.24615](http://arxiv.org/abs/2512.24615)|null|
+|**2025-12-31**|**Reinforcement Learning-Augmented LLM Agents for Collaborative Decision Making and Performance Optimization**|Dong Qiu et.al.|[2512.24609](http://arxiv.org/abs/2512.24609)|null|
+|**2025-12-31**|**MCPAgentBench: A Real-world Task Benchmark for Evaluating LLM Agent MCP Tool Use**|Wenrui Liu et.al.|[2512.24565](http://arxiv.org/abs/2512.24565)|null|
+|**2025-12-30**|**Align While Search: Belief-Guided Exploratory Inference for World-Grounded Embodied Agents**|Seohui Bae et.al.|[2512.24461](http://arxiv.org/abs/2512.24461)|null|
+|**2025-12-30**|**Language Model Agents Under Attack: A Cross Model-Benchmark of Profit-Seeking Behaviors in Customer Service**|Jingyu Zhang et.al.|[2512.24415](http://arxiv.org/abs/2512.24415)|null|
+|**2025-12-30**|**SenseNova-MARS: Empowering Multimodal Agentic Reasoning and Search via Reinforcement Learning**|Yong Xien Chng et.al.|[2512.24330](http://arxiv.org/abs/2512.24330)|null|
 |**2025-12-29**|**Nested Browser-Use Learning for Agentic Information Seeking**|Baixuan Li et.al.|[2512.23647](http://arxiv.org/abs/2512.23647)|null|
 |**2025-12-29**|**Close the Loop: Synthesizing Infinite Tool-Use Data via Multi-Agent Role-Playing**|Yuwen Li et.al.|[2512.23611](http://arxiv.org/abs/2512.23611)|null|
 |**2025-12-29**|**Toward Trustworthy Agentic AI: A Multimodal Framework for Preventing Prompt Injection Attacks**|Toqeer Ali Syed et.al.|[2512.23557](http://arxiv.org/abs/2512.23557)|null|
@@ -1435,6 +1455,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-31**|**Scaling Open-Ended Reasoning to Predict the Future**|Nikhil Chandak et.al.|[2512.25070](http://arxiv.org/abs/2512.25070)|null|
+|**2025-12-31**|**Vulcan: Instance-Optimal Systems Heuristics Through LLM-Driven Search**|Rohit Dwivedula et.al.|[2512.25065](http://arxiv.org/abs/2512.25065)|null|
+|**2025-12-31**|**Many Minds from One Model: Bayesian Transformers for Population Intelligence**|Diji Yang et.al.|[2512.25063](http://arxiv.org/abs/2512.25063)|null|
+|**2025-12-31**|**Context-aware LLM-based AI Agents for Human-centered Energy Management Systems in Smart Buildings**|Tianzhi He et.al.|[2512.25055](http://arxiv.org/abs/2512.25055)|null|
+|**2025-12-31**|**Modeling Language as a Sequence of Thoughts**|Nasim Borazjanizadeh et.al.|[2512.25026](http://arxiv.org/abs/2512.25026)|null|
+|**2025-12-31**|**ResponseRank: Data-Efficient Reward Modeling through Preference Strength Learning**|Timo Kaufmann et.al.|[2512.25023](http://arxiv.org/abs/2512.25023)|null|
+|**2025-12-31**|**MAMA-Memeia! Multi-Aspect Multi-Agent Collaboration for Depressive Symptoms Identification in Memes**|Siddhant Agarwal et.al.|[2512.25015](http://arxiv.org/abs/2512.25015)|null|
+|**2025-12-31**|**Diffusion Language Models are Provably Optimal Parallel Samplers**|Haozhe Jiang et.al.|[2512.25014](http://arxiv.org/abs/2512.25014)|null|
+|**2025-12-31**|**Efficiently Estimating Data Efficiency for Language Model Fine-tuning**|Gyung Hyun Je et.al.|[2512.24991](http://arxiv.org/abs/2512.24991)|null|
+|**2025-12-31**|**PhysTalk: Language-driven Real-time Physics in 3D Gaussian Scenes**|Luca Collorone et.al.|[2512.24986](http://arxiv.org/abs/2512.24986)|null|
+|**2025-12-31**|**DarkEQA: Benchmarking Vision-Language Models for Embodied Question Answering in Low-Light Indoor Environments**|Yohan Park et.al.|[2512.24985](http://arxiv.org/abs/2512.24985)|null|
+|**2025-12-31**|**Evaluating the Impact of Compression Techniques on the Robustness of CNNs under Natural Corruptions**|Itallo Patrick Castro Alves Da Silva et.al.|[2512.24971](http://arxiv.org/abs/2512.24971)|null|
+|**2025-12-31**|**Large language models and the entropy of English**|Colin Scheibner et.al.|[2512.24969](http://arxiv.org/abs/2512.24969)|null|
+|**2025-12-31**|**The Impact of LLMs on Online News Consumption and Production**|Hangcheng Zhao et.al.|[2512.24968](http://arxiv.org/abs/2512.24968)|null|
+|**2025-12-31**|**AMAP Agentic Planning Technical Report**|Yulan Hu et.al.|[2512.24957](http://arxiv.org/abs/2512.24957)|null|
+|**2025-12-31**|**CPJ: Explainable Agricultural Pest Diagnosis via Caption-Prompt-Judge with LLM-Judged Refinement**|Wentao Zhang et.al.|[2512.24947](http://arxiv.org/abs/2512.24947)|null|
+|**2025-12-31**|**RAIR: A Rule-Aware Benchmark Uniting Challenging Long-Tail and Visual Salience Subset for E-commerce Relevance Assessment**|Chenji Lu et.al.|[2512.24943](http://arxiv.org/abs/2512.24943)|null|
+|**2025-12-31**|**Iterative Deployment Improves Planning Skills in LLMs**|Augusto B. Corrêa et.al.|[2512.24940](http://arxiv.org/abs/2512.24940)|null|
+|**2025-12-31**|**Vibe Coding, Interface Flattening**|Hongrui Jin et.al.|[2512.24939](http://arxiv.org/abs/2512.24939)|null|
+|**2025-12-31**|**Adaptive Dependency-aware Prompt Optimization Framework for Multi-Step LLM Pipeline**|Minjun Zhao et.al.|[2512.24933](http://arxiv.org/abs/2512.24933)|null|
 |**2025-12-29**|**Training AI Co-Scientists Using Rubric Rewards**|Shashwat Goel et.al.|[2512.23707](http://arxiv.org/abs/2512.23707)|null|
 |**2025-12-29**|**Eliciting Behaviors in Multi-Turn Conversations**|Jing Huang et.al.|[2512.23701](http://arxiv.org/abs/2512.23701)|null|
 |**2025-12-29**|**Fine-Tuning LLMs with Fine-Grained Human Feedback on Text Spans**|Sky CH-Wang et.al.|[2512.23693](http://arxiv.org/abs/2512.23693)|null|
@@ -2449,6 +2489,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-31**|**Coordinated Humanoid Manipulation with Choice Policies**|Haozhi Qi et.al.|[2512.25072](http://arxiv.org/abs/2512.25072)|null|
+|**2025-12-31**|**Scaling Open-Ended Reasoning to Predict the Future**|Nikhil Chandak et.al.|[2512.25070](http://arxiv.org/abs/2512.25070)|null|
+|**2025-12-31**|**Many Minds from One Model: Bayesian Transformers for Population Intelligence**|Diji Yang et.al.|[2512.25063](http://arxiv.org/abs/2512.25063)|null|
+|**2025-12-31**|**ResponseRank: Data-Efficient Reward Modeling through Preference Strength Learning**|Timo Kaufmann et.al.|[2512.25023](http://arxiv.org/abs/2512.25023)|null|
+|**2025-12-31**|**MSACL: Multi-Step Actor-Critic Learning with Lyapunov Certificates for Exponentially Stabilizing Control**|Yongwei Zhang et.al.|[2512.24955](http://arxiv.org/abs/2512.24955)|null|
+|**2025-12-31**|**Multi-particle quantum systems within the Worldline Monte Carlo formalism**|Ivan Ahumada et.al.|[2512.24942](http://arxiv.org/abs/2512.24942)|null|
+|**2025-12-31**|**Iterative Deployment Improves Planning Skills in LLMs**|Augusto B. Corrêa et.al.|[2512.24940](http://arxiv.org/abs/2512.24940)|null|
+|**2025-12-31**|**A Pontryagin Maximum Principle on the Belief Space for Continuous-Time Optimal Control with Discrete Observations**|Christian Bayer et.al.|[2512.24916](http://arxiv.org/abs/2512.24916)|null|
+|**2025-12-31**|**Adaptive Resource Orchestration for Distributed Quantum Computing Systems**|Kuan-Cheng Chen et.al.|[2512.24902](http://arxiv.org/abs/2512.24902)|null|
+|**2025-12-31**|**Adaptive Clutter Suppression via Convex Optimization**|Yifan He et.al.|[2512.24889](http://arxiv.org/abs/2512.24889)|null|
+|**2025-12-31**|**Symmetric mass generation as a multicritical point with enhanced symmetry**|Sandip Maiti et.al.|[2512.24836](http://arxiv.org/abs/2512.24836)|null|
+|**2025-12-31**|**Explaining Why Things Go Where They Go: Interpretable Constructs of Human Organizational Preferences**|Emmanuel Fashae et.al.|[2512.24829](http://arxiv.org/abs/2512.24829)|null|
+|**2025-12-31**|**Upscaling from ab initio atomistic simulations to electrode scale: The case of manganese hexacyanoferrate, a cathode material for Na-ion batteries**|Yuan-Chi Yang et.al.|[2512.24816](http://arxiv.org/abs/2512.24816)|null|
+|**2025-12-31**|**Nonlinear Noise2Noise for Efficient Monte Carlo Denoiser Training**|Andrew Tinits et.al.|[2512.24794](http://arxiv.org/abs/2512.24794)|null|
+|**2025-12-31**|**Throughput Optimization in UAV-Mounted RIS under Jittering and Imperfect CSI via DRL**|Anas K. Saeed et.al.|[2512.24773](http://arxiv.org/abs/2512.24773)|null|
+|**2025-12-31**|**Sparse Offline Reinforcement Learning with Corruption Robustness**|Nam Phuong Tran et.al.|[2512.24768](http://arxiv.org/abs/2512.24768)|null|
+|**2025-12-31**|**Dream2Flow: Bridging Video Generation and Open-World Manipulation with 3D Object Flow**|Karthik Dharmarajan et.al.|[2512.24766](http://arxiv.org/abs/2512.24766)|null|
+|**2025-12-31**|**Quasi-Maximum Likelihood Estimation for a Genuinely Unbalanced Dynamic Network Panel Data Model**|Zhijian Wang et.al.|[2512.24748](http://arxiv.org/abs/2512.24748)|null|
+|**2025-12-31**|**Control of Microrobots with Reinforcement Learning under On-Device Compute Constraints**|Yichen Liu et.al.|[2512.24740](http://arxiv.org/abs/2512.24740)|null|
+|**2025-12-31**|**Evolving, Not Training: Zero-Shot Reasoning Segmentation via Evolutionary Prompting**|Kai Ye et.al.|[2512.24702](http://arxiv.org/abs/2512.24702)|null|
 |**2025-12-29**|**Training AI Co-Scientists Using Rubric Rewards**|Shashwat Goel et.al.|[2512.23707](http://arxiv.org/abs/2512.23707)|null|
 |**2025-12-29**|**Robo-Dopamine: General Process Reward Modeling for High-Precision Robotic Manipulation**|Huajie Tan et.al.|[2512.23703](http://arxiv.org/abs/2512.23703)|null|
 |**2025-12-29**|**Bellman Calibration for V-Learning in Offline Reinforcement Learning**|Lars van der Laan et.al.|[2512.23694](http://arxiv.org/abs/2512.23694)|null|
