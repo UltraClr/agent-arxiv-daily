@@ -21,6 +21,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-02**|**LLM Agents for Combinatorial Efficient Frontiers: Investment Portfolio Optimization**|Simon Paquette-Greenbaum et.al.|[2601.00770](http://arxiv.org/abs/2601.00770)|null|
+|**2026-01-02**|**Early-Stage Prediction of Review Effort in AI-Generated Pull Requests**|Dao Sy Duy Minh et.al.|[2601.00753](http://arxiv.org/abs/2601.00753)|null|
+|**2026-01-02**|**An Agentic Framework for Neuro-Symbolic Programming**|Aliakbar Nafar et.al.|[2601.00743](http://arxiv.org/abs/2601.00743)|null|
+|**2026-01-02**|**Beyond IVR: Benchmarking Customer Support LLM Agents for Business-Adherence**|Sumanth Balaji et.al.|[2601.00596](http://arxiv.org/abs/2601.00596)|null|
+|**2026-01-02**|**Trajectory Guard -- A Lightweight, Sequence-Aware Model for Real-Time Anomaly Detection in Agentic AI**|Laksh Advani et.al.|[2601.00516](http://arxiv.org/abs/2601.00516)|null|
+|**2026-01-01**|**When Small Models Are Right for Wrong Reasons: Process Verification for Trustworthy Agents**|Laksh Advani et.al.|[2601.00513](http://arxiv.org/abs/2601.00513)|null|
+|**2026-01-01**|**Multi-Agent Coordinated Rename Refactoring**|Abhiram Bellur et.al.|[2601.00482](http://arxiv.org/abs/2601.00482)|null|
+|**2026-01-01**|**MAESTRO: Multi-Agent Evaluation Suite for Testing, Reliability, and Observability**|Tie Ma et.al.|[2601.00481](http://arxiv.org/abs/2601.00481)|null|
+|**2026-01-01**|**Security in the Age of AI Teammates: An Empirical Study of Agentic Pull Requests on GitHub**|Mohammed Latif Siddiq et.al.|[2601.00477](http://arxiv.org/abs/2601.00477)|null|
+|**2026-01-01**|**Progressive Ideation using an Agentic AI Framework for Human-AI Co-Creation**|Sankar B et.al.|[2601.00475](http://arxiv.org/abs/2601.00475)|null|
+|**2026-01-01**|**Space Debris Removal using Nano-Satellites controlled by Low-Power Autonomous Agents**|Dennis Christmann et.al.|[2601.00465](http://arxiv.org/abs/2601.00465)|null|
+|**2026-01-01**|**OmniVaT: Single Domain Generalization for Multimodal Visual-Tactile Learning**|Liuxiang Qiu et.al.|[2601.00352](http://arxiv.org/abs/2601.00352)|null|
+|**2026-01-01**|**Can Optimal Transport Improve Federated Inverse Reinforcement Learning?**|David Millard et.al.|[2601.00309](http://arxiv.org/abs/2601.00309)|null|
+|**2026-01-01**|**ClinicalReTrial: A Self-Evolving AI Agent for Clinical Trial Protocol Optimization**|Sixue Xing et.al.|[2601.00290](http://arxiv.org/abs/2601.00290)|null|
+|**2026-01-01**|**Beyond Perfect APIs: A Comprehensive Evaluation of LLM Agents Under Real-World API Complexity**|Doyoung Kim et.al.|[2601.00268](http://arxiv.org/abs/2601.00268)|null|
+|**2026-01-01**|**Will LLM-powered Agents Bias Against Humans? Exploring the Belief-Dependent Vulnerability**|Zongwei Wang et.al.|[2601.00240](http://arxiv.org/abs/2601.00240)|null|
+|**2026-01-01**|**FlashInfer-Bench: Building the Virtuous Cycle for AI-driven LLM Systems**|Shanli Xing et.al.|[2601.00227](http://arxiv.org/abs/2601.00227)|null|
+|**2026-01-01**|**μACP: A Formal Calculus for Expressive, Resource-Constrained Agent Communication**|Arnab Mallick et.al.|[2601.00219](http://arxiv.org/abs/2601.00219)|null|
+|**2026-01-01**|**Understanding Security Risks of AI Agents' Dependency Updates**|Tanmay Singla et.al.|[2601.00205](http://arxiv.org/abs/2601.00205)|null|
+|**2025-12-31**|**Ask, Clarify, Optimize: Human-LLM Agent Collaboration for Smarter Inventory Control**|Yaqi Duan et.al.|[2601.00121](http://arxiv.org/abs/2601.00121)|null|
 |**2025-12-31**|**Context-aware LLM-based AI Agents for Human-centered Energy Management Systems in Smart Buildings**|Tianzhi He et.al.|[2512.25055](http://arxiv.org/abs/2512.25055)|null|
 |**2025-12-31**|**MAMA-Memeia! Multi-Aspect Multi-Agent Collaboration for Depressive Symptoms Identification in Memes**|Siddhant Agarwal et.al.|[2512.25015](http://arxiv.org/abs/2512.25015)|null|
 |**2025-12-31**|**DarkEQA: Benchmarking Vision-Language Models for Embodied Question Answering in Low-Light Indoor Environments**|Yohan Park et.al.|[2512.24985](http://arxiv.org/abs/2512.24985)|null|
@@ -1455,6 +1475,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-02**|**Geometry of Reason: Spectral Signatures of Valid Mathematical Reasoning**|Valentin Noël et.al.|[2601.00791](http://arxiv.org/abs/2601.00791)|null|
+|**2026-01-02**|**Improving Router Security using BERT**|John Carter et.al.|[2601.00783](http://arxiv.org/abs/2601.00783)|null|
+|**2026-01-02**|**Investigating the Viability of Employing Multi-modal Large Language Models in the Context of Audio Deepfake Detection**|Akanksha Chuchra et.al.|[2601.00777](http://arxiv.org/abs/2601.00777)|null|
+|**2026-01-02**|**Memory Bank Compression for Continual Adaptation of Large Language Models**|Thomas Katraouras et.al.|[2601.00756](http://arxiv.org/abs/2601.00756)|null|
+|**2026-01-02**|**The Reasoning-Creativity Trade-off: Toward Creativity-Driven Problem Solving**|Max Ruiz Luyten et.al.|[2601.00747](http://arxiv.org/abs/2601.00747)|null|
+|**2026-01-02**|**Materials Informatics: Emergence To Autonomous Discovery In The Age Of AI**|Turab Lookman et.al.|[2601.00742](http://arxiv.org/abs/2601.00742)|null|
+|**2026-01-02**|**Exploring the Performance of Large Language Models on Subjective Span Identification Tasks**|Alphaeus Dmonte et.al.|[2601.00736](http://arxiv.org/abs/2601.00736)|null|
+|**2026-01-02**|**Grading Handwritten Engineering Exams with Multimodal Large Language Models**|Janez Perš et.al.|[2601.00730](http://arxiv.org/abs/2601.00730)|null|
+|**2026-01-02**|**Detecting Performance Degradation under Data Shift in Pathology Vision-Language Model**|Hao Guan et.al.|[2601.00716](http://arxiv.org/abs/2601.00716)|null|
+|**2026-01-02**|**A Vision-and-Knowledge Enhanced Large Language Model for Generalizable Pedestrian Crossing Behavior Inference**|Qingwen Pu et.al.|[2601.00694](http://arxiv.org/abs/2601.00694)|null|
+|**2026-01-02**|**Human-like AI-based Auto-Field-in-Field Whole-Brain Radiotherapy Treatment Planning With Conversation Large Language Model Feedback**|Adnan Jafar et.al.|[2601.00685](http://arxiv.org/abs/2601.00685)|null|
+|**2026-01-02**|**Sigmoid Head for Quality Estimation under Language Ambiguity**|Tu Anh Dinh et.al.|[2601.00680](http://arxiv.org/abs/2601.00680)|null|
+|**2026-01-02**|**QSLM: A Performance- and Memory-aware Quantization Framework with Tiered Search Strategy for Spike-driven Language Models**|Rachmad Vidya Wicaksana Putra et.al.|[2601.00679](http://arxiv.org/abs/2601.00679)|null|
+|**2026-01-02**|**IRPO: Scaling the Bradley-Terry Model via Reinforcement Learning**|Haonan Song et.al.|[2601.00677](http://arxiv.org/abs/2601.00677)|null|
+|**2026-01-02**|**RoboReward: General-Purpose Vision-Language Reward Models for Robotics**|Tony Lee et.al.|[2601.00675](http://arxiv.org/abs/2601.00675)|null|
+|**2026-01-02**|**Fast-weight Product Key Memory**|Tianyu Zhao et.al.|[2601.00671](http://arxiv.org/abs/2601.00671)|null|
+|**2026-01-02**|**CRoPS: A Training-Free Hallucination Mitigation Framework for Vision-Language Models**|Neeraj Anand et.al.|[2601.00659](http://arxiv.org/abs/2601.00659)|null|
+|**2026-01-02**|**Physio-DPO: Aligning Large Language Models with the Protein Energy Landscape to Eliminate Structural Hallucinations**|QiWei Meng et.al.|[2601.00647](http://arxiv.org/abs/2601.00647)|null|
+|**2026-01-02**|**FlexSpec: Frozen Drafts Meet Evolving Targets in Edge-Cloud Collaborative LLM Speculative Decoding**|Yuchen Li et.al.|[2601.00644](http://arxiv.org/abs/2601.00644)|null|
+|**2026-01-02**|**Probabilistic Guarantees for Reducing Contextual Hallucinations in LLMs**|Nils Rautenberg et.al.|[2601.00641](http://arxiv.org/abs/2601.00641)|null|
 |**2025-12-31**|**Scaling Open-Ended Reasoning to Predict the Future**|Nikhil Chandak et.al.|[2512.25070](http://arxiv.org/abs/2512.25070)|null|
 |**2025-12-31**|**Vulcan: Instance-Optimal Systems Heuristics Through LLM-Driven Search**|Rohit Dwivedula et.al.|[2512.25065](http://arxiv.org/abs/2512.25065)|null|
 |**2025-12-31**|**Many Minds from One Model: Bayesian Transformers for Population Intelligence**|Diji Yang et.al.|[2512.25063](http://arxiv.org/abs/2512.25063)|null|
@@ -2489,6 +2529,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-02**|**Exponentially Accelerated Sampling of Pauli Strings for Nonstabilizerness**|Zhenyu Xiao et.al.|[2601.00761](http://arxiv.org/abs/2601.00761)|null|
+|**2026-01-02**|**Training-Free Certified Bounds for Quantum Regression: A Scalable Framework**|Demerson N. Gonçalves et.al.|[2601.00745](http://arxiv.org/abs/2601.00745)|null|
+|**2026-01-02**|**Materials Informatics: Emergence To Autonomous Discovery In The Age Of AI**|Turab Lookman et.al.|[2601.00742](http://arxiv.org/abs/2601.00742)|null|
+|**2026-01-02**|**Stochastic Actor-Critic: Mitigating Overestimation via Temporal Aleatoric Uncertainty**|Uğurcan Özalp et.al.|[2601.00737](http://arxiv.org/abs/2601.00737)|null|
+|**2026-01-02**|**Precision Autotuning for Linear Solvers via Contextual Bandit-Based RL**|Erin Carson et.al.|[2601.00728](http://arxiv.org/abs/2601.00728)|null|
+|**2026-01-02**|**ARISE: Adaptive Reinforcement Integrated with Swarm Exploration**|Rajiv Chaitanya M et.al.|[2601.00693](http://arxiv.org/abs/2601.00693)|null|
+|**2026-01-02**|**IRPO: Scaling the Bradley-Terry Model via Reinforcement Learning**|Haonan Song et.al.|[2601.00677](http://arxiv.org/abs/2601.00677)|null|
+|**2026-01-02**|**RoboReward: General-Purpose Vision-Language Reward Models for Robotics**|Tony Lee et.al.|[2601.00675](http://arxiv.org/abs/2601.00675)|null|
+|**2026-01-02**|**Spectral Shapes of Pair Annihilation Line Emission in Magnetar Giant Flares**|Tomoki Wada et.al.|[2601.00666](http://arxiv.org/abs/2601.00666)|null|
+|**2026-01-02**|**Integrating Multi-Armed Bandit, Active Learning, and Distributed Computing for Scalable Optimization**|Foo Hui-Mean et.al.|[2601.00615](http://arxiv.org/abs/2601.00615)|null|
+|**2026-01-02**|**Vision-based Goal-Reaching Control for Mobile Robots Using a Hierarchical Learning Framework**|Mehdi Heydari Shahna et.al.|[2601.00610](http://arxiv.org/abs/2601.00610)|null|
+|**2026-01-02**|**Traffic-Aware Optimal Taxi Placement Using Graph Neural Network-Based Reinforcement Learning**|Sonia Khetarpaul et.al.|[2601.00607](http://arxiv.org/abs/2601.00607)|null|
+|**2026-01-02**|**Coordination-driven magic numbers in protonated argon clusters**|Saajid Chowdhury et.al.|[2601.00591](http://arxiv.org/abs/2601.00591)|null|
+|**2026-01-02**|**Elaboration on the kinetic approach of Derbenev and Kondratenko to spin-polarized beams in electron storage rings**|Klaus Heinemann et.al.|[2601.00586](http://arxiv.org/abs/2601.00586)|null|
+|**2026-01-02**|**Parametrized Sharing for Multi-Agent Hybrid DRL for Multiple Multi-Functional RISs-Aided Downlink NOMA Networks**|Chi-Te Kuo et.al.|[2601.00538](http://arxiv.org/abs/2601.00538)|null|
+|**2026-01-02**|**Fair Policy Learning under Bipartite Network Interference: Learning Fair and Cost-Effective Environmental Policies**|Raphael C. Kim et.al.|[2601.00531](http://arxiv.org/abs/2601.00531)|null|
+|**2026-01-01**|**MIMO-AFDM Outperforms MIMO-OFDM in the Face of Hardware Impairments**|Zeping Sui et.al.|[2601.00502](http://arxiv.org/abs/2601.00502)|null|
+|**2026-01-01**|**CPPO: Contrastive Perception for Vision Language Policy Optimization**|Ahmad Rezaei et.al.|[2601.00501](http://arxiv.org/abs/2601.00501)|null|
+|**2026-01-01**|**Discovering pulsars in compact binaries with a hidden Markov model**|Joseph O'Leary et.al.|[2601.00500](http://arxiv.org/abs/2601.00500)|null|
+|**2026-01-01**|**Fisher-Information-Driven Adaptive Acquisition for Photon-Efficient FLIM: A Dual-Implementation Framework for TCSPC and Programmable Time-Gating**|J. Sumaya-Martinez et.al.|[2601.00490](http://arxiv.org/abs/2601.00490)|null|
 |**2025-12-31**|**Coordinated Humanoid Manipulation with Choice Policies**|Haozhi Qi et.al.|[2512.25072](http://arxiv.org/abs/2512.25072)|null|
 |**2025-12-31**|**Scaling Open-Ended Reasoning to Predict the Future**|Nikhil Chandak et.al.|[2512.25070](http://arxiv.org/abs/2512.25070)|null|
 |**2025-12-31**|**Many Minds from One Model: Bayesian Transformers for Population Intelligence**|Diji Yang et.al.|[2512.25063](http://arxiv.org/abs/2512.25063)|null|
