@@ -16,6 +16,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-05**|**Project Ariadne: A Structural Causal Framework for Auditing Faithfulness in LLM Agents**|Sourena Khanzadeh et.al.|[2601.02314](http://arxiv.org/abs/2601.02314)|null|
+|**2026-01-05**|**Code for Machines, Not Just Humans: Quantifying AI-Friendliness with Code Health Metrics**|Markus Borg et.al.|[2601.02200](http://arxiv.org/abs/2601.02200)|null|
+|**2026-01-05**|**Confidence Estimation for LLMs in Multi-turn Interactions**|Caiqi Zhang et.al.|[2601.02179](http://arxiv.org/abs/2601.02179)|null|
+|**2026-01-05**|**Finite-State Decentralized Policy-Based Control With Guaranteed Ground Coverage**|Hossein Rastgoftar et.al.|[2601.02109](http://arxiv.org/abs/2601.02109)|null|
+|**2026-01-05**|**Agentic AI in Remote Sensing: Foundations, Taxonomy, and Emerging Systems**|Niloufar Alipour Talemi et.al.|[2601.01891](http://arxiv.org/abs/2601.01891)|null|
+|**2026-01-05**|**Agentic Memory: Learning Unified Long-Term and Short-Term Memory Management for Large Language Model Agents**|Yi Yu et.al.|[2601.01885](http://arxiv.org/abs/2601.01885)|null|
+|**2026-01-05**|**Toward Auditable Neuro-Symbolic Reasoning in Pathology: SQL as an Explicit Trace of Evidence**|Kewen Cao et.al.|[2601.01875](http://arxiv.org/abs/2601.01875)|null|
+|**2026-01-05**|**Jenius Agent: Towards Experience-Driven Accuracy Optimization in Real-World Scenarios**|Defei Xia et.al.|[2601.01857](http://arxiv.org/abs/2601.01857)|null|
+|**2026-01-05**|**ARIES: A Scalable Multi-Agent Orchestration Framework for Real-Time Epidemiological Surveillance and Outbreak Monitoring**|Aniket Wattamwar et.al.|[2601.01831](http://arxiv.org/abs/2601.01831)|null|
+|**2026-01-05**|**AI Agent Systems: Architectures, Applications, and Evaluation**|Bin Xu et.al.|[2601.01743](http://arxiv.org/abs/2601.01743)|null|
+|**2026-01-05**|**Structural Representations for Cross-Attack Generalization in AI Agent Threat Detection**|Vignesh Iyer et.al.|[2601.01723](http://arxiv.org/abs/2601.01723)|null|
+|**2026-01-05**|**Explicit World Models for Reliable Human-Robot Collaboration**|Kenneth Kwok et.al.|[2601.01705](http://arxiv.org/abs/2601.01705)|null|
+|**2026-01-04**|**Lying with Truths: Open-Channel Multi-Agent Collusion for Belief Manipulation via Generative Montage**|Jinwei Hu et.al.|[2601.01685](http://arxiv.org/abs/2601.01685)|null|
+|**2026-01-04**|**Exposing Hidden Interfaces: LLM-Guided Type Inference for Reverse Engineering macOS Private Frameworks**|Arina Kharlamova et.al.|[2601.01673](http://arxiv.org/abs/2601.01673)|null|
+|**2026-01-04**|**CaveAgent: Transforming LLMs into Stateful Runtime Operators**|Maohao Ran et.al.|[2601.01569](http://arxiv.org/abs/2601.01569)|null|
+|**2026-01-04**|**Bayesian Orchestration of Multi-LLM Agents for Cost-Aware Sequential Decision-Making**|Danial Amin et.al.|[2601.01522](http://arxiv.org/abs/2601.01522)|null|
+|**2026-01-04**|**From Failure to Mastery: Generating Hard Samples for Tool-use Agents**|Bingguang Hao et.al.|[2601.01498](http://arxiv.org/abs/2601.01498)|null|
+|**2026-01-04**|**KGCE: Knowledge-Augmented Dual-Graph Evaluator for Cross-Platform Educational Agent Benchmarking with Multimodal Language Models**|Zixian Liu et.al.|[2601.01366](http://arxiv.org/abs/2601.01366)|null|
+|**2026-01-04**|**Towards LLM-enabled autonomous combustion research: A literature-aware agent for self-corrective modeling workflows**|Ke Xiao et.al.|[2601.01357](http://arxiv.org/abs/2601.01357)|null|
+|**2026-01-04**|**Adaptive Hierarchical Evaluation of LLMs and SAST tools for CWE Prediction in Python**|Muntasir Adnan et.al.|[2601.01320](http://arxiv.org/abs/2601.01320)|null|
 |**2026-01-02**|**LLM Agents for Combinatorial Efficient Frontiers: Investment Portfolio Optimization**|Simon Paquette-Greenbaum et.al.|[2601.00770](http://arxiv.org/abs/2601.00770)|null|
 |**2026-01-02**|**Early-Stage Prediction of Review Effort in AI-Generated Pull Requests**|Dao Sy Duy Minh et.al.|[2601.00753](http://arxiv.org/abs/2601.00753)|null|
 |**2026-01-02**|**An Agentic Framework for Neuro-Symbolic Programming**|Aliakbar Nafar et.al.|[2601.00743](http://arxiv.org/abs/2601.00743)|null|
@@ -1468,6 +1488,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-05**|**Heterogeneous Low-Bandwidth Pre-Training of LLMs**|Yazan Obeidi et.al.|[2601.02360](http://arxiv.org/abs/2601.02360)|null|
+|**2026-01-05**|**VINO: A Unified Visual Generator with Interleaved OmniModal Context**|Junyi Chen et.al.|[2601.02358](http://arxiv.org/abs/2601.02358)|null|
+|**2026-01-05**|**Talk2Move: Reinforcement Learning for Text-Instructed Object-Level Geometric Transformation in Scenes**|Jing Tan et.al.|[2601.02356](http://arxiv.org/abs/2601.02356)|null|
+|**2026-01-05**|**Falcon-H1R: Pushing the Reasoning Frontiers with a Hybrid Model for Efficient Test-Time Scaling**|Falcon LLM Team et.al.|[2601.02346](http://arxiv.org/abs/2601.02346)|null|
+|**2026-01-05**|**Robust Persona-Aware Toxicity Detection with Prompt Optimization and Learned Ensembling**|Berk Atil et.al.|[2601.02337](http://arxiv.org/abs/2601.02337)|null|
+|**2026-01-05**|**Estimating Text Temperature**|Nikolay Mikhaylovskiy et.al.|[2601.02320](http://arxiv.org/abs/2601.02320)|null|
+|**2026-01-05**|**DatBench: Discriminative, Faithful, and Efficient VLM Evaluations**|Siddharth Joshi et.al.|[2601.02316](http://arxiv.org/abs/2601.02316)|null|
+|**2026-01-05**|**Project Ariadne: A Structural Causal Framework for Auditing Faithfulness in LLM Agents**|Sourena Khanzadeh et.al.|[2601.02314](http://arxiv.org/abs/2601.02314)|null|
+|**2026-01-05**|**Placement Semantics for Distributed Deep Learning: A Systematic Framework for Analyzing Parallelism Strategies**|Deep Pankajbhai Mehta et.al.|[2601.02311](http://arxiv.org/abs/2601.02311)|null|
+|**2026-01-05**|**Power-of-Two Quantization-Aware-Training (PoT-QAT) in Large Language Models (LLMs)**|Mahmoud Elgenedy et.al.|[2601.02298](http://arxiv.org/abs/2601.02298)|null|
+|**2026-01-05**|**CD4LM: Consistency Distillation and aDaptive Decoding for Diffusion Language Models**|Yihao Liang et.al.|[2601.02236](http://arxiv.org/abs/2601.02236)|null|
+|**2026-01-05**|**ELLA: Efficient Lifelong Learning for Adapters in Large Language Models**|Shristi Das Biswas et.al.|[2601.02232](http://arxiv.org/abs/2601.02232)|null|
+|**2026-01-05**|**From XAI to Stories: A Factorial Study of LLM-Generated Explanation Quality**|Fabian Lukassen et.al.|[2601.02224](http://arxiv.org/abs/2601.02224)|null|
+|**2026-01-05**|**CORE: Code-based Inverse Self-Training Framework with Graph Expansion for Virtual Agents**|Keyu Wang et.al.|[2601.02201](http://arxiv.org/abs/2601.02201)|null|
+|**2026-01-05**|**Toward Global Large Language Models in Medicine**|Rui Yang et.al.|[2601.02186](http://arxiv.org/abs/2601.02186)|null|
+|**2026-01-05**|**Confidence Estimation for LLMs in Multi-turn Interactions**|Caiqi Zhang et.al.|[2601.02179](http://arxiv.org/abs/2601.02179)|null|
+|**2026-01-05**|**Streaming Hallucination Detection in Long Chain-of-Thought Reasoning**|Haolang Lu et.al.|[2601.02170](http://arxiv.org/abs/2601.02170)|null|
+|**2026-01-05**|**EverMemOS: A Self-Organizing Memory Operating System for Structured Long-Horizon Reasoning**|Chuanrui Hu et.al.|[2601.02163](http://arxiv.org/abs/2601.02163)|null|
+|**2026-01-05**|**FormationEval, an open multiple-choice benchmark for petroleum geoscience**|Almaz Ermilov et.al.|[2601.02158](http://arxiv.org/abs/2601.02158)|null|
+|**2026-01-05**|**BiPrompt: Bilateral Prompt Optimization for Visual and Textual Debiasing in Vision-Language Models**|Sunny Gupta et.al.|[2601.02147](http://arxiv.org/abs/2601.02147)|null|
 |**2026-01-02**|**Geometry of Reason: Spectral Signatures of Valid Mathematical Reasoning**|Valentin Noël et.al.|[2601.00791](http://arxiv.org/abs/2601.00791)|null|
 |**2026-01-02**|**Improving Router Security using BERT**|John Carter et.al.|[2601.00783](http://arxiv.org/abs/2601.00783)|null|
 |**2026-01-02**|**Investigating the Viability of Employing Multi-modal Large Language Models in the Context of Audio Deepfake Detection**|Akanksha Chuchra et.al.|[2601.00777](http://arxiv.org/abs/2601.00777)|null|
@@ -2520,6 +2560,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-05**|**Talk2Move: Reinforcement Learning for Text-Instructed Object-Level Geometric Transformation in Scenes**|Jing Tan et.al.|[2601.02356](http://arxiv.org/abs/2601.02356)|null|
+|**2026-01-05**|**The Sequential Monte Carlo goes NUTS: Boosting Gravitational-Wave Inference**|Gabriele Demasi et.al.|[2601.02336](http://arxiv.org/abs/2601.02336)|null|
+|**2026-01-05**|**A comprehensive search for high-velocity X-ray sources: New compact object binary candidates in the Gaia era**|Yue Zhao et.al.|[2601.02287](http://arxiv.org/abs/2601.02287)|null|
+|**2026-01-05**|**VAR RL Done Right: Tackling Asynchronous Policy Conflicts in Visual Autoregressive Generation**|Shikun Sun et.al.|[2601.02256](http://arxiv.org/abs/2601.02256)|null|
+|**2026-01-05**|**Enabling Deep Reinforcement Learning Research for Energy Saving in Open RAN**|Matteo Bordin et.al.|[2601.02240](http://arxiv.org/abs/2601.02240)|null|
+|**2026-01-05**|**Extended real number arithmetics via Dedekind cuts**|Andreas H Hamel et.al.|[2601.02229](http://arxiv.org/abs/2601.02229)|null|
+|**2026-01-05**|**NextFlow: Unified Sequential Modeling Activates Multimodal Understanding and Generation**|Huichao Zhang et.al.|[2601.02204](http://arxiv.org/abs/2601.02204)|null|
+|**2026-01-05**|**CORE: Code-based Inverse Self-Training Framework with Graph Expansion for Virtual Agents**|Keyu Wang et.al.|[2601.02201](http://arxiv.org/abs/2601.02201)|null|
+|**2026-01-05**|**ACDZero: Graph-Embedding-Based Tree Search for Mastering Automated Cyber Defense**|Yu Li et.al.|[2601.02196](http://arxiv.org/abs/2601.02196)|null|
+|**2026-01-05**|**Accurate Helium-Benzene Potential: from CCSD(T) to Gaussian Process Regression**|Shahzad Akram et.al.|[2601.02166](http://arxiv.org/abs/2601.02166)|null|
+|**2026-01-05**|**Entropy-Adaptive Fine-Tuning: Resolving Confident Conflicts to Mitigate Forgetting**|Muxi Diao et.al.|[2601.02151](http://arxiv.org/abs/2601.02151)|null|
+|**2026-01-05**|**Simulation of Radiation Chemistry by a One-Shot Hybrid Continuum / Monte Carlo Method**|Charlie Fynn Perkins et.al.|[2601.02132](http://arxiv.org/abs/2601.02132)|null|
+|**2026-01-05**|**MDAgent2: Large Language Model for Code Generation and Knowledge Q&A in Molecular Dynamics**|Zhuofan Shi et.al.|[2601.02075](http://arxiv.org/abs/2601.02075)|null|
+|**2026-01-05**|**Reinforcement Learning Based Computationally Efficient Conditional Choice Simulation Estimation of Dynamic Discrete Choice Models**|Ahmed Khwaja et.al.|[2601.02069](http://arxiv.org/abs/2601.02069)|null|
+|**2026-01-05**|**Higher-Order Action Regularization in Deep Reinforcement Learning: From Continuous Control to Building Energy Management**|Faizan Ahmed et.al.|[2601.02061](http://arxiv.org/abs/2601.02061)|null|
+|**2026-01-05**|**GDRO: Group-level Reward Post-training Suitable for Diffusion Models**|Yiyang Wang et.al.|[2601.02036](http://arxiv.org/abs/2601.02036)|null|
+|**2026-01-05**|**AgentVNE: LLM-Augmented Graph Reinforcement Learning for Affinity-Aware Multi-Agent Placement in Edge Agentic AI**|Runze Zheng et.al.|[2601.02021](http://arxiv.org/abs/2601.02021)|null|
+|**2026-01-05**|**Thinking with Blueprints: Assisting Vision-Language Models in Spatial Reasoning via Structured Object Representation**|Weijian Ma et.al.|[2601.01984](http://arxiv.org/abs/2601.01984)|null|
+|**2026-01-05**|**Distorted Distributional Policy Evaluation for Offline Reinforcement Learning**|Ryo Iwaki et.al.|[2601.01917](http://arxiv.org/abs/2601.01917)|null|
+|**2026-01-05**|**Evaluating Feature Dependent Noise in Preference-based Reinforcement Learning**|Yuxuan Li et.al.|[2601.01904](http://arxiv.org/abs/2601.01904)|null|
 |**2026-01-02**|**Exponentially Accelerated Sampling of Pauli Strings for Nonstabilizerness**|Zhenyu Xiao et.al.|[2601.00761](http://arxiv.org/abs/2601.00761)|null|
 |**2026-01-02**|**Training-Free Certified Bounds for Quantum Regression: A Scalable Framework**|Demerson N. Gonçalves et.al.|[2601.00745](http://arxiv.org/abs/2601.00745)|null|
 |**2026-01-02**|**Materials Informatics: Emergence To Autonomous Discovery In The Age Of AI**|Turab Lookman et.al.|[2601.00742](http://arxiv.org/abs/2601.00742)|null|
