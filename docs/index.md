@@ -16,6 +16,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-12**|**Beyond Single-Shot: Multi-step Tool Retrieval via Query Planning**|Wei Fang et.al.|[2601.07782](http://arxiv.org/abs/2601.07782)|null|
+|**2026-01-12**|**Semisimple algebraic groups over real closed fields**|Raphael Appenzeller et.al.|[2601.07732](http://arxiv.org/abs/2601.07732)|null|
+|**2026-01-12**|**DIAGPaper: Diagnosing Valid and Specific Weaknesses in Scientific Papers via Multi-Agent Reasoning**|Zhuoyang Zou et.al.|[2601.07611](http://arxiv.org/abs/2601.07611)|null|
+|**2026-01-12**|**Proof of Time: A Benchmark for Evaluating Scientific Idea Judgments**|Bingyang Ye et.al.|[2601.07606](http://arxiv.org/abs/2601.07606)|null|
+|**2026-01-12**|**VirtualEnv: A Platform for Embodied AI Research**|Kabir Swain et.al.|[2601.07553](http://arxiv.org/abs/2601.07553)|null|
+|**2026-01-12**|**FROAV: A Framework for RAG Observation and Agent Verification - Lowering the Barrier to LLM Agent Research**|Tzu-Hsuan Lin et.al.|[2601.07504](http://arxiv.org/abs/2601.07504)|null|
+|**2026-01-12**|**R3-RECON: Radiance-Field-Free Active Reconstruction via Renderability**|Xiaofeng Jin et.al.|[2601.07484](http://arxiv.org/abs/2601.07484)|null|
+|**2026-01-12**|**JudgeFlow: Agentic Workflow Optimization via Block Judge**|Zihan Ma et.al.|[2601.07477](http://arxiv.org/abs/2601.07477)|null|
+|**2026-01-12**|**Learning How to Remember: A Meta-Cognitive Management Method for Structured and Transferable Agent Memory**|Sirui Liang et.al.|[2601.07470](http://arxiv.org/abs/2601.07470)|null|
+|**2026-01-12**|**Beyond Dialogue Time: Temporal Semantic Memory for Personalized LLM Agents**|Miao Su et.al.|[2601.07468](http://arxiv.org/abs/2601.07468)|null|
+|**2026-01-12**|**MCP-ITP: An Automated Framework for Implicit Tool Poisoning in MCP**|Ruiqi Li et.al.|[2601.07395](http://arxiv.org/abs/2601.07395)|null|
+|**2026-01-12**|**OpenTinker: Separating Concerns in Agentic Reinforcement Learning**|Siqi Zhu et.al.|[2601.07376](http://arxiv.org/abs/2601.07376)|null|
+|**2026-01-12**|**Agentic Diagnostic Reasoning over Telecom and Datacenter Infrastructure**|Nicolas Tacheny et.al.|[2601.07342](http://arxiv.org/abs/2601.07342)|null|
+|**2026-01-12**|**ARM: Role-Conditioned Neuron Transplantation for Training-Free Generalist LLM Agent Merging**|Zhuoka Feng et.al.|[2601.07309](http://arxiv.org/abs/2601.07309)|null|
+|**2026-01-12**|**The Confidence Dichotomy: Analyzing and Mitigating Miscalibration in Tool-Use Agents**|Weihao Xuan et.al.|[2601.07264](http://arxiv.org/abs/2601.07264)|null|
+|**2026-01-12**|**When Bots Take the Bait: Exposing and Mitigating the Emerging Social Engineering Attack in Web Automation Agent**|Xinyi Wu et.al.|[2601.07263](http://arxiv.org/abs/2601.07263)|null|
+|**2026-01-12**|**ColorBrowserAgent: An Intelligent GUI Agent for Complex Long-Horizon Web Automation**|Jiamu Zhou et.al.|[2601.07262](http://arxiv.org/abs/2601.07262)|null|
+|**2026-01-12**|**Lost in the Noise: How Reasoning Models Fail with Contextual Distractors**|Seongyun Lee et.al.|[2601.07226](http://arxiv.org/abs/2601.07226)|null|
+|**2026-01-12**|**Consolidation or Adaptation? PRISM: Disentangling SFT and RL Data via Gradient Concentration**|Yang Zhao et.al.|[2601.07224](http://arxiv.org/abs/2601.07224)|null|
+|**2026-01-12**|**Active Context Compression: Autonomous Memory Management in LLM Agents**|Nikhil Verma et.al.|[2601.07190](http://arxiv.org/abs/2601.07190)|null|
 |**2026-01-09**|**Chaining the Evidence: Robust Reinforcement Learning for Deep Search Agents with Citation-Aware Rubric Rewards**|Jiajie Zhang et.al.|[2601.06021](http://arxiv.org/abs/2601.06021)|null|
 |**2026-01-09**|**Don't Break the Cache: An Evaluation of Prompt Caching for Long-Horizon Agentic Tasks**|Elias Lumer et.al.|[2601.06007](http://arxiv.org/abs/2601.06007)|null|
 |**2026-01-09**|**Agentic LLMs as Powerful Deanonymizers: Re-identification of Participants in the Anthropic Interviewer Dataset**|Tianshi Li et.al.|[2601.05918](http://arxiv.org/abs/2601.05918)|null|
@@ -1566,6 +1586,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-12**|**SecureCAI: Injection-Resilient LLM Assistants for Cybersecurity Operations**|Mohammed Himayath Ali et.al.|[2601.07835](http://arxiv.org/abs/2601.07835)|null|
+|**2026-01-12**|**Reference Games as a Testbed for the Alignment of Model Uncertainty and Clarification Requests**|Manar Ali et.al.|[2601.07820](http://arxiv.org/abs/2601.07820)|null|
+|**2026-01-12**|**More Images, More Problems? A Controlled Analysis of VLM Failure Modes**|Anurag Das et.al.|[2601.07812](http://arxiv.org/abs/2601.07812)|null|
+|**2026-01-12**|**The Confidence Trap: Gender Bias and Predictive Certainty in LLMs**|Ahmed Sabir et.al.|[2601.07806](http://arxiv.org/abs/2601.07806)|null|
+|**2026-01-12**|**Learning Through Dialogue: Unpacking the Dynamics of Human-LLM Conversations on Political Issues**|Shaz Furniturewala et.al.|[2601.07796](http://arxiv.org/abs/2601.07796)|null|
+|**2026-01-12**|**Vision-Language Model for Accurate Crater Detection**|Patrick Bauer et.al.|[2601.07795](http://arxiv.org/abs/2601.07795)|null|
+|**2026-01-12**|**Kinship Data Benchmark for Multi-hop Reasoning**|Tianda Sun et.al.|[2601.07794](http://arxiv.org/abs/2601.07794)|null|
+|**2026-01-12**|**Benchmarking Small Language Models and Small Reasoning Language Models on System Log Severity Classification**|Yahya Masri et.al.|[2601.07790](http://arxiv.org/abs/2601.07790)|null|
+|**2026-01-12**|**"TODO: Fix the Mess Gemini Created": Towards Understanding GenAI-Induced Self-Admitted Technical Debt**|Abdullah Al Mujahid et.al.|[2601.07786](http://arxiv.org/abs/2601.07786)|null|
+|**2026-01-12**|**Enhancing Self-Correction in Large Language Models through Multi-Perspective Reflection**|Mariana Costa et.al.|[2601.07780](http://arxiv.org/abs/2601.07780)|null|
+|**2026-01-12**|**OS-Symphony: A Holistic Framework for Robust and Generalist Computer-Using Agent**|Bowen Yang et.al.|[2601.07779](http://arxiv.org/abs/2601.07779)|null|
+|**2026-01-12**|**Are LLM Decisions Faithful to Verbal Confidence?**|Jiawei Wang et.al.|[2601.07767](http://arxiv.org/abs/2601.07767)|null|
+|**2026-01-12**|**Contrastive Learning with Narrative Twins for Modeling Story Salience**|Igor Sterner et.al.|[2601.07765](http://arxiv.org/abs/2601.07765)|null|
+|**2026-01-12**|**Video Evidence to Reasoning Efficient Video Understanding via Explicit Evidence Grounding**|Yanxiang Huang et.al.|[2601.07761](http://arxiv.org/abs/2601.07761)|null|
+|**2026-01-12**|**Structure First, Reason Next: Enhancing a Large Language Model using Knowledge Graph for Numerical Reasoning in Financial Documents**|Aryan Mishra et.al.|[2601.07754](http://arxiv.org/abs/2601.07754)|null|
+|**2026-01-12**|**Evaluating the encoding competence of visual language models using uncommon actions**|Chen Ling et.al.|[2601.07737](http://arxiv.org/abs/2601.07737)|null|
+|**2026-01-12**|**Is Agentic RAG worth it? An experimental comparison of RAG approaches**|Pietro Ferrazzi et.al.|[2601.07711](http://arxiv.org/abs/2601.07711)|null|
+|**2026-01-12**|**Emotional Support Evaluation Framework via Controllable and Diverse Seeker Simulator**|Chaewon Heo et.al.|[2601.07698](http://arxiv.org/abs/2601.07698)|null|
+|**2026-01-12**|**Exploring the Meta-level Reasoning of Large Language Models via a Tool-based Multi-hop Tabular Question Answering Task**|Nick Ferguson et.al.|[2601.07696](http://arxiv.org/abs/2601.07696)|null|
+|**2026-01-12**|**Smooth Operator: Smooth Verifiable Reward Activates Spatial Reasoning Ability of Vision-Language Model**|Siwen Jiao et.al.|[2601.07695](http://arxiv.org/abs/2601.07695)|null|
 |**2026-01-09**|**AdaFuse: Adaptive Ensemble Decoding with Test-Time Scaling for LLMs**|Chengming Cui et.al.|[2601.06022](http://arxiv.org/abs/2601.06022)|null|
 |**2026-01-09**|**Don't Break the Cache: An Evaluation of Prompt Caching for Long-Horizon Agentic Tasks**|Elias Lumer et.al.|[2601.06007](http://arxiv.org/abs/2601.06007)|null|
 |**2026-01-09**|**Discriminative-Generative Target Speaker Extraction with Decoder-Only Language Models**|Bang Zeng et.al.|[2601.06006](http://arxiv.org/abs/2601.06006)|null|
@@ -2718,6 +2758,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-12**|**Computing quantum magic of state vectors**|Piotr Sierant et.al.|[2601.07824](http://arxiv.org/abs/2601.07824)|null|
+|**2026-01-12**|**Video Generation Models in Robotics - Applications, Research Challenges, Future Directions**|Zhiting Mei et.al.|[2601.07823](http://arxiv.org/abs/2601.07823)|null|
+|**2026-01-12**|**Failure-Aware RL: Reliable Offline-to-Online Reinforcement Learning with Self-Recovery for Real-World Manipulation**|Huanyu Li et.al.|[2601.07821](http://arxiv.org/abs/2601.07821)|null|
+|**2026-01-12**|**Data-driven control of hydraulic impact hammers under strict operational and control constraints**|Francisco Leiva et.al.|[2601.07813](http://arxiv.org/abs/2601.07813)|null|
+|**2026-01-12**|**Beyond Single-Shot: Multi-step Tool Retrieval via Query Planning**|Wei Fang et.al.|[2601.07782](http://arxiv.org/abs/2601.07782)|null|
+|**2026-01-12**|**Video Evidence to Reasoning Efficient Video Understanding via Explicit Evidence Grounding**|Yanxiang Huang et.al.|[2601.07761](http://arxiv.org/abs/2601.07761)|null|
+|**2026-01-12**|**Hiking in the Wild: A Scalable Perceptive Parkour Framework for Humanoids**|Shaoting Zhu et.al.|[2601.07718](http://arxiv.org/abs/2601.07718)|null|
+|**2026-01-12**|**Smooth Operator: Smooth Verifiable Reward Activates Spatial Reasoning Ability of Vision-Language Model**|Siwen Jiao et.al.|[2601.07695](http://arxiv.org/abs/2601.07695)|null|
+|**2026-01-12**|**Inversion of Sea Ice Spectral Albedo to Estimate Under-Ice Transmittance**|Christophe Perron et.al.|[2601.07672](http://arxiv.org/abs/2601.07672)|null|
+|**2026-01-12**|**To report or not to report: Optimal claim reporting in a bonus-malus system**|Lea Enzi et.al.|[2601.07655](http://arxiv.org/abs/2601.07655)|null|
+|**2026-01-12**|**Reinforcement Learning for Micro-Level Claims Reserving**|Benjamin Avanzi et.al.|[2601.07637](http://arxiv.org/abs/2601.07637)|null|
+|**2026-01-12**|**Impact of Nuclear Reaction Rates on Calcium Production in Population III Stars: A Global Analysis**|Qing Wang et.al.|[2601.07623](http://arxiv.org/abs/2601.07623)|null|
+|**2026-01-12**|**Clipped Affine Policy: Low-Complexity Near-Optimal Online Power Control for Energy Harvesting Communications over Fading Channels**|Hao Wu et.al.|[2601.07622](http://arxiv.org/abs/2601.07622)|null|
+|**2026-01-12**|**Quasi-optimal quantum Markov chain spectral gap estimation**|Adam Connolly et.al.|[2601.07601](http://arxiv.org/abs/2601.07601)|null|
+|**2026-01-12**|**GRPO with State Mutations: Improving LLM-Based Hardware Test Plan Generation**|Dimple Vijay Kochar et.al.|[2601.07593](http://arxiv.org/abs/2601.07593)|null|
+|**2026-01-12**|**Large Language Models for Physics Instrument Design**|Sara Zoccheddu et.al.|[2601.07580](http://arxiv.org/abs/2601.07580)|null|
+|**2026-01-12**|**Stagewise Reinforcement Learning and the Geometry of the Regret Landscape**|Chris Elliott et.al.|[2601.07524](http://arxiv.org/abs/2601.07524)|null|
+|**2026-01-12**|**Controlling Multimodal Conversational Agents with Coverage-Enhanced Latent Actions**|Yongqi Li et.al.|[2601.07516](http://arxiv.org/abs/2601.07516)|null|
+|**2026-01-12**|**Graph Inference Towards ICD Coding**|Xiaoxiao Deng et.al.|[2601.07496](http://arxiv.org/abs/2601.07496)|null|
+|**2026-01-12**|**Online Markov Decision Processes with Terminal Law Constraints**|Bianca Marin Moreno et.al.|[2601.07492](http://arxiv.org/abs/2601.07492)|null|
 |**2026-01-09**|**Chaining the Evidence: Robust Reinforcement Learning for Deep Search Agents with Citation-Aware Rubric Rewards**|Jiajie Zhang et.al.|[2601.06021](http://arxiv.org/abs/2601.06021)|null|
 |**2026-01-09**|**Constraining Hamiltonians from chiral effective field theory with neutron-star data**|Cassandra L. Armstrong et.al.|[2601.05999](http://arxiv.org/abs/2601.05999)|null|
 |**2026-01-09**|**A Framework for Optimizing Human-Machine Interaction in Classification Systems**|Goran Muric et.al.|[2601.05974](http://arxiv.org/abs/2601.05974)|null|
