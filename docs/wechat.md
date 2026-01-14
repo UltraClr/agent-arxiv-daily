@@ -1,5 +1,5 @@
 # Agent Research Papers
-> Updated on 2026.01.13
+> Updated on 2026.01.14
 Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Autonomous Agent`,`LLM Agent`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -992,7 +992,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 - 2025-12-02, **Fast Gaussian Process Approximations for Autocorrelated Data**, Ahmadreza Chokhachian et.al., Paper: [http://arxiv.org/abs/2512.02925](http://arxiv.org/abs/2512.02925)
 - 2025-11-20, **FairLRF: Achieving Fairness through Sparse Low Rank Factorization**, Yuanbo Guo et.al., Paper: [http://arxiv.org/abs/2511.16549](http://arxiv.org/abs/2511.16549)
 - 2025-09-04, **FaMA: LLM-Empowered Agentic Assistant for Consumer-to-Consumer Marketplace**, Yineng Yan et.al., Paper: [http://arxiv.org/abs/2509.03890](http://arxiv.org/abs/2509.03890)
-- 2026-01-12, **FROAV: A Framework for RAG Observation and Agent Verification - Lowering the Barrier to LLM Agent Research**, Tzu-Hsuan Lin et.al., Paper: [http://arxiv.org/abs/2601.07504](http://arxiv.org/abs/2601.07504)
+- 2026-01-12, **FROAV: A Framework for RAG Observation and Agent Verification -- Lowering the Barrier to LLM Agent Research**, Tzu-Hsuan Lin et.al., Paper: [http://arxiv.org/abs/2601.07504](http://arxiv.org/abs/2601.07504)
 - 2025-11-25, **FRAGMENTA: End-to-end Fragmentation-based Generative Model with Agentic Tuning for Drug Lead Optimization**, Yuto Suzuki et.al., Paper: [http://arxiv.org/abs/2511.20510](http://arxiv.org/abs/2511.20510)
 - 2025-08-24, **FLAIRR-TS -- Forecasting LLM-Agents with Iterative Refinement and Retrieval for Time Series**, Gunjan Jalori et.al., Paper: [http://arxiv.org/abs/2508.19279](http://arxiv.org/abs/2508.19279)
 - 2025-09-12, **FHIR-AgentBench: Benchmarking LLM Agents for Realistic Interoperable EHR Question Answering**, Gyubok Lee et.al., Paper: [http://arxiv.org/abs/2509.19319](http://arxiv.org/abs/2509.19319)
@@ -1585,7 +1585,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 - 2025-10-13, **$How^{2}$ : How to learn from procedural How-to questions**, Gautier Dagan et.al., Paper: [http://arxiv.org/abs/2510.11144](http://arxiv.org/abs/2510.11144)
 - 2025-09-27, **"Shall We Dig Deeper?": Designing and Evaluating Strategies for LLM Agents to Advance Knowledge Co-Construction in Asynchronous Online Discussions**, Yuanhao Zhang et.al., Paper: [http://arxiv.org/abs/2509.23327](http://arxiv.org/abs/2509.23327)
 
-<p align=right>(<a href=#updated-on-20260113>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260114>back to top</a>)</p>
 
 ## Large Language Models
 
@@ -2757,7 +2757,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 - 2025-11-07, **$\mathbf{S^2LM}$ : Towards Semantic Steganography via Large Language Models**, Huanqi Wu et.al., Paper: [http://arxiv.org/abs/2511.05319](http://arxiv.org/abs/2511.05319)
 - 2026-01-12, **"TODO: Fix the Mess Gemini Created": Towards Understanding GenAI-Induced Self-Admitted Technical Debt**, Abdullah Al Mujahid et.al., Paper: [http://arxiv.org/abs/2601.07786](http://arxiv.org/abs/2601.07786)
 
-<p align=right>(<a href=#updated-on-20260113>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260114>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -2787,7 +2787,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 - 2025-11-21, **Video-R4: Reinforcing Text-Rich Video Reasoning with Visual Rumination**, Yolo Yunlong Tang et.al., Paper: [http://arxiv.org/abs/2511.17490](http://arxiv.org/abs/2511.17490)
 - 2025-11-28, **Video-R2: Reinforcing Consistent and Grounded Reasoning in Multimodal Language Models**, Muhammad Maaz et.al., Paper: [http://arxiv.org/abs/2511.23478](http://arxiv.org/abs/2511.23478)
 - 2025-11-28, **Video-CoM: Interactive Video Reasoning via Chain of Manipulations**, Hanoona Rasheed et.al., Paper: [http://arxiv.org/abs/2511.23477](http://arxiv.org/abs/2511.23477)
-- 2026-01-12, **Video Generation Models in Robotics - Applications, Research Challenges, Future Directions**, Zhiting Mei et.al., Paper: [http://arxiv.org/abs/2601.07823](http://arxiv.org/abs/2601.07823)
+- 2026-01-12, **Video Generation Models in Robotics -- Applications, Research Challenges, Future Directions**, Zhiting Mei et.al., Paper: [http://arxiv.org/abs/2601.07823](http://arxiv.org/abs/2601.07823)
 - 2026-01-12, **Video Evidence to Reasoning Efficient Video Understanding via Explicit Evidence Grounding**, Yanxiang Huang et.al., Paper: [http://arxiv.org/abs/2601.07761](http://arxiv.org/abs/2601.07761)
 - 2025-11-04, **VidEmo: Affective-Tree Reasoning for Emotion-Centric Video Foundation Models**, Zhicheng Zhang et.al., Paper: [http://arxiv.org/abs/2511.02712](http://arxiv.org/abs/2511.02712)
 - 2025-12-16, **Vertically resolved minimal-set k-distribution for thermal infrared absorption in the Venus atmosphere**, Boris Fomin et.al., Paper: [http://arxiv.org/abs/2512.14120](http://arxiv.org/abs/2512.14120)
@@ -3942,7 +3942,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 - 2025-12-05, **$α$ -Potential Games for Decentralized Control of Connected and Automated Vehicles**, Xuan Di et.al., Paper: [http://arxiv.org/abs/2512.05712](http://arxiv.org/abs/2512.05712)
 - 2025-11-25, **$MC^2$ Mixed Integer and Linear Programming**, Nick Polson et.al., Paper: [http://arxiv.org/abs/2511.20575](http://arxiv.org/abs/2511.20575)
 
-<p align=right>(<a href=#updated-on-20260113>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260114>back to top</a>)</p>
 
 Notes: 
 

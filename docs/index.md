@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Agent Research Papers
-### Automatically Updated on 2026.01.13
+### Automatically Updated on 2026.01.14
 Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Autonomous Agent`,`LLM Agent`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,7 +21,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |**2026-01-12**|**DIAGPaper: Diagnosing Valid and Specific Weaknesses in Scientific Papers via Multi-Agent Reasoning**|Zhuoyang Zou et.al.|[2601.07611](http://arxiv.org/abs/2601.07611)|null|
 |**2026-01-12**|**Proof of Time: A Benchmark for Evaluating Scientific Idea Judgments**|Bingyang Ye et.al.|[2601.07606](http://arxiv.org/abs/2601.07606)|null|
 |**2026-01-12**|**VirtualEnv: A Platform for Embodied AI Research**|Kabir Swain et.al.|[2601.07553](http://arxiv.org/abs/2601.07553)|null|
-|**2026-01-12**|**FROAV: A Framework for RAG Observation and Agent Verification - Lowering the Barrier to LLM Agent Research**|Tzu-Hsuan Lin et.al.|[2601.07504](http://arxiv.org/abs/2601.07504)|null|
+|**2026-01-12**|**FROAV: A Framework for RAG Observation and Agent Verification -- Lowering the Barrier to LLM Agent Research**|Tzu-Hsuan Lin et.al.|[2601.07504](http://arxiv.org/abs/2601.07504)|null|
 |**2026-01-12**|**R3-RECON: Radiance-Field-Free Active Reconstruction via Renderability**|Xiaofeng Jin et.al.|[2601.07484](http://arxiv.org/abs/2601.07484)|null|
 |**2026-01-12**|**JudgeFlow: Agentic Workflow Optimization via Block Judge**|Zihan Ma et.al.|[2601.07477](http://arxiv.org/abs/2601.07477)|null|
 |**2026-01-12**|**Learning How to Remember: A Meta-Cognitive Management Method for Structured and Transferable Agent Memory**|Sirui Liang et.al.|[2601.07470](http://arxiv.org/abs/2601.07470)|null|
@@ -2759,7 +2759,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-01-12**|**Computing quantum magic of state vectors**|Piotr Sierant et.al.|[2601.07824](http://arxiv.org/abs/2601.07824)|null|
-|**2026-01-12**|**Video Generation Models in Robotics - Applications, Research Challenges, Future Directions**|Zhiting Mei et.al.|[2601.07823](http://arxiv.org/abs/2601.07823)|null|
+|**2026-01-12**|**Video Generation Models in Robotics -- Applications, Research Challenges, Future Directions**|Zhiting Mei et.al.|[2601.07823](http://arxiv.org/abs/2601.07823)|null|
 |**2026-01-12**|**Failure-Aware RL: Reliable Offline-to-Online Reinforcement Learning with Self-Recovery for Real-World Manipulation**|Huanyu Li et.al.|[2601.07821](http://arxiv.org/abs/2601.07821)|null|
 |**2026-01-12**|**Data-driven control of hydraulic impact hammers under strict operational and control constraints**|Francisco Leiva et.al.|[2601.07813](http://arxiv.org/abs/2601.07813)|null|
 |**2026-01-12**|**Beyond Single-Shot: Multi-step Tool Retrieval via Query Planning**|Wei Fang et.al.|[2601.07782](http://arxiv.org/abs/2601.07782)|null|
