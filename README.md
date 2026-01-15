@@ -21,6 +21,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-14**|**LLMs can Compress LLMs: Adaptive Pruning by Agents**|Sai Varun Kodathala et.al.|[2601.09694](http://arxiv.org/abs/2601.09694)|null|
+|**2026-01-14**|**Collaborative Multi-Agent Test-Time Reinforcement Learning for Reasoning**|Zhiyuan Hu et.al.|[2601.09667](http://arxiv.org/abs/2601.09667)|null|
+|**2026-01-14**|**LLM for Large-Scale Optimization Model Auto-Formulation: A Lightweight Few-Shot Learning Approach**|Kuo Liang et.al.|[2601.09635](http://arxiv.org/abs/2601.09635)|null|
+|**2026-01-14**|**The Promptware Kill Chain: How Prompt Injections Gradually Evolved Into a Multi-Step Malware**|Ben Nassi et.al.|[2601.09625](http://arxiv.org/abs/2601.09625)|null|
+|**2026-01-14**|**What Do LLM Agents Know About Their World? Task2Quiz: A Paradigm for Studying Environment Understanding**|Siyuan Liu et.al.|[2601.09503](http://arxiv.org/abs/2601.09503)|null|
+|**2026-01-14**|**Dissecting Judicial Reasoning in U.S. Copyright Damage Awards**|Pei-Chi Lo et.al.|[2601.09459](http://arxiv.org/abs/2601.09459)|null|
+|**2026-01-14**|**SC-MAS: Constructing Cost-Efficient Multi-Agent Systems with Edge-Level Heterogeneous Collaboration**|Di Zhao et.al.|[2601.09434](http://arxiv.org/abs/2601.09434)|null|
+|**2026-01-14**|**Speech-Hands: A Self-Reflection Voice Agentic Approach to Speech Recognition and Audio Reasoning with Omni Perception**|Zhen Wan et.al.|[2601.09413](http://arxiv.org/abs/2601.09413)|null|
+|**2026-01-14**|**Improving Implicit Hate Speech Detection via a Community-Driven Multi-Agent Framework**|Ewelina Gajewska et.al.|[2601.09342](http://arxiv.org/abs/2601.09342)|null|
+|**2026-01-14**|**MACRO-LLM: LLM-Empowered Multi-Agent Collaborative Reasoning under Spatiotemporal Partial Observability**|Handi Chen et.al.|[2601.09295](http://arxiv.org/abs/2601.09295)|null|
+|**2026-01-14**|**Blue Teaming Function-Calling Agents**|Greta Dolcetti et.al.|[2601.09292](http://arxiv.org/abs/2601.09292)|null|
+|**2026-01-14**|**M $^3$ Searcher: Modular Multimodal Information Seeking Agency with Retrieval-Oriented Reasoning**|Xiaohan Yu et.al.|[2601.09278](http://arxiv.org/abs/2601.09278)|null|
+|**2026-01-14**|**Coordinated Pandemic Control with Large Language Model Agents as Policymaking Assistants**|Ziyi Shi et.al.|[2601.09264](http://arxiv.org/abs/2601.09264)|null|
+|**2026-01-14**|**MAXS: Meta-Adaptive Exploration with LLM Agents**|Jian Zhang et.al.|[2601.09259](http://arxiv.org/abs/2601.09259)|null|
+|**2026-01-14**|**Hybrid guided variational autoencoder for visual place recognition**|Ni Wang et.al.|[2601.09248](http://arxiv.org/abs/2601.09248)|null|
+|**2026-01-14**|**Honesty-Aware Multi-Agent Framework for High-Fidelity Synthetic Data Generation in Digital Psychiatric Intake Doctor-Patient Interactions**|Xinyuan Zhang et.al.|[2601.09216](http://arxiv.org/abs/2601.09216)|null|
+|**2026-01-14**|**PrivacyReasoner: Can LLM Emulate a Human-like Privacy Mind?**|Yiwen Tu et.al.|[2601.09152](http://arxiv.org/abs/2601.09152)|null|
+|**2026-01-14**|**World Craft: Agentic Framework to Create Visualizable Worlds via Text**|Jianwen Sun et.al.|[2601.09150](http://arxiv.org/abs/2601.09150)|null|
+|**2026-01-14**|**KryptoPilot: An Open-World Knowledge-Augmented LLM Agent for Automated Cryptographic Exploitation**|Xiaonan Liu et.al.|[2601.09129](http://arxiv.org/abs/2601.09129)|null|
+|**2026-01-14**|**The AI Hippocampus: How Far are We From Human Memory?**|Zixia Jia et.al.|[2601.09113](http://arxiv.org/abs/2601.09113)|null|
 |**2026-01-13**|**Modeling LLM Agent Reviewer Dynamics in Elo-Ranked Review System**|Hsiang-Wei Huang et.al.|[2601.08829](http://arxiv.org/abs/2601.08829)|null|
 |**2026-01-13**|**Inferring Latent Intentions: Attributional Natural Language Inference in LLM Agents**|Xin Quan et.al.|[2601.08742](http://arxiv.org/abs/2601.08742)|null|
 |**2026-01-13**|**Data Product MCP: Chat with your Enterprise Data**|Marco Tonnarelli et.al.|[2601.08687](http://arxiv.org/abs/2601.08687)|null|
@@ -1613,6 +1633,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-14**|**Fast-ThinkAct: Efficient Vision-Language-Action Reasoning via Verbalizable Latent Planning**|Chi-Pin Huang et.al.|[2601.09708](http://arxiv.org/abs/2601.09708)|null|
+|**2026-01-14**|**Value-Aware Numerical Representations for Transformer Language Models**|Andreea Dutulescu et.al.|[2601.09706](http://arxiv.org/abs/2601.09706)|null|
+|**2026-01-14**|**ShortCoder: Knowledge-Augmented Syntax Optimization for Token-Efficient Code Generation**|Sicong Liu et.al.|[2601.09703](http://arxiv.org/abs/2601.09703)|null|
+|**2026-01-14**|**How well LLM-based test generation techniques perform with newer LLM versions?**|Michael Konstantinou et.al.|[2601.09695](http://arxiv.org/abs/2601.09695)|null|
+|**2026-01-14**|**LLMs can Compress LLMs: Adaptive Pruning by Agents**|Sai Varun Kodathala et.al.|[2601.09694](http://arxiv.org/abs/2601.09694)|null|
+|**2026-01-14**|**Routing with Generated Data: Annotation-Free LLM Skill Estimation and Expert Selection**|Tianyi Niu et.al.|[2601.09692](http://arxiv.org/abs/2601.09692)|null|
+|**2026-01-14**|**Disentangling Task Conflicts in Multi-Task LoRA via Orthogonal Gradient Projection**|Ziyu Yang et.al.|[2601.09684](http://arxiv.org/abs/2601.09684)|null|
+|**2026-01-14**|**Automating Supply Chain Disruption Monitoring via an Agentic AI Approach**|Sara AlMahri et.al.|[2601.09680](http://arxiv.org/abs/2601.09680)|null|
+|**2026-01-14**|**Self-Supervised Animal Identification for Long Videos**|Xuyang Fang et.al.|[2601.09663](http://arxiv.org/abs/2601.09663)|null|
+|**2026-01-14**|**LiteEmbed: Adapting CLIP to Rare Classes**|Aishwarya Agarwal et.al.|[2601.09661](http://arxiv.org/abs/2601.09661)|null|
+|**2026-01-14**|**Image2Garment: Simulation-ready Garment Generation from a Single Image**|Selim Emir Can et.al.|[2601.09658](http://arxiv.org/abs/2601.09658)|null|
+|**2026-01-14**|**Exploring Fine-Tuning for Tabular Foundation Models**|Aditya Tanna et.al.|[2601.09654](http://arxiv.org/abs/2601.09654)|null|
+|**2026-01-14**|**LLMs Got Rhythm? Hybrid Phonological Filtering for Greek Poetry Rhyme Detection and Generation**|Stergios Chatzikyriakidis et.al.|[2601.09631](http://arxiv.org/abs/2601.09631)|null|
+|**2026-01-14**|**From Prompt to Protocol: Fast Charging Batteries with Large Language Models**|Ge Lei et.al.|[2601.09626](http://arxiv.org/abs/2601.09626)|null|
+|**2026-01-14**|**The Promptware Kill Chain: How Prompt Injections Gradually Evolved Into a Multi-Step Malware**|Ben Nassi et.al.|[2601.09625](http://arxiv.org/abs/2601.09625)|null|
+|**2026-01-14**|**Toward Understanding Unlearning Difficulty: A Mechanistic Perspective and Circuit-Guided Difficulty Metric**|Jiali Cheng et.al.|[2601.09624](http://arxiv.org/abs/2601.09624)|null|
+|**2026-01-14**|**CogRail: Benchmarking VLMs in Cognitive Intrusion Perception for Intelligent Railway Transportation Systems**|Yonglin Tian et.al.|[2601.09613](http://arxiv.org/abs/2601.09613)|null|
+|**2026-01-14**|**DPWriter: Reinforcement Learning with Diverse Planning Branching for Creative Writing**|Qian Cao et.al.|[2601.09609](http://arxiv.org/abs/2601.09609)|null|
+|**2026-01-14**|**OpenVoxel: Training-Free Grouping and Captioning Voxels for Open-Vocabulary 3D Scene Understanding**|Sheng-Yu Huang et.al.|[2601.09575](http://arxiv.org/abs/2601.09575)|null|
+|**2026-01-14**|**Dialogue Telemetry: Turn-Level Instrumentation for Autonomous Information Gathering**|Dimitris Panagopoulos et.al.|[2601.09570](http://arxiv.org/abs/2601.09570)|null|
 |**2026-01-13**|**Modeling LLM Agent Reviewer Dynamics in Elo-Ranked Review System**|Hsiang-Wei Huang et.al.|[2601.08829](http://arxiv.org/abs/2601.08829)|null|
 |**2026-01-13**|**Reasoning Matters for 3D Visual Grounding**|Hsiang-Wei Huang et.al.|[2601.08811](http://arxiv.org/abs/2601.08811)|null|
 |**2026-01-13**|**Multiplex Thinking: Reasoning via Token-wise Branch-and-Merge**|Yao Tang et.al.|[2601.08808](http://arxiv.org/abs/2601.08808)|null|
@@ -2807,6 +2847,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-14**|**Revisiting Jahn--Teller Transitions in Correlated Oxides with Monte Carlo Modeling**|Liam A. V. Nagle-Cocco et.al.|[2601.09705](http://arxiv.org/abs/2601.09705)|null|
+|**2026-01-14**|**Bayesian Semi-Blind Deconvolution at Scale**|Guillermina Senn et.al.|[2601.09677](http://arxiv.org/abs/2601.09677)|null|
+|**2026-01-14**|**STEP3-VL-10B Technical Report**|Ailin Huang et.al.|[2601.09668](http://arxiv.org/abs/2601.09668)|null|
+|**2026-01-14**|**Collaborative Multi-Agent Test-Time Reinforcement Learning for Reasoning**|Zhiyuan Hu et.al.|[2601.09667](http://arxiv.org/abs/2601.09667)|null|
+|**2026-01-14**|**DPWriter: Reinforcement Learning with Diverse Planning Branching for Creative Writing**|Qian Cao et.al.|[2601.09609](http://arxiv.org/abs/2601.09609)|null|
+|**2026-01-14**|**Sim2real Image Translation Enables Viewpoint-Robust Policies from Fixed-Camera Datasets**|Jeremiah Coholich et.al.|[2601.09605](http://arxiv.org/abs/2601.09605)|null|
+|**2026-01-14**|**Higgs Decays at NLO in the SMEFT**|Luigi Bellafronte et.al.|[2601.09599](http://arxiv.org/abs/2601.09599)|null|
+|**2026-01-14**|**Dialogue Telemetry: Turn-Level Instrumentation for Autonomous Information Gathering**|Dimitris Panagopoulos et.al.|[2601.09570](http://arxiv.org/abs/2601.09570)|null|
+|**2026-01-14**|**Learning Whole-Body Human-Humanoid Interaction from Human-Human Demonstrations**|Wei-Jin Huang et.al.|[2601.09518](http://arxiv.org/abs/2601.09518)|null|
+|**2026-01-14**|**Terminally constrained flow-based generative models from an optimal control perspective**|Weiguo Gao et.al.|[2601.09474](http://arxiv.org/abs/2601.09474)|null|
+|**2026-01-14**|**Data Scaling for Navigation in Unknown Environments**|Lauri Suomela et.al.|[2601.09444](http://arxiv.org/abs/2601.09444)|null|
+|**2026-01-14**|**Draw it like Euclid: Teaching transformer models to generate CAD profiles using ruler and compass construction steps**|Siyi Li et.al.|[2601.09428](http://arxiv.org/abs/2601.09428)|null|
+|**2026-01-14**|**Semi-Contention-Free Access in IoT NOMA Networks: A Reinforcement Learning Framework**|Abhishek Kumar et.al.|[2601.09422](http://arxiv.org/abs/2601.09422)|null|
+|**2026-01-14**|**Semi-physical Gamma-Process Degradation Modeling and Performance-Driven Opportunistic Maintenance Optimization for LED Lighting Systems**|Haohao Shi et.al.|[2601.09380](http://arxiv.org/abs/2601.09380)|null|
+|**2026-01-14**|**GeoRA: Geometry-Aware Low-Rank Adaptation for RLVR**|Jiaying Zhang et.al.|[2601.09361](http://arxiv.org/abs/2601.09361)|null|
+|**2026-01-14**|**Monte-Carlo Tree Search with Neural Network Guidance for Lane-Free Autonomous Driving**|Ioannis Peridis et.al.|[2601.09353](http://arxiv.org/abs/2601.09353)|null|
+|**2026-01-14**|**Optimal control of McKean-Vlasov systems under partial observation and hidden Markov switching**|Marco Fuhrman et.al.|[2601.09311](http://arxiv.org/abs/2601.09311)|null|
+|**2026-01-14**|**Policy-Based Reinforcement Learning with Action Masking for Dynamic Job Shop Scheduling under Uncertainty: Handling Random Arrivals and Machine Failures**|Sofiene Lassoued et.al.|[2601.09293](http://arxiv.org/abs/2601.09293)|null|
+|**2026-01-14**|**An $O(\log N)$ Monte Carlo method for periodic Coulomb systems**|Xuanzhao Gao et.al.|[2601.09288](http://arxiv.org/abs/2601.09288)|null|
+|**2026-01-14**|**Enhancing Spatial Reasoning in Large Language Models for Metal-Organic Frameworks Structure Prediction**|Mianzhi Pan et.al.|[2601.09285](http://arxiv.org/abs/2601.09285)|null|
 |**2026-01-13**|**Multiplex Thinking: Reasoning via Token-wise Branch-and-Merge**|Yao Tang et.al.|[2601.08808](http://arxiv.org/abs/2601.08808)|null|
 |**2026-01-13**|**Identifying Latent Intentions via Inverse Reinforcement Learning in Repeated Linear Public Good Games**|Carina I. Hausladen et.al.|[2601.08803](http://arxiv.org/abs/2601.08803)|null|
 |**2026-01-13**|**Enhancing classical simulation with noisy quantum devices**|Ruiqi Zhang et.al.|[2601.08772](http://arxiv.org/abs/2601.08772)|null|
