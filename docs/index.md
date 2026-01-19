@@ -16,6 +16,20 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-16**|**Applying Formal Methods Tools to an Electronic Warfare Codebase (Experience report)**|Letitia W. Li et.al.|[2601.11510](http://arxiv.org/abs/2601.11510)|null|
+|**2026-01-16**|**The Poisoned Apple Effect: Strategic Manipulation of Mediated Markets via Technology Expansion of AI Agents**|Eilam Shapira et.al.|[2601.11496](http://arxiv.org/abs/2601.11496)|null|
+|**2026-01-16**|**The Great March 100: 100 Detail-oriented Tasks for Evaluating Embodied AI Agents**|Ziyu Wang et.al.|[2601.11421](http://arxiv.org/abs/2601.11421)|null|
+|**2026-01-16**|**Can Small Agent Collaboration Beat a Single Big LLM?**|Agata Żywot et.al.|[2601.11327](http://arxiv.org/abs/2601.11327)|null|
+|**2026-01-16**|**Knowledge is Not Enough: Injecting RL Skills for Continual Adaptation**|Pingzhi Tang et.al.|[2601.11258](http://arxiv.org/abs/2601.11258)|null|
+|**2026-01-16**|**Bayesian optimisation for Bayesian evidence (BOBE) -- a fast and efficient likelihood emulator for model selection**|Nathan Cohen et.al.|[2601.11150](http://arxiv.org/abs/2601.11150)|null|
+|**2026-01-16**|**Do We Always Need Query-Level Workflows? Rethinking Agentic Workflow Generation for Multi-Agent Systems**|Zixu Wang et.al.|[2601.11147](http://arxiv.org/abs/2601.11147)|null|
+|**2026-01-16**|**ABC-Bench: Benchmarking Agentic Backend Coding in Real-World Development**|Jie Yang et.al.|[2601.11077](http://arxiv.org/abs/2601.11077)|null|
+|**2026-01-16**|**AgencyBench: Benchmarking the Frontiers of Autonomous Agents in 1M-Token Real-World Contexts**|Keyu Li et.al.|[2601.11044](http://arxiv.org/abs/2601.11044)|null|
+|**2026-01-16**|**AJAR: Adaptive Jailbreak Architecture for Red-teaming**|Yipu Dou et.al.|[2601.10971](http://arxiv.org/abs/2601.10971)|null|
+|**2026-01-16**|**Modeling Multi-Party Interaction in Couples Therapy: A Multi-Agent Simulation Approach**|Canwen Wang et.al.|[2601.10970](http://arxiv.org/abs/2601.10970)|null|
+|**2026-01-16**|**Beyond Max Tokens: Stealthy Resource Amplification via Tool Calling Chains in LLM Agents**|Kaiyu Zhou et.al.|[2601.10955](http://arxiv.org/abs/2601.10955)|null|
+|**2026-01-15**|**Multi-Agent Taint Specification Extraction for Vulnerability Detection**|Jonah Ghebremichael et.al.|[2601.10865](http://arxiv.org/abs/2601.10865)|null|
+|**2026-01-15**|**Towards Reliable ML Feature Engineering via Planning in Constrained-Topology of LLM Agents**|Himanshu Thakur et.al.|[2601.10820](http://arxiv.org/abs/2601.10820)|null|
 |**2026-01-15**|**Institutional AI: A Governance Framework for Distributional AGI Safety**|Federico Pierucci et.al.|[2601.10599](http://arxiv.org/abs/2601.10599)|null|
 |**2026-01-15**|**Mitigating GIL Bottlenecks in Edge AI Systems**|Mridankan Mandal et.al.|[2601.10582](http://arxiv.org/abs/2601.10582)|null|
 |**2026-01-15**|**From Single to Multi-Agent Reasoning: Advancing GeneGPT for Genomics QA**|Kimia Abedini et.al.|[2601.10581](http://arxiv.org/abs/2601.10581)|null|
@@ -1646,6 +1660,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-16**|**Do explanations generalize across large reasoning models?**|Koyena Pal et.al.|[2601.11517](http://arxiv.org/abs/2601.11517)|null|
+|**2026-01-16**|**Building Production-Ready Probes For Gemini**|János Kramár et.al.|[2601.11516](http://arxiv.org/abs/2601.11516)|null|
+|**2026-01-16**|**ShapeR: Robust Conditional 3D Shape Generation from Casual Captures**|Yawar Siddiqui et.al.|[2601.11514](http://arxiv.org/abs/2601.11514)|null|
+|**2026-01-16**|**Health Facility Location in Ethiopia: Leveraging LLMs to Integrate Expert Knowledge into Algorithmic Planning**|Yohai Trabelsi et.al.|[2601.11479](http://arxiv.org/abs/2601.11479)|null|
+|**2026-01-16**|**MHA2MLA-VLM: Enabling DeepSeek's Economical Multi-Head Latent Attention across Vision-Language Models**|Xiaoran Fan et.al.|[2601.11464](http://arxiv.org/abs/2601.11464)|null|
+|**2026-01-16**|**Predict the Retrieval! Test time adaptation for Retrieval Augmented Generation**|Xin Sun et.al.|[2601.11443](http://arxiv.org/abs/2601.11443)|null|
+|**2026-01-16**|**Map2Thought: Explicit 3D Spatial Reasoning via Metric Cognitive Maps**|Xiangjun Gao et.al.|[2601.11442](http://arxiv.org/abs/2601.11442)|null|
+|**2026-01-16**|**Hierarchical Orthogonal Residual Spread for Precise Massive Editing in Large Language Models**|Xiaojie Gu et.al.|[2601.11441](http://arxiv.org/abs/2601.11441)|null|
+|**2026-01-16**|**The unreasonable effectiveness of pattern matching**|Gary Lupyan et.al.|[2601.11432](http://arxiv.org/abs/2601.11432)|null|
+|**2026-01-16**|**Relational Linearity is a Predictor of Hallucinations**|Yuetian Lu et.al.|[2601.11429](http://arxiv.org/abs/2601.11429)|null|
+|**2026-01-16**|**ACoT-VLA: Action Chain-of-Thought for Vision-Language-Action Models**|Linqing Zhong et.al.|[2601.11404](http://arxiv.org/abs/2601.11404)|null|
+|**2026-01-16**|**Understanding Help Seeking for Digital Privacy, Safety, and Security**|Kurt Thomas et.al.|[2601.11398](http://arxiv.org/abs/2601.11398)|null|
+|**2026-01-16**|**Evaluating LLM Behavior in Hiring: Implicit Weights, Fairness Across Groups, and Alignment with Human Preferences**|Morgane Hoffmann et.al.|[2601.11379](http://arxiv.org/abs/2601.11379)|null|
+|**2026-01-16**|**RITA: A Tool for Automated Requirements Classification and Specification from Online User Feedback**|Manjeshwar Aniruddh Mallya et.al.|[2601.11362](http://arxiv.org/abs/2601.11362)|null|
+|**2026-01-16**|**Think-Clip-Sample: Slow-Fast Frame Selection for Video Understanding**|Wenhui Tan et.al.|[2601.11359](http://arxiv.org/abs/2601.11359)|null|
+|**2026-01-16**|**AstroReason-Bench: Evaluating Unified Agentic Planning across Heterogeneous Space Planning Problems**|Weiyi Wang et.al.|[2601.11354](http://arxiv.org/abs/2601.11354)|null|
+|**2026-01-16**|**How Much Would a Clinician Edit This Draft? Evaluating LLM Alignment for Patient Message Response Drafting**|Parker Seegmiller et.al.|[2601.11344](http://arxiv.org/abs/2601.11344)|null|
+|**2026-01-16**|**Unlocking the Potentials of Retrieval-Augmented Generation for Diffusion Language Models**|Chuanyue Yu et.al.|[2601.11342](http://arxiv.org/abs/2601.11342)|null|
+|**2026-01-16**|**Neural Chain-of-Thought Search: Searching the Optimal Reasoning Path to Enhance Large Language Models**|Guoming Ling et.al.|[2601.11340](http://arxiv.org/abs/2601.11340)|null|
+|**2026-01-16**|**Idea First, Code Later: Disentangling Problem Solving from Code Generation in Evaluating LLMs for Competitive Programming**|Sama Hadhoud et.al.|[2601.11332](http://arxiv.org/abs/2601.11332)|null|
 |**2026-01-15**|**Alterbute: Editing Intrinsic Attributes of Objects in Images**|Tal Reiss et.al.|[2601.10714](http://arxiv.org/abs/2601.10714)|null|
 |**2026-01-15**|**MatchTIR: Fine-Grained Supervision for Tool-Integrated Reasoning via Bipartite Matching**|Changle Qu et.al.|[2601.10712](http://arxiv.org/abs/2601.10712)|null|
 |**2026-01-15**|**From One-to-One to Many-to-Many: Dynamic Cross-Layer Injection for Deep Vision-Language Fusion**|Cheng Chen et.al.|[2601.10710](http://arxiv.org/abs/2601.10710)|null|
@@ -2878,6 +2912,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-16**|**Do explanations generalize across large reasoning models?**|Koyena Pal et.al.|[2601.11517](http://arxiv.org/abs/2601.11517)|null|
+|**2026-01-16**|**Generative Scenario Rollouts for End-to-End Autonomous Driving**|Rajeev Yasarla et.al.|[2601.11475](http://arxiv.org/abs/2601.11475)|null|
+|**2026-01-16**|**Globally Optimal Contour Deformations with Neural Networks**|Stephen Jones et.al.|[2601.11448](http://arxiv.org/abs/2601.11448)|null|
+|**2026-01-16**|**When Are Two Scores Better Than One? Investigating Ensembles of Diffusion Models**|Raphaël Razafindralambo et.al.|[2601.11444](http://arxiv.org/abs/2601.11444)|null|
+|**2026-01-16**|**The Great March 100: 100 Detail-oriented Tasks for Evaluating Embodied AI Agents**|Ziyu Wang et.al.|[2601.11421](http://arxiv.org/abs/2601.11421)|null|
+|**2026-01-16**|**New Adaptive Mechanism for Large Neighborhood Search using Dual Actor-Critic**|Shaohua Yu et.al.|[2601.11414](http://arxiv.org/abs/2601.11414)|null|
+|**2026-01-16**|**Factored Value Functions for Graph-Based Multi-Agent Reinforcement Learning**|Ahmed Rashwan et.al.|[2601.11401](http://arxiv.org/abs/2601.11401)|null|
+|**2026-01-16**|**The Mini Wheelbot Dataset: High-Fidelity Data for Robot Learning**|Henrik Hose et.al.|[2601.11394](http://arxiv.org/abs/2601.11394)|null|
+|**2026-01-16**|**Reward Modeling for Scientific Writing Evaluation**|Furkan Şahinuç et.al.|[2601.11374](http://arxiv.org/abs/2601.11374)|null|
+|**2026-01-16**|**Offline Reinforcement-Learning-Based Power Control for Application-Agnostic Energy Efficiency**|Akhilesh Raj et.al.|[2601.11352](http://arxiv.org/abs/2601.11352)|null|
+|**2026-01-16**|**Optimal Abatement Schedules for Excess Carbon Emissions Towards a Net-Zero Target**|Hansjoerg Albrecher et.al.|[2601.11348](http://arxiv.org/abs/2601.11348)|null|
+|**2026-01-16**|**Controlled Interacting Branching Diffusion Processes: A Viscosity Approach**|Antonio Ocello et.al.|[2601.11294](http://arxiv.org/abs/2601.11294)|null|
+|**2026-01-16**|**Oriented Triplet $p$ -Wave Pairing from Fermi surface Anisotropy and Nonlocal Attraction**|Shuning Tan et.al.|[2601.11267](http://arxiv.org/abs/2601.11267)|null|
+|**2026-01-16**|**Knowledge is Not Enough: Injecting RL Skills for Continual Adaptation**|Pingzhi Tang et.al.|[2601.11258](http://arxiv.org/abs/2601.11258)|null|
+|**2026-01-16**|**Model-free policy gradient for discrete-time mean-field control**|Matthieu Meunier et.al.|[2601.11217](http://arxiv.org/abs/2601.11217)|null|
+|**2026-01-16**|**Policy-Based Deep Reinforcement Learning Hyperheuristics for Job-Shop Scheduling Problems**|Sofiene Lassoued et.al.|[2601.11189](http://arxiv.org/abs/2601.11189)|null|
+|**2026-01-16**|**TANDEM: Temporal-Aware Neural Detection for Multimodal Hate Speech**|Girish A. Koushik et.al.|[2601.11178](http://arxiv.org/abs/2601.11178)|null|
+|**2026-01-16**|**Ring isomorphisms in norm between Banach algebras of continuous complex-valued functions**|T. Miura et.al.|[2601.11165](http://arxiv.org/abs/2601.11165)|null|
+|**2026-01-16**|**Do We Always Need Query-Level Workflows? Rethinking Agentic Workflow Generation for Multi-Agent Systems**|Zixu Wang et.al.|[2601.11147](http://arxiv.org/abs/2601.11147)|null|
+|**2026-01-16**|**Deep GraphRAG: A Balanced Approach to Hierarchical Retrieval and Adaptive Integration**|Yuejie Li et.al.|[2601.11144](http://arxiv.org/abs/2601.11144)|null|
 |**2026-01-15**|**MatchTIR: Fine-Grained Supervision for Tool-Integrated Reasoning via Bipartite Matching**|Changle Qu et.al.|[2601.10712](http://arxiv.org/abs/2601.10712)|null|
 |**2026-01-15**|**Observation Timelines for the Potential Lunar Impact of Asteroid 2024 YR4**|Yifan He et.al.|[2601.10666](http://arxiv.org/abs/2601.10666)|null|
 |**2026-01-15**|**Dynamics of Late time cosmology in $f(Q,L_{m})$ Gravity with Constraints from DESI DR2 BAO Data**|Rajdeep Mazumdar et.al.|[2601.10627](http://arxiv.org/abs/2601.10627)|null|
