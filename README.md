@@ -21,6 +21,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-20**|**XR: Cross-Modal Agents for Composed Image Retrieval**|Zhongyu Yang et.al.|[2601.14245](http://arxiv.org/abs/2601.14245)|null|
+|**2026-01-20**|**APEX-Agents**|Bertie Vidgen et.al.|[2601.14242](http://arxiv.org/abs/2601.14242)|null|
+|**2026-01-20**|**Toward Efficient Agents: Memory, Tool learning, and Planning**|Xiaofang Yang et.al.|[2601.14192](http://arxiv.org/abs/2601.14192)|null|
+|**2026-01-20**|**Paper2Rebuttal: A Multi-Agent Framework for Transparent Author Response Assistance**|Qianli Ma et.al.|[2601.14171](http://arxiv.org/abs/2601.14171)|null|
+|**2026-01-20**|**CREATE: Cross-Layer Resilience Characterization and Optimization for Efficient yet Reliable Embodied AI Systems**|Tong Xie et.al.|[2601.14140](http://arxiv.org/abs/2601.14140)|null|
+|**2026-01-20**|**Zero-shot adaptable task planning for autonomous construction robots: a comparative study of lightweight single and multi-AI agent systems**|Hossein Naderi et.al.|[2601.14091](http://arxiv.org/abs/2601.14091)|null|
+|**2026-01-20**|**LLMOrbit: A Circular Taxonomy of Large Language Models -From Scaling Walls to Agentic AI Systems**|Badri N. Patro et.al.|[2601.14053](http://arxiv.org/abs/2601.14053)|null|
+|**2026-01-20**|**Numina-Lean-Agent: An Open and General Agentic Reasoning System for Formal Mathematics**|Junqi Liu et.al.|[2601.14027](http://arxiv.org/abs/2601.14027)|null|
+|**2026-01-20**|**VirtualCrime: Evaluating Criminal Potential of Large Language Models via Sandbox Simulation**|Yilin Tang et.al.|[2601.13981](http://arxiv.org/abs/2601.13981)|null|
+|**2026-01-20**|**FantasyVLN: Unified Multimodal Chain-of-Thought Reasoning for Vision-Language Navigation**|Jing Zuo et.al.|[2601.13976](http://arxiv.org/abs/2601.13976)|null|
+|**2026-01-20**|**Autonomous Knowledge Graph Exploration with Adaptive Breadth-Depth Retrieval**|Joaquín Polonuer et.al.|[2601.13969](http://arxiv.org/abs/2601.13969)|null|
+|**2026-01-20**|**VulnResolver: A Hybrid Agent Framework for LLM-Based Automated Vulnerability Issue Resolution**|Mingming Zhang et.al.|[2601.13933](http://arxiv.org/abs/2601.13933)|null|
+|**2026-01-20**|**Understanding Human-Multi-Agent Team Formation for Creative Work**|Hyunseung Lim et.al.|[2601.13865](http://arxiv.org/abs/2601.13865)|null|
+|**2026-01-20**|**Small Models, Big Impact: Tool-Augmented AI Agents for Wireless Network Planning**|Yongqiang Zhang et.al.|[2601.13843](http://arxiv.org/abs/2601.13843)|null|
+|**2026-01-20**|**HoverAI: An Embodied Aerial Agent for Natural Human-Drone Interaction**|Yuhua Jin et.al.|[2601.13801](http://arxiv.org/abs/2601.13801)|null|
+|**2026-01-20**|**On Autopilot? An Empirical Study of Human-AI Teaming and Review Practices in Open Source**|Haoyu Gao et.al.|[2601.13754](http://arxiv.org/abs/2601.13754)|null|
+|**2026-01-20**|**SWE-Tester: Training Open-Source LLMs for Issue Reproduction in Real-World Repositories**|Aditya Bharat Soni et.al.|[2601.13713](http://arxiv.org/abs/2601.13713)|null|
+|**2026-01-20**|**Hidden in Plain Text: Measuring LLM Deception Quality Against Human Baselines Using Social Deduction Games**|Christopher Kao et.al.|[2601.13709](http://arxiv.org/abs/2601.13709)|null|
+|**2026-01-20**|**Generative Intent Prediction Agentic AI empowered Edge Service Function Chain Orchestration**|Yan Sun et.al.|[2601.13694](http://arxiv.org/abs/2601.13694)|null|
+|**2026-01-20**|**Toward Agentic AI: Task-Oriented Communication for Hierarchical Planning of Long-Horizon Tasks**|Sin-Yu Huang et.al.|[2601.13685](http://arxiv.org/abs/2601.13685)|null|
 |**2026-01-16**|**Applying Formal Methods Tools to an Electronic Warfare Codebase (Experience report)**|Letitia W. Li et.al.|[2601.11510](http://arxiv.org/abs/2601.11510)|null|
 |**2026-01-16**|**The Poisoned Apple Effect: Strategic Manipulation of Mediated Markets via Technology Expansion of AI Agents**|Eilam Shapira et.al.|[2601.11496](http://arxiv.org/abs/2601.11496)|null|
 |**2026-01-16**|**The Great March 100: 100 Detail-oriented Tasks for Evaluating Embodied AI Agents**|Ziyu Wang et.al.|[2601.11421](http://arxiv.org/abs/2601.11421)|null|
@@ -1667,6 +1687,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-20**|**LightOnOCR: A 1B End-to-End Multilingual Vision-Language Model for State-of-the-Art OCR**|Said Taghadouini et.al.|[2601.14251](http://arxiv.org/abs/2601.14251)|null|
+|**2026-01-20**|**Which Reasoning Trajectories Teach Students to Reason Better? A Simple Metric of Informative Alignment**|Yuming Yang et.al.|[2601.14249](http://arxiv.org/abs/2601.14249)|null|
+|**2026-01-20**|**Jet-RL: Enabling On-Policy FP8 Reinforcement Learning with Unified Training and Rollout Precision Flow**|Haocheng Xi et.al.|[2601.14243](http://arxiv.org/abs/2601.14243)|null|
+|**2026-01-20**|**Attention-Based Offline Reinforcement Learning and Clustering for Interpretable Sepsis Treatment**|Punit Kumar et.al.|[2601.14228](http://arxiv.org/abs/2601.14228)|null|
+|**2026-01-20**|**Transformer Architectures for Respiratory Sound Analysis and Multimodal Diagnosis**|Theodore Aptekarev et.al.|[2601.14227](http://arxiv.org/abs/2601.14227)|null|
+|**2026-01-20**|**HALT: Hallucination Assessment via Latent Testing**|Rohan Bhatnagar et.al.|[2601.14210](http://arxiv.org/abs/2601.14210)|null|
+|**2026-01-20**|**InT: Self-Proposed Interventions Enable Credit Assignment in LLM Reasoning**|Matthew Y. R. Yang et.al.|[2601.14209](http://arxiv.org/abs/2601.14209)|null|
+|**2026-01-20**|**Toward Efficient Agents: Memory, Tool learning, and Planning**|Xiaofang Yang et.al.|[2601.14192](http://arxiv.org/abs/2601.14192)|null|
+|**2026-01-20**|**IIR-VLM: In-Context Instance-level Recognition for Large Vision-Language Models**|Liang Shi et.al.|[2601.14188](http://arxiv.org/abs/2601.14188)|null|
+|**2026-01-20**|**ReSearch: A Multi-Stage Machine Learning Framework for Earth Science Data Discovery**|Youran Sun et.al.|[2601.14176](http://arxiv.org/abs/2601.14176)|null|
+|**2026-01-20**|**Human Values in a Single Sentence: Moral Presence, Hierarchies, and Transformer Ensembles on the Schwartz Continuum**|Víctor Yeste et.al.|[2601.14172](http://arxiv.org/abs/2601.14172)|null|
+|**2026-01-20**|**Domain-Adaptation through Synthetic Data: Fine-Tuning Large Language Models for German Law**|Ali Hamza Bashir et.al.|[2601.14160](http://arxiv.org/abs/2601.14160)|null|
+|**2026-01-20**|**LLM Augmented Intervenable Multimodal Adaptor for Post-operative Complication Prediction in Lung Cancer Surgery**|Shubham Pandey et.al.|[2601.14154](http://arxiv.org/abs/2601.14154)|null|
+|**2026-01-20**|**Lost in the Prompt Order: Revealing the Limitations of Causal Attention in Language Models**|Hyunjong Ok et.al.|[2601.14152](http://arxiv.org/abs/2601.14152)|null|
+|**2026-01-20**|**The Quest for Reliable AI Accelerators: Cross-Layer Evaluation and Design Optimization**|Meng Li et.al.|[2601.14148](http://arxiv.org/abs/2601.14148)|null|
+|**2026-01-20**|**CREATE: Cross-Layer Resilience Characterization and Optimization for Efficient yet Reliable Embodied AI Systems**|Tong Xie et.al.|[2601.14140](http://arxiv.org/abs/2601.14140)|null|
+|**2026-01-20**|**TwinBrainVLA: Unleashing the Potential of Generalist VLMs for Embodied Tasks via Asymmetric Mixture-of-Transformers**|Bin Yu et.al.|[2601.14133](http://arxiv.org/abs/2601.14133)|null|
+|**2026-01-20**|**The Side Effects of Being Smart: Safety Risks in MLLMs' Multi-Image Reasoning**|Renmiao Chen et.al.|[2601.14127](http://arxiv.org/abs/2601.14127)|null|
+|**2026-01-20**|**Style Transfer as Bias Mitigation: Diffusion Models for Synthetic Mental Health Text for Arabic**|Saad Mankarious et.al.|[2601.14124](http://arxiv.org/abs/2601.14124)|null|
+|**2026-01-20**|**NewsRECON: News article REtrieval for image CONtextualization**|Jonathan Tonglet et.al.|[2601.14121](http://arxiv.org/abs/2601.14121)|null|
 |**2026-01-16**|**Do explanations generalize across large reasoning models?**|Koyena Pal et.al.|[2601.11517](http://arxiv.org/abs/2601.11517)|null|
 |**2026-01-16**|**Building Production-Ready Probes For Gemini**|János Kramár et.al.|[2601.11516](http://arxiv.org/abs/2601.11516)|null|
 |**2026-01-16**|**ShapeR: Robust Conditional 3D Shape Generation from Casual Captures**|Yawar Siddiqui et.al.|[2601.11514](http://arxiv.org/abs/2601.11514)|null|
@@ -2921,6 +2961,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-20**|**Jet-RL: Enabling On-Policy FP8 Reinforcement Learning with Unified Training and Rollout Precision Flow**|Haocheng Xi et.al.|[2601.14243](http://arxiv.org/abs/2601.14243)|null|
+|**2026-01-20**|**Spatiotemporal Wildfire Prediction and Reinforcement Learning for Helitack Suppression**|Shaurya Mathur et.al.|[2601.14238](http://arxiv.org/abs/2601.14238)|null|
+|**2026-01-20**|**Q-learning with Adjoint Matching**|Qiyang Li et.al.|[2601.14234](http://arxiv.org/abs/2601.14234)|null|
+|**2026-01-20**|**KAGE-Bench: Fast Known-Axis Visual Generalization Evaluation for Reinforcement Learning**|Egor Cherepanov et.al.|[2601.14232](http://arxiv.org/abs/2601.14232)|null|
+|**2026-01-20**|**Attention-Based Offline Reinforcement Learning and Clustering for Interpretable Sepsis Treatment**|Punit Kumar et.al.|[2601.14228](http://arxiv.org/abs/2601.14228)|null|
+|**2026-01-20**|**InT: Self-Proposed Interventions Enable Credit Assignment in LLM Reasoning**|Matthew Y. R. Yang et.al.|[2601.14209](http://arxiv.org/abs/2601.14209)|null|
+|**2026-01-20**|**Differentiated Pickup Point Offering for Emission Reduction in Last-Mile Delivery**|Albina Galiullina et.al.|[2601.14196](http://arxiv.org/abs/2601.14196)|null|
+|**2026-01-20**|**Toward Efficient Agents: Memory, Tool learning, and Planning**|Xiaofang Yang et.al.|[2601.14192](http://arxiv.org/abs/2601.14192)|null|
+|**2026-01-20**|**Symmetry Breaking and Phase Transitions in Random Non-Commutative Geometries and Related Random-Matrix Ensembles**|Mauro D'Arcangelo et.al.|[2601.14141](http://arxiv.org/abs/2601.14141)|null|
+|**2026-01-20**|**CREATE: Cross-Layer Resilience Characterization and Optimization for Efficient yet Reliable Embodied AI Systems**|Tong Xie et.al.|[2601.14140](http://arxiv.org/abs/2601.14140)|null|
+|**2026-01-20**|**Log-optimality with small liability stream**|Michail Anthropelos et.al.|[2601.14139](http://arxiv.org/abs/2601.14139)|null|
+|**2026-01-20**|**Diffusion-Guided Backdoor Attacks in Real-World Reinforcement Learning**|Tairan Huang et.al.|[2601.14104](http://arxiv.org/abs/2601.14104)|null|
+|**2026-01-20**|**Optimizing Energy and Data Collection in UAV-aided IoT Networks using Attention-based Multi-Objective Reinforcement Learning**|Babacar Toure et.al.|[2601.14092](http://arxiv.org/abs/2601.14092)|null|
+|**2026-01-20**|**Onset of stripe order in classical fluids: Lessons from lattice-gas mixtures**|Gabriele Costa et.al.|[2601.14082](http://arxiv.org/abs/2601.14082)|null|
+|**2026-01-20**|**Tail-Aware Density Forecasting of Locally Explosive Time Series: A Neural Network Approach**|Elena Dumitrescu et.al.|[2601.14049](http://arxiv.org/abs/2601.14049)|null|
+|**2026-01-20**|**RM-Distiller: Exploiting Generative LLM for Reward Model Distillation**|Hongli Zhou et.al.|[2601.14032](http://arxiv.org/abs/2601.14032)|null|
+|**2026-01-20**|**BACH-V: Bridging Abstract and Concrete Human-Values in Large Language Models**|Junyu Zhang et.al.|[2601.14007](http://arxiv.org/abs/2601.14007)|null|
+|**2026-01-20**|**The Transparency Paradox in Explainable AI: A Theory of Autonomy Depletion Through Cognitive Load**|Ancuta Margondai et.al.|[2601.13973](http://arxiv.org/abs/2601.13973)|null|
+|**2026-01-20**|**RL-BioAug: Label-Efficient Reinforcement Learning for Self-Supervised EEG Representation Learning**|Cheol-Hui Lee et.al.|[2601.13964](http://arxiv.org/abs/2601.13964)|null|
+|**2026-01-20**|**Glance-or-Gaze: Incentivizing LMMs to Adaptively Focus Search via Reinforcement Learning**|Hongbo Bai et.al.|[2601.13942](http://arxiv.org/abs/2601.13942)|null|
 |**2026-01-16**|**Do explanations generalize across large reasoning models?**|Koyena Pal et.al.|[2601.11517](http://arxiv.org/abs/2601.11517)|null|
 |**2026-01-16**|**Generative Scenario Rollouts for End-to-End Autonomous Driving**|Rajeev Yasarla et.al.|[2601.11475](http://arxiv.org/abs/2601.11475)|null|
 |**2026-01-16**|**Globally Optimal Contour Deformations with Neural Networks**|Stephen Jones et.al.|[2601.11448](http://arxiv.org/abs/2601.11448)|null|
