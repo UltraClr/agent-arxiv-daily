@@ -21,8 +21,23 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-23**|**Spatial-Agent: Agentic Geo-spatial Reasoning with Scientific Core Concepts**|Riyang Bao et.al.|[2601.16965](http://arxiv.org/abs/2601.16965)|null|
+|**2026-01-23**|**AgentDrive: An Open Benchmark Dataset for Agentic AI Reasoning with LLM-Generated Scenarios in Autonomous Systems**|Mohamed Amine Ferrag et.al.|[2601.16964](http://arxiv.org/abs/2601.16964)|null|
+|**2026-01-23**|**AI builds, We Analyze: An Empirical Study of AI-Generated Build Code Quality**|Anwar Ghammam et.al.|[2601.16839](http://arxiv.org/abs/2601.16839)|null|
+|**2026-01-23**|**Will It Survive? Deciphering the Fate of AI-Generated Code in Open Source**|Musfiqur Rahman et.al.|[2601.16809](http://arxiv.org/abs/2601.16809)|null|
+|**2026-01-23**|**SWE-Pruner: Self-Adaptive Context Pruning for Coding Agents**|Yuhang Wang et.al.|[2601.16746](http://arxiv.org/abs/2601.16746)|null|
+|**2026-01-23**|**LongCat-Flash-Thinking-2601 Technical Report**|Meituan LongCat Team et.al.|[2601.16725](http://arxiv.org/abs/2601.16725)|null|
+|**2026-01-23**|**Adoption of Generative Artificial Intelligence in the German Software Engineering Industry: An Empirical Study**|Ludwig Felder et.al.|[2601.16700](http://arxiv.org/abs/2601.16700)|null|
+|**2026-01-23**|**AgentsEval: Clinically Faithful Evaluation of Medical Imaging Reports via Multi-Agent Reasoning**|Suzhong Fu et.al.|[2601.16685](http://arxiv.org/abs/2601.16685)|null|
+|**2026-01-23**|**LUMINA: Long-horizon Understanding for Multi-turn Interactive Agents**|Amin Rakhsha et.al.|[2601.16649](http://arxiv.org/abs/2601.16649)|null|
+|**2026-01-23**|**A Cognitive Framework for Autonomous Agents: Toward Human-Inspired Design**|Francesco Guidi et.al.|[2601.16648](http://arxiv.org/abs/2601.16648)|null|
+|**2026-01-23**|**Curate-Train-Refine: A Closed-Loop Agentic Framework for Zero Shot Classification**|Gaurav Maheshwari et.al.|[2601.16530](http://arxiv.org/abs/2601.16530)|null|
+|**2026-01-23**|**REprompt: Prompt Generation for Intelligent Software Development Guided by Requirements Engineering**|Junjie Shi et.al.|[2601.16507](http://arxiv.org/abs/2601.16507)|null|
+|**2026-01-23**|**EvoConfig: Self-Evolving Multi-Agent Systems for Efficient Autonomous Environment Configuration**|Xinshuai Guo et.al.|[2601.16489](http://arxiv.org/abs/2601.16489)|null|
+|**2026-01-23**|**Introducing the Generative Application Firewall (GAF)**|Joan Vendrell Farreny et.al.|[2601.15824](http://arxiv.org/abs/2601.15824)|null|
+|**2026-01-22**|**The Behavioral Fabric of LLM-Powered GUI Agents: Human Values and Interaction Outcomes**|Simret Araya Gebreegziabher et.al.|[2601.16356](http://arxiv.org/abs/2601.16356)|null|
+|**2026-01-22**|**When Agents Fail to Act: A Diagnostic Framework for Tool Invocation Reliability in Multi-Agent LLM Systems**|Donghao Huang et.al.|[2601.16280](http://arxiv.org/abs/2601.16280)|null|
 |**2026-01-22**|**Controlling Long-Horizon Behavior in Language Model Agents with Explicit State Dynamics**|Sukesh Subaharan et.al.|[2601.16087](http://arxiv.org/abs/2601.16087)|null|
-|**2026-01-22**|**Introducing the Generative Application Firewall (GAF)**|Joan Vendrell Farreny et.al.|[2601.15824](http://arxiv.org/abs/2601.15824)|null|
 |**2026-01-22**|**Agentic Confidence Calibration**|Jiaxin Zhang et.al.|[2601.15778](http://arxiv.org/abs/2601.15778)|null|
 |**2026-01-22**|**UXCascade: Scalable Usability Testing with Simulated User Agents**|Steffen Holter et.al.|[2601.15777](http://arxiv.org/abs/2601.15777)|null|
 |**2026-01-22**|**VideoThinker: Building Agentic VideoLLMs with LLM-Guided Tool Reasoning**|Chenglin Li et.al.|[2601.15724](http://arxiv.org/abs/2601.15724)|null|
@@ -1720,6 +1735,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-23**|**A Scalable Measure of Loss Landscape Curvature for Analyzing the Training Dynamics of LLMs**|Dayal Singh Kalra et.al.|[2601.16979](http://arxiv.org/abs/2601.16979)|null|
+|**2026-01-23**|**VisGym: Diverse, Customizable, Scalable Environments for Multimodal Agents**|Zirui Wang et.al.|[2601.16973](http://arxiv.org/abs/2601.16973)|null|
+|**2026-01-23**|**Auto-Regressive Masked Diffusion Models**|Mahdi Karami et.al.|[2601.16971](http://arxiv.org/abs/2601.16971)|null|
+|**2026-01-23**|**Empowering Medical Equipment Sustainability in Low-Resource Settings: An AI-Powered Diagnostic and Support Platform for Biomedical Technicians**|Bernes Lorier Atabonfack et.al.|[2601.16967](http://arxiv.org/abs/2601.16967)|null|
+|**2026-01-23**|**AgentDrive: An Open Benchmark Dataset for Agentic AI Reasoning with LLM-Generated Scenarios in Autonomous Systems**|Mohamed Amine Ferrag et.al.|[2601.16964](http://arxiv.org/abs/2601.16964)|null|
+|**2026-01-23**|**DataStates-LLM: Scalable Checkpointing for Transformer Models Using Composable State Providers**|Avinash Maurya et.al.|[2601.16956](http://arxiv.org/abs/2601.16956)|null|
+|**2026-01-23**|**Strategies for Span Labeling with Large Language Models**|Danil Semin et.al.|[2601.16946](http://arxiv.org/abs/2601.16946)|null|
+|**2026-01-23**|**GRIP: Algorithm-Agnostic Machine Unlearning for Mixture-of-Experts via Geometric Router Constraints**|Andy Zhu et.al.|[2601.16905](http://arxiv.org/abs/2601.16905)|null|
+|**2026-01-23**|**Evaluating Large Vision-language Models for Surgical Tool Detection**|Nakul Poudel et.al.|[2601.16895](http://arxiv.org/abs/2601.16895)|null|
+|**2026-01-23**|**Mixture-of-Models: Unifying Heterogeneous Agents via N-Way Self-Evaluating Deliberation**|Tims Pecerskis et.al.|[2601.16863](http://arxiv.org/abs/2601.16863)|null|
+|**2026-01-23**|**Reasoning Promotes Robustness in Theory of Mind Tasks**|Ian B. de Haan et.al.|[2601.16853](http://arxiv.org/abs/2601.16853)|null|
+|**2026-01-23**|**Trapped in the past? Disentangling fluid and crystallized intelligence of large language models using chess**|Leonard S. Pleiss et.al.|[2601.16823](http://arxiv.org/abs/2601.16823)|null|
+|**2026-01-23**|**Large Language Models as Automatic Annotators and Annotation Adjudicators for Fine-Grained Opinion Analysis**|Gaurav Negi et.al.|[2601.16800](http://arxiv.org/abs/2601.16800)|null|
+|**2026-01-23**|**Persuasion Tokens for Editing Factual Knowledge in LLMs**|Paul Youssef et.al.|[2601.16781](http://arxiv.org/abs/2601.16781)|null|
+|**2026-01-23**|**PocketDVDNet: Realtime Video Denoising for Real Camera Noise**|Crispian Morris et.al.|[2601.16780](http://arxiv.org/abs/2601.16780)|null|
+|**2026-01-23**|**LLM-powered Real-time Patent Citation Recommendation for Financial Technologies**|Tianang Deng et.al.|[2601.16775](http://arxiv.org/abs/2601.16775)|null|
+|**2026-01-23**|**Standardizing Longitudinal Radiology Report Evaluation via Large Language Model Annotation**|Xinyi Wang et.al.|[2601.16753](http://arxiv.org/abs/2601.16753)|null|
+|**2026-01-23**|**LongCat-Flash-Thinking-2601 Technical Report**|Meituan LongCat Team et.al.|[2601.16725](http://arxiv.org/abs/2601.16725)|null|
+|**2026-01-23**|**Supporting Stakeholder Requirements Expression with LLM Revisions: An Empirical Evaluation**|Michael Mircea et.al.|[2601.16699](http://arxiv.org/abs/2601.16699)|null|
+|**2026-01-23**|**AgentsEval: Clinically Faithful Evaluation of Medical Imaging Reports via Multi-Agent Reasoning**|Suzhong Fu et.al.|[2601.16685](http://arxiv.org/abs/2601.16685)|null|
 |**2026-01-22**|**Point Bridge: 3D Representations for Cross Domain Policy Learning**|Siddhant Haldar et.al.|[2601.16212](http://arxiv.org/abs/2601.16212)|null|
 |**2026-01-22**|**IVRA: Improving Visual-Token Relations for Robot Action Policy with Training-Free Hint-Based Guidance**|Jongwoo Park et.al.|[2601.16207](http://arxiv.org/abs/2601.16207)|null|
 |**2026-01-22**|**Provable Robustness in Multimodal Large Language Models via Feature Space Smoothing**|Song Xia et.al.|[2601.16200](http://arxiv.org/abs/2601.16200)|null|
@@ -3034,6 +3069,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-23**|**Autonomous Optical Alignment of Satellite-Based Entanglement Sources using Reinforcement Learning**|Andrzej Gajewski et.al.|[2601.16968](http://arxiv.org/abs/2601.16968)|null|
+|**2026-01-23**|**The Trajectory Alignment Coefficient in Two Acts: From Reward Tuning to Reward Learning**|Calarina Muslimani et.al.|[2601.16906](http://arxiv.org/abs/2601.16906)|null|
+|**2026-01-23**|**Boosting Deep Reinforcement Learning with Semantic Knowledge for Robotic Manipulators**|Lucía Güitta-López et.al.|[2601.16866](http://arxiv.org/abs/2601.16866)|null|
+|**2026-01-23**|**Distributional Instruments: Identification and Estimation with Quantile Least Squares**|Rowan Cherodian et.al.|[2601.16865](http://arxiv.org/abs/2601.16865)|null|
+|**2026-01-23**|**Reasoning Promotes Robustness in Theory of Mind Tasks**|Ian B. de Haan et.al.|[2601.16853](http://arxiv.org/abs/2601.16853)|null|
+|**2026-01-23**|**Flux-ratio anomalies in cusp quasars reveal dark matter beyond CDM**|Siyuan Hou et.al.|[2601.16818](http://arxiv.org/abs/2601.16818)|null|
+|**2026-01-23**|**Length spectrum rigidity and flexibility of spheres of revolution with one equator**|Alberto Abbondandolo et.al.|[2601.16804](http://arxiv.org/abs/2601.16804)|null|
+|**2026-01-23**|**Improved Kelbg Potentials for $Z>1$ and Application to Carbon Plasmas**|Heather D. Whitley et.al.|[2601.16794](http://arxiv.org/abs/2601.16794)|null|
+|**2026-01-23**|**Finite Population Inference for Factorial Designs and Panel Experiments with Imperfect Compliance**|Pedro Picchetti et.al.|[2601.16749](http://arxiv.org/abs/2601.16749)|null|
+|**2026-01-23**|**LongCat-Flash-Thinking-2601 Technical Report**|Meituan LongCat Team et.al.|[2601.16725](http://arxiv.org/abs/2601.16725)|null|
+|**2026-01-23**|**Faster parallel MCMC: Metropolis adjustment is best served warm**|Jakob Robnik et.al.|[2601.16696](http://arxiv.org/abs/2601.16696)|null|
+|**2026-01-23**|**Adaptive Reinforcement and Model Predictive Control Switching for Safe Human-Robot Cooperative Navigation**|Ning Liu et.al.|[2601.16686](http://arxiv.org/abs/2601.16686)|null|
+|**2026-01-23**|**Sim-to-Real Transfer via a Style-Identified Cycle Consistent Generative Adversarial Network: Zero-Shot Deployment on Robotic Manipulators through Visual Domain Adaptation**|Lucía Güitta-López et.al.|[2601.16677](http://arxiv.org/abs/2601.16677)|null|
+|**2026-01-23**|**Inference from high-frequency data: A subsampling approach**|Kim Christensen et.al.|[2601.16668](http://arxiv.org/abs/2601.16668)|null|
+|**2026-01-23**|**A Cognitive Framework for Autonomous Agents: Toward Human-Inspired Design**|Francesco Guidi et.al.|[2601.16648](http://arxiv.org/abs/2601.16648)|null|
+|**2026-01-23**|**Is the diurnal pattern sufficient to explain intraday variation in volatility? A nonparametric assessment**|Kim Christensen et.al.|[2601.16613](http://arxiv.org/abs/2601.16613)|null|
+|**2026-01-23**|**Variational approximate penalized credible regions for Bayesian grouped regression**|Weichang Yu et.al.|[2601.16585](http://arxiv.org/abs/2601.16585)|null|
+|**2026-01-23**|**Necessary Optimality Conditions for Integrated Learning and Optimization Problem in Contextual Optimization**|Yuan Tao et.al.|[2601.16581](http://arxiv.org/abs/2601.16581)|null|
+|**2026-01-23**|**Zero-Shot MARL Benchmark in the Cyber-Physical Mobility Lab**|Julius Beerwerth et.al.|[2601.16578](http://arxiv.org/abs/2601.16578)|null|
+|**2026-01-23**|**Spiking Neural Networks for Communication Systems: Encoding Schemes, Learning Algorithms, and Equalization~Techniques**|Eike-Manuel Edelmann et.al.|[2601.16550](http://arxiv.org/abs/2601.16550)|null|
 |**2026-01-22**|**CamPilot: Improving Camera Control in Video Diffusion Model with Efficient Camera Reward Feedback**|Wenhang Ge et.al.|[2601.16214](http://arxiv.org/abs/2601.16214)|null|
 |**2026-01-22**|**LLM-in-Sandbox Elicits General Agentic Intelligence**|Daixuan Cheng et.al.|[2601.16206](http://arxiv.org/abs/2601.16206)|null|
 |**2026-01-22**|**Cyclic sunspot activity during the first millennium CE as reconstructed from radiocarbon**|Ilya Usoskin et.al.|[2601.16203](http://arxiv.org/abs/2601.16203)|null|
