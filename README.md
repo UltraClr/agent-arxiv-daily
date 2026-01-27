@@ -21,6 +21,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-26**|**Are Conversational AI Agents the Way Out? Co-Designing Reader-Oriented News Experiences with Immigrants and Journalists**|Yongle Zhang et.al.|[2601.18772](http://arxiv.org/abs/2601.18772)|null|
+|**2026-01-26**|**Let's Make Every Pull Request Meaningful: An Empirical Analysis of Developer and Agentic Pull Requests**|Haruhiko Yoshioka et.al.|[2601.18749](http://arxiv.org/abs/2601.18749)|null|
+|**2026-01-26**|**Advances and Innovations in the Multi-Agent Robotic System (MARS) Challenge**|Li Kang et.al.|[2601.18733](http://arxiv.org/abs/2601.18733)|null|
+|**2026-01-26**|**TEA-Bench: A Systematic Benchmarking of Tool-enhanced Emotional Support Dialogue Agent**|Xingyu Sui et.al.|[2601.18700](http://arxiv.org/abs/2601.18700)|null|
+|**2026-01-26**|**FadeMem: Biologically-Inspired Forgetting for Efficient Agent Memory**|Lei Wei et.al.|[2601.18642](http://arxiv.org/abs/2601.18642)|null|
+|**2026-01-26**|**AdaReasoner: Dynamic Tool Orchestration for Iterative Visual Reasoning**|Mingyang Song et.al.|[2601.18631](http://arxiv.org/abs/2601.18631)|null|
+|**2026-01-26**|**An LLM-Agent-Based Framework for Age of Information Optimization in Heterogeneous Random Access Networks**|Fang Liu et.al.|[2601.18563](http://arxiv.org/abs/2601.18563)|null|
+|**2026-01-26**|**GenAgent: Scaling Text-to-Image Generation via Agentic Multimodal Reasoning**|Kaixun Jiang et.al.|[2601.18543](http://arxiv.org/abs/2601.18543)|null|
+|**2026-01-26**|**Just-In-Time Reinforcement Learning: Continual Learning in LLM Agents Without Gradient Updates**|Yibo Li et.al.|[2601.18510](http://arxiv.org/abs/2601.18510)|null|
+|**2026-01-26**|**DEEPMED: Building a Medical DeepResearch Agent via Multi-hop Med-Search Data and Turn-Controlled Agentic Training & Inference**|Zihan wang et.al.|[2601.18496](http://arxiv.org/abs/2601.18496)|null|
+|**2026-01-26**|**DV-VLN: Dual Verification for Reliable LLM-Based Vision-and-Language Navigation**|Zijun Li et.al.|[2601.18492](http://arxiv.org/abs/2601.18492)|null|
+|**2026-01-26**|**AgentDoG: A Diagnostic Guardrail Framework for AI Agent Safety and Security**|Dongrui Liu et.al.|[2601.18491](http://arxiv.org/abs/2601.18491)|null|
+|**2026-01-26**|**daVinci-Dev: Agent-native Mid-training for Software Engineering**|Ji Zeng et.al.|[2601.18418](http://arxiv.org/abs/2601.18418)|null|
+|**2026-01-26**|**ARMOR: Agentic Reasoning for Methods Orchestration and Reparameterization for Robust Adversarial Attacks**|Gabriel Lee Jun Rong et.al.|[2601.18386](http://arxiv.org/abs/2601.18386)|null|
+|**2026-01-26**|**AI Agent for Reverse-Engineering Legacy Finite-Difference Code and Translating to Devito**|Yinghan Hou et.al.|[2601.18381](http://arxiv.org/abs/2601.18381)|null|
+|**2026-01-26**|**Promises, Perils, and (Timely) Heuristics for Mining Coding Agent Activity**|Romain Robes Théo Matricon et.al.|[2601.18345](http://arxiv.org/abs/2601.18345)|null|
+|**2026-01-26**|**Agentic Much? Adoption of Coding Agents on GitHub**|Romain Robbes et.al.|[2601.18341](http://arxiv.org/abs/2601.18341)|null|
+|**2026-01-26**|**MultiVis-Agent: A Multi-Agent Framework with Logic Rules for Reliable and Comprehensive Cross-Modal Data Visualization**|Jinwei Lu et.al.|[2601.18320](http://arxiv.org/abs/2601.18320)|null|
+|**2026-01-26**|**Temp-R1: A Unified Autonomous Agent for Complex Temporal KGQA via Reverse Curriculum Reinforcement Learning**|Zhaoyan Gong et.al.|[2601.18296](http://arxiv.org/abs/2601.18296)|null|
+|**2026-01-26**|**Reinforcement Learning with Distributed MPC for Fuel-Efficient Platoon Control with Discrete Gear Transitions**|Samuel Mallick et.al.|[2601.18294](http://arxiv.org/abs/2601.18294)|null|
 |**2026-01-23**|**Spatial-Agent: Agentic Geo-spatial Reasoning with Scientific Core Concepts**|Riyang Bao et.al.|[2601.16965](http://arxiv.org/abs/2601.16965)|null|
 |**2026-01-23**|**AgentDrive: An Open Benchmark Dataset for Agentic AI Reasoning with LLM-Generated Scenarios in Autonomous Systems**|Mohamed Amine Ferrag et.al.|[2601.16964](http://arxiv.org/abs/2601.16964)|null|
 |**2026-01-23**|**AI builds, We Analyze: An Empirical Study of AI-Generated Build Code Quality**|Anwar Ghammam et.al.|[2601.16839](http://arxiv.org/abs/2601.16839)|null|
@@ -1735,6 +1755,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-26**|**ctELM: Decoding and Manipulating Embeddings of Clinical Trials with Embedding Language Models**|Brian Ondov et.al.|[2601.18796](http://arxiv.org/abs/2601.18796)|null|
+|**2026-01-26**|**MortalMATH: Evaluating the Conflict Between Reasoning Objectives and Emergency Contexts**|Etienne Lanzeray et.al.|[2601.18790](http://arxiv.org/abs/2601.18790)|null|
+|**2026-01-26**|**Design Techniques for LLM-Powered Interactive Storytelling: A Case Study of the Dramamancer System**|Tiffany Wang et.al.|[2601.18785](http://arxiv.org/abs/2601.18785)|null|
+|**2026-01-26**|**POPE: Learning to Reason on Hard Problems via Privileged On-Policy Exploration**|Yuxiao Qu et.al.|[2601.18779](http://arxiv.org/abs/2601.18779)|null|
+|**2026-01-26**|**PRECISE: Reducing the Bias of LLM Evaluations Using Prediction-Powered Ranking Estimation**|Abhishek Divekar et.al.|[2601.18777](http://arxiv.org/abs/2601.18777)|null|
+|**2026-01-26**|**Dep-Search: Learning Dependency-Aware Reasoning Traces with Persistent Memory**|Yanming Liu et.al.|[2601.18771](http://arxiv.org/abs/2601.18771)|null|
+|**2026-01-26**|**Goal-oriented Communication for Fast and Robust Robotic Fault Detection and Recovery**|Shutong Chen et.al.|[2601.18765](http://arxiv.org/abs/2601.18765)|null|
+|**2026-01-26**|**Beyond Preferences: Learning Alignment Principles Grounded in Human Reasons and Values**|Henry Bell et.al.|[2601.18760](http://arxiv.org/abs/2601.18760)|null|
+|**2026-01-26**|**$α^3$ -SecBench: A Large-Scale Evaluation Suite of Security, Resilience, and Trust for LLM-based UAV Agents over 6G Networks**|Mohamed Amine Ferrag et.al.|[2601.18754](http://arxiv.org/abs/2601.18754)|null|
+|**2026-01-26**|**HalluGuard: Demystifying Data-Driven and Reasoning-Driven Hallucinations in LLMs**|Xinyue Zeng et.al.|[2601.18753](http://arxiv.org/abs/2601.18753)|null|
+|**2026-01-26**|**Why Keep Your Doubts to Yourself? Trading Visual Uncertainties in Multi-Agent Bandit Systems**|Jusheng Zhang et.al.|[2601.18735](http://arxiv.org/abs/2601.18735)|null|
+|**2026-01-26**|**Self-Distilled Reasoner: On-Policy Self-Distillation for Large Language Models**|Siyan Zhao et.al.|[2601.18734](http://arxiv.org/abs/2601.18734)|null|
+|**2026-01-26**|**Advances and Innovations in the Multi-Agent Robotic System (MARS) Challenge**|Li Kang et.al.|[2601.18733](http://arxiv.org/abs/2601.18733)|null|
+|**2026-01-26**|**One Adapts to Any: Meta Reward Modeling for Personalized LLM Alignment**|Hongru Cai et.al.|[2601.18731](http://arxiv.org/abs/2601.18731)|null|
+|**2026-01-26**|**Reflect: Transparent Principle-Guided Reasoning for Constitutional Alignment at Scale**|Henry Bell et.al.|[2601.18730](http://arxiv.org/abs/2601.18730)|null|
+|**2026-01-26**|**Trustworthy Evaluation of Robotic Manipulation: A New Benchmark and AutoEval Methods**|Mengyuan Liu et.al.|[2601.18723](http://arxiv.org/abs/2601.18723)|null|
+|**2026-01-26**|**Gained in Translation: Privileged Pairwise Judges Enhance Multilingual Reasoning**|Lintang Sutawika et.al.|[2601.18722](http://arxiv.org/abs/2601.18722)|null|
+|**2026-01-26**|**Health-SCORE: Towards Scalable Rubrics for Improving Health-LLMs**|Zhichao Yang et.al.|[2601.18706](http://arxiv.org/abs/2601.18706)|null|
+|**2026-01-26**|**From Fuzzy to Exact: The Halo Architecture for Infinite-Depth Reasoning via Rational Arithmetic**|Hansheng Ren et.al.|[2601.18702](http://arxiv.org/abs/2601.18702)|null|
+|**2026-01-26**|**Mechanistic Analysis of Catastrophic Forgetting in Large Language Models During Continual Fine-tuning**|Olaf Yunus Laitinen Imanov et.al.|[2601.18699](http://arxiv.org/abs/2601.18699)|null|
 |**2026-01-23**|**A Scalable Measure of Loss Landscape Curvature for Analyzing the Training Dynamics of LLMs**|Dayal Singh Kalra et.al.|[2601.16979](http://arxiv.org/abs/2601.16979)|null|
 |**2026-01-23**|**VisGym: Diverse, Customizable, Scalable Environments for Multimodal Agents**|Zirui Wang et.al.|[2601.16973](http://arxiv.org/abs/2601.16973)|null|
 |**2026-01-23**|**Auto-Regressive Masked Diffusion Models**|Mahdi Karami et.al.|[2601.16971](http://arxiv.org/abs/2601.16971)|null|
@@ -3069,6 +3109,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-26**|**Reuse your FLOPs: Scaling RL on Hard Problems by Conditioning on Very Off-Policy Prefixes**|Amrith Setlur et.al.|[2601.18795](http://arxiv.org/abs/2601.18795)|null|
+|**2026-01-26**|**Multi-Objective Reinforcement Learning for Efficient Tactical Decision Making for Trucks in Highway Traffic**|Deepthi Pathare et.al.|[2601.18783](http://arxiv.org/abs/2601.18783)|null|
+|**2026-01-26**|**OptiGAN for Crystal Arrays: Physics-Informed Generative Modeling of Optical Photon Transport in PET Detector Arrays**|Stephan Naunheim et.al.|[2601.18780](http://arxiv.org/abs/2601.18780)|null|
+|**2026-01-26**|**POPE: Learning to Reason on Hard Problems via Privileged On-Policy Exploration**|Yuxiao Qu et.al.|[2601.18779](http://arxiv.org/abs/2601.18779)|null|
+|**2026-01-26**|**Teaching Models to Teach Themselves: Reasoning at the Edge of Learnability**|Shobhita Sundaram et.al.|[2601.18778](http://arxiv.org/abs/2601.18778)|null|
+|**2026-01-26**|**Dep-Search: Learning Dependency-Aware Reasoning Traces with Persistent Memory**|Yanming Liu et.al.|[2601.18771](http://arxiv.org/abs/2601.18771)|null|
+|**2026-01-26**|**Trust, Don't Trust, or Flip: Robust Preference-Based Reinforcement Learning with Multi-Expert Feedback**|Seyed Amir Hosseini et.al.|[2601.18751](http://arxiv.org/abs/2601.18751)|null|
+|**2026-01-26**|**Self-Distilled Reasoner: On-Policy Self-Distillation for Large Language Models**|Siyan Zhao et.al.|[2601.18734](http://arxiv.org/abs/2601.18734)|null|
+|**2026-01-26**|**One Adapts to Any: Meta Reward Modeling for Personalized LLM Alignment**|Hongru Cai et.al.|[2601.18731](http://arxiv.org/abs/2601.18731)|null|
+|**2026-01-26**|**Reflect: Transparent Principle-Guided Reasoning for Constitutional Alignment at Scale**|Henry Bell et.al.|[2601.18730](http://arxiv.org/abs/2601.18730)|null|
+|**2026-01-26**|**Trustworthy Evaluation of Robotic Manipulation: A New Benchmark and AutoEval Methods**|Mengyuan Liu et.al.|[2601.18723](http://arxiv.org/abs/2601.18723)|null|
+|**2026-01-26**|**Health-SCORE: Towards Scalable Rubrics for Improving Health-LLMs**|Zhichao Yang et.al.|[2601.18706](http://arxiv.org/abs/2601.18706)|null|
+|**2026-01-26**|**ART for Diffusion Sampling: A Reinforcement Learning Approach to Timestep Schedule**|Yilie Huang et.al.|[2601.18681](http://arxiv.org/abs/2601.18681)|null|
+|**2026-01-26**|**New parameters for star cluster dynamics: observational results**|Barbara Lanzoni et.al.|[2601.18679](http://arxiv.org/abs/2601.18679)|null|
+|**2026-01-26**|**Quasi Monte Carlo methods enable extremely low-dimensional deep generative models**|Miles Martinez et.al.|[2601.18676](http://arxiv.org/abs/2601.18676)|null|
+|**2026-01-26**|**McSAS3: improved Monte Carlo small-angle scattering analysis software for dilute and dense scatterers**|Brian Richard Pauw et.al.|[2601.18659](http://arxiv.org/abs/2601.18659)|null|
+|**2026-01-26**|**AdaReasoner: Dynamic Tool Orchestration for Iterative Visual Reasoning**|Mingyang Song et.al.|[2601.18631](http://arxiv.org/abs/2601.18631)|null|
+|**2026-01-26**|**Rank-1 Approximation of Inverse Fisher for Natural Policy Gradients in Deep Reinforcement Learning**|Yingxiao Huo et.al.|[2601.18626](http://arxiv.org/abs/2601.18626)|null|
+|**2026-01-26**|**Learning long term climate-resilient transport adaptation pathways under direct and indirect flood impacts using reinforcement learning**|Miguel Costa et.al.|[2601.18586](http://arxiv.org/abs/2601.18586)|null|
+|**2026-01-26**|**From Classification to Ranking: Enhancing LLM Reasoning Capabilities for MBTI Personality Detection**|Yuan Cao et.al.|[2601.18582](http://arxiv.org/abs/2601.18582)|null|
 |**2026-01-23**|**Autonomous Optical Alignment of Satellite-Based Entanglement Sources using Reinforcement Learning**|Andrzej Gajewski et.al.|[2601.16968](http://arxiv.org/abs/2601.16968)|null|
 |**2026-01-23**|**The Trajectory Alignment Coefficient in Two Acts: From Reward Tuning to Reward Learning**|Calarina Muslimani et.al.|[2601.16906](http://arxiv.org/abs/2601.16906)|null|
 |**2026-01-23**|**Boosting Deep Reinforcement Learning with Semantic Knowledge for Robotic Manipulators**|Lucía Güitta-López et.al.|[2601.16866](http://arxiv.org/abs/2601.16866)|null|
