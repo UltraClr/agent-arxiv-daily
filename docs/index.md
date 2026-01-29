@@ -16,6 +16,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-28**|**MemCtrl: Using MLLMs as Active Memory Controllers on Embodied Agents**|Vishnu Sashank Dorbala et.al.|[2601.20831](http://arxiv.org/abs/2601.20831)|null|
+|**2026-01-28**|**Reinforcement Learning via Self-Distillation**|Jonas Hübotter et.al.|[2601.20802](http://arxiv.org/abs/2601.20802)|null|
+|**2026-01-28**|**SERA: Soft-Verified Efficient Repository Agents**|Ethan Shen et.al.|[2601.20789](http://arxiv.org/abs/2601.20789)|null|
+|**2026-01-28**|**The Monotone Priority System: Foundations of Contract-Specific Sequencing**|Naveen Durvasula et.al.|[2601.20783](http://arxiv.org/abs/2601.20783)|null|
+|**2026-01-28**|**Agentic Fog: A Policy-driven Framework for Distributed Intelligence in Fog Computing**|Saeed Akbar et.al.|[2601.20764](http://arxiv.org/abs/2601.20764)|null|
+|**2026-01-28**|**AgentLongBench: A Controllable Long Benchmark For Long-Contexts Agents via Environment Rollouts**|Shicheng Fang et.al.|[2601.20730](http://arxiv.org/abs/2601.20730)|null|
+|**2026-01-28**|**MedViz: An Agent-based, Visual-guided Research Assistant for Navigating Biomedical Literature**|Huan He et.al.|[2601.20709](http://arxiv.org/abs/2601.20709)|null|
+|**2026-01-28**|**Investigating the Development of Task-Oriented Communication in Vision-Language Models**|Boaz Carmeli et.al.|[2601.20641](http://arxiv.org/abs/2601.20641)|null|
+|**2026-01-28**|**Agent Benchmarks Fail Public Sector Requirements**|Jonathan Rystrøm et.al.|[2601.20617](http://arxiv.org/abs/2601.20617)|null|
+|**2026-01-28**|**AgentIF-OneDay: A Task-level Instruction-Following Benchmark for General AI Agents in Daily Scenarios**|Kaiyuan Chen et.al.|[2601.20613](http://arxiv.org/abs/2601.20613)|null|
+|**2026-01-28**|**PathWise: Planning through World Model for Automated Heuristic Design via Self-Evolving LLMs**|Oguzhan Gungordu et.al.|[2601.20539](http://arxiv.org/abs/2601.20539)|null|
+|**2026-01-28**|**Normative Equivalence in human-AI Cooperation: Behaviour, Not Identity, Drives Cooperation in Mixed-Agent Groups**|Nico Mutzner et.al.|[2601.20487](http://arxiv.org/abs/2601.20487)|null|
+|**2026-01-28**|**Piloting Planetarium Visualizations with LLMs during Live Events in Science Centers**|Mathis Brossier et.al.|[2601.20466](http://arxiv.org/abs/2601.20466)|null|
+|**2026-01-28**|**PEARL: Plan Exploration and Adaptive Reinforcement Learning for Multihop Tool Use**|Qihao Wang et.al.|[2601.20439](http://arxiv.org/abs/2601.20439)|null|
+|**2026-01-28**|**Beyond Accuracy: A Cognitive Load Framework for Mapping the Capability Boundaries of Tool-use Agents**|Qihao Wang et.al.|[2601.20412](http://arxiv.org/abs/2601.20412)|null|
+|**2026-01-28**|**On the Impact of AGENTS.md Files on the Efficiency of AI Coding Agents**|Jai Lal Lulla et.al.|[2601.20404](http://arxiv.org/abs/2601.20404)|null|
+|**2026-01-28**|**OmegaUse: Building a General-Purpose GUI Agent for Autonomous Task Execution**|Le Zhang et.al.|[2601.20380](http://arxiv.org/abs/2601.20380)|null|
+|**2026-01-28**|**LLM-AutoDP: Automatic Data Processing via LLM Agents for Model Fine-tuning**|Wei Huang et.al.|[2601.20375](http://arxiv.org/abs/2601.20375)|null|
+|**2026-01-28**|**AMA: Adaptive Memory via Multi-Agent Collaboration**|Weiquan Huang et.al.|[2601.20352](http://arxiv.org/abs/2601.20352)|null|
+|**2026-01-28**|**Demonstration-Free Robotic Control via LLM Agents**|Brian Y. Tsui et.al.|[2601.20334](http://arxiv.org/abs/2601.20334)|null|
 |**2026-01-27**|**Towards a complete characterization of indicator variograms and madograms**|Xavier Emery et.al.|[2601.19800](http://arxiv.org/abs/2601.19800)|null|
 |**2026-01-27**|**LVLMs and Humans Ground Differently in Referential Communication**|Peter Zeng et.al.|[2601.19792](http://arxiv.org/abs/2601.19792)|null|
 |**2026-01-27**|**Agentic Design Patterns: A System-Theoretic Framework**|Minh-Dung Dao et.al.|[2601.19752](http://arxiv.org/abs/2601.19752)|null|
@@ -1768,6 +1788,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-28**|**When Flores Bloomz Wrong: Cross-Direction Contamination in Machine Translation Evaluation**|David Tan et.al.|[2601.20858](http://arxiv.org/abs/2601.20858)|null|
+|**2026-01-28**|**SokoBench: Evaluating Long-Horizon Planning and Reasoning in Large Language Models**|Sebastiano Monti et.al.|[2601.20856](http://arxiv.org/abs/2601.20856)|null|
+|**2026-01-28**|**Reward Models Inherit Value Biases from Pretraining**|Brian Christian et.al.|[2601.20838](http://arxiv.org/abs/2601.20838)|null|
+|**2026-01-28**|**Open-Vocabulary Functional 3D Human-Scene Interaction Generation**|Jie Liu et.al.|[2601.20835](http://arxiv.org/abs/2601.20835)|null|
+|**2026-01-28**|**Linear representations in language models can change dramatically over a conversation**|Andrew Kyle Lampinen et.al.|[2601.20834](http://arxiv.org/abs/2601.20834)|null|
+|**2026-01-28**|**Idea2Story: An Automated Pipeline for Transforming Research Concepts into Complete Scientific Narratives**|Tengyue Xu et.al.|[2601.20833](http://arxiv.org/abs/2601.20833)|null|
+|**2026-01-28**|**MemCtrl: Using MLLMs as Active Memory Controllers on Embodied Agents**|Vishnu Sashank Dorbala et.al.|[2601.20831](http://arxiv.org/abs/2601.20831)|null|
+|**2026-01-28**|**Training Reasoning Models on Saturated Problems via Failure-Prefix Conditioning**|Minwu Kim et.al.|[2601.20829](http://arxiv.org/abs/2601.20829)|null|
+|**2026-01-28**|**Context-Augmented Code Generation Using Programming Knowledge Graphs**|Shahd Seddik et.al.|[2601.20810](http://arxiv.org/abs/2601.20810)|null|
+|**2026-01-28**|**Structured Semantic Information Helps Retrieve Better Examples for In-Context Learning in Few-Shot Relation Extraction**|Aunabil Chakma et.al.|[2601.20803](http://arxiv.org/abs/2601.20803)|null|
+|**2026-01-28**|**Reinforcement Learning via Self-Distillation**|Jonas Hübotter et.al.|[2601.20802](http://arxiv.org/abs/2601.20802)|null|
+|**2026-01-28**|**Dissecting Multimodal In-Context Learning: Modality Asymmetries and Circuit Dynamics in modern Transformers**|Yiran Huang et.al.|[2601.20796](http://arxiv.org/abs/2601.20796)|null|
+|**2026-01-28**|**Agentic Fog: A Policy-driven Framework for Distributed Intelligence in Fog Computing**|Saeed Akbar et.al.|[2601.20764](http://arxiv.org/abs/2601.20764)|null|
+|**2026-01-28**|**Persona Prompting as a Lens on LLM Social Reasoning**|Jing Yang et.al.|[2601.20757](http://arxiv.org/abs/2601.20757)|null|
+|**2026-01-28**|**ProfInfer: An eBPF-based Fine-Grained LLM Inference Profiler**|Bohua Zou et.al.|[2601.20755](http://arxiv.org/abs/2601.20755)|null|
+|**2026-01-28**|**Like a Therapist, But Not: Reddit Narratives of AI in Mental Health Contexts**|Elham Aghakhani et.al.|[2601.20747](http://arxiv.org/abs/2601.20747)|null|
+|**2026-01-28**|**HESTIA: A Hessian-Guided Differentiable Quantization-Aware Training Framework for Extremely Low-Bit LLMs**|Guoan Wang et.al.|[2601.20745](http://arxiv.org/abs/2601.20745)|null|
+|**2026-01-28**|**Compression Tells Intelligence: Visual Coding, Visual Token Technology, and the Unification**|Xin Jin et.al.|[2601.20742](http://arxiv.org/abs/2601.20742)|null|
+|**2026-01-28**|**QueerGen: How LLMs Reflect Societal Norms on Gender and Sexuality in Sentence Completion Tasks**|Mae Sosto et.al.|[2601.20731](http://arxiv.org/abs/2601.20731)|null|
+|**2026-01-28**|**AgentLongBench: A Controllable Long Benchmark For Long-Contexts Agents via Environment Rollouts**|Shicheng Fang et.al.|[2601.20730](http://arxiv.org/abs/2601.20730)|null|
 |**2026-01-27**|**Evaluation of Oncotimia: An LLM based system for supporting tumour boards**|Luis Lorenzo et.al.|[2601.19899](http://arxiv.org/abs/2601.19899)|null|
 |**2026-01-27**|**Self-Distillation Enables Continual Learning**|Idan Shenfeld et.al.|[2601.19897](http://arxiv.org/abs/2601.19897)|null|
 |**2026-01-27**|**Post-LayerNorm Is Back: Stable, ExpressivE, and Deep**|Chen Chen et.al.|[2601.19895](http://arxiv.org/abs/2601.19895)|null|
@@ -3140,6 +3180,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-28**|**End-to-end example-based sim-to-real RL policy transfer based on neural stylisation with application to robotic cutting**|Jamie Hathaway et.al.|[2601.20846](http://arxiv.org/abs/2601.20846)|null|
+|**2026-01-28**|**Reward Models Inherit Value Biases from Pretraining**|Brian Christian et.al.|[2601.20838](http://arxiv.org/abs/2601.20838)|null|
+|**2026-01-28**|**MemCtrl: Using MLLMs as Active Memory Controllers on Embodied Agents**|Vishnu Sashank Dorbala et.al.|[2601.20831](http://arxiv.org/abs/2601.20831)|null|
+|**2026-01-28**|**Training Reasoning Models on Saturated Problems via Failure-Prefix Conditioning**|Minwu Kim et.al.|[2601.20829](http://arxiv.org/abs/2601.20829)|null|
+|**2026-01-28**|**Reinforcement Learning via Self-Distillation**|Jonas Hübotter et.al.|[2601.20802](http://arxiv.org/abs/2601.20802)|null|
+|**2026-01-28**|**SERA: Soft-Verified Efficient Repository Agents**|Ethan Shen et.al.|[2601.20789](http://arxiv.org/abs/2601.20789)|null|
+|**2026-01-28**|**Neural Quantum States in Mixed Precision**|Massimo Solinas et.al.|[2601.20782](http://arxiv.org/abs/2601.20782)|null|
+|**2026-01-28**|**Less is More: Clustered Cross-Covariance Control for Offline RL**|Nan Qiao et.al.|[2601.20765](http://arxiv.org/abs/2601.20765)|null|
+|**2026-01-28**|**Exploring Re-inforcement Learning via Human Feedback under User Heterogeneity**|Sarvesh Shashidhar et.al.|[2601.20760](http://arxiv.org/abs/2601.20760)|null|
+|**2026-01-28**|**GraphAllocBench: A Flexible Benchmark for Preference-Conditioned Multi-Objective Policy Learning**|Zhiheng Jiang et.al.|[2601.20753](http://arxiv.org/abs/2601.20753)|null|
+|**2026-01-28**|**Comparing causal estimands from sequential nested versus single point target trials: A simulation study**|Catherine Wiener et.al.|[2601.20725](http://arxiv.org/abs/2601.20725)|null|
+|**2026-01-28**|**From biting to engulfment: curvature-actin coupling controls phagocytosis of soft, deformable targets**|Shubhadeep Sadhukhan et.al.|[2601.20719](http://arxiv.org/abs/2601.20719)|null|
+|**2026-01-28**|**Adapting the Behavior of Reinforcement Learning Agents to Changing Action Spaces and Reward Functions**|Raul de la Rosa et.al.|[2601.20714](http://arxiv.org/abs/2601.20714)|null|
+|**2026-01-28**|**A scalable flow-based approach to mitigate topological freezing**|Claudio Bonanno et.al.|[2601.20708](http://arxiv.org/abs/2601.20708)|null|
+|**2026-01-28**|**One Step Is Enough: Dispersive MeanFlow Policy Optimization**|Guowei Zou et.al.|[2601.20701](http://arxiv.org/abs/2601.20701)|null|
+|**2026-01-28**|**Tensor renormalization group study of cold and dense QCD in the strong coupling limit**|Yuto Sugimoto et.al.|[2601.20690](http://arxiv.org/abs/2601.20690)|null|
+|**2026-01-28**|**Grover's Search-Inspired Quantum Reinforcement Learning for Massive MIMO User Scheduling**|Ruining Fan et.al.|[2601.20688](http://arxiv.org/abs/2601.20688)|null|
+|**2026-01-28**|**Positive-Unlabeled Reinforcement Learning Distillation for On-Premise Small Models**|Zhiqiang Kou et.al.|[2601.20687](http://arxiv.org/abs/2601.20687)|null|
+|**2026-01-28**|**GPO: Growing Policy Optimization for Legged Robot Locomotion and Whole-Body Control**|Shuhao Liao et.al.|[2601.20668](http://arxiv.org/abs/2601.20668)|null|
+|**2026-01-28**|**Deep Learning based Three-stage Solution for ISAC Beamforming Optimization**|Qian Gao et.al.|[2601.20667](http://arxiv.org/abs/2601.20667)|null|
 |**2026-01-27**|**Self-Distillation Enables Continual Learning**|Idan Shenfeld et.al.|[2601.19897](http://arxiv.org/abs/2601.19897)|null|
 |**2026-01-27**|**A Latent Space Framework for Modeling Transient Engine Emissions Using Joint Embedding Predictive Architectures**|Ganesh Sundaram et.al.|[2601.19822](http://arxiv.org/abs/2601.19822)|null|
 |**2026-01-27**|**Unsupervised Learning of Efficient Exploration: Pre-training Adaptive Policies via Self-Imposed Goals**|Octavio Pappalardo et.al.|[2601.19810](http://arxiv.org/abs/2601.19810)|null|
