@@ -21,6 +21,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-29**|**Exploring Reasoning Reward Model for Agents**|Kaixuan Fan et.al.|[2601.22154](http://arxiv.org/abs/2601.22154)|null|
+|**2026-01-29**|**DynaWeb: Model-Based Reinforcement Learning of Web Agents**|Hang Ding et.al.|[2601.22149](http://arxiv.org/abs/2601.22149)|null|
+|**2026-01-29**|**StepShield: When, Not Whether to Intervene on Rogue Agents**|Gloria Felicia et.al.|[2601.22136](http://arxiv.org/abs/2601.22136)|null|
+|**2026-01-29**|**World of Workflows: a Benchmark for Bringing World Models to Enterprise Systems**|Lakshya Gupta et.al.|[2601.22130](http://arxiv.org/abs/2601.22130)|null|
+|**2026-01-29**|**SWE-Replay: Efficient Test-Time Scaling for Software Engineering Agents**|Yifeng Ding et.al.|[2601.22129](http://arxiv.org/abs/2601.22129)|null|
+|**2026-01-29**|**Optimizing Agentic Workflows using Meta-tools**|Sami Abuzakuk et.al.|[2601.22037](http://arxiv.org/abs/2601.22037)|null|
+|**2026-01-29**|**CAR-bench: Evaluating the Consistency and Limit-Awareness of LLM Agents under Real-World Uncertainty**|Johannes Kirmayr et.al.|[2601.22027](http://arxiv.org/abs/2601.22027)|null|
+|**2026-01-29**|**When "Better" Prompts Hurt: Evaluation-Driven Iteration for LLM Applications**|Daniel Commey et.al.|[2601.22025](http://arxiv.org/abs/2601.22025)|null|
+|**2026-01-29**|**Heterogeneous Computing: The Key to Powering the Future of AI Agent Inference**|Yiren Zhao et.al.|[2601.22001](http://arxiv.org/abs/2601.22001)|null|
+|**2026-01-29**|**Liquid Interfaces: A Dynamic Ontology for the Interoperability of Autonomous Systems**|Dhiogo de Sá et.al.|[2601.21993](http://arxiv.org/abs/2601.21993)|null|
+|**2026-01-29**|**How do Visual Attributes Influence Web Agents? A Comprehensive Evaluation of User Interface Design Factors**|Kuai Yu et.al.|[2601.21961](http://arxiv.org/abs/2601.21961)|null|
+|**2026-01-29**|**ToolWeaver: Weaving Collaborative Semantics for Scalable Tool Use in Large Language Models**|Bowen Fang et.al.|[2601.21947](http://arxiv.org/abs/2601.21947)|null|
+|**2026-01-29**|**AgenticSimLaw: A Juvenile Courtroom Multi-Agent Debate Simulation for Explainable High-Stakes Tabular Decision Making**|Jon Chun et.al.|[2601.21936](http://arxiv.org/abs/2601.21936)|null|
+|**2026-01-29**|**Self-Compression of Chain-of-Thought via Multi-Agent Reinforcement Learning**|Yiqun Chen et.al.|[2601.21919](http://arxiv.org/abs/2601.21919)|null|
+|**2026-01-29**|**JADE: Bridging the Strategic-Operational Gap in Dynamic Agentic RAG**|Yiqun Chen et.al.|[2601.21916](http://arxiv.org/abs/2601.21916)|null|
+|**2026-01-29**|**WebArbiter: A Principle-Guided Reasoning Process Reward Model for Web Agents**|Yao Zhang et.al.|[2601.21872](http://arxiv.org/abs/2601.21872)|null|
+|**2026-01-29**|**Embodied Task Planning via Graph-Informed Action Generation with Large Lanaguage Model**|Xiang Li et.al.|[2601.21841](http://arxiv.org/abs/2601.21841)|null|
+|**2026-01-29**|**CORE:Toward Ubiquitous 6G Intelligence Through Collaborative Orchestration of Large Language Model Agents Over Hierarchical Edge**|Zitong Yu et.al.|[2601.21822](http://arxiv.org/abs/2601.21822)|null|
+|**2026-01-29**|**BioAgent Bench: An AI Agent Evaluation Suite for Bioinformatics**|Dionizije Fa et.al.|[2601.21800](http://arxiv.org/abs/2601.21800)|null|
+|**2026-01-29**|**E-mem: Multi-agent based Episodic Context Reconstruction for LLM Agent Memory**|Kaixiang Wang et.al.|[2601.21714](http://arxiv.org/abs/2601.21714)|null|
 |**2026-01-28**|**MemCtrl: Using MLLMs as Active Memory Controllers on Embodied Agents**|Vishnu Sashank Dorbala et.al.|[2601.20831](http://arxiv.org/abs/2601.20831)|null|
 |**2026-01-28**|**Reinforcement Learning via Self-Distillation**|Jonas Hübotter et.al.|[2601.20802](http://arxiv.org/abs/2601.20802)|null|
 |**2026-01-28**|**SERA: Soft-Verified Efficient Repository Agents**|Ethan Shen et.al.|[2601.20789](http://arxiv.org/abs/2601.20789)|null|
@@ -1795,6 +1815,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-29**|**UEval: A Benchmark for Unified Multimodal Generation**|Bo Li et.al.|[2601.22155](http://arxiv.org/abs/2601.22155)|null|
+|**2026-01-29**|**Do VLMs Perceive or Recall? Probing Visual Perception vs. Memory with Classic Visual Illusions**|Xiaoxiao Sun et.al.|[2601.22150](http://arxiv.org/abs/2601.22150)|null|
+|**2026-01-29**|**DynaWeb: Model-Based Reinforcement Learning of Web Agents**|Hang Ding et.al.|[2601.22149](http://arxiv.org/abs/2601.22149)|null|
+|**2026-01-29**|**FineInstructions: Scaling Synthetic Instructions to Pre-Training Scale**|Ajay Patel et.al.|[2601.22146](http://arxiv.org/abs/2601.22146)|null|
+|**2026-01-29**|**Reasoning While Asking: Transforming Reasoning Large Language Models from Passive Solvers to Proactive Inquirers**|Xin Chen et.al.|[2601.22139](http://arxiv.org/abs/2601.22139)|null|
+|**2026-01-29**|**Pay for Hints, Not Answers: LLM Shepherding for Cost-Efficient Inference**|Ziming Dong et.al.|[2601.22132](http://arxiv.org/abs/2601.22132)|null|
+|**2026-01-29**|**World of Workflows: a Benchmark for Bringing World Models to Enterprise Systems**|Lakshya Gupta et.al.|[2601.22130](http://arxiv.org/abs/2601.22130)|null|
+|**2026-01-29**|**SWE-Replay: Efficient Test-Time Scaling for Software Engineering Agents**|Yifeng Ding et.al.|[2601.22129](http://arxiv.org/abs/2601.22129)|null|
+|**2026-01-29**|**The Patient is not a Moving Document: A World Model Training Paradigm for Longitudinal EHR**|Irsyad Adam et.al.|[2601.22128](http://arxiv.org/abs/2601.22128)|null|
+|**2026-01-29**|**A Federated and Parameter-Efficient Framework for Large Language Model Training in Medicine**|Anran Li et.al.|[2601.22124](http://arxiv.org/abs/2601.22124)|null|
+|**2026-01-29**|**SINA: A Circuit Schematic Image-to-Netlist Generator Using Artificial Intelligence**|Saoud Aldowaish et.al.|[2601.22114](http://arxiv.org/abs/2601.22114)|null|
+|**2026-01-29**|**Value-Based Pre-Training with Downstream Feedback**|Shuqi Ke et.al.|[2601.22108](http://arxiv.org/abs/2601.22108)|null|
+|**2026-01-29**|**ECO: Quantized Training without Full-Precision Master Weights**|Mahdi Nikdan et.al.|[2601.22101](http://arxiv.org/abs/2601.22101)|null|
+|**2026-01-29**|**Latent Adversarial Regularization for Offline Preference Optimization**|Enyi Jiang et.al.|[2601.22083](http://arxiv.org/abs/2601.22083)|null|
+|**2026-01-29**|**VTC-R1: Vision-Text Compression for Efficient Long-Context Reasoning**|Yibo Wang et.al.|[2601.22069](http://arxiv.org/abs/2601.22069)|null|
+|**2026-01-29**|**Vision-DeepResearch: Incentivizing DeepResearch Capability in Multimodal Large Language Models**|Wenxuan Huang et.al.|[2601.22060](http://arxiv.org/abs/2601.22060)|null|
+|**2026-01-29**|**AIRPET: Virtual Positron Emission Tomography**|J. Renner et.al.|[2601.22059](http://arxiv.org/abs/2601.22059)|null|
+|**2026-01-29**|**MetricAnything: Scaling Metric Depth Pretraining with Noisy Heterogeneous Sources**|Baorui Ma et.al.|[2601.22054](http://arxiv.org/abs/2601.22054)|null|
+|**2026-01-29**|**MasalBench: A Benchmark for Contextual and Cross-Cultural Understanding of Persian Proverbs in LLMs**|Ghazal Kalhor et.al.|[2601.22050](http://arxiv.org/abs/2601.22050)|null|
+|**2026-01-29**|**On the Paradoxical Interference between Instruction-Following and Task Solving**|Yunjia Qi et.al.|[2601.22047](http://arxiv.org/abs/2601.22047)|null|
 |**2026-01-28**|**When Flores Bloomz Wrong: Cross-Direction Contamination in Machine Translation Evaluation**|David Tan et.al.|[2601.20858](http://arxiv.org/abs/2601.20858)|null|
 |**2026-01-28**|**SokoBench: Evaluating Long-Horizon Planning and Reasoning in Large Language Models**|Sebastiano Monti et.al.|[2601.20856](http://arxiv.org/abs/2601.20856)|null|
 |**2026-01-28**|**Reward Models Inherit Value Biases from Pretraining**|Brian Christian et.al.|[2601.20838](http://arxiv.org/abs/2601.20838)|null|
@@ -3189,6 +3229,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-29**|**Exploring Reasoning Reward Model for Agents**|Kaixuan Fan et.al.|[2601.22154](http://arxiv.org/abs/2601.22154)|null|
+|**2026-01-29**|**DynaWeb: Model-Based Reinforcement Learning of Web Agents**|Hang Ding et.al.|[2601.22149](http://arxiv.org/abs/2601.22149)|null|
+|**2026-01-29**|**Alpha Discovery via Grammar-Guided Learning and Search**|Han Yang et.al.|[2601.22119](http://arxiv.org/abs/2601.22119)|null|
+|**2026-01-29**|**Defining Operational Conditions for Safety-Critical AI-Based Systems from Data**|Johann Christensen et.al.|[2601.22118](http://arxiv.org/abs/2601.22118)|null|
+|**2026-01-29**|**Boosting CVaR Policy Optimization with Quantile Gradients**|Yudong Luo et.al.|[2601.22100](http://arxiv.org/abs/2601.22100)|null|
+|**2026-01-29**|**A Gradient-Based Capacity Accreditation Framework in Resource Adequacy: Formulation, Computation, and Practical Implications**|Qian Zhang et.al.|[2601.22087](http://arxiv.org/abs/2601.22087)|null|
+|**2026-01-29**|**Learning to Dial-a-Ride: A Deep Graph Reinforcement Learning Approach to the Electric Dial-a-Ride Problem**|Sten Elling Tingstad Jacobsen et.al.|[2601.22052](http://arxiv.org/abs/2601.22052)|null|
+|**2026-01-29**|**SIA: Symbolic Interpretability for Anticipatory Deep Reinforcement Learning in Network Control**|MohammadErfan Jabbari et.al.|[2601.22044](http://arxiv.org/abs/2601.22044)|null|
+|**2026-01-29**|**SymbXRL: Symbolic Explainable Deep Reinforcement Learning for Mobile Networks**|Abhishek Duttagupta et.al.|[2601.22024](http://arxiv.org/abs/2601.22024)|null|
+|**2026-01-29**|**Post-Disaster Resource Redistribution and Cooperation Evolution Based on Two-Layer Network Evolutionary Games**|Yu Chen et.al.|[2601.22021](http://arxiv.org/abs/2601.22021)|null|
+|**2026-01-29**|**Efficient Stochastic Optimisation via Sequential Monte Carlo**|James Cuin et.al.|[2601.22003](http://arxiv.org/abs/2601.22003)|null|
+|**2026-01-29**|**Geometry of Drifting MDPs with Path-Integral Stability Certificates**|Zuyuan Zhang et.al.|[2601.21991](http://arxiv.org/abs/2601.21991)|null|
+|**2026-01-29**|**Elign: Equivariant Diffusion Model Alignment from Foundational Machine Learning Force Fields**|Yunyang Li et.al.|[2601.21985](http://arxiv.org/abs/2601.21985)|null|
+|**2026-01-29**|**Investigating Batch Inference in a Sequential Monte Carlo Framework for Neural Networks**|Andrew Millard et.al.|[2601.21983](http://arxiv.org/abs/2601.21983)|null|
+|**2026-01-29**|**Investigation into using stochastic embedding representations for evaluating the trustworthiness of the Fréchet Inception Distance**|Ciaran Bench et.al.|[2601.21979](http://arxiv.org/abs/2601.21979)|null|
+|**2026-01-29**|**Learning Decentralized LLM Collaboration with Multi-Agent Actor Critic**|Shuo Liu et.al.|[2601.21972](http://arxiv.org/abs/2601.21972)|null|
+|**2026-01-29**|**MoE-ACT: Improving Surgical Imitation Learning Policies through Supervised Mixture-of-Experts**|Lorenzo Mazza et.al.|[2601.21971](http://arxiv.org/abs/2601.21971)|null|
+|**2026-01-29**|**Token-Guard: Towards Token-Level Hallucination Control via Self-Checking Decoding**|Yifan Zhu et.al.|[2601.21969](http://arxiv.org/abs/2601.21969)|null|
+|**2026-01-29**|**OVD: On-policy Verbal Distillation**|Jing Xiong et.al.|[2601.21968](http://arxiv.org/abs/2601.21968)|null|
+|**2026-01-29**|**From Tokens to Blocks: A Block-Diffusion Perspective on Molecular Generation**|Qianwei Yang et.al.|[2601.21964](http://arxiv.org/abs/2601.21964)|null|
 |**2026-01-28**|**End-to-end example-based sim-to-real RL policy transfer based on neural stylisation with application to robotic cutting**|Jamie Hathaway et.al.|[2601.20846](http://arxiv.org/abs/2601.20846)|null|
 |**2026-01-28**|**Reward Models Inherit Value Biases from Pretraining**|Brian Christian et.al.|[2601.20838](http://arxiv.org/abs/2601.20838)|null|
 |**2026-01-28**|**MemCtrl: Using MLLMs as Active Memory Controllers on Embodied Agents**|Vishnu Sashank Dorbala et.al.|[2601.20831](http://arxiv.org/abs/2601.20831)|null|
