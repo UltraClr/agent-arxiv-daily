@@ -16,6 +16,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-30**|**PaperBanana: Automating Academic Illustration for AI Scientists**|Dawei Zhu et.al.|[2601.23265](http://arxiv.org/abs/2601.23265)|null|
+|**2026-01-30**|**Eigenweights for arithmetic Hirzebruch Proportionality**|Tony Feng et.al.|[2601.23245](http://arxiv.org/abs/2601.23245)|null|
+|**2026-01-30**|**Multi-Agent Systems Should be Treated as Principal-Agent Problems**|Paulius Rauba et.al.|[2601.23211](http://arxiv.org/abs/2601.23211)|null|
+|**2026-01-30**|**Greedy Routing Reachability Games**|Pascal Lenzner et.al.|[2601.23126](http://arxiv.org/abs/2601.23126)|null|
+|**2026-01-30**|**From Similarity to Vulnerability: Key Collision Attack on LLM Semantic Caching**|Zhixiang Zhang et.al.|[2601.23088](http://arxiv.org/abs/2601.23088)|null|
+|**2026-01-30**|**Guided by Trajectories: Repairing and Rewarding Tool-Use Trajectories for Tool-Integrated Reasoning**|Siyu Gong et.al.|[2601.23032](http://arxiv.org/abs/2601.23032)|null|
+|**2026-01-30**|**SolAgent: A Specialized Multi-Agent Framework for Solidity Code Generation**|Wei Chen et.al.|[2601.23009](http://arxiv.org/abs/2601.23009)|null|
+|**2026-01-30**|**MiTa: A Hierarchical Multi-Agent Collaboration Framework with Memory-integrated and Task Allocation**|XiaoJie Zhang et.al.|[2601.22974](http://arxiv.org/abs/2601.22974)|null|
+|**2026-01-30**|**Sifting the Noise: A Comparative Study of LLM Agents in Vulnerability False Positive Filtering**|Yunpeng Xiong et.al.|[2601.22952](http://arxiv.org/abs/2601.22952)|null|
+|**2026-01-30**|**MEnvAgent: Scalable Polyglot Environment Construction for Verifiable Software Engineering**|Chuanzhe Guo et.al.|[2601.22859](http://arxiv.org/abs/2601.22859)|null|
+|**2026-01-30**|**FACET: Multi-Agent AI Supporting Teachers in Scaling Differentiated Learning for Diverse Students**|Jana Gonnermann-Müller et.al.|[2601.22788](http://arxiv.org/abs/2601.22788)|null|
+|**2026-01-30**|**AutoRefine: From Trajectories to Reusable Expertise for Continual LLM Agent Refinement**|Libin Qiu et.al.|[2601.22758](http://arxiv.org/abs/2601.22758)|null|
+|**2026-01-30**|**Test-Time Mixture of World Models for Embodied Agents in Dynamic Environments**|Jinwoo Jang et.al.|[2601.22647](http://arxiv.org/abs/2601.22647)|null|
+|**2026-01-30**|**ScholarPeer: A Context-Aware Multi-Agent Framework for Automated Peer Review**|Palash Goyal et.al.|[2601.22638](http://arxiv.org/abs/2601.22638)|null|
+|**2026-01-30**|**MCP-Diag: A Deterministic, Protocol-Driven Architecture for AI-Native Network Diagnostics**|Devansh Lodha et.al.|[2601.22633](http://arxiv.org/abs/2601.22633)|null|
+|**2026-01-30**|**SYMPHONY: Synergistic Multi-agent Planning with Heterogeneous Language Model Assembly**|Wei Zhu et.al.|[2601.22623](http://arxiv.org/abs/2601.22623)|null|
+|**2026-01-30**|**From Self-Evolving Synthetic Data to Verifiable-Reward RL: Post-Training Multi-turn Interactive Tool-Using Agents**|Jiaxuan Gao et.al.|[2601.22607](http://arxiv.org/abs/2601.22607)|null|
+|**2026-01-30**|**TimeMachine-bench: A Benchmark for Evaluating Model Capabilities in Repository-Level Migration Tasks**|Ryo Fujii et.al.|[2601.22597](http://arxiv.org/abs/2601.22597)|null|
+|**2026-01-30**|**PerfGuard: A Performance-Aware Agent for Visual Content Generation**|Zhipeng Chen et.al.|[2601.22571](http://arxiv.org/abs/2601.22571)|null|
+|**2026-01-30**|**LEAP -- Live Experiments for Active Pedagogy**|Sumedh Karajagi et.al.|[2601.22534](http://arxiv.org/abs/2601.22534)|null|
 |**2026-01-29**|**Exploring Reasoning Reward Model for Agents**|Kaixuan Fan et.al.|[2601.22154](http://arxiv.org/abs/2601.22154)|null|
 |**2026-01-29**|**DynaWeb: Model-Based Reinforcement Learning of Web Agents**|Hang Ding et.al.|[2601.22149](http://arxiv.org/abs/2601.22149)|null|
 |**2026-01-29**|**StepShield: When, Not Whether to Intervene on Rogue Agents**|Gloria Felicia et.al.|[2601.22136](http://arxiv.org/abs/2601.22136)|null|
@@ -1808,6 +1828,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-30**|**User Prompting Strategies and Prompt Enhancement Methods for Open-Set Object Detection in XR Environments**|Junfeng Lin et.al.|[2601.23281](http://arxiv.org/abs/2601.23281)|null|
+|**2026-01-30**|**FOCUS: DLLMs Know How to Tame Their Compute Bound**|Kaihua Liang et.al.|[2601.23278](http://arxiv.org/abs/2601.23278)|null|
+|**2026-01-30**|**UPA: Unsupervised Prompt Agent via Tree-Based Search and Selection**|Siran Peng et.al.|[2601.23273](http://arxiv.org/abs/2601.23273)|null|
+|**2026-01-30**|**PaperBanana: Automating Academic Illustration for AI Scientists**|Dawei Zhu et.al.|[2601.23265](http://arxiv.org/abs/2601.23265)|null|
+|**2026-01-30**|**TEON: Tensorized Orthonormalization Beyond Layer-Wise Muon for Large Language Model Pre-Training**|Ruijie Zhang et.al.|[2601.23261](http://arxiv.org/abs/2601.23261)|null|
+|**2026-01-30**|**Now You Hear Me: Audio Narrative Attacks Against Large Audio-Language Models**|Ye Yu et.al.|[2601.23255](http://arxiv.org/abs/2601.23255)|null|
+|**2026-01-30**|**GrepRAG: An Empirical Study and Optimization of Grep-Like Retrieval for Code Completion**|Baoyi Wang et.al.|[2601.23254](http://arxiv.org/abs/2601.23254)|null|
+|**2026-01-30**|**Training-Free Test-Time Adaptation with Brownian Distance Covariance in Vision-Language Models**|Yi Zhang et.al.|[2601.23253](http://arxiv.org/abs/2601.23253)|null|
+|**2026-01-30**|**Structured Over Scale: Learning Spatial Reasoning from Educational Video**|Bishoy Galoaa et.al.|[2601.23251](http://arxiv.org/abs/2601.23251)|null|
+|**2026-01-30**|**ShotFinder: Imagination-Driven Open-Domain Video Shot Retrieval via Web Search**|Tao Yu et.al.|[2601.23232](http://arxiv.org/abs/2601.23232)|null|
+|**2026-01-30**|**Agile Reinforcement Learning through Separable Neural Architecture**|Rajib Mostakim et.al.|[2601.23225](http://arxiv.org/abs/2601.23225)|null|
+|**2026-01-30**|**Video-o3: Native Interleaved Clue Seeking for Long Video Multi-Hop Reasoning**|Xiangyu Zeng et.al.|[2601.23224](http://arxiv.org/abs/2601.23224)|null|
+|**2026-01-30**|**Are you going to finish that? A Practical Study of the Tokenization Boundary Problem**|Hao Xu et.al.|[2601.23223](http://arxiv.org/abs/2601.23223)|null|
+|**2026-01-30**|**Med-Scout: Curing MLLMs' Geometric Blindness in Medical Perception via Geometry-Aware RL Post-Training**|Anglin Liu et.al.|[2601.23220](http://arxiv.org/abs/2601.23220)|null|
+|**2026-01-30**|**High-quality generation of dynamic game content via small language models: A proof of concept**|Morten I. K. Munk et.al.|[2601.23206](http://arxiv.org/abs/2601.23206)|null|
+|**2026-01-30**|**TSAQA: Time Series Analysis Question And Answering Benchmark**|Baoyu Jing et.al.|[2601.23204](http://arxiv.org/abs/2601.23204)|null|
+|**2026-01-30**|**Large Language Models for Patent Classification: Strengths, Trade-offs, and the Long Tail Effect**|Lorenzo Emer et.al.|[2601.23200](http://arxiv.org/abs/2601.23200)|null|
+|**2026-01-30**|**Deep Search with Hierarchical Meta-Cognitive Monitoring Inspired by Cognitive Neuroscience**|Zhongxiang Sun et.al.|[2601.23188](http://arxiv.org/abs/2601.23188)|null|
+|**2026-01-30**|**ReGuLaR: Variational Latent Reasoning Guided by Rendered Chain-of-Thought**|Fanmeng Wang et.al.|[2601.23184](http://arxiv.org/abs/2601.23184)|null|
+|**2026-01-30**|**FourierSampler: Unlocking Non-Autoregressive Potential in Diffusion Language Models via Frequency-Guided Generation**|Siyang He et.al.|[2601.23182](http://arxiv.org/abs/2601.23182)|null|
 |**2026-01-29**|**UEval: A Benchmark for Unified Multimodal Generation**|Bo Li et.al.|[2601.22155](http://arxiv.org/abs/2601.22155)|null|
 |**2026-01-29**|**Do VLMs Perceive or Recall? Probing Visual Perception vs. Memory with Classic Visual Illusions**|Xiaoxiao Sun et.al.|[2601.22150](http://arxiv.org/abs/2601.22150)|null|
 |**2026-01-29**|**DynaWeb: Model-Based Reinforcement Learning of Web Agents**|Hang Ding et.al.|[2601.22149](http://arxiv.org/abs/2601.22149)|null|
@@ -3220,6 +3260,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-30**|**IRL-DAL: Safe and Adaptive Trajectory Planning for Autonomous Driving via Energy-Guided Diffusion Models**|Seyed Ahmad Hosseini Miangoleh et.al.|[2601.23266](http://arxiv.org/abs/2601.23266)|null|
+|**2026-01-30**|**Particle-Guided Diffusion Models for Partial Differential Equations**|Andrew Millard et.al.|[2601.23262](http://arxiv.org/abs/2601.23262)|null|
+|**2026-01-30**|**How well do generative models solve inverse problems? A benchmark study**|Patrick Krüger et.al.|[2601.23238](http://arxiv.org/abs/2601.23238)|null|
+|**2026-01-30**|**Agile Reinforcement Learning through Separable Neural Architecture**|Rajib Mostakim et.al.|[2601.23225](http://arxiv.org/abs/2601.23225)|null|
+|**2026-01-30**|**Video-o3: Native Interleaved Clue Seeking for Long Video Multi-Hop Reasoning**|Xiangyu Zeng et.al.|[2601.23224](http://arxiv.org/abs/2601.23224)|null|
+|**2026-01-30**|**Med-Scout: Curing MLLMs' Geometric Blindness in Medical Perception via Geometry-Aware RL Post-Training**|Anglin Liu et.al.|[2601.23220](http://arxiv.org/abs/2601.23220)|null|
+|**2026-01-30**|**Unsupervised Hierarchical Skill Discovery**|Damion Harvey et.al.|[2601.23156](http://arxiv.org/abs/2601.23156)|null|
+|**2026-01-30**|**On Safer Reinforcement Learning Policies for Sedation and Analgesia in Intensive Care**|Joel Romero-Hernandez et.al.|[2601.23154](http://arxiv.org/abs/2601.23154)|null|
+|**2026-01-30**|**THINKSAFE: Self-Generated Safety Alignment for Reasoning Models**|Seanie Lee et.al.|[2601.23143](http://arxiv.org/abs/2601.23143)|null|
+|**2026-01-30**|**Why GRPO Needs Normalization: A Local-Curvature Perspective on Adaptive Gradients**|Cheng Ge et.al.|[2601.23135](http://arxiv.org/abs/2601.23135)|null|
+|**2026-01-30**|**TopoLS: Lattice Surgery Compilation via Topological Program Transformations**|Junyu Zhou et.al.|[2601.23109](http://arxiv.org/abs/2601.23109)|null|
+|**2026-01-30**|**Temporally Coherent Imitation Learning via Latent Action Flow Matching for Robotic Manipulation**|Wu Songwei et.al.|[2601.23087](http://arxiv.org/abs/2601.23087)|null|
+|**2026-01-30**|**RN-D: Discretized Categorical Actors with Regularized Networks for On-Policy Reinforcement Learning**|Yuexin Bian et.al.|[2601.23075](http://arxiv.org/abs/2601.23075)|null|
+|**2026-01-30**|**From Absolute to Relative: Rethinking Reward Shaping in Group-Based Reinforcement Learning**|Wenzhe Niu et.al.|[2601.23058](http://arxiv.org/abs/2601.23058)|null|
+|**2026-01-30**|**Theory of Little-Parks oscillations by vortices in two-dimensional superconductors**|Ying-Ming Xie et.al.|[2601.23050](http://arxiv.org/abs/2601.23050)|null|
+|**2026-01-30**|**Guided by Trajectories: Repairing and Rewarding Tool-Use Trajectories for Tool-Integrated Reasoning**|Siyu Gong et.al.|[2601.23032](http://arxiv.org/abs/2601.23032)|null|
+|**2026-01-30**|**Mem-T: Densifying Rewards for Long-Horizon Memory Agents**|Yanwei Yue et.al.|[2601.23014](http://arxiv.org/abs/2601.23014)|null|
+|**2026-01-30**|**Automatic Constraint Policy Optimization based on Continuous Constraint Interpolation Framework for Offline Reinforcement Learning**|Xinchen Han et.al.|[2601.23010](http://arxiv.org/abs/2601.23010)|null|
+|**2026-01-30**|**Unlocking the Power of Orbital-Free Density Functional Theory to Explore the Electronic Structure Under Extreme Conditions**|Cheng Ma et.al.|[2601.23002](http://arxiv.org/abs/2601.23002)|null|
+|**2026-01-30**|**Computationally efficient segmentation for non-stationary time series with oscillatory patterns**|Nicolas Bianco et.al.|[2601.22999](http://arxiv.org/abs/2601.22999)|null|
 |**2026-01-29**|**Exploring Reasoning Reward Model for Agents**|Kaixuan Fan et.al.|[2601.22154](http://arxiv.org/abs/2601.22154)|null|
 |**2026-01-29**|**DynaWeb: Model-Based Reinforcement Learning of Web Agents**|Hang Ding et.al.|[2601.22149](http://arxiv.org/abs/2601.22149)|null|
 |**2026-01-29**|**Alpha Discovery via Grammar-Guided Learning and Search**|Han Yang et.al.|[2601.22119](http://arxiv.org/abs/2601.22119)|null|
