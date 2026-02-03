@@ -21,6 +21,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-02**|**RE-TRAC: REcursive TRAjectory Compression for Deep Search Agents**|Jialiang Zhu et.al.|[2602.02486](http://arxiv.org/abs/2602.02486)|null|
+|**2026-02-02**|**AgentRx: Diagnosing AI Agent Failures from Execution Trajectories**|Shraddha Barke et.al.|[2602.02475](http://arxiv.org/abs/2602.02475)|null|
+|**2026-02-02**|**MemSkill: Learning and Evolving Memory Skills for Self-Evolving Agents**|Haozhen Zhang et.al.|[2602.02474](http://arxiv.org/abs/2602.02474)|null|
+|**2026-02-02**|**Avenir-Web: Human-Experience-Imitating Multimodal Web Agents with Mixture of Grounding Experts**|Aiden Yiliu Li et.al.|[2602.02468](http://arxiv.org/abs/2602.02468)|null|
+|**2026-02-02**|**Relationship-Aware Hierarchical 3D Scene Graph for Task Reasoning**|Albert Gassol Puigjaner et.al.|[2602.02456](http://arxiv.org/abs/2602.02456)|null|
+|**2026-02-02**|**Drift-Bench: Diagnosing Cooperative Breakdowns in LLM Agents under Input Faults via Multi-Turn Interaction**|Han Bao et.al.|[2602.02455](http://arxiv.org/abs/2602.02455)|null|
+|**2026-02-02**|**Multi-Agent Monte Carlo Tree Search for Makespan-Efficient Object Rearrangement in Cluttered Spaces**|Hanwen Ren et.al.|[2602.02411](http://arxiv.org/abs/2602.02411)|null|
+|**2026-02-02**|**David vs. Goliath: Verifiable Agent-to-Agent Jailbreaking via Reinforcement Learning**|Samuel Nellessen et.al.|[2602.02395](http://arxiv.org/abs/2602.02395)|null|
+|**2026-02-02**|**Live-Evo: Online Evolution of Agentic Memory from Continuous Feedback**|Yaolun Zhang et.al.|[2602.02369](http://arxiv.org/abs/2602.02369)|null|
+|**2026-02-02**|**SWE-Universe: Scale Real-World Verifiable Environments to Millions**|Mouxiang Chen et.al.|[2602.02361](http://arxiv.org/abs/2602.02361)|null|
+|**2026-02-02**|**A Task-Level Evaluation of AI Agents in Open-Source Projects**|Shojibur Rahman et.al.|[2602.02345](http://arxiv.org/abs/2602.02345)|null|
+|**2026-02-02**|**Statistical Learning Theory in Lean 4: Empirical Processes from Scratch**|Yuanhe Zhang et.al.|[2602.02285](http://arxiv.org/abs/2602.02285)|null|
+|**2026-02-02**|**OmniCode: A Benchmark for Evaluating Software Engineering Agents**|Atharv Sonwane et.al.|[2602.02262](http://arxiv.org/abs/2602.02262)|null|
+|**2026-02-02**|**Online Fine-Tuning of Pretrained Controllers for Autonomous Driving via Real-Time Recurrent RL**|Julian Lemmel et.al.|[2602.02236](http://arxiv.org/abs/2602.02236)|null|
+|**2026-02-02**|**Fat-Cat: Document-Driven Metacognitive Multi-Agent System for Complex Reasoning**|Tong Yang et.al.|[2602.02206](http://arxiv.org/abs/2602.02206)|null|
+|**2026-02-02**|**TIDE: Trajectory-based Diagnostic Evaluation of Test-Time Improvement in LLM Agents**|Hang Yan et.al.|[2602.02196](http://arxiv.org/abs/2602.02196)|null|
+|**2026-02-02**|**Co-RedTeam: Orchestrated Security Discovery and Exploitation with LLM Agents**|Pengfei He et.al.|[2602.02164](http://arxiv.org/abs/2602.02164)|null|
+|**2026-02-02**|**D-CORE: Incentivizing Task Decomposition in Large Reasoning Models for Complex Tool Use**|Bowen Xu et.al.|[2602.02160](http://arxiv.org/abs/2602.02160)|null|
+|**2026-02-02**|**SIDiffAgent: Self-Improving Diffusion Agent**|Shivank Garg et.al.|[2602.02051](http://arxiv.org/abs/2602.02051)|null|
+|**2026-02-02**|**Rethinking the Role of Entropy in Optimizing Tool-Use Behaviors for Large Language Model Agents**|Zeping Li et.al.|[2602.02050](http://arxiv.org/abs/2602.02050)|null|
 |**2026-01-30**|**PaperBanana: Automating Academic Illustration for AI Scientists**|Dawei Zhu et.al.|[2601.23265](http://arxiv.org/abs/2601.23265)|null|
 |**2026-01-30**|**Eigenweights for arithmetic Hirzebruch Proportionality**|Tony Feng et.al.|[2601.23245](http://arxiv.org/abs/2601.23245)|null|
 |**2026-01-30**|**Multi-Agent Systems Should be Treated as Principal-Agent Problems**|Paulius Rauba et.al.|[2601.23211](http://arxiv.org/abs/2601.23211)|null|
@@ -1835,6 +1855,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-02**|**Reward-free Alignment for Conflicting Objectives**|Peter Chen et.al.|[2602.02495](http://arxiv.org/abs/2602.02495)|null|
+|**2026-02-02**|**MEG-XL: Data-Efficient Brain-to-Text via Long-Context Pre-Training**|Dulhan Jayalath et.al.|[2602.02494](http://arxiv.org/abs/2602.02494)|null|
+|**2026-02-02**|**Training LLMs for Divide-and-Conquer Reasoning Elevates Test-Time Scalability**|Xiao Liang et.al.|[2602.02477](http://arxiv.org/abs/2602.02477)|null|
+|**2026-02-02**|**MemSkill: Learning and Evolving Memory Skills for Self-Evolving Agents**|Haozhen Zhang et.al.|[2602.02474](http://arxiv.org/abs/2602.02474)|null|
+|**2026-02-02**|**SPARKLING: Balancing Signal Preservation and Symmetry Breaking for Width-Progressive Learning**|Qifan Yu et.al.|[2602.02472](http://arxiv.org/abs/2602.02472)|null|
+|**2026-02-02**|**Breaking the Reversal Curse in Autoregressive Language Models via Identity Bridge**|Xutao Ma et.al.|[2602.02470](http://arxiv.org/abs/2602.02470)|null|
+|**2026-02-02**|**Avenir-Web: Human-Experience-Imitating Multimodal Web Agents with Mixture of Grounding Experts**|Aiden Yiliu Li et.al.|[2602.02468](http://arxiv.org/abs/2602.02468)|null|
+|**2026-02-02**|**Indications of Belief-Guided Agency and Meta-Cognitive Monitoring in Large Language Models**|Noam Steinmetz Yalon et.al.|[2602.02467](http://arxiv.org/abs/2602.02467)|null|
+|**2026-02-02**|**MentisOculi: Revealing the Limits of Reasoning with Mental Imagery**|Jana Zeller et.al.|[2602.02465](http://arxiv.org/abs/2602.02465)|null|
+|**2026-02-02**|**From Directions to Regions: Decomposing Activations in Language Models via Local Geometry**|Or Shafran et.al.|[2602.02464](http://arxiv.org/abs/2602.02464)|null|
+|**2026-02-02**|**Abstract Activation Spaces for Content-Invariant Reasoning in Large Language Models**|Gabriele Maraia et.al.|[2602.02462](http://arxiv.org/abs/2602.02462)|null|
+|**2026-02-02**|**MetaCLASS: Metacognitive Coaching for Learning with Adaptive Self-regulation Support**|Naiming Liu et.al.|[2602.02457](http://arxiv.org/abs/2602.02457)|null|
+|**2026-02-02**|**Relationship-Aware Hierarchical 3D Scene Graph for Task Reasoning**|Albert Gassol Puigjaner et.al.|[2602.02456](http://arxiv.org/abs/2602.02456)|null|
+|**2026-02-02**|**Drift-Bench: Diagnosing Cooperative Breakdowns in LLM Agents under Input Faults via Multi-Turn Interaction**|Han Bao et.al.|[2602.02455](http://arxiv.org/abs/2602.02455)|null|
+|**2026-02-02**|**World-Gymnast: Training Robots with Reinforcement Learning in a World Model**|Ansh Kumar Sharma et.al.|[2602.02454](http://arxiv.org/abs/2602.02454)|null|
+|**2026-02-02**|**Thinking with Comics: Enhancing Multimodal Reasoning through Structured Visual Storytelling**|Andong Chen et.al.|[2602.02453](http://arxiv.org/abs/2602.02453)|null|
+|**2026-02-02**|**Lower bounds for multivariate independence polynomials and their generalisations**|Joonkyung Lee et.al.|[2602.02450](http://arxiv.org/abs/2602.02450)|null|
+|**2026-02-02**|**Large Language Models for Mental Health: A Multilingual Evaluation**|Nishat Raihan et.al.|[2602.02440](http://arxiv.org/abs/2602.02440)|null|
+|**2026-02-02**|**Embedding Perturbation may Better Reflect the Uncertainty in LLM Reasoning**|Qihao Wen et.al.|[2602.02427](http://arxiv.org/abs/2602.02427)|null|
+|**2026-02-02**|**Repurposing Protein Language Models for Latent Flow-Based Fitness Optimization**|Amaru Caceres Arroyo et.al.|[2602.02425](http://arxiv.org/abs/2602.02425)|null|
 |**2026-01-30**|**User Prompting Strategies and Prompt Enhancement Methods for Open-Set Object Detection in XR Environments**|Junfeng Lin et.al.|[2601.23281](http://arxiv.org/abs/2601.23281)|null|
 |**2026-01-30**|**FOCUS: DLLMs Know How to Tame Their Compute Bound**|Kaihua Liang et.al.|[2601.23278](http://arxiv.org/abs/2601.23278)|null|
 |**2026-01-30**|**UPA: Unsupervised Prompt Agent via Tree-Based Search and Selection**|Siran Peng et.al.|[2601.23273](http://arxiv.org/abs/2601.23273)|null|
@@ -3269,6 +3309,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-02**|**Reward-free Alignment for Conflicting Objectives**|Peter Chen et.al.|[2602.02495](http://arxiv.org/abs/2602.02495)|null|
+|**2026-02-02**|**RLAnything: Forge Environment, Policy, and Reward Model in Completely Dynamic RL System**|Yinjie Wang et.al.|[2602.02488](http://arxiv.org/abs/2602.02488)|null|
+|**2026-02-02**|**Expanding the Capabilities of Reinforcement Learning via Text Feedback**|Yuda Song et.al.|[2602.02482](http://arxiv.org/abs/2602.02482)|null|
+|**2026-02-02**|**Flow Policy Gradients for Robot Control**|Brent Yi et.al.|[2602.02481](http://arxiv.org/abs/2602.02481)|null|
+|**2026-02-02**|**Training LLMs for Divide-and-Conquer Reasoning Elevates Test-Time Scalability**|Xiao Liang et.al.|[2602.02477](http://arxiv.org/abs/2602.02477)|null|
+|**2026-02-02**|**HumanX: Toward Agile and Generalizable Humanoid Interaction Skills from Human Videos**|Yinhuai Wang et.al.|[2602.02473](http://arxiv.org/abs/2602.02473)|null|
+|**2026-02-02**|**TIC-VLA: A Think-in-Control Vision-Language-Action Model for Robot Navigation in Dynamic Environments**|Zhiyu Huang et.al.|[2602.02459](http://arxiv.org/abs/2602.02459)|null|
+|**2026-02-02**|**Conflict-Aware Client Selection for Multi-Server Federated Learning**|Mingwei Hong et.al.|[2602.02458](http://arxiv.org/abs/2602.02458)|null|
+|**2026-02-02**|**World-Gymnast: Training Robots with Reinforcement Learning in a World Model**|Ansh Kumar Sharma et.al.|[2602.02454](http://arxiv.org/abs/2602.02454)|null|
+|**2026-02-02**|**Multi-Agent Monte Carlo Tree Search for Makespan-Efficient Object Rearrangement in Cluttered Spaces**|Hanwen Ren et.al.|[2602.02411](http://arxiv.org/abs/2602.02411)|null|
+|**2026-02-02**|**Didactic to Constructive: Turning Expert Solutions into Learnable Reasoning**|Ethan Mendes et.al.|[2602.02405](http://arxiv.org/abs/2602.02405)|null|
+|**2026-02-02**|**PRISM: Performer RS-IMLE for Single-pass Multisensory Imitation Learning**|Amisha Bhaskar et.al.|[2602.02396](http://arxiv.org/abs/2602.02396)|null|
+|**2026-02-02**|**David vs. Goliath: Verifiable Agent-to-Agent Jailbreaking via Reinforcement Learning**|Samuel Nellessen et.al.|[2602.02395](http://arxiv.org/abs/2602.02395)|null|
+|**2026-02-02**|**SLIME: Stabilized Likelihood Implicit Margin Enforcement for Preference Optimization**|Maksim Afanasyev et.al.|[2602.02383](http://arxiv.org/abs/2602.02383)|null|
+|**2026-02-02**|**Unified Personalized Reward Model for Vision Generation**|Yibin Wang et.al.|[2602.02380](http://arxiv.org/abs/2602.02380)|null|
+|**2026-02-02**|**Proof-RM: A Scalable and Generalizable Reward Model for Math Proof**|Haotong Yang et.al.|[2602.02377](http://arxiv.org/abs/2602.02377)|null|
+|**2026-02-02**|**SWE-Universe: Scale Real-World Verifiable Environments to Millions**|Mouxiang Chen et.al.|[2602.02361](http://arxiv.org/abs/2602.02361)|null|
+|**2026-02-02**|**Surface Interactions in Photon Monte Carlo Simulations**|J. R. Peterson et.al.|[2602.02321](http://arxiv.org/abs/2602.02321)|null|
+|**2026-02-02**|**Interpreting and Controlling LLM Reasoning through Integrated Policy Gradient**|Changming Li et.al.|[2602.02313](http://arxiv.org/abs/2602.02313)|null|
+|**2026-02-02**|**Position: Explaining Behavioral Shifts in Large Language Models Requires a Comparative Approach**|Martino Ciaperoni et.al.|[2602.02304](http://arxiv.org/abs/2602.02304)|null|
 |**2026-01-30**|**IRL-DAL: Safe and Adaptive Trajectory Planning for Autonomous Driving via Energy-Guided Diffusion Models**|Seyed Ahmad Hosseini Miangoleh et.al.|[2601.23266](http://arxiv.org/abs/2601.23266)|null|
 |**2026-01-30**|**Particle-Guided Diffusion Models for Partial Differential Equations**|Andrew Millard et.al.|[2601.23262](http://arxiv.org/abs/2601.23262)|null|
 |**2026-01-30**|**How well do generative models solve inverse problems? A benchmark study**|Patrick Krüger et.al.|[2601.23238](http://arxiv.org/abs/2601.23238)|null|
