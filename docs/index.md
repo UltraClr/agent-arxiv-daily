@@ -16,6 +16,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-03**|**AutoFigure: Generating and Refining Publication-Ready Scientific Illustrations**|Minjun Zhu et.al.|[2602.03828](http://arxiv.org/abs/2602.03828)|null|
+|**2026-02-03**|**FullStack-Agent: Enhancing Agentic Full-Stack Web Coding via Development-Oriented Testing and Repository Back-Translation**|Zimu Lu et.al.|[2602.03798](http://arxiv.org/abs/2602.03798)|null|
+|**2026-02-03**|**WebSentinel: Detecting and Localizing Prompt Injection Attacks for Web Agents**|Xilong Wang et.al.|[2602.03792](http://arxiv.org/abs/2602.03792)|null|
+|**2026-02-03**|**Efficient Estimation of Kernel Surrogate Models for Task Attribution**|Zhenshuo Zhang et.al.|[2602.03783](http://arxiv.org/abs/2602.03783)|null|
+|**2026-02-03**|**An Empirical Study of Collective Behaviors and Social Dynamics in Large Language Model Agents**|Farnoosh Hashemi et.al.|[2602.03775](http://arxiv.org/abs/2602.03775)|null|
+|**2026-02-03**|**Training Multi-Turn Search Agent via Contrastive Dynamic Branch Sampling**|Yubao Zhao et.al.|[2602.03719](http://arxiv.org/abs/2602.03719)|null|
+|**2026-02-03**|**OmniRAG-Agent: Agentic Omnimodal Reasoning for Low-Resource Long Audio-Video Question Answering**|Yifan Zhu et.al.|[2602.03707](http://arxiv.org/abs/2602.03707)|null|
+|**2026-02-03**|**Cognitively Diverse Multiple-Choice Question Generation: A Hybrid Multi-Agent Framework with Large Language Models**|Yu Tian et.al.|[2602.03704](http://arxiv.org/abs/2602.03704)|null|
+|**2026-02-03**|**BIRDTurk: Adaptation of the BIRD Text-to-SQL Dataset to Turkish**|Burak Aktaş et.al.|[2602.03633](http://arxiv.org/abs/2602.03633)|null|
+|**2026-02-03**|**Can LLMs Do Rocket Science? Exploring the Limits of Complex Reasoning with GTOC 12**|Iñaki del Campo et.al.|[2602.03630](http://arxiv.org/abs/2602.03630)|null|
+|**2026-02-03**|**Beyond the Commit: Developer Perspectives on Productivity with AI Coding Assistants**|Valerie Chen et.al.|[2602.03593](http://arxiv.org/abs/2602.03593)|null|
+|**2026-02-03**|**Don't believe everything you read: Understanding and Measuring MCP Behavior under Misleading Tool Descriptions**|Zhihao Li et.al.|[2602.03580](http://arxiv.org/abs/2602.03580)|null|
+|**2026-02-03**|**Game-Theoretic and Algorithmic Analyses of Multi-Agent Routing under Crossing Costs**|Tesshu Hanaka et.al.|[2602.03455](http://arxiv.org/abs/2602.03455)|null|
+|**2026-02-03**|**CRL-VLA: Continual Vision-Language-Action Learning**|Qixin Zeng et.al.|[2602.03445](http://arxiv.org/abs/2602.03445)|null|
+|**2026-02-03**|**A-RAG: Scaling Agentic Retrieval-Augmented Generation via Hierarchical Retrieval Interfaces**|Mingxuan Du et.al.|[2602.03442](http://arxiv.org/abs/2602.03442)|null|
+|**2026-02-03**|**Ontology-to-tools compilation for executable semantic constraint enforcement in LLM agents**|Xiaochi Zhou et.al.|[2602.03439](http://arxiv.org/abs/2602.03439)|null|
+|**2026-02-03**|**Failure is Feedback: History-Aware Backtracking for Agentic Traversal in Multimodal Graphs**|Joohyung Yun et.al.|[2602.03432](http://arxiv.org/abs/2602.03432)|null|
+|**2026-02-03**|**Verified Critical Step Optimization for LLM Agents**|Mukai Li et.al.|[2602.03412](http://arxiv.org/abs/2602.03412)|null|
+|**2026-02-03**|**MedSAM-Agent: Empowering Interactive Medical Image Segmentation with Multi-turn Agentic Reinforcement Learning**|Shengyuan Liu et.al.|[2602.03320](http://arxiv.org/abs/2602.03320)|null|
+|**2026-02-03**|**MIRROR: A Multi-Agent Framework with Iterative Adaptive Revision and Hierarchical Retrieval for Optimization Modeling in Operations Research**|Yifan Shi et.al.|[2602.03318](http://arxiv.org/abs/2602.03318)|null|
 |**2026-02-02**|**RE-TRAC: REcursive TRAjectory Compression for Deep Search Agents**|Jialiang Zhu et.al.|[2602.02486](http://arxiv.org/abs/2602.02486)|null|
 |**2026-02-02**|**AgentRx: Diagnosing AI Agent Failures from Execution Trajectories**|Shraddha Barke et.al.|[2602.02475](http://arxiv.org/abs/2602.02475)|null|
 |**2026-02-02**|**MemSkill: Learning and Evolving Memory Skills for Self-Evolving Agents**|Haozhen Zhang et.al.|[2602.02474](http://arxiv.org/abs/2602.02474)|null|
@@ -1848,6 +1868,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-03**|**Understanding and Exploiting Weight Update Sparsity for Communication-Efficient Distributed RL**|Erfan Miahi et.al.|[2602.03839](http://arxiv.org/abs/2602.03839)|null|
+|**2026-02-03**|**Accelerating Scientific Research with Gemini: Case Studies and Common Techniques**|David P. Woodruff et.al.|[2602.03837](http://arxiv.org/abs/2602.03837)|null|
+|**2026-02-03**|**They Said Memes Were Harmless-We Found the Ones That Hurt: Decoding Jokes, Symbols, and Cultural References**|Sahil Tripathi et.al.|[2602.03822](http://arxiv.org/abs/2602.03822)|null|
+|**2026-02-03**|**Fast-Slow Efficient Training for Multimodal Large Language Models via Visual Token Pruning**|Dingkun Zhang et.al.|[2602.03815](http://arxiv.org/abs/2602.03815)|null|
+|**2026-02-03**|**Conformal Thinking: Risk Control for Reasoning on a Compute Budget**|Xi Wang et.al.|[2602.03814](http://arxiv.org/abs/2602.03814)|null|
+|**2026-02-03**|**Antidistillation Fingerprinting**|Yixuan Even Xu et.al.|[2602.03812](http://arxiv.org/abs/2602.03812)|null|
+|**2026-02-03**|**Bridging Online and Offline RL: Contextual Bandit Learning for Multi-Turn Code Generation**|Ziru Chen et.al.|[2602.03806](http://arxiv.org/abs/2602.03806)|null|
+|**2026-02-03**|**Context Compression via Explicit Information Transmission**|Jiangnan Ye et.al.|[2602.03784](http://arxiv.org/abs/2602.03784)|null|
+|**2026-02-03**|**Efficient Estimation of Kernel Surrogate Models for Task Attribution**|Zhenshuo Zhang et.al.|[2602.03783](http://arxiv.org/abs/2602.03783)|null|
+|**2026-02-03**|**QVLA: Not All Channels Are Equal in Vision-Language-Action Model's Quantization**|Yuhao Xu et.al.|[2602.03782](http://arxiv.org/abs/2602.03782)|null|
+|**2026-02-03**|**A Scene Graph Backed Approach to Open Set Semantic Mapping**|Martin Günther et.al.|[2602.03781](http://arxiv.org/abs/2602.03781)|null|
+|**2026-02-03**|**An Empirical Study of Collective Behaviors and Social Dynamics in Large Language Model Agents**|Farnoosh Hashemi et.al.|[2602.03775](http://arxiv.org/abs/2602.03775)|null|
+|**2026-02-03**|**Reasoning Cache: Continual Improvement Over Long Horizons via Short-Horizon RL**|Ian Wu et.al.|[2602.03773](http://arxiv.org/abs/2602.03773)|null|
+|**2026-02-03**|**UniGeM: Unifying Data Mixing and Selection via Geometric Exploration and Mining**|Changhao Wang et.al.|[2602.03772](http://arxiv.org/abs/2602.03772)|null|
+|**2026-02-03**|**Reasoning with Latent Tokens in Diffusion Language Models**|Andre He et.al.|[2602.03769](http://arxiv.org/abs/2602.03769)|null|
+|**2026-02-03**|**Zero-shot large vision-language model prompting for automated bone identification in paleoradiology x-ray archives**|Owen Dong et.al.|[2602.03750](http://arxiv.org/abs/2602.03750)|null|
+|**2026-02-03**|**Edge-Optimized Vision-Language Models for Underground Infrastructure Assessment**|Johny J. Lopez et.al.|[2602.03742](http://arxiv.org/abs/2602.03742)|null|
+|**2026-02-03**|**RegionReasoner: Region-Grounded Multi-Round Visual Reasoning**|Wenfang Sun et.al.|[2602.03733](http://arxiv.org/abs/2602.03733)|null|
+|**2026-02-03**|**Training Multi-Turn Search Agent via Contrastive Dynamic Branch Sampling**|Yubao Zhao et.al.|[2602.03719](http://arxiv.org/abs/2602.03719)|null|
+|**2026-02-03**|**SWE-Refactor: A Repository-Level Benchmark for Real-World LLM-Based Code Refactoring**|Yisen Xu et.al.|[2602.03712](http://arxiv.org/abs/2602.03712)|null|
 |**2026-02-02**|**Reward-free Alignment for Conflicting Objectives**|Peter Chen et.al.|[2602.02495](http://arxiv.org/abs/2602.02495)|null|
 |**2026-02-02**|**MEG-XL: Data-Efficient Brain-to-Text via Long-Context Pre-Training**|Dulhan Jayalath et.al.|[2602.02494](http://arxiv.org/abs/2602.02494)|null|
 |**2026-02-02**|**Training LLMs for Divide-and-Conquer Reasoning Elevates Test-Time Scalability**|Xiao Liang et.al.|[2602.02477](http://arxiv.org/abs/2602.02477)|null|
@@ -3300,6 +3340,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-03**|**Understanding and Exploiting Weight Update Sparsity for Communication-Efficient Distributed RL**|Erfan Miahi et.al.|[2602.03839](http://arxiv.org/abs/2602.03839)|null|
+|**2026-02-03**|**SymPlex: A Structure-Aware Transformer for Symbolic PDE Solving**|Yesom Park et.al.|[2602.03816](http://arxiv.org/abs/2602.03816)|null|
+|**2026-02-03**|**Vacancy defects in square-triangle tilings and their implications for quasicrystals formed by square-shoulder particles**|Alptuğ Ulugöl et.al.|[2602.03813](http://arxiv.org/abs/2602.03813)|null|
+|**2026-02-03**|**Bridging Online and Offline RL: Contextual Bandit Learning for Multi-Turn Code Generation**|Ziru Chen et.al.|[2602.03806](http://arxiv.org/abs/2602.03806)|null|
+|**2026-02-03**|**Digital-Twin Empowered Deep Reinforcement Learning For Site-Specific Radio Resource Management in NextG Wireless Aerial Corridor**|Pulok Tarafder et.al.|[2602.03801](http://arxiv.org/abs/2602.03801)|null|
+|**2026-02-03**|**Efficient Estimation of Kernel Surrogate Models for Task Attribution**|Zhenshuo Zhang et.al.|[2602.03783](http://arxiv.org/abs/2602.03783)|null|
+|**2026-02-03**|**Reward Redistribution for CVaR MDPs using a Bellman Operator on L-infinity**|Aneri Muni et.al.|[2602.03778](http://arxiv.org/abs/2602.03778)|null|
+|**2026-02-03**|**Reasoning Cache: Continual Improvement Over Long Horizons via Short-Horizon RL**|Ian Wu et.al.|[2602.03773](http://arxiv.org/abs/2602.03773)|null|
+|**2026-02-03**|**RegionReasoner: Region-Grounded Multi-Round Visual Reasoning**|Wenfang Sun et.al.|[2602.03733](http://arxiv.org/abs/2602.03733)|null|
+|**2026-02-03**|**Efficient Variance-reduced Estimation from Generative EHR Models: The SCOPE and REACH Estimators**|Luke Solo et.al.|[2602.03730](http://arxiv.org/abs/2602.03730)|null|
+|**2026-02-03**|**Quantum Speedups for Derivative Pricing Beyond Black-Scholes**|Dylan Herman et.al.|[2602.03725](http://arxiv.org/abs/2602.03725)|null|
+|**2026-02-03**|**Training Multi-Turn Search Agent via Contrastive Dynamic Branch Sampling**|Yubao Zhao et.al.|[2602.03719](http://arxiv.org/abs/2602.03719)|null|
+|**2026-02-03**|**Rethinking the Reranker: Boundary-Aware Evidence Selection for Robust Retrieval-Augmented Generation**|Jiashuo Sun et.al.|[2602.03689](http://arxiv.org/abs/2602.03689)|null|
+|**2026-02-03**|**TodyComm: Task-Oriented Dynamic Communication for Multi-Round LLM-based Multi-Agent System**|Wenzhe Fan et.al.|[2602.03688](http://arxiv.org/abs/2602.03688)|null|
+|**2026-02-03**|**Resolving Quantum Criticality in the Honeycomb Hubbard Model**|Fo-Hong Wang et.al.|[2602.03656](http://arxiv.org/abs/2602.03656)|null|
+|**2026-02-03**|**Search-R2: Enhancing Search-Integrated Reasoning via Actor-Refiner Collaboration**|Bowei He et.al.|[2602.03647](http://arxiv.org/abs/2602.03647)|null|
+|**2026-02-03**|**Reinforcement Fine-Tuning for History-Aware Dense Retriever in RAG**|Yicheng Zhang et.al.|[2602.03645](http://arxiv.org/abs/2602.03645)|null|
+|**2026-02-03**|**TRE: Encouraging Exploration in the Trust Region**|Chao Huang et.al.|[2602.03635](http://arxiv.org/abs/2602.03635)|null|
+|**2026-02-03**|**A Method for Thermal Radiation Transport Using Backward Characteristic Tracing**|J. C. Dolence et.al.|[2602.03621](http://arxiv.org/abs/2602.03621)|null|
+|**2026-02-03**|**Learning Query-Specific Rubrics from Human Preferences for DeepResearch Report Generation**|Changze Lv et.al.|[2602.03619](http://arxiv.org/abs/2602.03619)|null|
 |**2026-02-02**|**Reward-free Alignment for Conflicting Objectives**|Peter Chen et.al.|[2602.02495](http://arxiv.org/abs/2602.02495)|null|
 |**2026-02-02**|**RLAnything: Forge Environment, Policy, and Reward Model in Completely Dynamic RL System**|Yinjie Wang et.al.|[2602.02488](http://arxiv.org/abs/2602.02488)|null|
 |**2026-02-02**|**Expanding the Capabilities of Reinforcement Learning via Text Feedback**|Yuda Song et.al.|[2602.02482](http://arxiv.org/abs/2602.02482)|null|
