@@ -16,6 +16,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-04**|**Group-Evolving Agents: Open-Ended Self-Improvement via Experience Sharing**|Zhaotian Weng et.al.|[2602.04837](http://arxiv.org/abs/2602.04837)|null|
+|**2026-02-04**|**Active Asymmetric Multi-Agent Multimodal Learning under Uncertainty**|Rui Liu et.al.|[2602.04763](http://arxiv.org/abs/2602.04763)|null|
+|**2026-02-04**|**SAR-RAG: ATR Visual Question Answering by Semantic Search, Retrieval, and MLLM Generation**|David F. Ramirez et.al.|[2602.04712](http://arxiv.org/abs/2602.04712)|null|
+|**2026-02-04**|**WideSeek-R1: Exploring Width Scaling for Broad Information Seeking via Multi-Agent Reinforcement Learning**|Zelai Xu et.al.|[2602.04634](http://arxiv.org/abs/2602.04634)|null|
+|**2026-02-04**|**VILLAIN at AVerImaTeC: Verifying Image-Text Claims via Multi-Agent Collaboration**|Jaeyoon Jung et.al.|[2602.04587](http://arxiv.org/abs/2602.04587)|null|
+|**2026-02-04**|**Vibe AIGC: A New Paradigm for Content Generation via Agentic Orchestration**|Jiaheng Liu et.al.|[2602.04575](http://arxiv.org/abs/2602.04575)|null|
+|**2026-02-04**|**OSCAgent: Accelerating the Discovery of Organic Solar Cells with LLM Agents**|Zhaolin Hu et.al.|[2602.04510](http://arxiv.org/abs/2602.04510)|null|
+|**2026-02-04**|**ReThinker: Scientific Reasoning by Rethinking with Guided Reflection and Confidence Control**|Zhentao Tang et.al.|[2602.04496](http://arxiv.org/abs/2602.04496)|null|
+|**2026-02-04**|**EMA Policy Gradient: Taming Reinforcement Learning for LLMs with EMA Anchor and Top-k KL**|Lunjun Zhang et.al.|[2602.04417](http://arxiv.org/abs/2602.04417)|null|
+|**2026-02-04**|**From Assumptions to Actions: Turning LLM Reasoning into Uncertainty-Aware Planning for Embodied Agents**|SeungWon Seo et.al.|[2602.04326](http://arxiv.org/abs/2602.04326)|null|
+|**2026-02-04**|**Agent-Omit: Training Efficient LLM Agents for Adaptive Thought and Observation Omission via Agentic Reinforcement Learning**|Yansong Ning et.al.|[2602.04284](http://arxiv.org/abs/2602.04284)|null|
+|**2026-02-04**|**Data Agents: Levels, State of the Art, and Open Problems**|Yuyu Luo et.al.|[2602.04261](http://arxiv.org/abs/2602.04261)|null|
+|**2026-02-04**|**Why Agentic-PRs Get Rejected: A Comparative Study of Coding Agents**|Sota Nakashima et.al.|[2602.04226](http://arxiv.org/abs/2602.04226)|null|
+|**2026-02-04**|**InterPReT: Interactive Policy Restructuring and Training Enable Effective Imitation Learning from Laypersons**|Feiyu Gavin Zhu et.al.|[2602.04213](http://arxiv.org/abs/2602.04213)|null|
+|**2026-02-04**|**From Helpfulness to Toxic Proactivity: Diagnosing Behavioral Misalignment in LLM Agents**|Xinyue Wang et.al.|[2602.04197](http://arxiv.org/abs/2602.04197)|null|
+|**2026-02-04**|**A Modern System Recipe for Situated Embodied Human-Robot Conversation with Real-Time Multimodal LLMs and Tool-Calling**|Dong Won Lee et.al.|[2602.04157](http://arxiv.org/abs/2602.04157)|null|
+|**2026-02-04**|**OMG-Agent: Toward Robust Missing Modality Generation with Decoupled Coarse-to-Fine Agentic Workflows**|Ruiting Dai et.al.|[2602.04144](http://arxiv.org/abs/2602.04144)|null|
+|**2026-02-04**|**DELTA: Deliberative Multi-Agent Reasoning with Reinforcement Learning for Multimodal Psychological Counseling**|Jiangnan Yang et.al.|[2602.04112](http://arxiv.org/abs/2602.04112)|null|
+|**2026-02-03**|**Active Epistemic Control for Query-Efficient Verified Planning**|Shuhui Qu et.al.|[2602.03974](http://arxiv.org/abs/2602.03974)|null|
+|**2026-02-03**|**AgentArk: Distilling Multi-Agent Intelligence into a Single LLM Agent**|Yinyi Luo et.al.|[2602.03955](http://arxiv.org/abs/2602.03955)|null|
 |**2026-02-03**|**AutoFigure: Generating and Refining Publication-Ready Scientific Illustrations**|Minjun Zhu et.al.|[2602.03828](http://arxiv.org/abs/2602.03828)|null|
 |**2026-02-03**|**FullStack-Agent: Enhancing Agentic Full-Stack Web Coding via Development-Oriented Testing and Repository Back-Translation**|Zimu Lu et.al.|[2602.03798](http://arxiv.org/abs/2602.03798)|null|
 |**2026-02-03**|**WebSentinel: Detecting and Localizing Prompt Injection Attacks for Web Agents**|Xilong Wang et.al.|[2602.03792](http://arxiv.org/abs/2602.03792)|null|
@@ -1868,6 +1888,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-04**|**Reinforced Attention Learning**|Bangzheng Li et.al.|[2602.04884](http://arxiv.org/abs/2602.04884)|null|
+|**2026-02-04**|**Protein Autoregressive Modeling via Multiscale Structure Generation**|Yanru Qu et.al.|[2602.04883](http://arxiv.org/abs/2602.04883)|null|
+|**2026-02-04**|**Rethinking the Trust Region in LLM Reinforcement Learning**|Penghui Qi et.al.|[2602.04879](http://arxiv.org/abs/2602.04879)|null|
+|**2026-02-04**|**Multi-layer Cross-Attention is Provably Optimal for Multi-modal In-context Learning**|Nicholas Barnfield et.al.|[2602.04872](http://arxiv.org/abs/2602.04872)|null|
+|**2026-02-04**|**Multi-Head LatentMoE and Head Parallel: Communication-Efficient and Deterministic MoE Parallelism**|Chenwei Cui et.al.|[2602.04870](http://arxiv.org/abs/2602.04870)|null|
+|**2026-02-04**|**When LLaVA Meets Objects: Token Composition for Vision-Language-Models**|Soumya Jahagirdar et.al.|[2602.04864](http://arxiv.org/abs/2602.04864)|null|
+|**2026-02-04**|**Subliminal Effects in Your Data: A General Mechanism via Log-Linearity**|Ishaq Aden-Ali et.al.|[2602.04863](http://arxiv.org/abs/2602.04863)|null|
+|**2026-02-04**|**CoT is Not the Chain of Truth: An Empirical Internal Analysis of Reasoning LLMs for Fake News Generation**|Zhao Tong et.al.|[2602.04856](http://arxiv.org/abs/2602.04856)|null|
+|**2026-02-04**|**Decomposed Prompting Does Not Fix Knowledge Gaps, But Helps Models Say "I Don't Know"**|Dhruv Madhwal et.al.|[2602.04853](http://arxiv.org/abs/2602.04853)|null|
+|**2026-02-04**|**El Agente Estructural: An Artificially Intelligent Molecular Editor**|Changhyeok Choi et.al.|[2602.04849](http://arxiv.org/abs/2602.04849)|null|
+|**2026-02-04**|**Fluid Representations in Reasoning Models**|Dmitrii Kharlapenko et.al.|[2602.04843](http://arxiv.org/abs/2602.04843)|null|
+|**2026-02-04**|**Horizon-LM: A RAM-Centric Architecture for LLM Training**|Zhengqing Yuan et.al.|[2602.04816](http://arxiv.org/abs/2602.04816)|null|
+|**2026-02-04**|**Agentic AI in Healthcare & Medicine: A Seven-Dimensional Taxonomy for Empirical Evaluation of LLM-based Agents**|Shubham Vatsal et.al.|[2602.04813](http://arxiv.org/abs/2602.04813)|null|
+|**2026-02-04**|**OmniSIFT: Modality-Asymmetric Token Compression for Efficient Omni-modal Large Language Models**|Yue Ding et.al.|[2602.04804](http://arxiv.org/abs/2602.04804)|null|
+|**2026-02-04**|**VISTA-Bench: Do Vision-Language Models Really Understand Visualized Text as Well as Pure Text?**|Qing'an Liu et.al.|[2602.04802](http://arxiv.org/abs/2602.04802)|null|
+|**2026-02-04**|**LALM-as-a-Judge: Benchmarking Large Audio-Language Models for Safety Evaluation in Multi-Turn Spoken Dialogues**|Amir Ivry et.al.|[2602.04796](http://arxiv.org/abs/2602.04796)|null|
+|**2026-02-04**|**Team, Then Trim: An Assembly-Line LLM Framework for High-Quality Tabular Data Generation**|Congjing Zhang et.al.|[2602.04785](http://arxiv.org/abs/2602.04785)|null|
+|**2026-02-04**|**NeuroCanvas: VLLM-Powered Robust Seizure Detection by Reformulating Multichannel EEG as Image**|Yan Chen et.al.|[2602.04769](http://arxiv.org/abs/2602.04769)|null|
+|**2026-02-04**|**Beyond Many-Shot Translation: Scaling In-Context Demonstrations For Low-Resource Machine Translation**|Luis Frentzen Salim et.al.|[2602.04764](http://arxiv.org/abs/2602.04764)|null|
+|**2026-02-04**|**When Silence Is Golden: Can LLMs Learn to Abstain in Temporal QA and Beyond?**|Xinyu Zhou et.al.|[2602.04755](http://arxiv.org/abs/2602.04755)|null|
 |**2026-02-03**|**Understanding and Exploiting Weight Update Sparsity for Communication-Efficient Distributed RL**|Erfan Miahi et.al.|[2602.03839](http://arxiv.org/abs/2602.03839)|null|
 |**2026-02-03**|**Accelerating Scientific Research with Gemini: Case Studies and Common Techniques**|David P. Woodruff et.al.|[2602.03837](http://arxiv.org/abs/2602.03837)|null|
 |**2026-02-03**|**They Said Memes Were Harmless-We Found the Ones That Hurt: Decoding Jokes, Symbols, and Cultural References**|Sahil Tripathi et.al.|[2602.03822](http://arxiv.org/abs/2602.03822)|null|
@@ -3340,6 +3380,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-04**|**Reinforced Attention Learning**|Bangzheng Li et.al.|[2602.04884](http://arxiv.org/abs/2602.04884)|null|
+|**2026-02-04**|**Rethinking the Trust Region in LLM Reinforcement Learning**|Penghui Qi et.al.|[2602.04879](http://arxiv.org/abs/2602.04879)|null|
+|**2026-02-04**|**CRoSS: A Continual Robotic Simulation Suite for Scalable Reinforcement Learning with High Task Diversity and Realistic Physics Simulation**|Yannick Denker et.al.|[2602.04868](http://arxiv.org/abs/2602.04868)|null|
+|**2026-02-04**|**PDF-HR: Pose Distance Fields for Humanoid Robots**|Yi Gu et.al.|[2602.04851](http://arxiv.org/abs/2602.04851)|null|
+|**2026-02-04**|**Safe Urban Traffic Control via Uncertainty-Aware Conformal Prediction and World-Model Reinforcement Learning**|Joydeep Chandra et.al.|[2602.04821](http://arxiv.org/abs/2602.04821)|null|
+|**2026-02-04**|**Site and bond percolation in linearly distorted triangular and square lattices**|Bishnu Bhowmik et.al.|[2602.04818](http://arxiv.org/abs/2602.04818)|null|
+|**2026-02-04**|**Beyond Rewards in Reinforcement Learning for Cyber Defence**|Elizabeth Bates et.al.|[2602.04809](http://arxiv.org/abs/2602.04809)|null|
+|**2026-02-04**|**Joint Sleep Mode Activation and Load Balancing with Dynamic Cell Load: A Combinatorial Bandit Approach**|Wajahat Bashir Gilkar et.al.|[2602.04808](http://arxiv.org/abs/2602.04808)|null|
+|**2026-02-04**|**Evolving Afferent Architectures: Biologically-inspired Models for Damage-Avoidance Learning**|Wolfgang Maass et.al.|[2602.04807](http://arxiv.org/abs/2602.04807)|null|
+|**2026-02-04**|**Skin Tokens: A Learned Compact Representation for Unified Autoregressive Rigging**|Jia-peng Zhang et.al.|[2602.04805](http://arxiv.org/abs/2602.04805)|null|
+|**2026-02-04**|**Benchmark Study of CEvNS Nuclear Recoil Observables for B, Mg, Ti, and Zr Targets Using Geant4**|Yusuf Havvat et.al.|[2602.04771](http://arxiv.org/abs/2602.04771)|null|
+|**2026-02-04**|**Control Lyapunov Functions for Optimality in Sontag-Type Control**|Joscha F. Bongard et.al.|[2602.04756](http://arxiv.org/abs/2602.04756)|null|
+|**2026-02-04**|**When Silence Is Golden: Can LLMs Learn to Abstain in Temporal QA and Beyond?**|Xinyu Zhou et.al.|[2602.04755](http://arxiv.org/abs/2602.04755)|null|
+|**2026-02-04**|**Multiple Imputation Methods under Extreme Values**|Enzo Porto Brasil et.al.|[2602.04751](http://arxiv.org/abs/2602.04751)|null|
+|**2026-02-04**|**Rationality Measurement and Theory for Reinforcement Learning Agents**|Kejiang Qian et.al.|[2602.04737](http://arxiv.org/abs/2602.04737)|null|
+|**2026-02-04**|**ERNIE 5.0 Technical Report**|Haifeng Wang et.al.|[2602.04705](http://arxiv.org/abs/2602.04705)|null|
+|**2026-02-04**|**Multi-Source Retrieval and Reasoning for Legal Sentencing Prediction**|Junjie Chen et.al.|[2602.04690](http://arxiv.org/abs/2602.04690)|null|
+|**2026-02-04**|**Rethinking the Design Space of Reinforcement Learning for Diffusion Models: On the Importance of Likelihood Estimation Beyond Loss Design**|Jaemoo Choi et.al.|[2602.04663](http://arxiv.org/abs/2602.04663)|null|
+|**2026-02-04**|**SAFE: Stable Alignment Finetuning with Entropy-Aware Predictive Control for RLHF**|Dipan Maity et.al.|[2602.04651](http://arxiv.org/abs/2602.04651)|null|
+|**2026-02-04**|**Outcome Accuracy is Not Enough: Aligning the Reasoning Process of Reward Models**|Binghai Wang et.al.|[2602.04649](http://arxiv.org/abs/2602.04649)|null|
 |**2026-02-03**|**Understanding and Exploiting Weight Update Sparsity for Communication-Efficient Distributed RL**|Erfan Miahi et.al.|[2602.03839](http://arxiv.org/abs/2602.03839)|null|
 |**2026-02-03**|**SymPlex: A Structure-Aware Transformer for Symbolic PDE Solving**|Yesom Park et.al.|[2602.03816](http://arxiv.org/abs/2602.03816)|null|
 |**2026-02-03**|**Vacancy defects in square-triangle tilings and their implications for quasicrystals formed by square-shoulder particles**|Alptuğ Ulugöl et.al.|[2602.03813](http://arxiv.org/abs/2602.03813)|null|
