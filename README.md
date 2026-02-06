@@ -21,6 +21,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-05**|**DyTopo: Dynamic Topology Routing for Multi-Agent Reasoning via Semantic Matching**|Yuxing Lu et.al.|[2602.06039](http://arxiv.org/abs/2602.06039)|null|
+|**2026-02-05**|**V-Retrver: Evidence-Driven Agentic Reasoning for Universal Multimodal Retrieval**|Dongyang Chen et.al.|[2602.06034](http://arxiv.org/abs/2602.06034)|null|
+|**2026-02-05**|**PhysicsAgentABM: Physics-Guided Generative Agent-Based Modeling**|Kavana Venkatesh et.al.|[2602.06030](http://arxiv.org/abs/2602.06030)|null|
+|**2026-02-05**|**Learning Query-Aware Budget-Tier Routing for Runtime Agent Memory**|Haozhen Zhang et.al.|[2602.06025](http://arxiv.org/abs/2602.06025)|null|
+|**2026-02-05**|**From Human-Human Collaboration to Human-Agent Collaboration: A Vision, Design Philosophy, and an Empirical Framework for Achieving Successful Partnerships Between Humans and LLM Agents**|Bingsheng Yao et.al.|[2602.05987](http://arxiv.org/abs/2602.05987)|null|
+|**2026-02-05**|**SAGE: Benchmarking and Improving Retrieval for Deep Research Agents**|Tiansheng Hu et.al.|[2602.05975](http://arxiv.org/abs/2602.05975)|null|
+|**2026-02-05**|**Learning to Share: Selective Memory for Efficient Parallel Agentic Systems**|Joseph Fioresi et.al.|[2602.05965](http://arxiv.org/abs/2602.05965)|null|
+|**2026-02-05**|**AgenticTagger: Structured Item Representation for Recommendation with LLM Agents**|Zhouhang Xie et.al.|[2602.05945](http://arxiv.org/abs/2602.05945)|null|
+|**2026-02-05**|**ContextBench: A Benchmark for Context Retrieval in Coding Agents**|Han Li et.al.|[2602.05892](http://arxiv.org/abs/2602.05892)|null|
+|**2026-02-05**|**Agent2Agent Threats in Safety-Critical LLM Assistants: A Human-Centric Taxonomy**|Lukas Stappen et.al.|[2602.05877](http://arxiv.org/abs/2602.05877)|null|
+|**2026-02-05**|**DuoDrama: Supporting Screenplay Refinement Through LLM-Assisted Human Reflection**|Yuying Tang et.al.|[2602.05854](http://arxiv.org/abs/2602.05854)|null|
+|**2026-02-05**|**OdysseyArena: Benchmarking Large Language Models For Long-Horizon, Active and Inductive Interactions**|Fangzhi Xu et.al.|[2602.05843](http://arxiv.org/abs/2602.05843)|null|
+|**2026-02-05**|**Bifrost: Steering Strategic Trajectories to Bridge Contextual Gaps for Self-Improving Agents**|Quan M. Tran et.al.|[2602.05810](http://arxiv.org/abs/2602.05810)|null|
+|**2026-02-05**|**RocqSmith: Can Automatic Optimization Forge Better Proof Agents?**|Andrei Kozyrev et.al.|[2602.05762](http://arxiv.org/abs/2602.05762)|null|
+|**2026-02-05**|**Task-Oriented Robot-Human Handovers on Legged Manipulators**|Andreea Tulbure et.al.|[2602.05760](http://arxiv.org/abs/2602.05760)|null|
+|**2026-02-05**|**Learning to Inject: Automated Prompt Injection via Reinforcement Learning**|Xin Chen et.al.|[2602.05746](http://arxiv.org/abs/2602.05746)|null|
+|**2026-02-05**|**A Dual-Loop Agent Framework for Automated Vulnerability Reproduction**|Bin Liu et.al.|[2602.05721](http://arxiv.org/abs/2602.05721)|null|
+|**2026-02-05**|**Making AI Agents Evaluate Misleading Charts without Nudging**|Swaroop Panda et.al.|[2602.05662](http://arxiv.org/abs/2602.05662)|null|
+|**2026-02-05**|**Reactive Knowledge Representation and Asynchronous Reasoning**|Simon Kohaut et.al.|[2602.05625](http://arxiv.org/abs/2602.05625)|null|
+|**2026-02-05**|**On the computational properties of ambivalent sets and functions**|Dag Normann et.al.|[2602.05620](http://arxiv.org/abs/2602.05620)|null|
 |**2026-02-04**|**Group-Evolving Agents: Open-Ended Self-Improvement via Experience Sharing**|Zhaotian Weng et.al.|[2602.04837](http://arxiv.org/abs/2602.04837)|null|
 |**2026-02-04**|**Active Asymmetric Multi-Agent Multimodal Learning under Uncertainty**|Rui Liu et.al.|[2602.04763](http://arxiv.org/abs/2602.04763)|null|
 |**2026-02-04**|**SAR-RAG: ATR Visual Question Answering by Semantic Search, Retrieval, and MLLM Generation**|David F. Ramirez et.al.|[2602.04712](http://arxiv.org/abs/2602.04712)|null|
@@ -1895,6 +1915,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-05**|**Predicting Camera Pose from Perspective Descriptions for Spatial Reasoning**|Xuejun Zhang et.al.|[2602.06041](http://arxiv.org/abs/2602.06041)|null|
+|**2026-02-05**|**SwimBird: Eliciting Switchable Reasoning Mode in Hybrid Autoregressive MLLMs**|Jintao Tong et.al.|[2602.06040](http://arxiv.org/abs/2602.06040)|null|
+|**2026-02-05**|**DyTopo: Dynamic Topology Routing for Multi-Agent Reasoning via Semantic Matching**|Yuxing Lu et.al.|[2602.06039](http://arxiv.org/abs/2602.06039)|null|
+|**2026-02-05**|**Thinking with Geometry: Active Geometry Integration for Spatial Reasoning**|Haoyuan Li et.al.|[2602.06037](http://arxiv.org/abs/2602.06037)|null|
+|**2026-02-05**|**DFlash: Block Diffusion for Flash Speculative Decoding**|Jian Chen et.al.|[2602.06036](http://arxiv.org/abs/2602.06036)|null|
+|**2026-02-05**|**V-Retrver: Evidence-Driven Agentic Reasoning for Universal Multimodal Retrieval**|Dongyang Chen et.al.|[2602.06034](http://arxiv.org/abs/2602.06034)|null|
+|**2026-02-05**|**Can vision language models learn intuitive physics from interaction?**|Luca M. Schulze Buschoff et.al.|[2602.06033](http://arxiv.org/abs/2602.06033)|null|
+|**2026-02-05**|**AP-OOD: Attention Pooling for Out-of-Distribution Detection**|Claus Hofmann et.al.|[2602.06031](http://arxiv.org/abs/2602.06031)|null|
+|**2026-02-05**|**PhysicsAgentABM: Physics-Guided Generative Agent-Based Modeling**|Kavana Venkatesh et.al.|[2602.06030](http://arxiv.org/abs/2602.06030)|null|
+|**2026-02-05**|**Learning Query-Aware Budget-Tier Routing for Runtime Agent Memory**|Haozhen Zhang et.al.|[2602.06025](http://arxiv.org/abs/2602.06025)|null|
+|**2026-02-05**|**Correctness-Optimized Residual Activation Lens (CORAL): Transferrable and Calibration-Aware Inference-Time Steering**|Miranda Muqing Miao et.al.|[2602.06022](http://arxiv.org/abs/2602.06022)|null|
+|**2026-02-05**|**Multi-Token Prediction via Self-Distillation**|John Kirchenbauer et.al.|[2602.06019](http://arxiv.org/abs/2602.06019)|null|
+|**2026-02-05**|**A Systematic Evaluation of Large Language Models for PTSD Severity Estimation: The Role of Contextual Knowledge and Modeling Strategies**|Panagiotis Kaliosis et.al.|[2602.06015](http://arxiv.org/abs/2602.06015)|null|
+|**2026-02-05**|**GenArena: How Can We Achieve Human-Aligned Evaluation for Visual Generation Tasks?**|Ruihang Li et.al.|[2602.06013](http://arxiv.org/abs/2602.06013)|null|
+|**2026-02-05**|**AgenticPay: A Multi-Agent LLM Negotiation System for Buyer-Seller Transactions**|Xianyang Liu et.al.|[2602.06008](http://arxiv.org/abs/2602.06008)|null|
+|**2026-02-05**|**VisRefiner: Learning from Visual Differences for Screenshot-to-Code Generation**|Jie Deng et.al.|[2602.05998](http://arxiv.org/abs/2602.05998)|null|
+|**2026-02-05**|**DSB: Dynamic Sliding Block Scheduling for Diffusion LLMs**|Lizhuo Luo et.al.|[2602.05992](http://arxiv.org/abs/2602.05992)|null|
+|**2026-02-05**|**Layer-wise LoRA fine-tuning: a similarity metric approach**|Keith Ando Ogawa et.al.|[2602.05988](http://arxiv.org/abs/2602.05988)|null|
+|**2026-02-05**|**From Human-Human Collaboration to Human-Agent Collaboration: A Vision, Design Philosophy, and an Empirical Framework for Achieving Successful Partnerships Between Humans and LLM Agents**|Bingsheng Yao et.al.|[2602.05987](http://arxiv.org/abs/2602.05987)|null|
+|**2026-02-05**|**Inverse Depth Scaling From Most Layers Being Similar**|Yizhou Liu et.al.|[2602.05970](http://arxiv.org/abs/2602.05970)|null|
 |**2026-02-04**|**Reinforced Attention Learning**|Bangzheng Li et.al.|[2602.04884](http://arxiv.org/abs/2602.04884)|null|
 |**2026-02-04**|**Protein Autoregressive Modeling via Multiscale Structure Generation**|Yanru Qu et.al.|[2602.04883](http://arxiv.org/abs/2602.04883)|null|
 |**2026-02-04**|**Rethinking the Trust Region in LLM Reinforcement Learning**|Penghui Qi et.al.|[2602.04879](http://arxiv.org/abs/2602.04879)|null|
@@ -3389,6 +3429,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-05**|**InterPrior: Scaling Generative Control for Physics-Based Human-Object Interactions**|Sirui Xu et.al.|[2602.06035](http://arxiv.org/abs/2602.06035)|null|
+|**2026-02-05**|**V-Retrver: Evidence-Driven Agentic Reasoning for Universal Multimodal Retrieval**|Dongyang Chen et.al.|[2602.06034](http://arxiv.org/abs/2602.06034)|null|
+|**2026-02-05**|**Can vision language models learn intuitive physics from interaction?**|Luca M. Schulze Buschoff et.al.|[2602.06033](http://arxiv.org/abs/2602.06033)|null|
+|**2026-02-05**|**Learning Query-Aware Budget-Tier Routing for Runtime Agent Memory**|Haozhen Zhang et.al.|[2602.06025](http://arxiv.org/abs/2602.06025)|null|
+|**2026-02-05**|**On Computation and Reinforcement Learning**|Raj Ghugare et.al.|[2602.05999](http://arxiv.org/abs/2602.05999)|null|
+|**2026-02-05**|**VisRefiner: Learning from Visual Differences for Screenshot-to-Code Generation**|Jie Deng et.al.|[2602.05998](http://arxiv.org/abs/2602.05998)|null|
+|**2026-02-05**|**Diamond Maps: Efficient Reward Alignment via Stochastic Flow Maps**|Peter Holderrieth et.al.|[2602.05993](http://arxiv.org/abs/2602.05993)|null|
+|**2026-02-05**|**Time lags and their association with the Boundary Layer structure in a Z source GX 349+2**|Abhishek M. V. R. et.al.|[2602.05989](http://arxiv.org/abs/2602.05989)|null|
+|**2026-02-05**|**Clifford Kolmogorov-Arnold Networks**|Matthias Wolff et.al.|[2602.05977](http://arxiv.org/abs/2602.05977)|null|
+|**2026-02-05**|**Learning to Share: Selective Memory for Efficient Parallel Agentic Systems**|Joseph Fioresi et.al.|[2602.05965](http://arxiv.org/abs/2602.05965)|null|
+|**2026-02-05**|**A POWHEG generator for di-jet production in polarized proton-proton collisions**|Ignacio Borsa et.al.|[2602.05949](http://arxiv.org/abs/2602.05949)|null|
+|**2026-02-05**|**$f$ -GRPO and Beyond: Divergence-Based Reinforcement Learning Algorithms for General LLM Alignment**|Rajdeep Haldar et.al.|[2602.05946](http://arxiv.org/abs/2602.05946)|null|
+|**2026-02-05**|**Approximation of Log-Partition Function in Policy Mirror Descent Induces Implicit Regularization for LLM Post-Training**|Zhenghao Xu et.al.|[2602.05933](http://arxiv.org/abs/2602.05933)|null|
+|**2026-02-05**|**Quantum Reinforcement Learning with Transformers for the Capacitated Vehicle Routing Problem**|Eva Andrés et.al.|[2602.05920](http://arxiv.org/abs/2602.05920)|null|
+|**2026-02-05**|**Reducing the Computational Cost Scaling of Tensor Network Algorithms via Field-Programmable Gate Array Parallelism**|Songtai Lv et.al.|[2602.05900](http://arxiv.org/abs/2602.05900)|null|
+|**2026-02-05**|**Stop Rewarding Hallucinated Steps: Faithfulness-Aware Step-Level Reinforcement Learning for Small Reasoning Models**|Shuo Nie et.al.|[2602.05897](http://arxiv.org/abs/2602.05897)|null|
+|**2026-02-05**|**Residual Reinforcement Learning for Waste-Container Lifting Using Large-Scale Cranes with Underactuated Tools**|Qi Li et.al.|[2602.05895](http://arxiv.org/abs/2602.05895)|null|
+|**2026-02-05**|**DFPO: Scaling Value Modeling via Distributional Flow towards Robust and Generalizable LLM Post-Training**|Dingwei Zhu et.al.|[2602.05890](http://arxiv.org/abs/2602.05890)|null|
+|**2026-02-05**|**Dr. Kernel: Reinforcement Learning Done Right for Triton Kernel Generations**|Wei Liu et.al.|[2602.05885](http://arxiv.org/abs/2602.05885)|null|
+|**2026-02-05**|**UI-Mem: Self-Evolving Experience Memory for Online Reinforcement Learning in Mobile GUI Agents**|Han Xiao et.al.|[2602.05832](http://arxiv.org/abs/2602.05832)|null|
 |**2026-02-04**|**Reinforced Attention Learning**|Bangzheng Li et.al.|[2602.04884](http://arxiv.org/abs/2602.04884)|null|
 |**2026-02-04**|**Rethinking the Trust Region in LLM Reinforcement Learning**|Penghui Qi et.al.|[2602.04879](http://arxiv.org/abs/2602.04879)|null|
 |**2026-02-04**|**CRoSS: A Continual Robotic Simulation Suite for Scalable Reinforcement Learning with High Task Diversity and Realistic Physics Simulation**|Yannick Denker et.al.|[2602.04868](http://arxiv.org/abs/2602.04868)|null|
