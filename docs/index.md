@@ -16,6 +16,25 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-06**|**Agentic Uncertainty Reveals Agentic Overconfidence**|Jean Kaddour et.al.|[2602.06948](http://arxiv.org/abs/2602.06948)|null|
+|**2026-02-06**|**Directing Space: Rehearsing Architecture as Performer with Explainable AI**|Pavlos Panagiotidis et.al.|[2602.06915](http://arxiv.org/abs/2602.06915)|null|
+|**2026-02-06**|**TraceCoder: A Trace-Driven Multi-Agent Framework for Automated Debugging of LLM-Generated Code**|Jiangping Huang et.al.|[2602.06875](http://arxiv.org/abs/2602.06875)|null|
+|**2026-02-06**|**AIRS-Bench: a Suite of Tasks for Frontier AI Research Science Agents**|Alisia Lupidi et.al.|[2602.06855](http://arxiv.org/abs/2602.06855)|null|
+|**2026-02-06**|**LLM Active Alignment: A Nash Equilibrium Perspective**|Tonghan Wang et.al.|[2602.06836](http://arxiv.org/abs/2602.06836)|null|
+|**2026-02-06**|**ScaleEnv: Scaling Environment Synthesis from Scratch for Generalist Interactive Tool-Use Agent Training**|Dunwei Tu et.al.|[2602.06820](http://arxiv.org/abs/2602.06820)|null|
+|**2026-02-06**|**Table-as-Search: Formulate Long-Horizon Agentic Information Seeking as Table Completion**|Tian Lan et.al.|[2602.06724](http://arxiv.org/abs/2602.06724)|null|
+|**2026-02-06**|**The Law of Task-Achieving Body Motion: Axiomatizing Success of Robot Manipulation Actions**|Malte Huerkamp et.al.|[2602.06572](http://arxiv.org/abs/2602.06572)|null|
+|**2026-02-06**|**SeeUPO: Sequence-Level Agentic-RL with Convergence Guarantees**|Tianyi Hu et.al.|[2602.06554](http://arxiv.org/abs/2602.06554)|null|
+|**2026-02-06**|**Completing Missing Annotation: Multi-Agent Debate for Accurate and Scalable Relevant Assessment for IR Benchmarks**|Minjeong Ban et.al.|[2602.06526](http://arxiv.org/abs/2602.06526)|null|
+|**2026-02-06**|**Evolutionary Generation of Multi-Agent Systems**|Yuntong Hu et.al.|[2602.06511](http://arxiv.org/abs/2602.06511)|null|
+|**2026-02-06**|**TrajAD: Trajectory Anomaly Detection for Trustworthy LLM Agents**|Yibing Liu et.al.|[2602.06443](http://arxiv.org/abs/2602.06443)|null|
+|**2026-02-06**|**Towards Adaptive Environment Generation for Training Embodied Agents**|Teresa Yeo et.al.|[2602.06366](http://arxiv.org/abs/2602.06366)|null|
+|**2026-02-06**|**Nipping the Drift in the Bud: Retrospective Rectification for Robust Vision-Language Navigation**|Gang He et.al.|[2602.06356](http://arxiv.org/abs/2602.06356)|null|
+|**2026-02-06**|**Zero-Trust Runtime Verification for Agentic Payment Protocols: Mitigating Replay and Context-Binding Failures in AP2**|Qianlong Lan et.al.|[2602.06345](http://arxiv.org/abs/2602.06345)|null|
+|**2026-02-06**|**Identifying Adversary Tactics and Techniques in Malware Binaries with an LLM Agent**|Zhou Xuan et.al.|[2602.06325](http://arxiv.org/abs/2602.06325)|null|
+|**2026-02-06**|**Trustworthy AI Software Engineers**|Aldeida Aleti et.al.|[2602.06310](http://arxiv.org/abs/2602.06310)|null|
+|**2026-02-05**|**RuleSmith: Multi-Agent LLMs for Automated Game Balancing**|Ziyao Zeng et.al.|[2602.06232](http://arxiv.org/abs/2602.06232)|null|
+|**2026-02-05**|**M3: High-fidelity Text-to-Image Generation via Multi-Modal, Multi-Agent and Multi-Round Visual Reasoning**|Bangji Yang et.al.|[2602.06166](http://arxiv.org/abs/2602.06166)|null|
 |**2026-02-05**|**DyTopo: Dynamic Topology Routing for Multi-Agent Reasoning via Semantic Matching**|Yuxing Lu et.al.|[2602.06039](http://arxiv.org/abs/2602.06039)|null|
 |**2026-02-05**|**V-Retrver: Evidence-Driven Agentic Reasoning for Universal Multimodal Retrieval**|Dongyang Chen et.al.|[2602.06034](http://arxiv.org/abs/2602.06034)|null|
 |**2026-02-05**|**PhysicsAgentABM: Physics-Guided Generative Agent-Based Modeling**|Kavana Venkatesh et.al.|[2602.06030](http://arxiv.org/abs/2602.06030)|null|
@@ -1908,6 +1927,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-06**|**MedMO: Grounding and Understanding Multimodal Large Language Model for Medical Images**|Ankan Deria et.al.|[2602.06965](http://arxiv.org/abs/2602.06965)|null|
+|**2026-02-06**|**InftyThink+: Effective and Efficient Infinite-Horizon Reasoning via Reinforcement Learning**|Yuchen Yan et.al.|[2602.06960](http://arxiv.org/abs/2602.06960)|null|
+|**2026-02-06**|**DAWN: Dependency-Aware Fast Inference for Diffusion LLMs**|Lizhuo Luo et.al.|[2602.06953](http://arxiv.org/abs/2602.06953)|null|
+|**2026-02-06**|**Optimal Turkish Subword Strategies at Scale: Systematic Evaluation of Data, Vocabulary, Morphology Interplay**|Duygu Altinok et.al.|[2602.06942](http://arxiv.org/abs/2602.06942)|null|
+|**2026-02-06**|**Endogenous Resistance to Activation Steering in Language Models**|Alex McKenzie et.al.|[2602.06941](http://arxiv.org/abs/2602.06941)|null|
+|**2026-02-06**|**Halluverse-M^3: A multitask multilingual benchmark for hallucination in LLMs**|Samir Abdaljalil et.al.|[2602.06920](http://arxiv.org/abs/2602.06920)|null|
+|**2026-02-06**|**Directing Space: Rehearsing Architecture as Performer with Explainable AI**|Pavlos Panagiotidis et.al.|[2602.06915](http://arxiv.org/abs/2602.06915)|null|
+|**2026-02-06**|**Seeing Beyond Redundancy: Task Complexity's Role in Vision Token Specialization in VLLMs**|Darryl Hannan et.al.|[2602.06914](http://arxiv.org/abs/2602.06914)|null|
+|**2026-02-06**|**TamperBench: Systematically Stress-Testing LLM Safety Under Fine-Tuning and Tampering**|Saad Hossain et.al.|[2602.06911](http://arxiv.org/abs/2602.06911)|null|
+|**2026-02-06**|**Plato's Form: Toward Backdoor Defense-as-a-Service for LLMs with Prototype Representations**|Chen Chen et.al.|[2602.06887](http://arxiv.org/abs/2602.06887)|null|
+|**2026-02-06**|**Decoupling Variance and Scale-Invariant Updates in Adaptive Gradient Descent for Unified Vector and Matrix Optimization**|Zitao Song et.al.|[2602.06880](http://arxiv.org/abs/2602.06880)|null|
+|**2026-02-06**|**NanoFLUX: Distillation-Driven Compression of Large Text-to-Image Generation Models for Mobile Devices**|Ruchika Chavhan et.al.|[2602.06879](http://arxiv.org/abs/2602.06879)|null|
+|**2026-02-06**|**TraceCoder: A Trace-Driven Multi-Agent Framework for Automated Debugging of LLM-Generated Code**|Jiangping Huang et.al.|[2602.06875](http://arxiv.org/abs/2602.06875)|null|
+|**2026-02-06**|**Uncovering Cross-Objective Interference in Multi-Objective Alignment**|Yining Lu et.al.|[2602.06869](http://arxiv.org/abs/2602.06869)|null|
+|**2026-02-06**|**Parameters as Experts: Adapting Vision Models with Dynamic Parameter Routing**|Meng Lou et.al.|[2602.06862](http://arxiv.org/abs/2602.06862)|null|
+|**2026-02-06**|**AIRS-Bench: a Suite of Tasks for Frontier AI Research Science Agents**|Alisia Lupidi et.al.|[2602.06855](http://arxiv.org/abs/2602.06855)|null|
+|**2026-02-06**|**SEMA: Simple yet Effective Learning for Multi-Turn Jailbreak Attacks**|Mingqian Feng et.al.|[2602.06854](http://arxiv.org/abs/2602.06854)|null|
+|**2026-02-06**|**The Quantum Sieve Tracer: A Hybrid Framework for Layer-Wise Activation Tracing in Large Language Models**|Jonathan Pan et.al.|[2602.06852](http://arxiv.org/abs/2602.06852)|null|
+|**2026-02-06**|**Improved Sampling Schedules for Discrete Diffusion Models**|Alberto Foresti et.al.|[2602.06849](http://arxiv.org/abs/2602.06849)|null|
+|**2026-02-06**|**The Representational Geometry of Number**|Zhimin Hu et.al.|[2602.06843](http://arxiv.org/abs/2602.06843)|null|
 |**2026-02-05**|**Predicting Camera Pose from Perspective Descriptions for Spatial Reasoning**|Xuejun Zhang et.al.|[2602.06041](http://arxiv.org/abs/2602.06041)|null|
 |**2026-02-05**|**SwimBird: Eliciting Switchable Reasoning Mode in Hybrid Autoregressive MLLMs**|Jintao Tong et.al.|[2602.06040](http://arxiv.org/abs/2602.06040)|null|
 |**2026-02-05**|**DyTopo: Dynamic Topology Routing for Multi-Agent Reasoning via Semantic Matching**|Yuxing Lu et.al.|[2602.06039](http://arxiv.org/abs/2602.06039)|null|
@@ -3420,6 +3459,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-06**|**MedMO: Grounding and Understanding Multimodal Large Language Model for Medical Images**|Ankan Deria et.al.|[2602.06965](http://arxiv.org/abs/2602.06965)|null|
+|**2026-02-06**|**InftyThink+: Effective and Efficient Infinite-Horizon Reasoning via Reinforcement Learning**|Yuchen Yan et.al.|[2602.06960](http://arxiv.org/abs/2602.06960)|null|
+|**2026-02-06**|**Optimal Derivative Feedback Control for an Active Magnetic Levitation System: An Experimental Study on Data-Driven Approaches**|Saber Omidi et.al.|[2602.06944](http://arxiv.org/abs/2602.06944)|null|
+|**2026-02-06**|**Cochain Perspectives on Temporal-Difference Signals for Learning Beyond Markov Dynamics**|Zuyuan Zhang et.al.|[2602.06939](http://arxiv.org/abs/2602.06939)|null|
+|**2026-02-06**|**When RL Meets Adaptive Speculative Training: A Unified Training-Serving System**|Junxiong Wang et.al.|[2602.06932](http://arxiv.org/abs/2602.06932)|null|
+|**2026-02-06**|**On micromodes in Bayesian posterior distributions and their implications for MCMC**|Sanket Agrawal et.al.|[2602.06931](http://arxiv.org/abs/2602.06931)|null|
+|**2026-02-06**|**Continuous-time reinforcement learning: ellipticity enables model-free value function approximation**|Wenlong Mou et.al.|[2602.06930](http://arxiv.org/abs/2602.06930)|null|
+|**2026-02-06**|**Towards a Fully Automated Pipeline for Short-Term Forecasting of In Situ Coronal Mass Ejection Magnetic Field Structure**|Hannah T. Rüdisser et.al.|[2602.06926](http://arxiv.org/abs/2602.06926)|null|
+|**2026-02-06**|**A first realization of reinforcement learning-based closed-loop EEG-TMS**|Dania Humaidan et.al.|[2602.06907](http://arxiv.org/abs/2602.06907)|null|
+|**2026-02-06**|**SEMA: Simple yet Effective Learning for Multi-Turn Jailbreak Attacks**|Mingqian Feng et.al.|[2602.06854](http://arxiv.org/abs/2602.06854)|null|
+|**2026-02-06**|**AEGPO: Adaptive Entropy-Guided Policy Optimization for Diffusion Models**|Yuming Li et.al.|[2602.06825](http://arxiv.org/abs/2602.06825)|null|
+|**2026-02-06**|**On the Design of an Optimal Multi-Tone Jammer Against the Wiener Interpolation Filter**|Corentin Fonteneau et.al.|[2602.06816](http://arxiv.org/abs/2602.06816)|null|
+|**2026-02-06**|**Generating Data-Driven Reasoning Rubrics for Domain-Adaptive Reward Modeling**|Kate Sanders et.al.|[2602.06795](http://arxiv.org/abs/2602.06795)|null|
+|**2026-02-06**|**UnifSrv: AP Selection for Achieving Uniformly Good Performance of CF-MIMO in Realistic Urban Networks**|Yunlu Xiao et.al.|[2602.06780](http://arxiv.org/abs/2602.06780)|null|
+|**2026-02-06**|**Soft Forward-Backward Representations for Zero-shot Reinforcement Learning with General Utilities**|Marco Bagatella et.al.|[2602.06769](http://arxiv.org/abs/2602.06769)|null|
+|**2026-02-06**|**R-Align: Enhancing Generative Reward Models through Rationale-Centric Meta-Judging**|Yanlin Lai et.al.|[2602.06763](http://arxiv.org/abs/2602.06763)|null|
+|**2026-02-06**|**Semantically Labelled Automata for Multi-Task Reinforcement Learning with LTL Instructions**|Alessandro Abate et.al.|[2602.06746](http://arxiv.org/abs/2602.06746)|null|
+|**2026-02-06**|**F-GRPO: Don't Let Your Policy Learn the Obvious and Forget the Rare**|Daniil Plyusov et.al.|[2602.06717](http://arxiv.org/abs/2602.06717)|null|
+|**2026-02-06**|**Evaluating and Enhancing the Vulnerability Reasoning Capabilities of Large Language Models**|Li Lu et.al.|[2602.06687](http://arxiv.org/abs/2602.06687)|null|
+|**2026-02-06**|**compar:IA: The French Government's LLM arena to collect French-language human prompts and preference data**|Lucie Termignon et.al.|[2602.06669](http://arxiv.org/abs/2602.06669)|null|
 |**2026-02-05**|**InterPrior: Scaling Generative Control for Physics-Based Human-Object Interactions**|Sirui Xu et.al.|[2602.06035](http://arxiv.org/abs/2602.06035)|null|
 |**2026-02-05**|**V-Retrver: Evidence-Driven Agentic Reasoning for Universal Multimodal Retrieval**|Dongyang Chen et.al.|[2602.06034](http://arxiv.org/abs/2602.06034)|null|
 |**2026-02-05**|**Can vision language models learn intuitive physics from interaction?**|Luca M. Schulze Buschoff et.al.|[2602.06033](http://arxiv.org/abs/2602.06033)|null|
