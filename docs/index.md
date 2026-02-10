@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Agent Research Papers
-### Automatically Updated on 2026.02.09
+### Automatically Updated on 2026.02.10
 Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Autonomous Agent`,`LLM Agent`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -3459,6 +3459,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-08**|**Direct Soft-Policy Sampling via Langevin Dynamics**|Donghyeon Ki et.al.|[2602.07873](http://arxiv.org/abs/2602.07873)|null|
+|**2026-02-08**|**MARTI-MARS $^2$ : Scaling Multi-Agent Self-Search via Reinforcement Learning for Code Generation**|Shijie Wang et.al.|[2602.07848](http://arxiv.org/abs/2602.07848)|null|
+|**2026-02-08**|**System-Level Error Propagation and Tail-Risk Amplification in Reference-Based Robotic Navigation**|Ning Hu et.al.|[2602.07846](http://arxiv.org/abs/2602.07846)|null|
+|**2026-02-08**|**TodoEvolve: Learning to Architect Agent Planning Systems**|Jiaxi Liu et.al.|[2602.07839](http://arxiv.org/abs/2602.07839)|null|
+|**2026-02-08**|**RLinf-USER: A Unified and Extensible System for Real-World Online Policy Learning in Embodied AI**|Hongzhi Zang et.al.|[2602.07837](http://arxiv.org/abs/2602.07837)|null|
+|**2026-02-08**|**rePIRL: Learn PRM with Inverse RL for LLM Reasoning**|Xian Wu et.al.|[2602.07832](http://arxiv.org/abs/2602.07832)|null|
+|**2026-02-08**|**Time Series Reasoning via Process-Verifiable Thinking Data Synthesis and Scheduling for Tailored LLM Reasoning**|Jiahui Zhou et.al.|[2602.07830](http://arxiv.org/abs/2602.07830)|null|
+|**2026-02-08**|**Pruning as a Cooperative Game: Surrogate-Assisted Layer Contribution Estimation for Large Language Models**|Xuan Ding et.al.|[2602.07804](http://arxiv.org/abs/2602.07804)|null|
+|**2026-02-08**|**VideoTemp-o3: Harmonizing Temporal Grounding and Video Understanding in Agentic Thinking-with-Videos**|Wenqi Liu et.al.|[2602.07801](http://arxiv.org/abs/2602.07801)|null|
+|**2026-02-08**|**Fairness Aware Reward Optimization**|Ching Lam Choi et.al.|[2602.07799](http://arxiv.org/abs/2602.07799)|null|
+|**2026-02-08**|**Optimal Control of Unbounded Stochastic Evolution Systems in Hilbert Spaces**|Shanjian Tang et.al.|[2602.07793](http://arxiv.org/abs/2602.07793)|null|
+|**2026-02-08**|**Uncertainty-Aware Counterfactual Traffic Signal Control with Predictive Safety and Starvation-Avoidance Constraints Using Vision-Based Sensing**|Jayawant Bodagala et.al.|[2602.07784](http://arxiv.org/abs/2602.07784)|null|
+|**2026-02-08**|**CoLF: Learning Consistent Leader-Follower Policies for Vision-Language-Guided Multi-Robot Cooperative Transport**|Joachim Yann Despature et.al.|[2602.07776](http://arxiv.org/abs/2602.07776)|null|
+|**2026-02-08**|**Generative Reasoning Re-ranker**|Mingfu Liang et.al.|[2602.07774](http://arxiv.org/abs/2602.07774)|null|
+|**2026-02-08**|**Compressed Sensing Methods for Memory Reduction in Monte Carlo Simulations**|Ethan Lame et.al.|[2602.07771](http://arxiv.org/abs/2602.07771)|null|
+|**2026-02-08**|**Structure Preserving Approximation of Semiconcave Functions**|Karl Kunisch et.al.|[2602.07770](http://arxiv.org/abs/2602.07770)|null|
+|**2026-02-08**|**BFTS: Thompson Sampling with Bayesian Additive Regression Trees**|Ruizhe Deng et.al.|[2602.07767](http://arxiv.org/abs/2602.07767)|null|
+|**2026-02-08**|**Preference Conditioned Multi-Objective Reinforcement Learning: Decomposed, Diversity-Driven Policy Optimization**|Tanmay Ambadkar et.al.|[2602.07764](http://arxiv.org/abs/2602.07764)|null|
+|**2026-02-08**|**The Development of a Preclinical Alpha Irradiation Platform with Versatile Control of Dose, Dose Rate, and Spatiotemporal Irradiation Patterns**|Harsh Arya et.al.|[2602.07760](http://arxiv.org/abs/2602.07760)|null|
+|**2026-02-07**|**The Laplacian Keyboard: Beyond the Linear Span**|Siddarth Chandrasekar et.al.|[2602.07730](http://arxiv.org/abs/2602.07730)|null|
 |**2026-02-06**|**MedMO: Grounding and Understanding Multimodal Large Language Model for Medical Images**|Ankan Deria et.al.|[2602.06965](http://arxiv.org/abs/2602.06965)|null|
 |**2026-02-06**|**InftyThink+: Effective and Efficient Infinite-Horizon Reasoning via Reinforcement Learning**|Yuchen Yan et.al.|[2602.06960](http://arxiv.org/abs/2602.06960)|null|
 |**2026-02-06**|**Optimal Derivative Feedback Control for an Active Magnetic Levitation System: An Experimental Study on Data-Driven Approaches**|Saber Omidi et.al.|[2602.06944](http://arxiv.org/abs/2602.06944)|null|
