@@ -21,6 +21,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-10**|**SAGE: Scalable Agentic 3D Scene Generation for Embodied AI**|Hongchi Xia et.al.|[2602.10116](http://arxiv.org/abs/2602.10116)|null|
+|**2026-02-10**|**DexImit: Learning Bimanual Dexterous Manipulation from Monocular Human Videos**|Juncheng Mu et.al.|[2602.10105](http://arxiv.org/abs/2602.10105)|null|
+|**2026-02-10**|**Agent World Model: Infinity Synthetic Environments for Agentic Reinforcement Learning**|Zhaoyang Wang et.al.|[2602.10090](http://arxiv.org/abs/2602.10090)|null|
+|**2026-02-10**|**Anagent For Enhancing Scientific Table & Figure Analysis**|Xuehang Guo et.al.|[2602.10081](http://arxiv.org/abs/2602.10081)|null|
+|**2026-02-10**|**Chain of Mindset: Reasoning with Adaptive Cognitive Modes**|Tianyi Jiang et.al.|[2602.10063](http://arxiv.org/abs/2602.10063)|null|
+|**2026-02-10**|**Artisan: Agentic Artifact Evaluation**|Doehyun Baek et.al.|[2602.10046](http://arxiv.org/abs/2602.10046)|null|
+|**2026-02-10**|**Discovering High Level Patterns from Simulation Traces**|Sean Memery et.al.|[2602.10009](http://arxiv.org/abs/2602.10009)|null|
+|**2026-02-10**|**Human-AI Synergy Supports Collective Creative Search**|Chenyi Li et.al.|[2602.10001](http://arxiv.org/abs/2602.10001)|null|
+|**2026-02-10**|**Why Do AI Agents Systematically Fail at Cloud Root Cause Analysis?**|Taeyoon Kim et.al.|[2602.09937](http://arxiv.org/abs/2602.09937)|null|
+|**2026-02-10**|**Focus Session: LLM4PQC -- An Agentic Framework for Accurate and Efficient Synthesis of PQC Cores**|Buddhi Perera et.al.|[2602.09919](http://arxiv.org/abs/2602.09919)|null|
+|**2026-02-10**|**Immersion in the GitHub Universe: Scaling Coding Agents to Mastery**|Jiale Zhao et.al.|[2602.09892](http://arxiv.org/abs/2602.09892)|null|
+|**2026-02-10**|**The Devil Behind Moltbook: Anthropic Safety is Always Vanishing in Self-Evolving AI Societies**|Chenxu Wang et.al.|[2602.09877](http://arxiv.org/abs/2602.09877)|null|
+|**2026-02-10**|**BagelVLA: Enhancing Long-Horizon Manipulation via Interleaved Vision-Language-Action Generation**|Yucheng Hu et.al.|[2602.09849](http://arxiv.org/abs/2602.09849)|null|
+|**2026-02-10**|**Generative AI Adoption in an Energy Company: Exploring Challenges and Use Cases**|Malik Abdul Sami et.al.|[2602.09846](http://arxiv.org/abs/2602.09846)|null|
+|**2026-02-10**|**Internalizing Multi-Agent Reasoning for Accurate and Efficient LLM-based Recommendation**|Yang Wu et.al.|[2602.09829](http://arxiv.org/abs/2602.09829)|null|
+|**2026-02-10**|**AnalyticsGPT: An LLM Workflow for Scientometric Question Answering**|Khang Ly et.al.|[2602.09817](http://arxiv.org/abs/2602.09817)|null|
+|**2026-02-10**|**Tiny Moves: Game-based Hypothesis Refinement**|Agnieszka Dobrowolska et.al.|[2602.09801](http://arxiv.org/abs/2602.09801)|null|
+|**2026-02-10**|**QRS: A Rule-Synthesizing Neuro-Symbolic Triad for Autonomous Vulnerability Discovery**|George Tsigkourakos et.al.|[2602.09774](http://arxiv.org/abs/2602.09774)|null|
+|**2026-02-10**|**TreeCUA: Efficiently Scaling GUI Automation with Tree-Structured Verifiable Evolution**|Deyang Jiang et.al.|[2602.09662](http://arxiv.org/abs/2602.09662)|null|
+|**2026-02-10**|**MATA: Multi-Agent Framework for Reliable and Flexible Table Question Answering**|Sieun Hyeon et.al.|[2602.09642](http://arxiv.org/abs/2602.09642)|null|
 |**2026-02-09**|**InternAgent-1.5: A Unified Agentic Framework for Long-Horizon Autonomous Scientific Discovery**|Shiyang Feng et.al.|[2602.08990](http://arxiv.org/abs/2602.08990)|null|
 |**2026-02-09**|**A Behavioural and Representational Evaluation of Goal-Directedness in Language Model Agents**|Raghu Arghal et.al.|[2602.08964](http://arxiv.org/abs/2602.08964)|null|
 |**2026-02-09**|**Digital Twin and Agentic AI for Wild Fire Disaster Management: Intelligent Virtual Situation Room**|Mohammad Morsali et.al.|[2602.08949](http://arxiv.org/abs/2602.08949)|null|
@@ -1954,6 +1974,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-10**|**Biases in the Blind Spot: Detecting What LLMs Fail to Mention**|Iván Arcuschin et.al.|[2602.10117](http://arxiv.org/abs/2602.10117)|null|
+|**2026-02-10**|**ST4VLA: Spatially Guided Training for Vision-Language-Action Models**|Jinhui Ye et.al.|[2602.10109](http://arxiv.org/abs/2602.10109)|null|
+|**2026-02-10**|**Quantum-Audit: Evaluating the Reasoning Limits of LLMs on Quantum Computing**|Mohamed Afane et.al.|[2602.10092](http://arxiv.org/abs/2602.10092)|null|
+|**2026-02-10**|**Agent World Model: Infinity Synthetic Environments for Agentic Reinforcement Learning**|Zhaoyang Wang et.al.|[2602.10090](http://arxiv.org/abs/2602.10090)|null|
+|**2026-02-10**|**CAPID: Context-Aware PII Detection for Question-Answering Systems**|Mariia Ponomarenko et.al.|[2602.10074](http://arxiv.org/abs/2602.10074)|null|
+|**2026-02-10**|**Features as Rewards: Scalable Supervision for Open-Ended Tasks via Interpretability**|Aaditya Vikram Prasad et.al.|[2602.10067](http://arxiv.org/abs/2602.10067)|null|
+|**2026-02-10**|**WildCat: Near-Linear Attention in Theory and Practice**|Tobias Schröder et.al.|[2602.10056](http://arxiv.org/abs/2602.10056)|null|
+|**2026-02-10**|**Long Chain-of-Thought Compression via Fine-Grained Group Policy Optimization**|Xinchen Han et.al.|[2602.10048](http://arxiv.org/abs/2602.10048)|null|
+|**2026-02-10**|**Fake-HR1: Rethinking reasoning of vision language model for synthetic image detection**|Changjiang Jiang et.al.|[2602.10042](http://arxiv.org/abs/2602.10042)|null|
+|**2026-02-10**|**Decoupled Reasoning with Implicit Fact Tokens (DRIFT): A Dual-Model Framework for Efficient Long-Context Inference**|Wenxuan Xie et.al.|[2602.10021](http://arxiv.org/abs/2602.10021)|null|
+|**2026-02-10**|**SCORE: Specificity, Context Utilization, Robustness, and Relevance for Reference-Free LLM Evaluation**|Homaira Huda Shomee et.al.|[2602.10017](http://arxiv.org/abs/2602.10017)|null|
+|**2026-02-10**|**Kunlun: Establishing Scaling Laws for Massive-Scale Recommendation Systems through Unified Architecture Design**|Bojian Hou et.al.|[2602.10016](http://arxiv.org/abs/2602.10016)|null|
+|**2026-02-10**|**A Task-Centric Theory for Iterative Self-Improvement with Easy-to-Hard Curricula**|Chenruo Liu et.al.|[2602.10014](http://arxiv.org/abs/2602.10014)|null|
+|**2026-02-10**|**Discovering High Level Patterns from Simulation Traces**|Sean Memery et.al.|[2602.10009](http://arxiv.org/abs/2602.10009)|null|
+|**2026-02-10**|**Answer First, Reason Later: Aligning Search Relevance via Mode-Balanced Reinforcement Learning**|Shijie Zhang et.al.|[2602.10006](http://arxiv.org/abs/2602.10006)|null|
+|**2026-02-10**|**ESTAR: Early-Stopping Token-Aware Reasoning For Efficient Inference**|Junda Wang et.al.|[2602.10004](http://arxiv.org/abs/2602.10004)|null|
+|**2026-02-10**|**A Unified Assessment of the Poverty of the Stimulus Argument for Neural Language Models**|Xiulin Yang et.al.|[2602.09992](http://arxiv.org/abs/2602.09992)|null|
+|**2026-02-10**|**RoboInter: A Holistic Intermediate Representation Suite Towards Robotic Manipulation**|Hao Li et.al.|[2602.09973](http://arxiv.org/abs/2602.09973)|null|
+|**2026-02-10**|**Hydra-Nav: Object Navigation via Adaptive Dual-Process Reasoning**|Zixuan Wang et.al.|[2602.09972](http://arxiv.org/abs/2602.09972)|null|
+|**2026-02-10**|**Trustworthy Agentic AI Requires Deterministic Architectural Boundaries**|Manish Bhattarai et.al.|[2602.09947](http://arxiv.org/abs/2602.09947)|null|
 |**2026-02-09**|**CIC-Trap4Phish: A Unified Multi-Format Dataset for Phishing and Quishing Attachment Detection**|Fatemeh Nejati et.al.|[2602.09015](http://arxiv.org/abs/2602.09015)|null|
 |**2026-02-09**|**ANCRe: Adaptive Neural Connection Reassignment for Efficient Depth Scaling**|Yilang Zhang et.al.|[2602.09009](http://arxiv.org/abs/2602.09009)|null|
 |**2026-02-09**|**From Obstacles to Etiquette: Robot Social Navigation with VLM-Informed Path Selection**|Zilin Fang et.al.|[2602.09002](http://arxiv.org/abs/2602.09002)|null|
@@ -3508,6 +3548,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-10**|**Robo3R: Enhancing Robotic Manipulation with Accurate Feed-Forward 3D Reconstruction**|Sizhe Yang et.al.|[2602.10101](http://arxiv.org/abs/2602.10101)|null|
+|**2026-02-10**|**Agent World Model: Infinity Synthetic Environments for Agentic Reinforcement Learning**|Zhaoyang Wang et.al.|[2602.10090](http://arxiv.org/abs/2602.10090)|null|
+|**2026-02-10**|**CODE-SHARP: Continuous Open-ended Discovery and Evolution of Skills as Hierarchical Reward Programs**|Richard Bornemann et.al.|[2602.10085](http://arxiv.org/abs/2602.10085)|null|
+|**2026-02-10**|**Anagent For Enhancing Scientific Table & Figure Analysis**|Xuehang Guo et.al.|[2602.10081](http://arxiv.org/abs/2602.10081)|null|
+|**2026-02-10**|**Features as Rewards: Scalable Supervision for Open-Ended Tasks via Interpretability**|Aaditya Vikram Prasad et.al.|[2602.10067](http://arxiv.org/abs/2602.10067)|null|
+|**2026-02-10**|**Long Chain-of-Thought Compression via Fine-Grained Group Policy Optimization**|Xinchen Han et.al.|[2602.10048](http://arxiv.org/abs/2602.10048)|null|
+|**2026-02-10**|**Optimistic World Models: Efficient Exploration in Model-Based Deep Reinforcement Learning**|Akshay Mete et.al.|[2602.10044](http://arxiv.org/abs/2602.10044)|null|
+|**2026-02-10**|**Fake-HR1: Rethinking reasoning of vision language model for synthetic image detection**|Changjiang Jiang et.al.|[2602.10042](http://arxiv.org/abs/2602.10042)|null|
+|**2026-02-10**|**Resilient Topology-Aware Coordination for Dynamic 3D UAV Networks under Node Failure**|Chuan-Chi Lai et.al.|[2602.10029](http://arxiv.org/abs/2602.10029)|null|
+|**2026-02-10**|**ADORA: Training Reasoning Models with Dynamic Advantage Estimation on Reinforcement Learning**|Qingnan Ren et.al.|[2602.10019](http://arxiv.org/abs/2602.10019)|null|
+|**2026-02-10**|**Online Selective Conformal Prediction with Asymmetric Rules: A Permutation Test Approach**|Mingyi Zheng et.al.|[2602.10018](http://arxiv.org/abs/2602.10018)|null|
+|**2026-02-10**|**A Task-Centric Theory for Iterative Self-Improvement with Easy-to-Hard Curricula**|Chenruo Liu et.al.|[2602.10014](http://arxiv.org/abs/2602.10014)|null|
+|**2026-02-10**|**A Collaborative Safety Shield for Safe and Efficient CAV Lane Changes in Congested On-Ramp Merging**|Bharathkumar Hegde et.al.|[2602.10007](http://arxiv.org/abs/2602.10007)|null|
+|**2026-02-10**|**Answer First, Reason Later: Aligning Search Relevance via Mode-Balanced Reinforcement Learning**|Shijie Zhang et.al.|[2602.10006](http://arxiv.org/abs/2602.10006)|null|
+|**2026-02-10**|**ESTAR: Early-Stopping Token-Aware Reasoning For Efficient Inference**|Junda Wang et.al.|[2602.10004](http://arxiv.org/abs/2602.10004)|null|
+|**2026-02-10**|**ORCHID: Fairness-Aware Orchestration in Mission-Critical Air-Ground Integrated Networks**|Chuan-Chi Lai et.al.|[2602.09994](http://arxiv.org/abs/2602.09994)|null|
+|**2026-02-10**|**SCOPE: A Training-Free Online 3D Deployment for UAV-BSs with Theoretical Analysis and Comparative Study**|Chuan-Chi Lai et.al.|[2602.09971](http://arxiv.org/abs/2602.09971)|null|
+|**2026-02-10**|**L'Hopital rules for complex-valued functions in higher dimensions**|Albert Chern et.al.|[2602.09958](http://arxiv.org/abs/2602.09958)|null|
+|**2026-02-10**|**ATTNPO: Attention-Guided Process Supervision for Efficient Reasoning**|Shuaiyi Nie et.al.|[2602.09953](http://arxiv.org/abs/2602.09953)|null|
+|**2026-02-10**|**Geometric Analysis of Blind User Identification for Massive MIMO Networks**|Levi Bohnacker et.al.|[2602.09910](http://arxiv.org/abs/2602.09910)|null|
 |**2026-02-09**|**TwinRL-VLA: Digital Twin-Driven Reinforcement Learning for Real-World Robotic Manipulation**|Qinwen Xu et.al.|[2602.09023](http://arxiv.org/abs/2602.09023)|null|
 |**2026-02-09**|**WorldCompass: Reinforcement Learning for Long-Horizon World Models**|Zehan Wang et.al.|[2602.09022](http://arxiv.org/abs/2602.09022)|null|
 |**2026-02-09**|**iGRPO: Self-Feedback-Driven LLM Reasoning**|Ali Hatamizadeh et.al.|[2602.09000](http://arxiv.org/abs/2602.09000)|null|
