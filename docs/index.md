@@ -16,6 +16,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-11**|**Learning to Compose for Cross-domain Agentic Workflow Generation**|Jialiang Wang et.al.|[2602.11114](http://arxiv.org/abs/2602.11114)|null|
+|**2026-02-11**|**GameDevBench: Evaluating Agentic Capabilities Through Game Development**|Wayne Chi et.al.|[2602.11103](http://arxiv.org/abs/2602.11103)|null|
+|**2026-02-11**|**Fine-Tuning GPT-5 for GPU Kernel Generation**|Ali Tehrani et.al.|[2602.11000](http://arxiv.org/abs/2602.11000)|null|
+|**2026-02-11**|**TVCACHE: A Stateful Tool-Value Cache for Post-Training LLM Agents**|Abhishek Vijaya Kumar et.al.|[2602.10986](http://arxiv.org/abs/2602.10986)|null|
+|**2026-02-11**|**Blind Gods and Broken Screens: Architecting a Secure, Intent-Centric Mobile Agent Operating System**|Zhenhua Zou et.al.|[2602.10915](http://arxiv.org/abs/2602.10915)|null|
+|**2026-02-11**|**See, Plan, Snap: Evaluating Multimodal GUI Agents in Scratch**|Xingyi Zhang et.al.|[2602.10814](http://arxiv.org/abs/2602.10814)|null|
+|**2026-02-11**|**DeepImageSearch: Benchmarking Multimodal Agents for Context-Aware Image Retrieval in Visual Histories**|Chenlong Deng et.al.|[2602.10809](http://arxiv.org/abs/2602.10809)|null|
+|**2026-02-11**|**Hidden Licensing Risks in the LLMware Ecosystem**|Bo Wang et.al.|[2602.10758](http://arxiv.org/abs/2602.10758)|null|
+|**2026-02-11**|**Locomo-Plus: Beyond-Factual Cognitive Memory Evaluation Framework for LLM Agents**|Yifei Li et.al.|[2602.10715](http://arxiv.org/abs/2602.10715)|null|
+|**2026-02-11**|**UMEM: Unified Memory Extraction and Management Framework for Generalizable Memory**|Yongshi Ye et.al.|[2602.10652](http://arxiv.org/abs/2602.10652)|null|
+|**2026-02-11**|**ISD-Agent-Bench: A Comprehensive Benchmark for Evaluating LLM-based Instructional Design Agents**|YoungHoon Jeon et.al.|[2602.10620](http://arxiv.org/abs/2602.10620)|null|
+|**2026-02-11**|**Step 3.5 Flash: Open Frontier-Level Intelligence with 11B Active Parameters**|Ailin Huang et.al.|[2602.10604](http://arxiv.org/abs/2602.10604)|null|
+|**2026-02-11**|**When Skills Lie: Hidden-Comment Injection in LLM Agents**|Qianli Wang et.al.|[2602.10498](http://arxiv.org/abs/2602.10498)|null|
+|**2026-02-11**|**From Prompt-Response to Goal-Directed Systems: The Evolution of Agentic AI Software Architecture**|Mamdouh Alenezi et.al.|[2602.10479](http://arxiv.org/abs/2602.10479)|null|
+|**2026-02-11**|**The Landscape of Prompt Injection Threats in LLM Agents: From Taxonomy to Analysis**|Peiran Wang et.al.|[2602.10453](http://arxiv.org/abs/2602.10453)|null|
+|**2026-02-11**|**Distributed Online Convex Optimization with Nonseparable Costs and Constraints**|Zhaoye Pan et.al.|[2602.10452](http://arxiv.org/abs/2602.10452)|null|
+|**2026-02-11**|**AudioRouter: Data Efficient Audio Understanding via RL based Dual Reasoning**|Liyang Chen et.al.|[2602.10439](http://arxiv.org/abs/2602.10439)|null|
+|**2026-02-11**|**AIvilization v0: Toward Large-Scale Artificial Social Simulation with a Unified Agent Architecture and Adaptive Agent Profiles**|Wenkai Fan et.al.|[2602.10429](http://arxiv.org/abs/2602.10429)|null|
+|**2026-02-10**|**Frame-Level Internal Tool Use for Temporal Grounding in Audio LMs**|Joesph An et.al.|[2602.10230](http://arxiv.org/abs/2602.10230)|null|
+|**2026-02-10**|**Self-Evolving Recommendation System: End-To-End Autonomous Model Optimization With LLM Agents**|Haochen Wang et.al.|[2602.10226](http://arxiv.org/abs/2602.10226)|null|
 |**2026-02-10**|**SAGE: Scalable Agentic 3D Scene Generation for Embodied AI**|Hongchi Xia et.al.|[2602.10116](http://arxiv.org/abs/2602.10116)|null|
 |**2026-02-10**|**DexImit: Learning Bimanual Dexterous Manipulation from Monocular Human Videos**|Juncheng Mu et.al.|[2602.10105](http://arxiv.org/abs/2602.10105)|null|
 |**2026-02-10**|**Agent World Model: Infinity Synthetic Environments for Agentic Reinforcement Learning**|Zhaoyang Wang et.al.|[2602.10090](http://arxiv.org/abs/2602.10090)|null|
@@ -1967,6 +1987,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-11**|**Diffusion-Pretrained Dense and Contextual Embeddings**|Sedigheh Eslami et.al.|[2602.11151](http://arxiv.org/abs/2602.11151)|null|
+|**2026-02-11**|**Data Repetition Beats Data Scaling in Long-CoT Supervised Fine-Tuning**|Dawid J. Kopiczko et.al.|[2602.11149](http://arxiv.org/abs/2602.11149)|null|
+|**2026-02-11**|**Beyond VLM-Based Rewards: Diffusion-Native Latent Reward Modeling**|Gongye Liu et.al.|[2602.11146](http://arxiv.org/abs/2602.11146)|null|
+|**2026-02-11**|**TabICLv2: A better, faster, scalable, and open tabular foundation model**|Jingang Qu et.al.|[2602.11139](http://arxiv.org/abs/2602.11139)|null|
+|**2026-02-11**|**Weight Decay Improves Language Model Plasticity**|Tessa Han et.al.|[2602.11137](http://arxiv.org/abs/2602.11137)|null|
+|**2026-02-11**|**Just on Time: Token-Level Early Stopping for Diffusion Language Models**|Zahar Kohut et.al.|[2602.11133](http://arxiv.org/abs/2602.11133)|null|
+|**2026-02-11**|**TEGRA: Text Encoding With Graph and Retrieval Augmentation for Misinformation Detection**|Géraud Faye et.al.|[2602.11106](http://arxiv.org/abs/2602.11106)|null|
+|**2026-02-11**|**Safety Recovery in Reasoning Models Is Only a Few Early Steering Steps Away**|Soumya Suvra Ghosal et.al.|[2602.11096](http://arxiv.org/abs/2602.11096)|null|
+|**2026-02-11**|**Can Large Language Models Make Everyone Happy?**|Usman Naseem et.al.|[2602.11091](http://arxiv.org/abs/2602.11091)|null|
+|**2026-02-11**|**DataChef: Cooking Up Optimal Data Recipes for LLM Adaptation via Reinforcement Learning**|Yicheng Chen et.al.|[2602.11089](http://arxiv.org/abs/2602.11089)|null|
+|**2026-02-11**|**Vulnerabilities in Partial TEE-Shielded LLM Inference with Precomputed Noise**|Abhishek Saini et.al.|[2602.11088](http://arxiv.org/abs/2602.11088)|null|
+|**2026-02-11**|**SteuerLLM: Local specialized large language model for German tax law analysis**|Sebastian Wind et.al.|[2602.11081](http://arxiv.org/abs/2602.11081)|null|
+|**2026-02-11**|**In-the-Wild Model Organisms: Mitigating Undesirable Emergent Behaviors in Production LLM Post-Training via Data Attribution**|Frank Xiao et.al.|[2602.11079](http://arxiv.org/abs/2602.11079)|null|
+|**2026-02-11**|**Chatting with Images for Introspective Visual Thinking**|Junfei Wu et.al.|[2602.11073](http://arxiv.org/abs/2602.11073)|null|
+|**2026-02-11**|**Conversational Behavior Modeling Foundation Model With Multi-Level Perception**|Dingkun Zhou et.al.|[2602.11065](http://arxiv.org/abs/2602.11065)|null|
+|**2026-02-11**|**Divide, Harmonize, Then Conquer It: Shooting Multi-Commodity Flow Problems with Multimodal Language Models**|Xinyu Yuan et.al.|[2602.11057](http://arxiv.org/abs/2602.11057)|null|
+|**2026-02-11**|**Embedding Inversion via Conditional Masked Diffusion Language Models**|Han Xiao et.al.|[2602.11047](http://arxiv.org/abs/2602.11047)|null|
+|**2026-02-11**|**Language Model Inversion through End-to-End Differentiation**|Kevin Yandoka Denamganaï et.al.|[2602.11044](http://arxiv.org/abs/2602.11044)|null|
+|**2026-02-11**|**Chain-of-Look Spatial Reasoning for Dense Surgical Instrument Counting**|Rishikesh Bhyri et.al.|[2602.11024](http://arxiv.org/abs/2602.11024)|null|
+|**2026-02-11**|**Information Abstraction for Data Transmission Networks based on Large Language Models**|Haoyuan Zhu et.al.|[2602.11022](http://arxiv.org/abs/2602.11022)|null|
 |**2026-02-10**|**Biases in the Blind Spot: Detecting What LLMs Fail to Mention**|Iván Arcuschin et.al.|[2602.10117](http://arxiv.org/abs/2602.10117)|null|
 |**2026-02-10**|**ST4VLA: Spatially Guided Training for Vision-Language-Action Models**|Jinhui Ye et.al.|[2602.10109](http://arxiv.org/abs/2602.10109)|null|
 |**2026-02-10**|**Quantum-Audit: Evaluating the Reasoning Limits of LLMs on Quantum Computing**|Mohamed Afane et.al.|[2602.10092](http://arxiv.org/abs/2602.10092)|null|
@@ -3539,6 +3579,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-11**|**Beyond VLM-Based Rewards: Diffusion-Native Latent Reward Modeling**|Gongye Liu et.al.|[2602.11146](http://arxiv.org/abs/2602.11146)|null|
+|**2026-02-11**|**APEX: Learning Adaptive High-Platform Traversal for Humanoid Robots**|Yikai Wang et.al.|[2602.11143](http://arxiv.org/abs/2602.11143)|null|
+|**2026-02-11**|**Data-Efficient Hierarchical Goal-Conditioned Reinforcement Learning via Normalizing Flows**|Shaswat Garg et.al.|[2602.11142](http://arxiv.org/abs/2602.11142)|null|
+|**2026-02-11**|**Asymmetric Prompt Weighting for Reinforcement Learning with Verifiable Rewards**|Reinhard Heckel et.al.|[2602.11128](http://arxiv.org/abs/2602.11128)|null|
+|**2026-02-11**|**Safety Recovery in Reasoning Models Is Only a Few Early Steering Steps Away**|Soumya Suvra Ghosal et.al.|[2602.11096](http://arxiv.org/abs/2602.11096)|null|
+|**2026-02-11**|**DataChef: Cooking Up Optimal Data Recipes for LLM Adaptation via Reinforcement Learning**|Yicheng Chen et.al.|[2602.11089](http://arxiv.org/abs/2602.11089)|null|
+|**2026-02-11**|**General Flexible $f$ -divergence for Challenging Offline RL Datasets with Low Stochasticity and Diverse Behavior Policies**|Jianxun Wang et.al.|[2602.11087](http://arxiv.org/abs/2602.11087)|null|
+|**2026-02-11**|**Constrained Fiducial Inference for Gaussian Models**|Hank Flury et.al.|[2602.11080](http://arxiv.org/abs/2602.11080)|null|
+|**2026-02-11**|**Interpretable Attention-Based Multi-Agent PPO for Latency Spike Resolution in 6G RAN Slicing**|Kavan Fatehi et.al.|[2602.11076](http://arxiv.org/abs/2602.11076)|null|
+|**2026-02-11**|**RISE: Self-Improving Robot Policy with Compositional World Model**|Jiazhi Yang et.al.|[2602.11075](http://arxiv.org/abs/2602.11075)|null|
+|**2026-02-11**|**Chatting with Images for Introspective Visual Thinking**|Junfei Wu et.al.|[2602.11073](http://arxiv.org/abs/2602.11073)|null|
+|**2026-02-11**|**Simultaneous Speech-to-Speech Translation Without Aligned Data**|Tom Labiausse et.al.|[2602.11072](http://arxiv.org/abs/2602.11072)|null|
+|**2026-02-11**|**Divide, Harmonize, Then Conquer It: Shooting Multi-Commodity Flow Problems with Multimodal Language Models**|Xinyu Yuan et.al.|[2602.11057](http://arxiv.org/abs/2602.11057)|null|
+|**2026-02-11**|**OSIL: Learning Offline Safe Imitation Policies with Safety Inferred from Non-preferred Trajectories**|Returaj Burnwal et.al.|[2602.11018](http://arxiv.org/abs/2602.11018)|null|
+|**2026-02-11**|**Noise-balanced multilevel on-the-fly sparse grid surrogates for coupling Monte Carlo models into continuum models with application to heterogeneous catalysis**|Tobias Hülser et.al.|[2602.11006](http://arxiv.org/abs/2602.11006)|null|
+|**2026-02-11**|**Fine-Tuning GPT-5 for GPU Kernel Generation**|Ali Tehrani et.al.|[2602.11000](http://arxiv.org/abs/2602.11000)|null|
+|**2026-02-11**|**Multi-Task Reinforcement Learning of Drone Aerobatics by Exploiting Geometric Symmetries**|Zhanyu Guo et.al.|[2602.10997](http://arxiv.org/abs/2602.10997)|null|
+|**2026-02-11**|**Non-centred Bayesian inference for discrete-valued state-transition models: the Rippler algorithm**|James Neill et.al.|[2602.10924](http://arxiv.org/abs/2602.10924)|null|
+|**2026-02-11**|**Near-Constant Strong Violation and Last-Iterate Convergence for Online CMDPs via Decaying Safety Margins**|Qian Zuo et.al.|[2602.10917](http://arxiv.org/abs/2602.10917)|null|
+|**2026-02-11**|**Resource-Efficient Model-Free Reinforcement Learning for Board Games**|Kazuki Ota et.al.|[2602.10894](http://arxiv.org/abs/2602.10894)|null|
 |**2026-02-10**|**Robo3R: Enhancing Robotic Manipulation with Accurate Feed-Forward 3D Reconstruction**|Sizhe Yang et.al.|[2602.10101](http://arxiv.org/abs/2602.10101)|null|
 |**2026-02-10**|**Agent World Model: Infinity Synthetic Environments for Agentic Reinforcement Learning**|Zhaoyang Wang et.al.|[2602.10090](http://arxiv.org/abs/2602.10090)|null|
 |**2026-02-10**|**CODE-SHARP: Continuous Open-ended Discovery and Evolution of Skills as Hierarchical Reward Programs**|Richard Bornemann et.al.|[2602.10085](http://arxiv.org/abs/2602.10085)|null|
