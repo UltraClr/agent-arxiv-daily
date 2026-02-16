@@ -21,6 +21,25 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-13**|**Asynchronous Verified Semantic Caching for Tiered LLM Architectures**|Asmit Kumar Singh et.al.|[2602.13165](http://arxiv.org/abs/2602.13165)|null|
+|**2026-02-13**|**In-Context Autonomous Network Incident Response: An End-to-End Large Language Model Agent Approach**|Yiran Gao et.al.|[2602.13156](http://arxiv.org/abs/2602.13156)|null|
+|**2026-02-13**|**Automating UI Optimization through Multi-Agentic Reasoning**|Zhipeng Li et.al.|[2602.13126](http://arxiv.org/abs/2602.13126)|null|
+|**2026-02-13**|**TraceBack: Multi-Agent Decomposition for Fine-Grained Table Attribution**|Tejas Anvekar et.al.|[2602.13059](http://arxiv.org/abs/2602.13059)|null|
+|**2026-02-13**|**Quantization-Aware Collaborative Inference for Large Embodied AI Models**|Zhonghao Lyu et.al.|[2602.13052](http://arxiv.org/abs/2602.13052)|null|
+|**2026-02-13**|**SciAgentGym: Benchmarking Multi-Step Scientific Tool-use in LLM Agents**|Yujiong Shen et.al.|[2602.12984](http://arxiv.org/abs/2602.12984)|null|
+|**2026-02-13**|**Human Tool: An MCP-Style Framework for Human-Agent Collaboration**|Yuanrong Tang et.al.|[2602.12953](http://arxiv.org/abs/2602.12953)|null|
+|**2026-02-13**|**BrowseComp- $V^3$ : A Visual, Vertical, and Verifiable Benchmark for Multimodal Browsing Agents**|Huanyao Zhang et.al.|[2602.12876](http://arxiv.org/abs/2602.12876)|null|
+|**2026-02-13**|**WebClipper: Efficient Evolution of Web Agents with Graph-based Trajectory Pruning**|Junjie Wang et.al.|[2602.12852](http://arxiv.org/abs/2602.12852)|null|
+|**2026-02-13**|**SkillsBench: Benchmarking How Well Agent Skills Work Across Diverse Tasks**|Xiangyi Li et.al.|[2602.12670](http://arxiv.org/abs/2602.12670)|null|
+|**2026-02-13**|**Think Fast and Slow: Step-Level Cognitive Depth Adaptation for LLM Agents**|Ruihan Yang et.al.|[2602.12662](http://arxiv.org/abs/2602.12662)|null|
+|**2026-02-13**|**The Rise of AI Agent Communities: Large-Scale Analysis of Discourse and Interaction on Moltbook**|Lingyao Li et.al.|[2602.12634](http://arxiv.org/abs/2602.12634)|null|
+|**2026-02-13**|**AI Agents for Inventory Control: Human-LLM-OR Complementarity**|Jackie Baek et.al.|[2602.12631](http://arxiv.org/abs/2602.12631)|null|
+|**2026-02-13**|**Opinion dynamics and mutual influence with LLM agents through dialog simulation**|Yulong He et.al.|[2602.12583](http://arxiv.org/abs/2602.12583)|null|
+|**2026-02-13**|**Scaling Web Agent Training through Automatic Data Generation and Fine-grained Evaluation**|Lajanugen Logeswaran et.al.|[2602.12544](http://arxiv.org/abs/2602.12544)|null|
+|**2026-02-13**|**Favia: Forensic Agent for Vulnerability-fix Identification and Analysis**|André Storhaug et.al.|[2602.12500](http://arxiv.org/abs/2602.12500)|null|
+|**2026-02-12**|**Existence Results and KKT Optimality Conditions for Generalized Quasiconvex Functions**|M. H. Alizadeh et.al.|[2602.12455](http://arxiv.org/abs/2602.12455)|null|
+|**2026-02-12**|**Agent Skills for Large Language Models: Architecture, Acquisition, Security, and the Path Forward**|Renjun Xu et.al.|[2602.12430](http://arxiv.org/abs/2602.12430)|null|
+|**2026-02-12**|**Provably Convergent Actor-Critic in Risk-averse MARL**|Yizhou Zhang et.al.|[2602.12386](http://arxiv.org/abs/2602.12386)|null|
 |**2026-02-12**|**Agentic Test-Time Scaling for WebAgents**|Nicholas Lee et.al.|[2602.12276](http://arxiv.org/abs/2602.12276)|null|
 |**2026-02-12**|**CM2: Reinforcement Learning with Checklist Rewards for Multi-Turn and Multi-Step Agentic Tool Use**|Zhen Zhang et.al.|[2602.12268](http://arxiv.org/abs/2602.12268)|null|
 |**2026-02-12**|**Think like a Scientist: Physics-guided LLM Agent for Equation Discovery**|Jianke Yang et.al.|[2602.12259](http://arxiv.org/abs/2602.12259)|null|
@@ -2014,6 +2033,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-13**|**Semantic Chunking and the Entropy of Natural Language**|Weishun Zhong et.al.|[2602.13194](http://arxiv.org/abs/2602.13194)|null|
+|**2026-02-13**|**Steerable Vision-Language-Action Policies for Embodied Reasoning and Hierarchical Control**|William Chen et.al.|[2602.13193](http://arxiv.org/abs/2602.13193)|null|
+|**2026-02-13**|**CoPE-VideoLM: Codec Primitives For Efficient Video Language Models**|Sayan Deb Sarkar et.al.|[2602.13191](http://arxiv.org/abs/2602.13191)|null|
+|**2026-02-13**|**Asynchronous Verified Semantic Caching for Tiered LLM Architectures**|Asmit Kumar Singh et.al.|[2602.13165](http://arxiv.org/abs/2602.13165)|null|
+|**2026-02-13**|**In-Context Autonomous Network Incident Response: An End-to-End Large Language Model Agent Approach**|Yiran Gao et.al.|[2602.13156](http://arxiv.org/abs/2602.13156)|null|
+|**2026-02-13**|**Peaceful Anarcho-Accelerationism: Decentralized Full Automation for a Society of Universal Care**|Eduardo C. Garrido-Merchán et.al.|[2602.13154](http://arxiv.org/abs/2602.13154)|null|
+|**2026-02-13**|**Quantization-Robust LLM Unlearning via Low-Rank Adaptation**|João Vitor Boer Abitante et.al.|[2602.13151](http://arxiv.org/abs/2602.13151)|null|
+|**2026-02-13**|**SCOPE: Selective Conformal Optimized Pairwise LLM Judging**|Sher Badshah et.al.|[2602.13110](http://arxiv.org/abs/2602.13110)|null|
+|**2026-02-13**|**Consistency of Large Reasoning Models Under Multi-Turn Attacks**|Yubo Li et.al.|[2602.13093](http://arxiv.org/abs/2602.13093)|null|
+|**2026-02-13**|**Exploring a New Competency Modeling Process with Large Language Models**|Silin Du et.al.|[2602.13084](http://arxiv.org/abs/2602.13084)|null|
+|**2026-02-13**|**Agentic AI for Robot Control: Flexible but still Fragile**|Oscar Lima et.al.|[2602.13081](http://arxiv.org/abs/2602.13081)|null|
+|**2026-02-13**|**LCSB: Layer-Cyclic Selective Backpropagation for Memory-Efficient On-Device LLM Fine-Tuning**|Juneyoung Park et.al.|[2602.13073](http://arxiv.org/abs/2602.13073)|null|
+|**2026-02-13**|**Bus-Conditioned Zero-Shot Trajectory Generation via Task Arithmetic**|Shuai Liu et.al.|[2602.13071](http://arxiv.org/abs/2602.13071)|null|
+|**2026-02-13**|**Memory-Efficient Structured Backpropagation for On-Device LLM Fine-Tuning**|Juneyoung Park et.al.|[2602.13069](http://arxiv.org/abs/2602.13069)|null|
+|**2026-02-13**|**GPTZero: Robust Detection of LLM-Generated Texts**|George Alexandru Adam et.al.|[2602.13042](http://arxiv.org/abs/2602.13042)|null|
+|**2026-02-13**|**Implicit-Scale 3D Reconstruction for Multi-Food Volume Estimation from Monocular Images**|Yuhao Chen et.al.|[2602.13041](http://arxiv.org/abs/2602.13041)|null|
+|**2026-02-13**|**Look Inward to Explore Outward: Learning Temperature Policy from LLM Internal States via Hierarchical RL**|Yixiao Zhou et.al.|[2602.13035](http://arxiv.org/abs/2602.13035)|null|
+|**2026-02-13**|**Buy versus Build an LLM: A Decision Framework for Governments**|Jiahao Lu et.al.|[2602.13033](http://arxiv.org/abs/2602.13033)|null|
+|**2026-02-13**|**Human-Aligned MLLM Judges for Fine-Grained Image Editing Evaluation: A Benchmark, Framework, and Analysis**|Runzhou Liu et.al.|[2602.13028](http://arxiv.org/abs/2602.13028)|null|
+|**2026-02-13**|**Know More, Know Clearer: A Meta-Cognitive Framework for Knowledge Augmentation in Large Language Models**|Hao Chen et.al.|[2602.12996](http://arxiv.org/abs/2602.12996)|null|
 |**2026-02-12**|**Scaling Verification Can Be More Effective than Scaling Policy Learning for Vision-Language-Action Alignment**|Jacky Kwok et.al.|[2602.12281](http://arxiv.org/abs/2602.12281)|null|
 |**2026-02-12**|**UniT: Unified Multimodal Chain-of-Thought Test-time Scaling**|Leon Liangyu Chen et.al.|[2602.12279](http://arxiv.org/abs/2602.12279)|null|
 |**2026-02-12**|**AttentionRetriever: Attention Layers are Secretly Long Document Retrievers**|David Jiahao Fu et.al.|[2602.12278](http://arxiv.org/abs/2602.12278)|null|
@@ -3628,6 +3667,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-13**|**$\texttt{GPUmonty}$ : A GPU-accelerated relativistic Monte Carlo radiative transfer code**|Pedro Naethe Motta et.al.|[2602.13198](http://arxiv.org/abs/2602.13198)|null|
+|**2026-02-13**|**Nuclear gradients from auxiliary-field quantum Monte Carlo and their application in geometry optimization and transition state search**|Jo S. Kurian et.al.|[2602.13187](http://arxiv.org/abs/2602.13187)|null|
+|**2026-02-13**|**Operator Learning for Families of Finite-State Mean-Field Games**|William Hofgard et.al.|[2602.13169](http://arxiv.org/abs/2602.13169)|null|
+|**2026-02-13**|**A Data-Driven Algorithm for Model-Free Control Synthesis**|Sean Bowerfind et.al.|[2602.13157](http://arxiv.org/abs/2602.13157)|null|
+|**2026-02-13**|**In-Context Autonomous Network Incident Response: An End-to-End Large Language Model Agent Approach**|Yiran Gao et.al.|[2602.13156](http://arxiv.org/abs/2602.13156)|null|
+|**2026-02-13**|**Learning to Approximate Uniform Facility Location via Graph Neural Networks**|Chendi Qian et.al.|[2602.13155](http://arxiv.org/abs/2602.13155)|null|
+|**2026-02-13**|**Peaceful Anarcho-Accelerationism: Decentralized Full Automation for a Society of Universal Care**|Eduardo C. Garrido-Merchán et.al.|[2602.13154](http://arxiv.org/abs/2602.13154)|null|
+|**2026-02-13**|**Deconfinement from Thermal Tensor Networks: Universal CFT signature in (2+1)-dimensional $\mathbb{Z}_N$ lattice gauge theory**|Adwait Naravane et.al.|[2602.13124](http://arxiv.org/abs/2602.13124)|null|
+|**2026-02-13**|**Curriculum-DPO++: Direct Preference Optimization via Data and Model Curricula for Text-to-Image Generation**|Florinel-Alin Croitoru et.al.|[2602.13055](http://arxiv.org/abs/2602.13055)|null|
+|**2026-02-13**|**TCRL: Temporal-Coupled Adversarial Training for Robust Constrained Reinforcement Learning in Worst-Case Scenarios**|Wentao Xu et.al.|[2602.13040](http://arxiv.org/abs/2602.13040)|null|
+|**2026-02-13**|**Look Inward to Explore Outward: Learning Temperature Policy from LLM Internal States via Hierarchical RL**|Yixiao Zhou et.al.|[2602.13035](http://arxiv.org/abs/2602.13035)|null|
+|**2026-02-13**|**How Swarms Differ: Challenges in Collective Behaviour Comparison**|André Fialho Jesus et.al.|[2602.13016](http://arxiv.org/abs/2602.13016)|null|
+|**2026-02-13**|**Neural Quantum States Based on Selected Configurations**|Marco Julian Solanki et.al.|[2602.12993](http://arxiv.org/abs/2602.12993)|null|
+|**2026-02-13**|**ProbeLLM: Automating Principled Diagnosis of LLM Failures**|Yue Huang et.al.|[2602.12966](http://arxiv.org/abs/2602.12966)|null|
+|**2026-02-13**|**TFTF: Training-Free Targeted Flow for Conditional Sampling**|Qianqian Qu et.al.|[2602.12932](http://arxiv.org/abs/2602.12932)|null|
+|**2026-02-13**|**Hierarchical Reinforcement Learning for Cooperative Air-Ground Delivery in Urban System**|Songxin Lei et.al.|[2602.12913](http://arxiv.org/abs/2602.12913)|null|
+|**2026-02-13**|**A unified testing approach for log-symmetry using Fourier methods**|Ganesh Vishnu Avhad et.al.|[2602.12900](http://arxiv.org/abs/2602.12900)|null|
+|**2026-02-13**|**BSN-VI: Multiband Light Curve Modeling of Four W UMa-Type Contact Binaries I. Revisiting Energy Transfer Mechanisms and Luminosity Behavior**|Elham Sarvari et.al.|[2602.12864](http://arxiv.org/abs/2602.12864)|null|
+|**2026-02-13**|**The Refractive Index of Gallium Antimonide**|Ulrich Galander et.al.|[2602.12862](http://arxiv.org/abs/2602.12862)|null|
+|**2026-02-13**|**DPUConfig: Optimizing ML Inference in FPGAs Using Reinforcement Learning**|Alexandros Patras et.al.|[2602.12847](http://arxiv.org/abs/2602.12847)|null|
 |**2026-02-12**|**CM2: Reinforcement Learning with Checklist Rewards for Multi-Turn and Multi-Step Agentic Tool Use**|Zhen Zhang et.al.|[2602.12268](http://arxiv.org/abs/2602.12268)|null|
 |**2026-02-12**|**Intrinsic-Energy Joint Embedding Predictive Architectures Induce Quasimetric Spaces**|Anthony Kobanda et.al.|[2602.12245](http://arxiv.org/abs/2602.12245)|null|
 |**2026-02-12**|**Any House Any Task: Scalable Long-Horizon Planning for Abstract Human Tasks**|Zhihong Liu et.al.|[2602.12244](http://arxiv.org/abs/2602.12244)|null|
