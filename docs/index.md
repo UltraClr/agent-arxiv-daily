@@ -16,6 +16,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-16**|**Hunt Globally: Deep Research AI Agents for Drug Asset Scouting in Investing, Business Development, and Search & Evaluation**|Alisa Vinogradova et.al.|[2602.15019](http://arxiv.org/abs/2602.15019)|null|
+|**2026-02-16**|**PhyScensis: Physics-Augmented LLM Agents for Complex Physical Scene Arrangement**|Yian Wang et.al.|[2602.14968](http://arxiv.org/abs/2602.14968)|null|
+|**2026-02-16**|**Sovereign Agents: Towards Infrastructural Sovereignty and Diffused Accountability in Decentralized AI**|Botao Amber Hu et.al.|[2602.14951](http://arxiv.org/abs/2602.14951)|null|
+|**2026-02-16**|**MAC-AMP: A Closed-Loop Multi-Agent Collaboration System for Multi-Objective Antimicrobial Peptide Design**|Gen Zhou et.al.|[2602.14926](http://arxiv.org/abs/2602.14926)|null|
+|**2026-02-16**|**Model Context Protocol (MCP) Tool Descriptions Are Smelly! Towards Improving AI Agent Efficiency with Augmented MCP Tool Descriptions**|Mohammed Mehedi Hasan et.al.|[2602.14878](http://arxiv.org/abs/2602.14878)|null|
+|**2026-02-16**|**EmbeWebAgent: Embedding Web Agents into Any Customized UI**|Chenyang Ma et.al.|[2602.14865](http://arxiv.org/abs/2602.14865)|null|
+|**2026-02-16**|**Atomix: Timely, Transactional Tool Use for Reliable Agentic Workflows**|Bardia Mohammadi et.al.|[2602.14849](http://arxiv.org/abs/2602.14849)|null|
+|**2026-02-16**|**On Convergence Analysis of Network-GIANT: An approximate Hessian-based fully distributed optimization algorithm**|Souvik Das et.al.|[2602.14830](http://arxiv.org/abs/2602.14830)|null|
+|**2026-02-16**|**Overthinking Loops in Agents: A Structural Risk via MCP Tools**|Yohan Lee et.al.|[2602.14798](http://arxiv.org/abs/2602.14798)|null|
+|**2026-02-16**|**WebWorld: A Large-Scale World Model for Web Agent Training**|Zikai Xiao et.al.|[2602.14721](http://arxiv.org/abs/2602.14721)|null|
+|**2026-02-16**|**Removing Planner Bias in Goal Recognition Through Multi-Plan Dataset Generation**|Mustafa F. Abdelwahed et.al.|[2602.14691](http://arxiv.org/abs/2602.14691)|null|
+|**2026-02-16**|**ST-EVO: Towards Generative Spatio-Temporal Evolution of Multi-Agent Communication Topologies**|Xingjian Wu et.al.|[2602.14681](http://arxiv.org/abs/2602.14681)|null|
+|**2026-02-16**|**FactorMiner: A Self-Evolving Agent with Skills and Experience Memory for Financial Alpha Discovery**|Yanlong Wang et.al.|[2602.14670](http://arxiv.org/abs/2602.14670)|null|
+|**2026-02-16**|**Towards Selection as Power: Bounding Decision Authority in Autonomous Agents**|Jose Manuel de la Chica Rodriguez et.al.|[2602.14606](http://arxiv.org/abs/2602.14606)|null|
+|**2026-02-16**|**MATEO: A Multimodal Benchmark for Temporal Reasoning and Planning in LVLMs**|Gabriel Roccabruna et.al.|[2602.14589](http://arxiv.org/abs/2602.14589)|null|
+|**2026-02-16**|**Efficient Multi-round LLM Inference over Disaggregated Serving**|Wenhao He et.al.|[2602.14516](http://arxiv.org/abs/2602.14516)|null|
+|**2026-02-16**|**When OpenClaw AI Agents Teach Each Other: Peer Learning Patterns in the Moltbook Community**|Eason Chen et.al.|[2602.14477](http://arxiv.org/abs/2602.14477)|null|
+|**2026-02-16**|**Socially-Weighted Alignment: A Game-Theoretic Framework for Multi-Agent LLM Systems**|Furkan Mumcu et.al.|[2602.14471](http://arxiv.org/abs/2602.14471)|null|
+|**2026-02-16**|**Traceable Latent Variable Discovery Based on Multi-Agent Collaboration**|Huaming Du et.al.|[2602.14456](http://arxiv.org/abs/2602.14456)|null|
+|**2026-02-16**|**RoboSolver: A Multi-Agent Large Language Model Framework for Solving Robotic Arm Problems**|Hamid Khabazi et.al.|[2602.14438](http://arxiv.org/abs/2602.14438)|null|
 |**2026-02-13**|**Asynchronous Verified Semantic Caching for Tiered LLM Architectures**|Asmit Kumar Singh et.al.|[2602.13165](http://arxiv.org/abs/2602.13165)|null|
 |**2026-02-13**|**In-Context Autonomous Network Incident Response: An End-to-End Large Language Model Agent Approach**|Yiran Gao et.al.|[2602.13156](http://arxiv.org/abs/2602.13156)|null|
 |**2026-02-13**|**Automating UI Optimization through Multi-Agentic Reasoning**|Zhipeng Li et.al.|[2602.13126](http://arxiv.org/abs/2602.13126)|null|
@@ -2026,6 +2046,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-16**|**Symmetry in language statistics shapes the geometry of model representations**|Dhruva Karkada et.al.|[2602.15029](http://arxiv.org/abs/2602.15029)|null|
+|**2026-02-16**|**Long Context, Less Focus: A Scaling Gap in LLMs Revealed through Privacy and Personalization**|Shangding Gu et.al.|[2602.15028](http://arxiv.org/abs/2602.15028)|null|
+|**2026-02-16**|**Scaling Beyond Masked Diffusion Language Models**|Subham Sekhar Sahoo et.al.|[2602.15014](http://arxiv.org/abs/2602.15014)|null|
+|**2026-02-16**|**Text Style Transfer with Parameter-efficient LLM Finetuning and Round-trip Translation**|Ruoxi Liu et.al.|[2602.15013](http://arxiv.org/abs/2602.15013)|null|
+|**2026-02-16**|**BPP: Long-Context Robot Imitation Learning by Focusing on Key History Frames**|Max Sobol Mark et.al.|[2602.15010](http://arxiv.org/abs/2602.15010)|null|
+|**2026-02-16**|**Learning User Interests via Reasoning and Distillation for Cross-Domain News Recommendation**|Mengdan Zhu et.al.|[2602.15005](http://arxiv.org/abs/2602.15005)|null|
+|**2026-02-16**|**ThermEval: A Structured Benchmark for Evaluation of Vision-Language Models on Thermal Imagery**|Ayush Shrivastava et.al.|[2602.14989](http://arxiv.org/abs/2602.14989)|null|
+|**2026-02-16**|**DM0: An Embodied-Native Vision-Language-Action Model towards Physical AI**|En Yu et.al.|[2602.14974](http://arxiv.org/abs/2602.14974)|null|
+|**2026-02-16**|**Counterfactual Fairness Evaluation of LLM-Based Contact Center Agent Quality Assurance System**|Kawin Mayilvaghanan et.al.|[2602.14970](http://arxiv.org/abs/2602.14970)|null|
+|**2026-02-16**|**Activation-Space Uncertainty Quantification for Pretrained Networks**|Richard Bergna et.al.|[2602.14934](http://arxiv.org/abs/2602.14934)|null|
+|**2026-02-16**|**MAC-AMP: A Closed-Loop Multi-Agent Collaboration System for Multi-Objective Antimicrobial Peptide Design**|Gen Zhou et.al.|[2602.14926](http://arxiv.org/abs/2602.14926)|null|
+|**2026-02-16**|**The Potential of CoT for Reasoning: A Closer Look at Trace Dynamics**|Gregor Bachmann et.al.|[2602.14903](http://arxiv.org/abs/2602.14903)|null|
+|**2026-02-16**|**Algorithmic Simplification of Neural Networks with Mosaic-of-Motifs**|Pedram Bakhtiarifard et.al.|[2602.14896](http://arxiv.org/abs/2602.14896)|null|
+|**2026-02-16**|**Concept Influence: Leveraging Interpretability to Improve Performance and Efficiency in Training Data Attribution**|Matthew Kowal et.al.|[2602.14869](http://arxiv.org/abs/2602.14869)|null|
+|**2026-02-16**|**Goldilocks RL: Tuning Task Difficulty to Escape Sparse Rewards for Reasoning**|Ilia Mahrooghi et.al.|[2602.14868](http://arxiv.org/abs/2602.14868)|null|
+|**2026-02-16**|**The Well-Tempered Classifier: Some Elementary Properties of Temperature Scaling**|Pierre-Alexandre Mattei et.al.|[2602.14862](http://arxiv.org/abs/2602.14862)|null|
+|**2026-02-16**|**World Models for Policy Refinement in StarCraft II**|Yixin Zhang et.al.|[2602.14857](http://arxiv.org/abs/2602.14857)|null|
+|**2026-02-16**|**RF-GPT: Teaching AI to See the Wireless World**|Hang Zou et.al.|[2602.14833](http://arxiv.org/abs/2602.14833)|null|
+|**2026-02-16**|**Testimole-Conversational: A 30-Billion-Word Italian Discussion Board Corpus (1996-2024) for Language Modeling and Sociolinguistic Research**|Matteo Rinaldi et.al.|[2602.14819](http://arxiv.org/abs/2602.14819)|null|
+|**2026-02-16**|**Learning State-Tracking from Code Using Linear RNNs**|Julien Siems et.al.|[2602.14814](http://arxiv.org/abs/2602.14814)|null|
 |**2026-02-13**|**Semantic Chunking and the Entropy of Natural Language**|Weishun Zhong et.al.|[2602.13194](http://arxiv.org/abs/2602.13194)|null|
 |**2026-02-13**|**Steerable Vision-Language-Action Policies for Embodied Reasoning and Hierarchical Control**|William Chen et.al.|[2602.13193](http://arxiv.org/abs/2602.13193)|null|
 |**2026-02-13**|**CoPE-VideoLM: Codec Primitives For Efficient Video Language Models**|Sayan Deb Sarkar et.al.|[2602.13191](http://arxiv.org/abs/2602.13191)|null|
@@ -3658,6 +3698,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-16**|**Modeling isolated magnetar spin-down evolution and implications for long-period radio transients**|Jon Kwong et.al.|[2602.15024](http://arxiv.org/abs/2602.15024)|null|
+|**2026-02-16**|**Cold-Start Personalization via Training-Free Priors from Structured World Models**|Avinandan Bose et.al.|[2602.15012](http://arxiv.org/abs/2602.15012)|null|
+|**2026-02-16**|**BPP: Long-Context Robot Imitation Learning by Focusing on Key History Frames**|Max Sobol Mark et.al.|[2602.15010](http://arxiv.org/abs/2602.15010)|null|
+|**2026-02-16**|**Learning User Interests via Reasoning and Distillation for Cross-Domain News Recommendation**|Mengdan Zhu et.al.|[2602.15005](http://arxiv.org/abs/2602.15005)|null|
+|**2026-02-16**|**Activation-Space Uncertainty Quantification for Pretrained Networks**|Richard Bergna et.al.|[2602.14934](http://arxiv.org/abs/2602.14934)|null|
+|**2026-02-16**|**MAC-AMP: A Closed-Loop Multi-Agent Collaboration System for Multi-Objective Antimicrobial Peptide Design**|Gen Zhou et.al.|[2602.14926](http://arxiv.org/abs/2602.14926)|null|
+|**2026-02-16**|**Auxiliary field quantum Monte Carlo at the basis set limit: application to lattice constants**|Moritz Humer et.al.|[2602.14923](http://arxiv.org/abs/2602.14923)|null|
+|**2026-02-16**|**BFS-PO: Best-First Search for Large Reasoning Models**|Fiorenzo Parascandolo et.al.|[2602.14917](http://arxiv.org/abs/2602.14917)|null|
+|**2026-02-16**|**On the Learning Dynamics of RLVR at the Edge of Competence**|Yu Huang et.al.|[2602.14872](http://arxiv.org/abs/2602.14872)|null|
+|**2026-02-16**|**Goldilocks RL: Tuning Task Difficulty to Escape Sparse Rewards for Reasoning**|Ilia Mahrooghi et.al.|[2602.14868](http://arxiv.org/abs/2602.14868)|null|
+|**2026-02-16**|**Gauge-independent gravitational waves from a minimal dark $U(1)$ sector with viable dark matter candidates**|Wan-Zhe Feng et.al.|[2602.14866](http://arxiv.org/abs/2602.14866)|null|
+|**2026-02-16**|**Bias analysis of a linear order-statistic inequality index estimator: Unbiasedness under gamma populations**|Roberto Vila et.al.|[2602.14861](http://arxiv.org/abs/2602.14861)|null|
+|**2026-02-16**|**Lower Estimates for $L_1$ -Distortion of Transportation Cost Spaces**|Chris Gartland et.al.|[2602.14852](http://arxiv.org/abs/2602.14852)|null|
+|**2026-02-16**|**Interactionless Inverse Reinforcement Learning: A Data-Centric Framework for Durable Alignment**|Elias Malomgré et.al.|[2602.14844](http://arxiv.org/abs/2602.14844)|null|
+|**2026-02-16**|**Constructions of linear codes from vectorial plateaued functions and their subfield codes with applications to quantum CSS codes**|Virginio Fratianni et.al.|[2602.14832](http://arxiv.org/abs/2602.14832)|null|
+|**2026-02-16**|**The empirical distribution of sequential LS factors in Multi-level Dynamic Factor Models**|Gian Pietro Bellocca et.al.|[2602.14813](http://arxiv.org/abs/2602.14813)|null|
+|**2026-02-16**|**ManeuverNet: A Soft Actor-Critic Framework for Precise Maneuvering of Double-Ackermann-Steering Robots with Optimized Reward Functions**|Kohio Deflesselle et.al.|[2602.14726](http://arxiv.org/abs/2602.14726)|null|
+|**2026-02-16**|**Evolutionary System Prompt Learning can Facilitate Reinforcement Learning for LLMs**|Lunjun Zhang et.al.|[2602.14697](http://arxiv.org/abs/2602.14697)|null|
+|**2026-02-16**|**Weak Poincaré inequalities for Deterministic-scan Metropolis-within-Gibbs samplers**|Mengxi Gao et.al.|[2602.14692](http://arxiv.org/abs/2602.14692)|null|
+|**2026-02-16**|**GREAT-EER: Graph Edge Attention Network for Emergency Evacuation Responses**|Attila Lischka et.al.|[2602.14676](http://arxiv.org/abs/2602.14676)|null|
 |**2026-02-13**|**$\texttt{GPUmonty}$ : A GPU-accelerated relativistic Monte Carlo radiative transfer code**|Pedro Naethe Motta et.al.|[2602.13198](http://arxiv.org/abs/2602.13198)|null|
 |**2026-02-13**|**Nuclear gradients from auxiliary-field quantum Monte Carlo and their application in geometry optimization and transition state search**|Jo S. Kurian et.al.|[2602.13187](http://arxiv.org/abs/2602.13187)|null|
 |**2026-02-13**|**Operator Learning for Families of Finite-State Mean-Field Games**|William Hofgard et.al.|[2602.13169](http://arxiv.org/abs/2602.13169)|null|
