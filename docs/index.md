@@ -16,7 +16,24 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-02-16**|**Hunt Globally: Deep Research AI Agents for Drug Asset Scouting in Investing, Business Development, and Search & Evaluation**|Alisa Vinogradova et.al.|[2602.15019](http://arxiv.org/abs/2602.15019)|null|
+|**2026-02-17**|**Developing AI Agents with Simulated Data: Why, what, and how?**|Xiaoran Liu et.al.|[2602.15816](http://arxiv.org/abs/2602.15816)|null|
+|**2026-02-17**|**Decision Quality Evaluation Framework at Pinterest**|Yuqi Tian et.al.|[2602.15809](http://arxiv.org/abs/2602.15809)|null|
+|**2026-02-17**|**GlobeDiff: State Diffusion Process for Partial Observability in Multi-Agent Systems**|Yiqin Yang et.al.|[2602.15776](http://arxiv.org/abs/2602.15776)|null|
+|**2026-02-17**|**GLM-5: from Vibe Coding to Agentic Engineering**|GLM-5 Team et.al.|[2602.15763](http://arxiv.org/abs/2602.15763)|null|
+|**2026-02-17**|**Zombie Agents: Persistent Control of Self-Evolving LLM Agents via Self-Reinforcing Injections**|Xianglin Yang et.al.|[2602.15654](http://arxiv.org/abs/2602.15654)|null|
+|**2026-02-17**|**Improving MLLMs in Embodied Exploration and Question Answering with Human-Inspired Memory Modeling**|Ji Li et.al.|[2602.15513](http://arxiv.org/abs/2602.15513)|null|
+|**2026-02-17**|**In Agents We Trust, but Who Do Agents Trust? Latent Source Preferences Steer LLM Generations**|Mohammad Aflah Khan et.al.|[2602.15456](http://arxiv.org/abs/2602.15456)|null|
+|**2026-02-17**|**World-Model-Augmented Web Agents with Action Correction**|Zhouzhou Shen et.al.|[2602.15384](http://arxiv.org/abs/2602.15384)|null|
+|**2026-02-17**|**EventMemAgent: Hierarchical Event-Centric Memory for Online Video Understanding with Adaptive Tool Use**|Siwei Wen et.al.|[2602.15329](http://arxiv.org/abs/2602.15329)|null|
+|**2026-02-17**|**AgriWorld:A World Tools Protocol Framework for Verifiable Agricultural Reasoning with Code-Executing LLM Agents**|Zhixing Zhang et.al.|[2602.15325](http://arxiv.org/abs/2602.15325)|null|
+|**2026-02-17**|**Visual Persuasion: What Influences Decisions of Vision-Language Models?**|Manuel Cherep et.al.|[2602.15278](http://arxiv.org/abs/2602.15278)|null|
+|**2026-02-17**|**Hunt Globally: Wide Search AI Agents for Drug Asset Scouting in Investing, Business Development, and Competitive Intelligence**|Alisa Vinogradova et.al.|[2602.15019](http://arxiv.org/abs/2602.15019)|null|
+|**2026-02-16**|**Knowing Isn't Understanding: Re-grounding Generative Proactivity with Epistemic and Behavioral Insight**|Kirandeep Kaur et.al.|[2602.15259](http://arxiv.org/abs/2602.15259)|null|
+|**2026-02-16**|**Secure and Energy-Efficient Wireless Agentic AI Networks**|Yuanyan Song et.al.|[2602.15212](http://arxiv.org/abs/2602.15212)|null|
+|**2026-02-16**|**Colosseum: Auditing Collusion in Cooperative Multi-Agent Systems**|Mason Nakamura et.al.|[2602.15198](http://arxiv.org/abs/2602.15198)|null|
+|**2026-02-16**|**OpaqueToolsBench: Learning Nuances of Tool Behavior Through Interaction**|Skyler Hallinan et.al.|[2602.15197](http://arxiv.org/abs/2602.15197)|null|
+|**2026-02-16**|**Mind the (DH) Gap! A Contrast in Risky Choices Between Reasoning and Conversational LLMs**|Luise Ge et.al.|[2602.15173](http://arxiv.org/abs/2602.15173)|null|
+|**2026-02-16**|**ResearchGym: Evaluating Language Model Agents on Real-World AI Research**|Aniketh Garikaparthi et.al.|[2602.15112](http://arxiv.org/abs/2602.15112)|null|
 |**2026-02-16**|**PhyScensis: Physics-Augmented LLM Agents for Complex Physical Scene Arrangement**|Yian Wang et.al.|[2602.14968](http://arxiv.org/abs/2602.14968)|null|
 |**2026-02-16**|**Sovereign Agents: Towards Infrastructural Sovereignty and Diffused Accountability in Decentralized AI**|Botao Amber Hu et.al.|[2602.14951](http://arxiv.org/abs/2602.14951)|null|
 |**2026-02-16**|**MAC-AMP: A Closed-Loop Multi-Agent Collaboration System for Multi-Objective Antimicrobial Peptide Design**|Gen Zhou et.al.|[2602.14926](http://arxiv.org/abs/2602.14926)|null|
@@ -2046,6 +2063,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-17**|**Operationalising the Superficial Alignment Hypothesis via Task Complexity**|Tomás Vergara-Browne et.al.|[2602.15829](http://arxiv.org/abs/2602.15829)|null|
+|**2026-02-17**|**CrispEdit: Low-Curvature Projections for Scalable Non-Destructive LLM Editing**|Zarif Ikram et.al.|[2602.15823](http://arxiv.org/abs/2602.15823)|null|
+|**2026-02-17**|**VideoSketcher: Video Models Prior Enable Versatile Sequential Sketch Generation**|Hui Ren et.al.|[2602.15819](http://arxiv.org/abs/2602.15819)|null|
+|**2026-02-17**|**FAST-EQA: Efficient Embodied Question Answering with Global and Local Region Relevancy**|Haochen Zhang et.al.|[2602.15813](http://arxiv.org/abs/2602.15813)|null|
+|**2026-02-17**|**Decision Quality Evaluation Framework at Pinterest**|Yuqi Tian et.al.|[2602.15809](http://arxiv.org/abs/2602.15809)|null|
+|**2026-02-17**|**The Geometry of Alignment Collapse: When Fine-Tuning Breaks Safety**|Max Springer et.al.|[2602.15799](http://arxiv.org/abs/2602.15799)|null|
+|**2026-02-17**|**Enhancing Building Semantics Preservation in AI Model Training with Large Language Model Encodings**|Suhyung Jang et.al.|[2602.15791](http://arxiv.org/abs/2602.15791)|null|
+|**2026-02-17**|**This human study did not involve human subjects: Validating LLM simulations as behavioral evidence**|Jessica Hullman et.al.|[2602.15785](http://arxiv.org/abs/2602.15785)|null|
+|**2026-02-17**|**Neural Scaling Laws for Boosted Jet Tagging**|Matthias Vigl et.al.|[2602.15781](http://arxiv.org/abs/2602.15781)|null|
+|**2026-02-17**|**ViTaB-A: Evaluating Multimodal Large Language Models on Visual Table Attribution**|Yahia Alqurnawi et.al.|[2602.15769](http://arxiv.org/abs/2602.15769)|null|
+|**2026-02-17**|**TAC: Timestamped Audio Captioning**|Sonal Kumar et.al.|[2602.15766](http://arxiv.org/abs/2602.15766)|null|
+|**2026-02-17**|**GLM-5: from Vibe Coding to Agentic Engineering**|GLM-5 Team et.al.|[2602.15763](http://arxiv.org/abs/2602.15763)|null|
+|**2026-02-17**|**A Differential Fuzzing-Based Evaluation of Functional Equivalence in LLM-Generated Code Refactorings**|Simantika Bhattacharjee Dristi et.al.|[2602.15761](http://arxiv.org/abs/2602.15761)|null|
+|**2026-02-17**|**ChartEditBench: Evaluating Grounded Multi-Turn Chart Editing in Multimodal Language Models**|Manav Nitin Kapadnis et.al.|[2602.15758](http://arxiv.org/abs/2602.15758)|null|
+|**2026-02-17**|**Under-resourced studies of under-resourced languages: lemmatization and POS-tagging with LLM annotators for historical Armenian, Georgian, Greek and Syriac**|Chahan Vidal-Gorène et.al.|[2602.15753](http://arxiv.org/abs/2602.15753)|null|
+|**2026-02-17**|**Causal Effect Estimation with Latent Textual Treatments**|Omri Feldman et.al.|[2602.15730](http://arxiv.org/abs/2602.15730)|null|
+|**2026-02-17**|**Recursive Concept Evolution for Compositional Reasoning in Large Language Models**|Sarim Chaudhry et.al.|[2602.15725](http://arxiv.org/abs/2602.15725)|null|
+|**2026-02-17**|**Learning to Retrieve Navigable Candidates for Efficient Vision-and-Language Navigation**|Shutian Gu et.al.|[2602.15724](http://arxiv.org/abs/2602.15724)|null|
+|**2026-02-17**|**Rethinking Metrics for Lexical Semantic Change Detection**|Roksana Goworek et.al.|[2602.15716](http://arxiv.org/abs/2602.15716)|null|
+|**2026-02-17**|**Proactive Conversational Assistant for a Procedural Manual Task based on Audio and IMU**|Rehana Mahfuz et.al.|[2602.15707](http://arxiv.org/abs/2602.15707)|null|
 |**2026-02-16**|**Symmetry in language statistics shapes the geometry of model representations**|Dhruva Karkada et.al.|[2602.15029](http://arxiv.org/abs/2602.15029)|null|
 |**2026-02-16**|**Long Context, Less Focus: A Scaling Gap in LLMs Revealed through Privacy and Personalization**|Shangding Gu et.al.|[2602.15028](http://arxiv.org/abs/2602.15028)|null|
 |**2026-02-16**|**Scaling Beyond Masked Diffusion Language Models**|Subham Sekhar Sahoo et.al.|[2602.15014](http://arxiv.org/abs/2602.15014)|null|
