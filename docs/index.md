@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Agent Research Papers
-### Automatically Updated on 2026.02.18
+### Automatically Updated on 2026.02.19
 Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Autonomous Agent`,`LLM Agent`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -3735,6 +3735,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-17**|**Perceptive Humanoid Parkour: Chaining Dynamic Human Skills via Motion Matching**|Zhen Wu et.al.|[2602.15827](http://arxiv.org/abs/2602.15827)|null|
+|**2026-02-17**|**Solving Parameter-Robust Avoid Problems with Unknown Feasibility using Reinforcement Learning**|Oswin So et.al.|[2602.15817](http://arxiv.org/abs/2602.15817)|null|
+|**2026-02-17**|**GLM-5: from Vibe Coding to Agentic Engineering**|GLM-5 Team et.al.|[2602.15763](http://arxiv.org/abs/2602.15763)|null|
+|**2026-02-17**|**MeshMimic: Geometry-Aware Humanoid Motion Learning through 3D Scene Reconstruction**|Qiang Zhang et.al.|[2602.15733](http://arxiv.org/abs/2602.15733)|null|
+|**2026-02-17**|**Recursive Concept Evolution for Compositional Reasoning in Large Language Models**|Sarim Chaudhry et.al.|[2602.15725](http://arxiv.org/abs/2602.15725)|null|
+|**2026-02-17**|**Learning to Retrieve Navigable Candidates for Efficient Vision-and-Language Navigation**|Shutian Gu et.al.|[2602.15724](http://arxiv.org/abs/2602.15724)|null|
+|**2026-02-17**|**Pricing Discrete and Nonlinear Markets With Semidefinite Relaxations**|Cheng Guo et.al.|[2602.15722](http://arxiv.org/abs/2602.15722)|null|
+|**2026-02-17**|**Bayesian parameter study of the Seyfert-starburst composite galaxies NGC 1068 and NGC 7469**|Björn Eichmann et.al.|[2602.15644](http://arxiv.org/abs/2602.15644)|null|
+|**2026-02-17**|**Reinforcement Learning in Real Option Models**|Jodi Dianetti et.al.|[2602.15643](http://arxiv.org/abs/2602.15643)|null|
+|**2026-02-17**|**Latency-aware Human-in-the-Loop Reinforcement Learning for Semantic Communications**|Peizheng Li et.al.|[2602.15640](http://arxiv.org/abs/2602.15640)|null|
+|**2026-02-17**|**STAPO: Stabilizing Reinforcement Learning for LLMs by Silencing Rare Spurious Tokens**|Shiqi Liu et.al.|[2602.15620](http://arxiv.org/abs/2602.15620)|null|
+|**2026-02-17**|**Physics-Informed Anomaly Detection of Terrain Material Change in Radar Imagery**|Abdel Hakiem Mohamed Abbas Mohamed Ahmed et.al.|[2602.15618](http://arxiv.org/abs/2602.15618)|null|
+|**2026-02-17**|**Stability of Bose-Fermi mixtures in two dimensions: a lowest-order constrained variational approach**|Pietro Cordioli et.al.|[2602.15598](http://arxiv.org/abs/2602.15598)|null|
+|**2026-02-17**|**Beyond Static Pipelines: Learning Dynamic Workflows for Text-to-SQL**|Yihan Wang et.al.|[2602.15564](http://arxiv.org/abs/2602.15564)|null|
+|**2026-02-17**|**Some phenomenological aspects of a quantum-corrected Reissner-Nordström black hole: quasi-periodic oscillations, scalar perturbations and thermal fluctuations**|Faizuddin Ahmed et.al.|[2602.15551](http://arxiv.org/abs/2602.15551)|null|
+|**2026-02-17**|**Efficient Knowledge Transfer for Jump-Starting Control Policy Learning of Multirotors through Physics-Aware Neural Architectures**|Welf Rehberg et.al.|[2602.15533](http://arxiv.org/abs/2602.15533)|null|
+|**2026-02-17**|**Tight Communication Bounds for Distributed Algorithms in the Quantum Routing Model**|Fabien Dufoulon et.al.|[2602.15529](http://arxiv.org/abs/2602.15529)|null|
+|**2026-02-17**|**The Obfuscation Atlas: Mapping Where Honesty Emerges in RLVR with Deception Probes**|Mohammad Taufeeque et.al.|[2602.15515](http://arxiv.org/abs/2602.15515)|null|
+|**2026-02-17**|**The First Instrumentally Documented Fall of an Iron Meteorite: atmospheric trajectory and ground impact**|Jarmo Moilanen et.al.|[2602.15440](http://arxiv.org/abs/2602.15440)|null|
+|**2026-02-17**|**Fairness over Equality: Correcting Social Incentives in Asymmetric Sequential Social Dilemmas**|Alper Demir et.al.|[2602.15407](http://arxiv.org/abs/2602.15407)|null|
 |**2026-02-16**|**Modeling isolated magnetar spin-down evolution and implications for long-period radio transients**|Jon Kwong et.al.|[2602.15024](http://arxiv.org/abs/2602.15024)|null|
 |**2026-02-16**|**Cold-Start Personalization via Training-Free Priors from Structured World Models**|Avinandan Bose et.al.|[2602.15012](http://arxiv.org/abs/2602.15012)|null|
 |**2026-02-16**|**BPP: Long-Context Robot Imitation Learning by Focusing on Key History Frames**|Max Sobol Mark et.al.|[2602.15010](http://arxiv.org/abs/2602.15010)|null|
