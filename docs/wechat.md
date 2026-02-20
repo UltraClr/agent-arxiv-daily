@@ -1,5 +1,5 @@
 # Agent Research Papers
-> Updated on 2026.02.19
+> Updated on 2026.02.20
 Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Autonomous Agent`,`LLM Agent`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -2082,7 +2082,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 - 2025-10-13, **$How^{2}$ : How to learn from procedural How-to questions**, Gautier Dagan et.al., Paper: [http://arxiv.org/abs/2510.11144](http://arxiv.org/abs/2510.11144)
 - 2025-09-27, **"Shall We Dig Deeper?": Designing and Evaluating Strategies for LLM Agents to Advance Knowledge Co-Construction in Asynchronous Online Discussions**, Yuanhao Zhang et.al., Paper: [http://arxiv.org/abs/2509.23327](http://arxiv.org/abs/2509.23327)
 
-<p align=right>(<a href=#updated-on-20260219>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260220>back to top</a>)</p>
 
 ## Large Language Models
 
@@ -3774,7 +3774,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 - 2025-11-07, **$\mathbf{S^2LM}$ : Towards Semantic Steganography via Large Language Models**, Huanqi Wu et.al., Paper: [http://arxiv.org/abs/2511.05319](http://arxiv.org/abs/2511.05319)
 - 2026-01-12, **"TODO: Fix the Mess Gemini Created": Towards Understanding GenAI-Induced Self-Admitted Technical Debt**, Abdullah Al Mujahid et.al., Paper: [http://arxiv.org/abs/2601.07786](http://arxiv.org/abs/2601.07786)
 
-<p align=right>(<a href=#updated-on-20260219>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260220>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -5499,7 +5499,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 - 2026-02-13, **$\texttt{GPUmonty}$ : A GPU-accelerated relativistic Monte Carlo radiative transfer code**, Pedro Naethe Motta et.al., Paper: [http://arxiv.org/abs/2602.13198](http://arxiv.org/abs/2602.13198)
 - 2025-11-25, **$MC^2$ Mixed Integer and Linear Programming**, Nick Polson et.al., Paper: [http://arxiv.org/abs/2511.20575](http://arxiv.org/abs/2511.20575)
 
-<p align=right>(<a href=#updated-on-20260219>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260220>back to top</a>)</p>
 
 Notes: 
 
