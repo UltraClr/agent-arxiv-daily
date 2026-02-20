@@ -16,6 +16,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-19**|**FAMOSE: A ReAct Approach to Automated Feature Discovery**|Keith Burghardt et.al.|[2602.17641](http://arxiv.org/abs/2602.17641)|null|
+|**2026-02-19**|**What Makes a Good LLM Agent for Real-world Penetration Testing?**|Gelei Deng et.al.|[2602.17622](http://arxiv.org/abs/2602.17622)|null|
+|**2026-02-19**|**Stable Asynchrony: Variance-Controlled Off-Policy RL for LLMs**|Luke Huang et.al.|[2602.17616](http://arxiv.org/abs/2602.17616)|null|
+|**2026-02-19**|**AutoNumerics: An Autonomous, PDE-Agnostic Multi-Agent Pipeline for Scientific Computing**|Jianda Du et.al.|[2602.17607](http://arxiv.org/abs/2602.17607)|null|
+|**2026-02-19**|**Modeling Distinct Human Interaction in Web Agents**|Faria Huq et.al.|[2602.17588](http://arxiv.org/abs/2602.17588)|null|
+|**2026-02-19**|**RetouchIQ: MLLM Agents for Instruction-Based Image Retouching with Generalist Reward**|Qiucheng Wu et.al.|[2602.17558](http://arxiv.org/abs/2602.17558)|null|
+|**2026-02-19**|**KLong: Training LLM Agent for Extremely Long-horizon Tasks**|Yue Liu et.al.|[2602.17547](http://arxiv.org/abs/2602.17547)|null|
+|**2026-02-19**|**MedClarify: An information-seeking AI agent for medical diagnosis with case-specific follow-up questions**|Hui Min Wong et.al.|[2602.17308](http://arxiv.org/abs/2602.17308)|null|
+|**2026-02-19**|**Web Verbs: Typed Abstractions for Reliable Task Composition on the Agentic Web**|Linxi Jiang et.al.|[2602.17245](http://arxiv.org/abs/2602.17245)|null|
+|**2026-02-19**|**From Labor to Collaboration: A Methodological Experiment Using AI Agents to Augment Research Perspectives in Taiwan's Humanities and Social Sciences**|Yi-Chih Huang et.al.|[2602.17221](http://arxiv.org/abs/2602.17221)|null|
+|**2026-02-19**|**AgentConductor: Topology Evolution for Multi-Agent Competition-Level Code Generation**|Siyu Wang et.al.|[2602.17100](http://arxiv.org/abs/2602.17100)|null|
+|**2026-02-19**|**What to Cut? Predicting Unnecessary Methods in Agentic Code Generation**|Kan Watanabe et.al.|[2602.17091](http://arxiv.org/abs/2602.17091)|null|
+|**2026-02-19**|**How AI Coding Agents Communicate: A Study of Pull Request Description Characteristics and Human Review Responses**|Kan Watanabe et.al.|[2602.17084](http://arxiv.org/abs/2602.17084)|null|
+|**2026-02-19**|**Phase-Aware Mixture of Experts for Agentic Reinforcement Learning**|Shengtian Yang et.al.|[2602.17038](http://arxiv.org/abs/2602.17038)|null|
+|**2026-02-19**|**Wink: Recovering from Misbehaviors in Coding Agents**|Rahul Nanda et.al.|[2602.17037](http://arxiv.org/abs/2602.17037)|null|
+|**2026-02-19**|**M2F: Automated Formalization of Mathematical Literature at Scale**|Zichen Wang et.al.|[2602.17016](http://arxiv.org/abs/2602.17016)|null|
+|**2026-02-19**|**Persona2Web: Benchmarking Personalized Web Agents for Contextual Reasoning with User History**|Serin Kim et.al.|[2602.17003](http://arxiv.org/abs/2602.17003)|null|
+|**2026-02-18**|**Automating Agent Hijacking via Structural Template Injection**|Xinhao Deng et.al.|[2602.16958](http://arxiv.org/abs/2602.16958)|null|
+|**2026-02-18**|**LLM4Cov: Execution-Aware Agentic Learning for High-coverage Testbench Generation**|Hejia Zhang et.al.|[2602.16953](http://arxiv.org/abs/2602.16953)|null|
+|**2026-02-18**|**Mind the GAP: Text Safety Does Not Transfer to Tool-Call Safety in LLM Agents**|Arnold Cartagena et.al.|[2602.16943](http://arxiv.org/abs/2602.16943)|null|
 |**2026-02-18**|**Calibrate-Then-Act: Cost-Aware Exploration in LLM Agents**|Wenxuan Ding et.al.|[2602.16699](http://arxiv.org/abs/2602.16699)|null|
 |**2026-02-18**|**Towards a Science of AI Agent Reliability**|Stephan Rabanser et.al.|[2602.16666](http://arxiv.org/abs/2602.16666)|null|
 |**2026-02-18**|**Evaluating Collective Behaviour of Hundreds of LLM Agents**|Richard Willis et.al.|[2602.16662](http://arxiv.org/abs/2602.16662)|null|
@@ -2083,6 +2103,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-19**|**Sink-Aware Pruning for Diffusion Language Models**|Aidar Myrzakhan et.al.|[2602.17664](http://arxiv.org/abs/2602.17664)|null|
+|**2026-02-19**|**What Language is This? Ask Your Tokenizer**|Clara Meister et.al.|[2602.17655](http://arxiv.org/abs/2602.17655)|null|
+|**2026-02-19**|**Differences in Typological Alignment in Language Models' Treatment of Differential Argument Marking**|Iskar Deng et.al.|[2602.17653](http://arxiv.org/abs/2602.17653)|null|
+|**2026-02-19**|**Pushing the Frontier of Black-Box LVLM Attacks via Fine-Grained Detail Targeting**|Xiaohan Zhao et.al.|[2602.17645](http://arxiv.org/abs/2602.17645)|null|
+|**2026-02-19**|**When to Trust the Cheap Check: Weak and Strong Verification for Reasoning**|Shayan Kiyani et.al.|[2602.17633](http://arxiv.org/abs/2602.17633)|null|
+|**2026-02-19**|**Catastrophic Forgetting Resilient One-Shot Incremental Federated Learning**|Obaidullah Zaland et.al.|[2602.17625](http://arxiv.org/abs/2602.17625)|null|
+|**2026-02-19**|**Unmasking the Factual-Conceptual Gap in Persian Language Models**|Alireza Sakhaeirad et.al.|[2602.17623](http://arxiv.org/abs/2602.17623)|null|
+|**2026-02-19**|**Stable Asynchrony: Variance-Controlled Off-Policy RL for LLMs**|Luke Huang et.al.|[2602.17616](http://arxiv.org/abs/2602.17616)|null|
+|**2026-02-19**|**Towards Anytime-Valid Statistical Watermarking**|Baihe Huang et.al.|[2602.17608](http://arxiv.org/abs/2602.17608)|null|
+|**2026-02-19**|**AI Gamestore: Scalable, Open-Ended Evaluation of Machine General Intelligence with Human Games**|Lance Ying et.al.|[2602.17594](http://arxiv.org/abs/2602.17594)|null|
+|**2026-02-19**|**Modeling Distinct Human Interaction in Web Agents**|Faria Huq et.al.|[2602.17588](http://arxiv.org/abs/2602.17588)|null|
+|**2026-02-19**|**ODESteer: A Unified ODE-Based Steering Framework for LLM Alignment**|Hongjue Zhao et.al.|[2602.17560](http://arxiv.org/abs/2602.17560)|null|
+|**2026-02-19**|**RetouchIQ: MLLM Agents for Instruction-Based Image Retouching with Generalist Reward**|Qiucheng Wu et.al.|[2602.17558](http://arxiv.org/abs/2602.17558)|null|
+|**2026-02-19**|**GraphThinker: Reinforcing Video Reasoning with Event Graph Thinking**|Zixu Cheng et.al.|[2602.17555](http://arxiv.org/abs/2602.17555)|null|
+|**2026-02-19**|**A Theoretical Framework for Modular Learning of Robust Generative Models**|Corinna Cortes et.al.|[2602.17554](http://arxiv.org/abs/2602.17554)|null|
+|**2026-02-19**|**MASPO: Unifying Gradient Utilization, Probability Mass, and Signal Reliability for Robust and Sample-Efficient LLM Reasoning**|Xiaoliang Fu et.al.|[2602.17550](http://arxiv.org/abs/2602.17550)|null|
+|**2026-02-19**|**Learning to Stay Safe: Adaptive Regularization Against Safety Degradation during Fine-Tuning**|Jyotin Goel et.al.|[2602.17546](http://arxiv.org/abs/2602.17546)|null|
+|**2026-02-19**|**Evaluating Chain-of-Thought Reasoning through Reusability and Verifiability**|Shashank Aggarwal et.al.|[2602.17544](http://arxiv.org/abs/2602.17544)|null|
+|**2026-02-19**|**Using LLMs for Knowledge Component-level Correctness Labeling in Open-ended Coding Problems**|Zhangqi Duan et.al.|[2602.17542](http://arxiv.org/abs/2602.17542)|null|
+|**2026-02-19**|**LATA: Laplacian-Assisted Transductive Adaptation for Conformal Uncertainty in Medical VLMs**|Behzad Bozorgtabar et.al.|[2602.17535](http://arxiv.org/abs/2602.17535)|null|
 |**2026-02-18**|**Reinforced Fast Weights with Next-Sequence Prediction**|Hee Seung Hwang et.al.|[2602.16704](http://arxiv.org/abs/2602.16704)|null|
 |**2026-02-18**|**Measuring Mid-2025 LLM-Assistance on Novice Performance in Biology**|Shen Zhou Hong et.al.|[2602.16703](http://arxiv.org/abs/2602.16703)|null|
 |**2026-02-18**|**Saliency-Aware Multi-Route Thinking: Revisiting Vision-Language Reasoning**|Mingjia Shi et.al.|[2602.16702](http://arxiv.org/abs/2602.16702)|null|
@@ -3775,6 +3815,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-19**|**MARS: Margin-Aware Reward-Modeling with Self-Refinement**|Payel Bhattacharjee et.al.|[2602.17658](http://arxiv.org/abs/2602.17658)|null|
+|**2026-02-19**|**SMAC: Score-Matched Actor-Critics for Robust Offline-to-Online Transfer**|Nathan S. de Lara et.al.|[2602.17632](http://arxiv.org/abs/2602.17632)|null|
+|**2026-02-19**|**Stable Asynchrony: Variance-Controlled Off-Policy RL for LLMs**|Luke Huang et.al.|[2602.17616](http://arxiv.org/abs/2602.17616)|null|
+|**2026-02-19**|**Adapting Actively on the Fly: Relevance-Guided Online Meta-Learning with Latent Concepts for Geospatial Discovery**|Jowaria Khan et.al.|[2602.17605](http://arxiv.org/abs/2602.17605)|null|
+|**2026-02-19**|**Asymptotically Optimal Sequential Testing with Markovian Data**|Alhad Sethi et.al.|[2602.17587](http://arxiv.org/abs/2602.17587)|null|
+|**2026-02-19**|**Momentum Measurement of Charged Particles in FASER's Emulsion Detector at the LHC**|FASER Collaboration et.al.|[2602.17575](http://arxiv.org/abs/2602.17575)|null|
+|**2026-02-19**|**Hybrid Monte Carlo for Fractional Quantum Hall States**|Ting-Tung Wang et.al.|[2602.17564](http://arxiv.org/abs/2602.17564)|null|
+|**2026-02-19**|**RetouchIQ: MLLM Agents for Instruction-Based Image Retouching with Generalist Reward**|Qiucheng Wu et.al.|[2602.17558](http://arxiv.org/abs/2602.17558)|null|
+|**2026-02-19**|**MASPO: Unifying Gradient Utilization, Probability Mass, and Signal Reliability for Robust and Sample-Efficient LLM Reasoning**|Xiaoliang Fu et.al.|[2602.17550](http://arxiv.org/abs/2602.17550)|null|
+|**2026-02-19**|**IRIS: Learning-Driven Task-Specific Cinema Robot Arm for Visuomotor Motion Control**|Qilong Cheng et.al.|[2602.17537](http://arxiv.org/abs/2602.17537)|null|
+|**2026-02-19**|**An extension to reversible jump Markov chain Monte Carlo for change point problems with heterogeneous temporal dynamics**|Emily Gribbin et.al.|[2602.17503](http://arxiv.org/abs/2602.17503)|null|
+|**2026-02-19**|**Retrospective In-Context Learning for Temporal Credit Assignment with Large Language Models**|Wen-Tse Chen et.al.|[2602.17497](http://arxiv.org/abs/2602.17497)|null|
+|**2026-02-19**|**Modeling of Relativistic Plasmas with a Conservative Discontinuous Galerkin Method**|James Juno et.al.|[2602.17487](http://arxiv.org/abs/2602.17487)|null|
+|**2026-02-19**|**Hartree shift and pairing gap in ultracold Fermi gases in the framework of low-momentum interactions**|Michael Urban et.al.|[2602.17420](http://arxiv.org/abs/2602.17420)|null|
+|**2026-02-19**|**Stackelberg Dynamic Location Planning under Cumulative Demand**|Warley Almeida Silva et.al.|[2602.17392](http://arxiv.org/abs/2602.17392)|null|
+|**2026-02-19**|**MDP Planning as Policy Inference**|David Tolpin et.al.|[2602.17375](http://arxiv.org/abs/2602.17375)|null|
+|**2026-02-19**|**Computer-Using World Model**|Yiming Guan et.al.|[2602.17365](http://arxiv.org/abs/2602.17365)|null|
+|**2026-02-19**|**g4chargeit: Geant4-based kinetic Monte Carlo simulations of charging in dielectric materials**|Kush P. Gandhi et.al.|[2602.17332](http://arxiv.org/abs/2602.17332)|null|
+|**2026-02-19**|**LexiSafe: Offline Safe Reinforcement Learning with Lexicographic Safety-Reward Hierarchy**|Hsin-Jung Yang et.al.|[2602.17312](http://arxiv.org/abs/2602.17312)|null|
+|**2026-02-19**|**Lepton energy scale and resolution corrections based on the minimization of an analytical likelihood: IJazZ2.0**|F. Couderc et.al.|[2602.17300](http://arxiv.org/abs/2602.17300)|null|
 |**2026-02-18**|**Learning Humanoid End-Effector Control for Open-Vocabulary Visual Loco-Manipulation**|Runpei Dong et.al.|[2602.16705](http://arxiv.org/abs/2602.16705)|null|
 |**2026-02-18**|**Reinforced Fast Weights with Next-Sequence Prediction**|Hee Seung Hwang et.al.|[2602.16704](http://arxiv.org/abs/2602.16704)|null|
 |**2026-02-18**|**Ab Initio Auxiliary-Field Quantum Monte Carlo in the Thermodynamic Limit**|Jinghong Zhang et.al.|[2602.16679](http://arxiv.org/abs/2602.16679)|null|
