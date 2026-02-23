@@ -2103,6 +2103,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-20**|**Going Down Memory Lane: Scaling Tokens for Video Stream Understanding with Dynamic KV-Cache Memory**|Vatsal Agarwal et.al.|[2602.18434](http://arxiv.org/abs/2602.18434)|null|
+|**2026-02-20**|**VIRAASAT: Traversing Novel Paths for Indian Cultural Reasoning**|Harshul Raj Surana et.al.|[2602.18429](http://arxiv.org/abs/2602.18429)|null|
+|**2026-02-20**|**CapNav: Benchmarking Vision Language Models on Capability-conditioned Indoor Navigation**|Xia Su et.al.|[2602.18424](http://arxiv.org/abs/2602.18424)|null|
+|**2026-02-20**|**SPQ: An Ensemble Technique for Large Language Model Compression**|Jiamin Yao et.al.|[2602.18420](http://arxiv.org/abs/2602.18420)|null|
+|**2026-02-20**|**AI-Wrapped: Participatory, Privacy-Preserving Measurement of Longitudinal LLM Use In-the-Wild**|Cathy Mengying Fang et.al.|[2602.18415](http://arxiv.org/abs/2602.18415)|null|
+|**2026-02-20**|**Zero-shot Interactive Perception**|Venkatesh Sripada et.al.|[2602.18374](http://arxiv.org/abs/2602.18374)|null|
+|**2026-02-20**|**"How Do I ...?": Procedural Questions Predominate Student-LLM Chatbot Conversations**|Alexandra Neagu et.al.|[2602.18372](http://arxiv.org/abs/2602.18372)|null|
+|**2026-02-20**|**Quantum Maximum Likelihood Prediction via Hilbert Space Embeddings**|Sreejith Sreekumar et.al.|[2602.18364](http://arxiv.org/abs/2602.18364)|null|
+|**2026-02-20**|**Qualitative Coding Analysis through Open-Source Large Language Models: A User Study and Design Recommendations**|Tung T. Ngo et.al.|[2602.18352](http://arxiv.org/abs/2602.18352)|null|
+|**2026-02-20**|**Validating Political Position Predictions of Arguments**|Jordan Robinson et.al.|[2602.18351](http://arxiv.org/abs/2602.18351)|null|
+|**2026-02-20**|**Vichara: Appellate Judgment Prediction and Explanation for the Indian Judicial System**|Pavithra PM Nair et.al.|[2602.18346](http://arxiv.org/abs/2602.18346)|null|
+|**2026-02-20**|**On the "Induction Bias" in Sequence Models**|M. Reza Ebrahimi et.al.|[2602.18333](http://arxiv.org/abs/2602.18333)|null|
+|**2026-02-20**|**VeriSoftBench: Repository-Scale Formal Verification Benchmarks for Lean**|Yutong Xin et.al.|[2602.18307](http://arxiv.org/abs/2602.18307)|null|
+|**2026-02-20**|**On the Semantic and Syntactic Information Encoded in Proto-Tokens for One-Step Text Reconstruction**|Ivan Bondarenko et.al.|[2602.18301](http://arxiv.org/abs/2602.18301)|null|
+|**2026-02-20**|**Analyzing and Improving Chain-of-Thought Monitorability Through Information Theory**|Usman Anwar et.al.|[2602.18297](http://arxiv.org/abs/2602.18297)|null|
+|**2026-02-20**|**Context-Aware Mapping of 2D Drawing Annotations to 3D CAD Features Using LLM-Assisted Reasoning for Manufacturing Automation**|Muhammad Tayyab Khana et.al.|[2602.18296](http://arxiv.org/abs/2602.18296)|null|
+|**2026-02-20**|**Decoding as Optimisation on the Probability Simplex: From Top-K to Top-P (Nucleus) to Best-of-K Samplers**|Xiaotong Ji et.al.|[2602.18292](http://arxiv.org/abs/2602.18292)|null|
+|**2026-02-20**|**Simplifying Outcomes of Language Model Component Analyses with ELIA**|Aaron Louis Eidt et.al.|[2602.18262](http://arxiv.org/abs/2602.18262)|null|
+|**2026-02-20**|**Dual-Tree LLM-Enhanced Negative Sampling for Implicit Collaborative Filtering**|Jiayi Wu et.al.|[2602.18249](http://arxiv.org/abs/2602.18249)|null|
+|**2026-02-20**|**Thinking by Subtraction: Confidence-Driven Contrastive Decoding for LLM Reasoning**|Lexiang Tang et.al.|[2602.18232](http://arxiv.org/abs/2602.18232)|null|
 |**2026-02-19**|**Sink-Aware Pruning for Diffusion Language Models**|Aidar Myrzakhan et.al.|[2602.17664](http://arxiv.org/abs/2602.17664)|null|
 |**2026-02-19**|**What Language is This? Ask Your Tokenizer**|Clara Meister et.al.|[2602.17655](http://arxiv.org/abs/2602.17655)|null|
 |**2026-02-19**|**Differences in Typological Alignment in Language Models' Treatment of Differential Argument Marking**|Iskar Deng et.al.|[2602.17653](http://arxiv.org/abs/2602.17653)|null|
