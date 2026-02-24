@@ -1,5 +1,5 @@
 # Agent Research Papers
-### Automatically Updated on 2026.02.23
+### Automatically Updated on 2026.02.24
 Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Autonomous Agent`,`LLM Agent`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,6 +21,17 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-20**|**SARAH: Spatially Aware Real-time Agentic Humans**|Evonne Ng et.al.|[2602.18432](http://arxiv.org/abs/2602.18432)|null|
+|**2026-02-20**|**Towards More Standardized AI Evaluation: From Models to Agents**|Ali El Filali et.al.|[2602.18029](http://arxiv.org/abs/2602.18029)|null|
+|**2026-02-20**|**Mean-Field Reinforcement Learning without Synchrony**|Shan Yang et.al.|[2602.18026](http://arxiv.org/abs/2602.18026)|null|
+|**2026-02-20**|**NIMMGen: Learning Neural-Integrated Mechanistic Digital Twins with LLMs**|Zihan Guan et.al.|[2602.18008](http://arxiv.org/abs/2602.18008)|null|
+|**2026-02-20**|**WorkflowPerturb: Calibrated Stress Tests for Evaluating Multi-Agent Workflow Metrics**|Madhav Kanda et.al.|[2602.17990](http://arxiv.org/abs/2602.17990)|null|
+|**2026-02-20**|**Mining Type Constructs Using Patterns in AI-Generated Code**|Imgyeong Lee et.al.|[2602.17955](http://arxiv.org/abs/2602.17955)|null|
+|**2026-02-20**|**Alignment in Time: Peak-Aware Orchestration for Long-Horizon Agentic Systems**|Hanjing Shi et.al.|[2602.17910](http://arxiv.org/abs/2602.17910)|null|
+|**2026-02-19**|**El Agente Gráfico: Structured Execution Graphs for Scientific Agents**|Jiaru Bai et.al.|[2602.17902](http://arxiv.org/abs/2602.17902)|null|
+|**2026-02-19**|**El Agente Sólido: A New Age(nt) for Solid State Simulations**|Sai Govind Hari Kumar et.al.|[2602.17886](http://arxiv.org/abs/2602.17886)|null|
+|**2026-02-19**|**Exploring The Impact Of Proactive Generative AI Agent Roles In Time-Sensitive Collaborative Problem-Solving Tasks**|Anirban Mukhopadhyay et.al.|[2602.17864](http://arxiv.org/abs/2602.17864)|null|
+|**2026-02-19**|**The 2025 AI Agent Index: Documenting Technical and Safety Features of Deployed Agentic AI Systems**|Leon Staufer et.al.|[2602.17753](http://arxiv.org/abs/2602.17753)|null|
 |**2026-02-19**|**FAMOSE: A ReAct Approach to Automated Feature Discovery**|Keith Burghardt et.al.|[2602.17641](http://arxiv.org/abs/2602.17641)|null|
 |**2026-02-19**|**What Makes a Good LLM Agent for Real-world Penetration Testing?**|Gelei Deng et.al.|[2602.17622](http://arxiv.org/abs/2602.17622)|null|
 |**2026-02-19**|**Stable Asynchrony: Variance-Controlled Off-Policy RL for LLMs**|Luke Huang et.al.|[2602.17616](http://arxiv.org/abs/2602.17616)|null|
@@ -2104,7 +2115,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |**2024-01-30**|**A mechanism for discovering semantic relationships among agent communication protocols**|Idoia Berges et.al.|[2401.16216](http://arxiv.org/abs/2401.16216)|null|
 |**2024-01-23**|**Semantic Web Technology for Agent Communication Protocols**|Idoia Berges et.al.|[2401.11841](http://arxiv.org/abs/2401.11841)|null|
 
-<p align=right>(<a href=#updated-on-20260223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260224>back to top</a>)</p>
 
 ## Large Language Models
 
@@ -3838,12 +3849,32 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |**2023-09-06**|**Making Large Language Models Better Reasoners with Alignment**|Peiyi Wang et.al.|[2309.02144](http://arxiv.org/abs/2309.02144)|null|
 |**2023-06-27**|**Low-Rank Prune-And-Factorize for Language Model Compression**|Siyu Ren et.al.|[2306.14152](http://arxiv.org/abs/2306.14152)|null|
 
-<p align=right>(<a href=#updated-on-20260223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260224>back to top</a>)</p>
 
 ## Reinforcement Learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-20**|**Convex Block-Cholesky Approach to Risk-Constrained Low-thrust Trajectory Design under Operational Uncertainty**|Kenshiro Oguri et.al.|[2602.18416](http://arxiv.org/abs/2602.18416)|null|
+|**2026-02-20**|**Learning to Tune Pure Pursuit in Autonomous Racing: Joint Lookahead and Steering-Gain Control with PPO**|Mohamed Elgouhary et.al.|[2602.18386](http://arxiv.org/abs/2602.18386)|null|
+|**2026-02-20**|**On the simulated kinematic distributions of semileptonic $B$ decays**|Florian Herren et.al.|[2602.18378](http://arxiv.org/abs/2602.18378)|null|
+|**2026-02-20**|**Phase diagram of a lattice fermion model with symmetric mass generation**|Sandip Maiti et.al.|[2602.18360](http://arxiv.org/abs/2602.18360)|null|
+|**2026-02-20**|**Learning Smooth Time-Varying Linear Policies with an Action Jacobian Penalty**|Zhaoming Xie et.al.|[2602.18312](http://arxiv.org/abs/2602.18312)|null|
+|**2026-02-20**|**Diffusing to Coordinate: Efficient Online Multi-Agent Diffusion Policies**|Zhuoran Li et.al.|[2602.18291](http://arxiv.org/abs/2602.18291)|null|
+|**2026-02-20**|**PRISM: Parallel Reward Integration with Symmetry for MORL**|Finn van der Knaap et.al.|[2602.18277](http://arxiv.org/abs/2602.18277)|null|
+|**2026-02-20**|**CMB anisotropies from cosmic (super)strings in light of ACT DR6**|Juhan Raidal et.al.|[2602.18272](http://arxiv.org/abs/2602.18272)|null|
+|**2026-02-20**|**A Probabilistic Framework for LLM-Based Model Discovery**|Stefan Wahl et.al.|[2602.18266](http://arxiv.org/abs/2602.18266)|null|
+|**2026-02-20**|**BLM-Guard: Explainable Multimodal Ad Moderation with Chain-of-Thought and Policy-Aligned Rewards**|Yiran Yang et.al.|[2602.18193](http://arxiv.org/abs/2602.18193)|null|
+|**2026-02-20**|**Kolmogorov-Type Maximal Inequalities for Independent and Dependent Negative Binomial Random Variables: Sharp Bounds, Sub-Exponential Refinements, and Applications to Overdispersed Count Data**|Aristides V. Doumas et.al.|[2602.18184](http://arxiv.org/abs/2602.18184)|null|
+|**2026-02-20**|**Unifying Formal Explanations: A Complexity-Theoretic Perspective**|Shahaf Bassan et.al.|[2602.18160](http://arxiv.org/abs/2602.18160)|null|
+|**2026-02-20**|**Time consistent portfolio strategies for a general utility function**|Oumar Mbodji et.al.|[2602.18157](http://arxiv.org/abs/2602.18157)|null|
+|**2026-02-20**|**Inclusive Ranking of Indian States via Bayesian Bradley-Terry Model**|Arshi Rizvi et.al.|[2602.18150](http://arxiv.org/abs/2602.18150)|null|
+|**2026-02-20**|**Flow Matching with Injected Noise for Offline-to-Online Reinforcement Learning**|Yongjae Shin et.al.|[2602.18117](http://arxiv.org/abs/2602.18117)|null|
+|**2026-02-20**|**TempoNet: Slack-Quantized Transformer-Guided Reinforcement Scheduler for Adaptive Deadline-Centric Real-Time Dispatchs**|Rong Fu et.al.|[2602.18109](http://arxiv.org/abs/2602.18109)|null|
+|**2026-02-20**|**Interacting safely with cyclists using Hamilton-Jacobi reachability and reinforcement learning**|Aarati Andrea Noronha et.al.|[2602.18097](http://arxiv.org/abs/2602.18097)|null|
+|**2026-02-20**|**Entropy-regularized penalization schemes for American options and reflected BSDEs with singular generators**|Daniel Chee et.al.|[2602.18078](http://arxiv.org/abs/2602.18078)|null|
+|**2026-02-20**|**Hidden-charm \(uds\,c\bar c\) pentaquarks as flavor eigenstates in a constituent quark model**|M. C. Gordillo et.al.|[2602.18075](http://arxiv.org/abs/2602.18075)|null|
+|**2026-02-20**|**EgoPush: Learning End-to-End Egocentric Multi-Object Rearrangement for Mobile Robots**|Boyuan An et.al.|[2602.18071](http://arxiv.org/abs/2602.18071)|null|
 |**2026-02-19**|**MARS: Margin-Aware Reward-Modeling with Self-Refinement**|Payel Bhattacharjee et.al.|[2602.17658](http://arxiv.org/abs/2602.17658)|null|
 |**2026-02-19**|**SMAC: Score-Matched Actor-Critics for Robust Offline-to-Online Transfer**|Nathan S. de Lara et.al.|[2602.17632](http://arxiv.org/abs/2602.17632)|null|
 |**2026-02-19**|**Stable Asynchrony: Variance-Controlled Off-Policy RL for LLMs**|Luke Huang et.al.|[2602.17616](http://arxiv.org/abs/2602.17616)|null|
@@ -5585,7 +5616,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |**2019-11-14**|**Accelerating Training in Pommerman with Imitation and Reinforcement Learning**|Hardik Meisheri et.al.|[1911.04947](http://arxiv.org/abs/1911.04947)|null|
 |**2018-11-20**|**Modelling the Dynamic Joint Policy of Teammates with Attention Multi-agent DDPG**|Hangyu Mao et.al.|[1811.07029](http://arxiv.org/abs/1811.07029)|null|
 
-<p align=right>(<a href=#updated-on-20260223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260224>back to top</a>)</p>
 
 Notes: 
 
