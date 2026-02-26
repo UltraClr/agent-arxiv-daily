@@ -16,8 +16,20 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-25**|**An Empirical Study of Bugs in Modern LLM Agent Frameworks**|Xinxue Zhu et.al.|[2602.21806](http://arxiv.org/abs/2602.21806)|null|
+|**2026-02-25**|**Two-Stage Active Distribution Network Voltage Control via LLM-RL Collaboration: A Hybrid Knowledge-Data-Driven Approach**|Xu Yang et.al.|[2602.21715](http://arxiv.org/abs/2602.21715)|null|
+|**2026-02-25**|**Hierarchical LLM-Based Multi-Agent Framework with Prompt Optimization for Multi-Robot Task Planning**|Tomoya Kawabe et.al.|[2602.21670](http://arxiv.org/abs/2602.21670)|null|
+|**2026-02-25**|**Towards Autonomous Graph Data Analytics with Analytics-Augmented Generation**|Qiange Wang et.al.|[2602.21604](http://arxiv.org/abs/2602.21604)|null|
+|**2026-02-25**|**Power and Limitations of Aggregation in Compound AI Systems**|Nivasini Ananthakrishnan et.al.|[2602.21556](http://arxiv.org/abs/2602.21556)|null|
+|**2026-02-25**|**Which Tool Response Should I Trust? Tool-Expertise-Aware Chest X-ray Agent with Multimodal Agentic Learning**|Zheang Huai et.al.|[2602.21517](http://arxiv.org/abs/2602.21517)|null|
+|**2026-02-25**|**Both Ends Count! Just How Good are LLM Agents at "Text-to-Big SQL"?**|Germán T. Eizaguirre et.al.|[2602.21480](http://arxiv.org/abs/2602.21480)|null|
+|**2026-02-25**|**Pancake: Hierarchical Memory System for Multi-Agent LLM Serving**|Zhengding Hu et.al.|[2602.21477](http://arxiv.org/abs/2602.21477)|null|
+|**2026-02-25**|**SELAUR: Self Evolving LLM Agent via Uncertainty-aware Rewards**|Dengjia Zhang et.al.|[2602.21158](http://arxiv.org/abs/2602.21158)|null|
+|**2026-02-24**|**MemoPhishAgent: Memory-Augmented Multi-Modal LLM Agent for Phishing URL Detection**|Xuan Chen et.al.|[2602.21394](http://arxiv.org/abs/2602.21394)|null|
+|**2026-02-24**|**Black-Box Reliability Certification for AI Agents via Self-Consistency Sampling and Conformal Calibration**|Charafeddine Mouzouni et.al.|[2602.21368](http://arxiv.org/abs/2602.21368)|null|
+|**2026-02-24**|**A Hierarchical Multi-Agent System for Autonomous Discovery in Geoscientific Data Archives**|Dmitrii Pantiukhin et.al.|[2602.21351](http://arxiv.org/abs/2602.21351)|null|
+|**2026-02-24**|**Tool-R0: Self-Evolving LLM Agents for Tool-Learning from Zero Data**|Emre Can Acikgoz et.al.|[2602.21320](http://arxiv.org/abs/2602.21320)|null|
 |**2026-02-24**|**Region of Interest Segmentation and Morphological Analysis for Membranes in Cryo-Electron Tomography**|Xingyi Cheng et.al.|[2602.21195](http://arxiv.org/abs/2602.21195)|null|
-|**2026-02-24**|**SELAUR: Self Evolving LLM Agent via Uncertainty-aware Rewards**|Dengjia Zhang et.al.|[2602.21158](http://arxiv.org/abs/2602.21158)|null|
 |**2026-02-24**|**A Benchmark for Deep Information Synthesis**|Debjit Paul et.al.|[2602.21143](http://arxiv.org/abs/2602.21143)|null|
 |**2026-02-24**|**"Are You Sure?": An Empirical Study of Human Perception Vulnerability in LLM-Driven Agentic Systems**|Xinfeng Li et.al.|[2602.21127](http://arxiv.org/abs/2602.21127)|null|
 |**2026-02-24**|**Cooperative-Competitive Team Play of Real-World Craft Robots**|Rui Zhao et.al.|[2602.21119](http://arxiv.org/abs/2602.21119)|null|
@@ -2154,6 +2166,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-25**|**Recovered in Translation: Efficient Pipeline for Automated Translation of Benchmarks and Datasets**|Hanna Yukhymenko et.al.|[2602.22207](http://arxiv.org/abs/2602.22207)|null|
+|**2026-02-25**|**SumTablets: A Transliteration Dataset of Sumerian Tablets**|Cole Simmons et.al.|[2602.22200](http://arxiv.org/abs/2602.22200)|null|
+|**2026-02-25**|**Improving Parametric Knowledge Access in Reasoning Language Models**|Melody Ma et.al.|[2602.22193](http://arxiv.org/abs/2602.22193)|null|
+|**2026-02-25**|**DySCO: Dynamic Attention-Scaling Decoding for Long-Context LMs**|Xi Ye et.al.|[2602.22175](http://arxiv.org/abs/2602.22175)|null|
+|**2026-02-25**|**A Taxonomy of Human--MLLM Interaction in Early-Stage Sketch-Based Design Ideation**|Weiayn Shi et.al.|[2602.22171](http://arxiv.org/abs/2602.22171)|null|
+|**2026-02-25**|**LLMTailor: A Layer-wise Tailoring Tool for Efficient Checkpointing of Large Language Models**|Minqiu Sun et.al.|[2602.22158](http://arxiv.org/abs/2602.22158)|null|
+|**2026-02-25**|**Dynamic Personality Adaptation in Large Language Models via State Machines**|Leon Pielage et.al.|[2602.22157](http://arxiv.org/abs/2602.22157)|null|
+|**2026-02-25**|**Provable Last-Iterate Convergence for Multi-Objective Safe LLM Alignment via Optimistic Primal-Dual**|Yining Li et.al.|[2602.22146](http://arxiv.org/abs/2602.22146)|null|
+|**2026-02-25**|**When AI Writes, Whose Voice Remains? Quantifying Cultural Marker Erasure Across World English Varieties in Large Language Models**|Satyam Kumar Navneet et.al.|[2602.22145](http://arxiv.org/abs/2602.22145)|null|
+|**2026-02-25**|**NoLan: Mitigating Object Hallucinations in Large Vision-Language Models via Dynamic Suppression of Language Priors**|Lingfeng Ren et.al.|[2602.22144](http://arxiv.org/abs/2602.22144)|null|
+|**2026-02-25**|**WeaveTime: Stream from Earlier Frames into Emergent Memory in VideoLLMs**|Yulin Zhang et.al.|[2602.22142](http://arxiv.org/abs/2602.22142)|null|
+|**2026-02-25**|**SWE-Protégé: Learning to Selectively Collaborate With an Expert Unlocks Small Language Models as Software Engineering Agents**|Patrick Tser Jern Kon et.al.|[2602.22124](http://arxiv.org/abs/2602.22124)|null|
+|**2026-02-25**|**GeoDiv: Framework For Measuring Geographical Diversity In Text-To-Image Models**|Abhipsa Basu et.al.|[2602.22120](http://arxiv.org/abs/2602.22120)|null|
+|**2026-02-25**|**Brain3D: Brain Report Automation via Inflated Vision Transformers in 3D**|Mariano Barone et.al.|[2602.22098](http://arxiv.org/abs/2602.22098)|null|
+|**2026-02-25**|**Confidence-Driven Multi-Scale Model Selection for Cost-Efficient Inference**|Bo-Wei Chen et.al.|[2602.22090](http://arxiv.org/abs/2602.22090)|null|
+|**2026-02-25**|**ViSTAR: Virtual Skill Training with Augmented Reality with 3D Avatars and LLM coaching agent**|Chunggi Lee et.al.|[2602.22077](http://arxiv.org/abs/2602.22077)|null|
+|**2026-02-25**|**Understanding Artificial Theory of Mind: Perturbed Tasks and Reasoning in Large Language Models**|Christian Nickel et.al.|[2602.22072](http://arxiv.org/abs/2602.22072)|null|
+|**2026-02-25**|**Language Models Exhibit Inconsistent Biases Towards Algorithmic Agents and Human Experts**|Jessica Y. Bo et.al.|[2602.22070](http://arxiv.org/abs/2602.22070)|null|
+|**2026-02-25**|**NESTOR: A Nested MOE-based Neural Operator for Large-Scale PDE Pre-Training**|Dengdi Sun et.al.|[2602.22059](http://arxiv.org/abs/2602.22059)|null|
+|**2026-02-25**|**RT-RMOT: A Dataset and Framework for RGB-Thermal Referring Multi-Object Tracking**|Yanqiu Yu et.al.|[2602.22033](http://arxiv.org/abs/2602.22033)|null|
 |**2026-02-24**|**On Data Engineering for Scaling LLM Terminal Capabilities**|Renjie Pi et.al.|[2602.21193](http://arxiv.org/abs/2602.21193)|null|
 |**2026-02-24**|**Why Pass@k Optimization Can Degrade Pass@1: Prompt Interference in LLM Post-training**|Anas Barakat et.al.|[2602.21189](http://arxiv.org/abs/2602.21189)|null|
 |**2026-02-24**|**Spa3R: Predictive Spatial Field Modeling for 3D Visual Reasoning**|Haoyi Jiang et.al.|[2602.21186](http://arxiv.org/abs/2602.21186)|null|
@@ -3926,6 +3958,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-25**|**Improving Parametric Knowledge Access in Reasoning Language Models**|Melody Ma et.al.|[2602.22193](http://arxiv.org/abs/2602.22193)|null|
+|**2026-02-25**|**Provable Last-Iterate Convergence for Multi-Objective Safe LLM Alignment via Optimistic Primal-Dual**|Yining Li et.al.|[2602.22146](http://arxiv.org/abs/2602.22146)|null|
+|**2026-02-25**|**Tempered Christoffel-Weighted Polynomial Chaos Expansion for Resilience-Oriented Uncertainty Quantification**|Mahsa Ebadat-Parast et.al.|[2602.22133](http://arxiv.org/abs/2602.22133)|null|
+|**2026-02-25**|**SWE-Protégé: Learning to Selectively Collaborate With an Expert Unlocks Small Language Models as Software Engineering Agents**|Patrick Tser Jern Kon et.al.|[2602.22124](http://arxiv.org/abs/2602.22124)|null|
+|**2026-02-25**|**System Design of the Ultra Mobility Vehicle: A Driving, Balancing, and Jumping Bicycle Robot**|Benjamin Bokser et.al.|[2602.22118](http://arxiv.org/abs/2602.22118)|null|
+|**2026-02-25**|**Stochastic Optimal Control with Side Information and Bayesian Learning**|Johannes Milz et.al.|[2602.22047](http://arxiv.org/abs/2602.22047)|null|
+|**2026-02-25**|**IGR J12580+0134: A Candidate for Repeating Partial Tidal Disruption Events Supported by Multi-Wavelength Observations**|Po Ma et.al.|[2602.22040](http://arxiv.org/abs/2602.22040)|null|
+|**2026-02-25**|**Function-Space Empirical Bayes Regularisation with Student's t Priors**|Pengcheng Hao et.al.|[2602.22015](http://arxiv.org/abs/2602.22015)|null|
+|**2026-02-25**|**Intrusive and Non-Intrusive Model Order Reduction for Airborne Contaminant Transport: Comparative Analysis and Uncertainty Quantification**|Lisa Kühn et.al.|[2602.21996](http://arxiv.org/abs/2602.21996)|null|
+|**2026-02-25**|**PanoEnv: Exploring 3D Spatial Intelligence in Panoramic Environments with Reinforcement Learning**|Zekai Lin et.al.|[2602.21992](http://arxiv.org/abs/2602.21992)|null|
+|**2026-02-25**|**RADAR: Reasoning as Discrimination with Aligned Representations for LLM-based Knowledge Graph Reasoning**|Bo Xue et.al.|[2602.21951](http://arxiv.org/abs/2602.21951)|null|
+|**2026-02-25**|**Bayesian Generative Adversarial Networks via Gaussian Approximation for Tabular Data Synthesis**|Bahrul Ilmi Nasution et.al.|[2602.21948](http://arxiv.org/abs/2602.21948)|null|
+|**2026-02-25**|**ExpLang: Improved Exploration and Exploitation in LLM Reasoning with On-Policy Thinking Language Selection**|Changjiang Gao et.al.|[2602.21887](http://arxiv.org/abs/2602.21887)|null|
+|**2026-02-25**|**Distill and Align Decomposition for Enhanced Claim Verification**|Jabez Magomere et.al.|[2602.21857](http://arxiv.org/abs/2602.21857)|null|
+|**2026-02-25**|**LightSim: A Lightweight Cell Transmission Model Simulator for Traffic Signal Control Research**|Haoran Su et.al.|[2602.21852](http://arxiv.org/abs/2602.21852)|null|
+|**2026-02-25**|**Self-Curriculum Model-based Reinforcement Learning for Shape Control of Deformable Linear Objects**|Zhaowei Liang et.al.|[2602.21816](http://arxiv.org/abs/2602.21816)|null|
+|**2026-02-25**|**DexRepNet++: Learning Dexterous Robotic Manipulation with Geometric and Spatial Hand-Object Representations**|Qingtao Liu et.al.|[2602.21811](http://arxiv.org/abs/2602.21811)|null|
+|**2026-02-25**|**RAMSeS: Robust and Adaptive Model Selection for Time-Series Anomaly Detection Algorithms**|Mohamed Abdelmaksoud et.al.|[2602.21766](http://arxiv.org/abs/2602.21766)|null|
+|**2026-02-25**|**Generalisation of RLHF under Reward Shift and Clipped KL Regularisation**|Kenton Tang et.al.|[2602.21765](http://arxiv.org/abs/2602.21765)|null|
+|**2026-02-25**|**Pilot-Free Optimal Control over Wireless Networks: A Control-Aided Channel Prediction Approach**|Minjie Tang et.al.|[2602.21752](http://arxiv.org/abs/2602.21752)|null|
 |**2026-02-24**|**Minimal loop currents in doped Mott insulators**|Can Cui et.al.|[2602.21206](http://arxiv.org/abs/2602.21206)|null|
 |**2026-02-24**|**Squint: Fast Visual Reinforcement Learning for Sim-to-Real Robotics**|Abdulaziz Almuzairee et.al.|[2602.21203](http://arxiv.org/abs/2602.21203)|null|
 |**2026-02-24**|**Why Pass@k Optimization Can Degrade Pass@1: Prompt Interference in LLM Post-training**|Anas Barakat et.al.|[2602.21189](http://arxiv.org/abs/2602.21189)|null|
