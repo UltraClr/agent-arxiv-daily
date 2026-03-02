@@ -21,6 +21,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-27**|**CUDA Agent: Large-Scale Agentic RL for High-Performance CUDA Kernel Generation**|Weinan Dai et.al.|[2602.24286](http://arxiv.org/abs/2602.24286)|null|
+|**2026-02-27**|**UXSim: Towards a Hybrid User Search Simulation**|Saber Zerhoudi et.al.|[2602.24241](http://arxiv.org/abs/2602.24241)|null|
+|**2026-02-27**|**Controllable Reasoning Models Are Private Thinkers**|Haritz Puerto et.al.|[2602.24210](http://arxiv.org/abs/2602.24210)|null|
+|**2026-02-27**|**Agentic AI-RAN: Enabling Intent-Driven, Explainable and Self-Evolving Open RAN Intelligence**|Zhizhou He et.al.|[2602.24115](http://arxiv.org/abs/2602.24115)|null|
+|**2026-02-27**|**A Novel Hierarchical Multi-Agent System for Payments Using LLMs**|Joon Kiat Chua et.al.|[2602.24068](http://arxiv.org/abs/2602.24068)|null|
+|**2026-02-27**|**Jailbreak Foundry: From Papers to Runnable Attacks for Reproducible Benchmarking**|Zhicheng Fang et.al.|[2602.24009](http://arxiv.org/abs/2602.24009)|null|
+|**2026-02-27**|**Foundation World Models for Agents that Learn, Verify, and Adapt Reliably Beyond Static Environments**|Florent Delgrange et.al.|[2602.23997](http://arxiv.org/abs/2602.23997)|null|
+|**2026-02-27**|**Novice Developers Produce Larger Review Overhead for Project Maintainers while Vibe Coding**|Syed Ammar Asdaque et.al.|[2602.23905](http://arxiv.org/abs/2602.23905)|null|
+|**2026-02-27**|**Experience-Guided Self-Adaptive Cascaded Agents for Breast Cancer Screening and Diagnosis with Reduced Biopsy Referrals**|Pramit Saha et.al.|[2602.23899](http://arxiv.org/abs/2602.23899)|null|
+|**2026-02-27**|**AoE: Always-on Egocentric Human Video Collection for Embodied AI**|Bowen Yang et.al.|[2602.23893](http://arxiv.org/abs/2602.23893)|null|
+|**2026-02-27**|**RUMAD: Reinforcement-Unifying Multi-Agent Debate**|Chao Wang et.al.|[2602.23864](http://arxiv.org/abs/2602.23864)|null|
+|**2026-02-27**|**CLFEC: A New Task for Unified Linguistic and Factual Error Correction in paragraph-level Chinese Professional Writing**|Jian Kai et.al.|[2602.23845](http://arxiv.org/abs/2602.23845)|null|
+|**2026-02-27**|**OPTIAGENT: A Physics-Driven Agentic Framework for Automated Optical Design**|Yuyu Geng et.al.|[2602.23761](http://arxiv.org/abs/2602.23761)|null|
+|**2026-02-27**|**U-Mind: A Unified Framework for Real-Time Multimodal Interaction with Audiovisual Generation**|Xiang Deng et.al.|[2602.23739](http://arxiv.org/abs/2602.23739)|null|
+|**2026-02-27**|**From Static Benchmarks to Dynamic Protocol: Agent-Centric Text Anomaly Detection for Evaluating LLM Reasoning**|Seungdong Yoa et.al.|[2602.23729](http://arxiv.org/abs/2602.23729)|null|
+|**2026-02-27**|**The Auton Agentic AI Framework**|Sheng Cao et.al.|[2602.23720](http://arxiv.org/abs/2602.23720)|null|
+|**2026-02-27**|**ProductResearch: Training E-Commerce Deep Research Agents via Multi-Agent Synthetic Trajectory Distillation**|Jiangyuan Wang et.al.|[2602.23716](http://arxiv.org/abs/2602.23716)|null|
+|**2026-02-27**|**PseudoAct: Leveraging Pseudocode Synthesis for Flexible Planning and Action Control in Large Language Model Agents**|Yihan et.al.|[2602.23668](http://arxiv.org/abs/2602.23668)|null|
+|**2026-02-27**|**SGAgent: Suggestion-Guided LLM-Based Multi-Agent Framework for Repository-Level Software Repair**|Quanjun Zhang et.al.|[2602.23647](http://arxiv.org/abs/2602.23647)|null|
+|**2026-02-27**|**Toward E2E Intelligence in 6G Networks: An AI Agent-Based RAN-CN Converged Intelligence Framework**|Youbin Han et.al.|[2602.23623](http://arxiv.org/abs/2602.23623)|null|
 |**2026-02-26**|**Toward Expert Investment Teams:A Multi-Agent LLM System with Fine-Grained Trading Tasks**|Kunihiro Miyazaki et.al.|[2602.23330](http://arxiv.org/abs/2602.23330)|null|
 |**2026-02-26**|**ParamMem: Augmenting Language Agents with Parametric Reflective Memory**|Tianjun Yao et.al.|[2602.23320](http://arxiv.org/abs/2602.23320)|null|
 |**2026-02-26**|**EmbodMocap: In-the-Wild 4D Human-Scene Reconstruction for Embodied Agents**|Wenjia Wang et.al.|[2602.23205](http://arxiv.org/abs/2602.23205)|null|
@@ -2193,6 +2213,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-27**|**DARE-bench: Evaluating Modeling and Instruction Fidelity of LLMs in Data Science**|Fan Shu et.al.|[2602.24288](http://arxiv.org/abs/2602.24288)|null|
+|**2026-02-27**|**Do LLMs Benefit From Their Own Words?**|Jenny Y. Huang et.al.|[2602.24287](http://arxiv.org/abs/2602.24287)|null|
+|**2026-02-27**|**CUDA Agent: Large-Scale Agentic RL for High-Performance CUDA Kernel Generation**|Weinan Dai et.al.|[2602.24286](http://arxiv.org/abs/2602.24286)|null|
+|**2026-02-27**|**Taming Momentum: Rethinking Optimizer States Through Low-Rank Approximation**|Zhengbo Wang et.al.|[2602.24283](http://arxiv.org/abs/2602.24283)|null|
+|**2026-02-27**|**Memory Caching: RNNs with Growing Memory**|Ali Behrouz et.al.|[2602.24281](http://arxiv.org/abs/2602.24281)|null|
+|**2026-02-27**|**UXSim: Towards a Hybrid User Search Simulation**|Saber Zerhoudi et.al.|[2602.24241](http://arxiv.org/abs/2602.24241)|null|
+|**2026-02-27**|**SafeGen-LLM: Enhancing Safety Generalization in Task Planning for Robotic Systems**|Jialiang Fan et.al.|[2602.24235](http://arxiv.org/abs/2602.24235)|null|
+|**2026-02-27**|**Anansi: Scalable Characterization of Message-Based Job Scams**|Abisheka Pitumpe et.al.|[2602.24223](http://arxiv.org/abs/2602.24223)|null|
+|**2026-02-27**|**Uncertainty Quantification for Multimodal Large Language Models with Incoherence-adjusted Semantic Volume**|Gregory Kang Ruey Lau et.al.|[2602.24195](http://arxiv.org/abs/2602.24195)|null|
+|**2026-02-27**|**MT-PingEval: Evaluating Multi-Turn Collaboration with Private Information Games**|Jacob Eisenstein et.al.|[2602.24188](http://arxiv.org/abs/2602.24188)|null|
+|**2026-02-27**|**Beyond Explainable AI (XAI): An Overdue Paradigm Shift and Post-XAI Research Directions**|Saleh Afroogh et.al.|[2602.24176](http://arxiv.org/abs/2602.24176)|null|
+|**2026-02-27**|**Task-Centric Acceleration of Small-Language Models**|Dor Tsur et.al.|[2602.24174](http://arxiv.org/abs/2602.24174)|null|
+|**2026-02-27**|**LemmaBench: A Live, Research-Level Benchmark to Evaluate LLM Capabilities in Mathematics**|Antoine Peyronnet et.al.|[2602.24173](http://arxiv.org/abs/2602.24173)|null|
+|**2026-02-27**|**ArgLLM-App: An Interactive System for Argumentative Reasoning with Large Language Models**|Adam Dejl et.al.|[2602.24172](http://arxiv.org/abs/2602.24172)|null|
+|**2026-02-27**|**Terminology Rarity Predicts Catastrophic Failure in LLM Translation of Low-Resource Ancient Languages: Evidence from Ancient Greek**|James L. Zainaldin et.al.|[2602.24119](http://arxiv.org/abs/2602.24119)|null|
+|**2026-02-27**|**Toward Guarantees for Clinical Reasoning in Vision Language Models via Formal Verification**|Vikash Singh et.al.|[2602.24111](http://arxiv.org/abs/2602.24111)|null|
+|**2026-02-27**|**ARGUS: Seeing the Influence of Narrative Features on Persuasion in Argumentative Texts**|Sara Nabhani et.al.|[2602.24109](http://arxiv.org/abs/2602.24109)|null|
+|**2026-02-27**|**The Subjectivity of Monoculture**|Nathanael Jo et.al.|[2602.24086](http://arxiv.org/abs/2602.24086)|null|
+|**2026-02-27**|**Preference Packing: Efficient Preference Optimization for Large Language Models**|Jaekyung Cho et.al.|[2602.24082](http://arxiv.org/abs/2602.24082)|null|
+|**2026-02-27**|**A Novel Hierarchical Multi-Agent System for Payments Using LLMs**|Joon Kiat Chua et.al.|[2602.24068](http://arxiv.org/abs/2602.24068)|null|
 |**2026-02-26**|**MediX-R1: Open Ended Medical Reinforcement Learning**|Sahal Shaji Mullappilly et.al.|[2602.23363](http://arxiv.org/abs/2602.23363)|null|
 |**2026-02-26**|**SOTAlign: Semi-Supervised Alignment of Unimodal Vision and Language Models via Optimal Transport**|Simon Roschmann et.al.|[2602.23353](http://arxiv.org/abs/2602.23353)|null|
 |**2026-02-26**|**Scale Can't Overcome Pragmatics: The Impact of Reporting Bias on Vision-Language Reasoning**|Amita Kamath et.al.|[2602.23351](http://arxiv.org/abs/2602.23351)|null|
@@ -4007,6 +4047,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-27**|**DARE-bench: Evaluating Modeling and Instruction Fidelity of LLMs in Data Science**|Fan Shu et.al.|[2602.24288](http://arxiv.org/abs/2602.24288)|null|
+|**2026-02-27**|**CUDA Agent: Large-Scale Agentic RL for High-Performance CUDA Kernel Generation**|Weinan Dai et.al.|[2602.24286](http://arxiv.org/abs/2602.24286)|null|
+|**2026-02-27**|**Geometric Resilience of Quantum LiDAR in Turbulent Media: A Wasserstein Distance Approach**|Arnaud Coatanhay et.al.|[2602.24280](http://arxiv.org/abs/2602.24280)|null|
+|**2026-02-27**|**Curriculum-Based Soft Actor-Critic for Multi-Section R2R Tension Control**|Shihao Li et.al.|[2602.24259](http://arxiv.org/abs/2602.24259)|null|
+|**2026-02-27**|**On Hamiltonian Monte Carlo for Gaussian Random Variables with Random Hamiltonians**|Yingdong Lu et.al.|[2602.24256](http://arxiv.org/abs/2602.24256)|null|
+|**2026-02-27**|**SafeGen-LLM: Enhancing Safety Generalization in Task Planning for Robotic Systems**|Jialiang Fan et.al.|[2602.24235](http://arxiv.org/abs/2602.24235)|null|
+|**2026-02-27**|**Enhancing Spatial Understanding in Image Generation via Reward Modeling**|Zhenyu Tang et.al.|[2602.24233](http://arxiv.org/abs/2602.24233)|null|
+|**2026-02-27**|**Empirical Challenges with Peers-of-Peers Instruments in the Linear-In-Means Model**|Nathan Canen et.al.|[2602.24215](http://arxiv.org/abs/2602.24215)|null|
+|**2026-02-27**|**Vacancy-induced local moments in quantum paramagnetic phases: An SU( $N$ ) designer Hamiltonian study**|Md Zahid Ansari et.al.|[2602.24203](http://arxiv.org/abs/2602.24203)|null|
+|**2026-02-27**|**Multi-Objective Reinforcement Learning for Large-Scale Tote Allocation in Human-Robot Collaborative Fulfillment Centers**|Sikata Sengupta et.al.|[2602.24182](http://arxiv.org/abs/2602.24182)|null|
+|**2026-02-27**|**Learning Flexible Job Shop Scheduling under Limited Buffers and Material Kitting Constraints**|Shishun Zhang et.al.|[2602.24180](http://arxiv.org/abs/2602.24180)|null|
+|**2026-02-27**|**Theoretical Studies of alpha Clustering in Nuclei and Beyond**|Takaharu Otsuka et.al.|[2602.24175](http://arxiv.org/abs/2602.24175)|null|
+|**2026-02-27**|**Advanced Scheduling Strategies for Distributed Quantum Computing Jobs**|Gongyu Ni et.al.|[2602.24152](http://arxiv.org/abs/2602.24152)|null|
+|**2026-02-27**|**Planning from Observation and Interaction**|Tyler Han et.al.|[2602.24121](http://arxiv.org/abs/2602.24121)|null|
+|**2026-02-27**|**Microwave response of fractional quantum Hall droplets with quasiparticle tunneling**|Fumihiro Murabayashi et.al.|[2602.24116](http://arxiv.org/abs/2602.24116)|null|
+|**2026-02-27**|**Recycling Failures: Salvaging Exploration in RLVR via Fine-Grained Off-Policy Guidance**|Yanwei Ren et.al.|[2602.24110](http://arxiv.org/abs/2602.24110)|null|
+|**2026-02-27**|**Bi-level RL-Heuristic Optimization for Real-world Winter Road Maintenance**|Yue Xie et.al.|[2602.24097](http://arxiv.org/abs/2602.24097)|null|
+|**2026-02-27**|**An $ε$ -Optimal Sequential Approach for Solving zs-POSGs**|Jilles S. Dibangoye et.al.|[2602.24092](http://arxiv.org/abs/2602.24092)|null|
+|**2026-02-27**|**Preference Packing: Efficient Preference Optimization for Large Language Models**|Jaekyung Cho et.al.|[2602.24082](http://arxiv.org/abs/2602.24082)|null|
+|**2026-02-27**|**Adaptive Correlation-Weighted Intrinsic Rewards for Reinforcement Learning**|Viet Bac Nguyen et.al.|[2602.24081](http://arxiv.org/abs/2602.24081)|null|
 |**2026-02-26**|**MediX-R1: Open Ended Medical Reinforcement Learning**|Sahal Shaji Mullappilly et.al.|[2602.23363](http://arxiv.org/abs/2602.23363)|null|
 |**2026-02-26**|**Generalized Rapid Action Value Estimation in Memory-Constrained Environments**|Aloïs Rautureau et.al.|[2602.23318](http://arxiv.org/abs/2602.23318)|null|
 |**2026-02-26**|**Impacts of Aggregation on Model Diversity and Consumer Utility**|Kate Donahue et.al.|[2602.23293](http://arxiv.org/abs/2602.23293)|null|
