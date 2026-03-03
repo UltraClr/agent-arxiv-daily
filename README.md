@@ -21,6 +21,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-02**|**GenDB: The Next Generation of Query Processing -- Synthesized, Not Engineered**|Jiale Lao et.al.|[2603.02081](http://arxiv.org/abs/2603.02081)|null|
+|**2026-03-02**|**MMNavAgent: Multi-Magnification WSI Navigation Agent for Clinically Consistent Whole-Slide Analysis**|Zhengyang Xu et.al.|[2603.02079](http://arxiv.org/abs/2603.02079)|null|
+|**2026-03-02**|**When an AI Judges Your Work: The Hidden Costs of Algorithmic Assessment**|David Almog et.al.|[2603.02076](http://arxiv.org/abs/2603.02076)|null|
+|**2026-03-02**|**Exploring Plan Space through Conversation: An Agentic Framework for LLM-Mediated Explanations in Planning**|Guilhem Fouilhé et.al.|[2603.02070](http://arxiv.org/abs/2603.02070)|null|
+|**2026-03-02**|**"When to Hand Off, When to Work Together": Expanding Human-Agent Co-Creative Collaboration through Concurrent Interaction**|Kihoon Son et.al.|[2603.02050](http://arxiv.org/abs/2603.02050)|null|
+|**2026-03-02**|**Expanding LLM Agent Boundaries with Strategy-Guided Exploration**|Andrew Szot et.al.|[2603.02045](http://arxiv.org/abs/2603.02045)|null|
+|**2026-03-02**|**CHOP: Counterfactual Human Preference Labels Improve Obstacle Avoidance in Visuomotor Navigation Policies**|Gershom Seneviratne et.al.|[2603.02004](http://arxiv.org/abs/2603.02004)|null|
+|**2026-03-02**|**LiveCultureBench: a Multi-Agent, Multi-Cultural Benchmark for Large Language Models in Dynamic Social Simulations**|Viet-Thanh Pham et.al.|[2603.01952](http://arxiv.org/abs/2603.01952)|null|
+|**2026-03-02**|**CoVe: Training Interactive Tool-Use Agents via Constraint-Guided Verification**|Jinpeng Chen et.al.|[2603.01940](http://arxiv.org/abs/2603.01940)|null|
+|**2026-03-02**|**A Hetero-functional Graph State Estimator for Watershed Systems: Application to the Chesapeake Bay**|Megan S. Harris et.al.|[2603.01931](http://arxiv.org/abs/2603.01931)|null|
+|**2026-03-02**|**Demonstrating ViviDoc: Generating Interactive Documents through Human-Agent Collaboration**|Yinghao Tang et.al.|[2603.01912](http://arxiv.org/abs/2603.01912)|null|
+|**2026-03-02**|**Agentic Code Reasoning**|Shubham Ugare et.al.|[2603.01896](http://arxiv.org/abs/2603.01896)|null|
+|**2026-03-02**|**Architecture-Aware Multi-Design Generation for Repository-Level Feature Addition**|Mingwei Liu et.al.|[2603.01814](http://arxiv.org/abs/2603.01814)|null|
+|**2026-03-02**|**What Papers Don't Tell You: Recovering Tacit Knowledge for Automated Paper Reproduction**|Lehui Li et.al.|[2603.01801](http://arxiv.org/abs/2603.01801)|null|
+|**2026-03-02**|**TopoCurate:Modeling Interaction Topology for Tool-Use Agent Training**|Jinluan Yang et.al.|[2603.01714](http://arxiv.org/abs/2603.01714)|null|
+|**2026-03-02**|**CeProAgents: A Hierarchical Agents System for Automated Chemical Process Development**|Yuhang Yang et.al.|[2603.01654](http://arxiv.org/abs/2603.01654)|null|
+|**2026-03-02**|**LexChronos: An Agentic Framework for Structured Event Timeline Extraction in Indian Jurisprudence**|Anka Chandrahas Tummepalli et.al.|[2603.01651](http://arxiv.org/abs/2603.01651)|null|
+|**2026-03-02**|**QCAgent: An agentic framework for quality-controllable pathology report generation from whole slide image**|Rundong Wang et.al.|[2603.01647](http://arxiv.org/abs/2603.01647)|null|
+|**2026-03-02**|**SEED-SET: Scalable Evolving Experimental Design for System-level Ethical Testing**|Anjali Parashar et.al.|[2603.01630](http://arxiv.org/abs/2603.01630)|null|
+|**2026-03-02**|**Evaluating and Understanding Scheming Propensity in LLM Agents**|Mia Hopman et.al.|[2603.01608](http://arxiv.org/abs/2603.01608)|null|
 |**2026-02-27**|**CUDA Agent: Large-Scale Agentic RL for High-Performance CUDA Kernel Generation**|Weinan Dai et.al.|[2602.24286](http://arxiv.org/abs/2602.24286)|null|
 |**2026-02-27**|**UXSim: Towards a Hybrid User Search Simulation**|Saber Zerhoudi et.al.|[2602.24241](http://arxiv.org/abs/2602.24241)|null|
 |**2026-02-27**|**Controllable Reasoning Models Are Private Thinkers**|Haritz Puerto et.al.|[2602.24210](http://arxiv.org/abs/2602.24210)|null|
@@ -2213,6 +2233,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-02**|**Reasoning Core: A Scalable Procedural Data Generation Suite for Symbolic Pre-training and Post-Training**|Valentin Lacombe et.al.|[2603.02208](http://arxiv.org/abs/2603.02208)|null|
+|**2026-03-02**|**Frontier Models Can Take Actions at Low Probabilities**|Alex Serrano et.al.|[2603.02202](http://arxiv.org/abs/2603.02202)|null|
+|**2026-03-02**|**Symbol-Equivariant Recurrent Reasoning Models**|Richard Freinschlag et.al.|[2603.02193](http://arxiv.org/abs/2603.02193)|null|
+|**2026-03-02**|**Multi-Head Low-Rank Attention**|Songtao Liu et.al.|[2603.02188](http://arxiv.org/abs/2603.02188)|null|
+|**2026-03-02**|**How Small Can 6G Reason? Scaling Tiny Language Models for AI-Native Networks**|Mohamed Amine Ferrag et.al.|[2603.02156](http://arxiv.org/abs/2603.02156)|null|
+|**2026-03-02**|**Zero- and Few-Shot Named-Entity Recognition: Case Study and Dataset in the Crime Domain (CrimeNER)**|Miguel Lopez-Duran et.al.|[2603.02150](http://arxiv.org/abs/2603.02150)|null|
+|**2026-03-02**|**LongRLVR: Long-Context Reinforcement Learning Requires Verifiable Context Rewards**|Guanzheng Chen et.al.|[2603.02146](http://arxiv.org/abs/2603.02146)|null|
+|**2026-03-02**|**OmniLottie: Generating Vector Animations via Parameterized Lottie Tokens**|Yiying Yang et.al.|[2603.02138](http://arxiv.org/abs/2603.02138)|null|
+|**2026-03-02**|**LLMs as Strategic Actors: Behavioral Alignment, Risk Calibration, and Argumentation Framing in Geopolitical Simulations**|Veronika Solopova et.al.|[2603.02128](http://arxiv.org/abs/2603.02128)|null|
+|**2026-03-02**|**Nano-EmoX: Unifying Multimodal Emotional Intelligence from Perception to Empathy**|Jiahao Huang et.al.|[2603.02123](http://arxiv.org/abs/2603.02123)|null|
+|**2026-03-02**|**Pencil Puzzle Bench: A Benchmark for Multi-Step Verifiable Reasoning**|Justin Waugh et.al.|[2603.02119](http://arxiv.org/abs/2603.02119)|null|
+|**2026-03-02**|**Recursive Models for Long-Horizon Reasoning**|Chenxiao Yang et.al.|[2603.02112](http://arxiv.org/abs/2603.02112)|null|
+|**2026-03-02**|**Recursive Think-Answer Process for LLMs and VLMs**|Byung-Kwan Lee et.al.|[2603.02099](http://arxiv.org/abs/2603.02099)|null|
+|**2026-03-02**|**OmniRet: Efficient and High-Fidelity Omni Modality Retrieval**|Chuong Huynh et.al.|[2603.02098](http://arxiv.org/abs/2603.02098)|null|
+|**2026-03-02**|**ClinConsensus: A Consensus-Based Benchmark for Evaluating Chinese Medical LLMs across Difficulty Levels**|Xiang Zheng et.al.|[2603.02097](http://arxiv.org/abs/2603.02097)|null|
+|**2026-03-02**|**Adam Converges Without Any Modification On Update Rules**|Yushun Zhang et.al.|[2603.02092](http://arxiv.org/abs/2603.02092)|null|
+|**2026-03-02**|**Learning from Synthetic Data Improves Multi-hop Reasoning**|Anmol Kabra et.al.|[2603.02091](http://arxiv.org/abs/2603.02091)|null|
+|**2026-03-02**|**What Exactly do Children Receive in Language Acquisition? A Case Study on CHILDES with Automated Detection of Filler-Gap Dependencies**|Zhenghao Herbert Zhou et.al.|[2603.02082](http://arxiv.org/abs/2603.02082)|null|
+|**2026-03-02**|**GenDB: The Next Generation of Query Processing -- Synthesized, Not Engineered**|Jiale Lao et.al.|[2603.02081](http://arxiv.org/abs/2603.02081)|null|
+|**2026-03-02**|**Trident: Adaptive Scheduling for Heterogeneous Multimodal Data Pipelines**|Ding Pan et.al.|[2603.02075](http://arxiv.org/abs/2603.02075)|null|
 |**2026-02-27**|**DARE-bench: Evaluating Modeling and Instruction Fidelity of LLMs in Data Science**|Fan Shu et.al.|[2602.24288](http://arxiv.org/abs/2602.24288)|null|
 |**2026-02-27**|**Do LLMs Benefit From Their Own Words?**|Jenny Y. Huang et.al.|[2602.24287](http://arxiv.org/abs/2602.24287)|null|
 |**2026-02-27**|**CUDA Agent: Large-Scale Agentic RL for High-Performance CUDA Kernel Generation**|Weinan Dai et.al.|[2602.24286](http://arxiv.org/abs/2602.24286)|null|
@@ -4047,6 +4087,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-02**|**Reasoning Core: A Scalable Procedural Data Generation Suite for Symbolic Pre-training and Post-Training**|Valentin Lacombe et.al.|[2603.02208](http://arxiv.org/abs/2603.02208)|null|
+|**2026-03-02**|**Tool Verification for Test-Time Reinforcement Learning**|Ruotong Liao et.al.|[2603.02203](http://arxiv.org/abs/2603.02203)|null|
+|**2026-03-02**|**Kinetic energy fluctuations and specific heat in generalized ensembles**|Sergio Davis et.al.|[2603.02168](http://arxiv.org/abs/2603.02168)|null|
+|**2026-03-02**|**Near-Optimal Regret for KL-Regularized Multi-Armed Bandits**|Kaixuan Ji et.al.|[2603.02155](http://arxiv.org/abs/2603.02155)|null|
+|**2026-03-02**|**Boltzmann-based Exploration for Robust Decentralized Multi-Agent Planning**|Nhat Nguyen et.al.|[2603.02154](http://arxiv.org/abs/2603.02154)|null|
+|**2026-03-02**|**LongRLVR: Long-Context Reinforcement Learning Requires Verifiable Context Rewards**|Guanzheng Chen et.al.|[2603.02146](http://arxiv.org/abs/2603.02146)|null|
+|**2026-03-02**|**Rethinking Camera Choice: An Empirical Study on Fisheye Camera Properties in Robotic Manipulation**|Han Xue et.al.|[2603.02139](http://arxiv.org/abs/2603.02139)|null|
+|**2026-03-02**|**Pencil Puzzle Bench: A Benchmark for Multi-Step Verifiable Reasoning**|Justin Waugh et.al.|[2603.02119](http://arxiv.org/abs/2603.02119)|null|
+|**2026-03-02**|**Robometer: Scaling General-Purpose Robotic Reward Models via Trajectory Comparisons**|Anthony Liang et.al.|[2603.02115](http://arxiv.org/abs/2603.02115)|null|
+|**2026-03-02**|**ACDC: Adaptive Curriculum Planning with Dynamic Contrastive Control for Goal-Conditioned Reinforcement Learning in Robotic Manipulation**|Xuerui Wang et.al.|[2603.02104](http://arxiv.org/abs/2603.02104)|null|
+|**2026-03-02**|**Learning from Synthetic Data Improves Multi-hop Reasoning**|Anmol Kabra et.al.|[2603.02091](http://arxiv.org/abs/2603.02091)|null|
+|**2026-03-02**|**Reinforcement Learning-Based Filters for Convection-Dominated Flows: Reference-Free and Reference-Guided Training**|Anna Ivagnes et.al.|[2603.02086](http://arxiv.org/abs/2603.02086)|null|
+|**2026-03-02**|**$π$ -StepNFT: Wider Space Needs Finer Steps in Online RL for Flow-based VLAs**|Siting Wang et.al.|[2603.02083](http://arxiv.org/abs/2603.02083)|null|
+|**2026-03-02**|**Accelerating PDE Surrogates via RL-Guided Mesh Optimization**|Yang Meng et.al.|[2603.02066](http://arxiv.org/abs/2603.02066)|null|
+|**2026-03-02**|**Expanding LLM Agent Boundaries with Strategy-Guided Exploration**|Andrew Szot et.al.|[2603.02045](http://arxiv.org/abs/2603.02045)|null|
+|**2026-03-02**|**Temporal Representations for Exploration: Learning Complex Exploratory Behavior without Extrinsic Rewards**|Faisal Mohamed et.al.|[2603.02008](http://arxiv.org/abs/2603.02008)|null|
+|**2026-03-02**|**Process Over Outcome: Cultivating Forensic Reasoning for Generalizable Multimodal Manipulation Detection**|Yuchen Zhang et.al.|[2603.01993](http://arxiv.org/abs/2603.01993)|null|
+|**2026-03-02**|**CharacterFlywheel: Scaling Iterative Improvement of Engaging and Steerable LLMs in Production**|Yixin Nie et.al.|[2603.01973](http://arxiv.org/abs/2603.01973)|null|
+|**2026-03-02**|**CoVe: Training Interactive Tool-Use Agents via Constraint-Guided Verification**|Jinpeng Chen et.al.|[2603.01940](http://arxiv.org/abs/2603.01940)|null|
+|**2026-03-02**|**LaST-VLA: Thinking in Latent Spatio-Temporal Space for Vision-Language-Action in Autonomous Driving**|Yuechen Luo et.al.|[2603.01928](http://arxiv.org/abs/2603.01928)|null|
 |**2026-02-27**|**DARE-bench: Evaluating Modeling and Instruction Fidelity of LLMs in Data Science**|Fan Shu et.al.|[2602.24288](http://arxiv.org/abs/2602.24288)|null|
 |**2026-02-27**|**CUDA Agent: Large-Scale Agentic RL for High-Performance CUDA Kernel Generation**|Weinan Dai et.al.|[2602.24286](http://arxiv.org/abs/2602.24286)|null|
 |**2026-02-27**|**Geometric Resilience of Quantum LiDAR in Turbulent Media: A Wasserstein Distance Approach**|Arnaud Coatanhay et.al.|[2602.24280](http://arxiv.org/abs/2602.24280)|null|
