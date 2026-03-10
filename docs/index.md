@@ -16,6 +16,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-09**|**Agentic Critical Training**|Weize Liu et.al.|[2603.08706](http://arxiv.org/abs/2603.08706)|null|
+|**2026-03-09**|**Predicting Conflict Impact on Performance in O-RAN**|Pietro Brach del Prever et.al.|[2603.08685](http://arxiv.org/abs/2603.08685)|null|
+|**2026-03-09**|**OfficeQA Pro: An Enterprise Benchmark for End-to-End Grounded Reasoning**|Krista Opsahl-Ong et.al.|[2603.08655](http://arxiv.org/abs/2603.08655)|null|
+|**2026-03-09**|**PostTrainBench: Can LLM Agents Automate LLM Post-Training?**|Ben Rank et.al.|[2603.08640](http://arxiv.org/abs/2603.08640)|null|
+|**2026-03-09**|**Reachability-based Temporal Logic Verification for Reliable LLM-guided Human-Autonomy Teaming**|Joonwon Choi et.al.|[2603.08633](http://arxiv.org/abs/2603.08633)|null|
+|**2026-03-09**|**Trust via Reputation of Conviction**|Aravind R. Iyengar et.al.|[2603.08575](http://arxiv.org/abs/2603.08575)|null|
+|**2026-03-09**|**SCAFFOLD-CEGIS: Preventing Latent Security Degradation in LLM-Driven Iterative Code Refinement**|Yi Chen et.al.|[2603.08520](http://arxiv.org/abs/2603.08520)|null|
+|**2026-03-09**|**Fanar-Sadiq: A Multi-Agent Architecture for Grounded Islamic QA**|Ummar Abbas et.al.|[2603.08501](http://arxiv.org/abs/2603.08501)|null|
+|**2026-03-09**|**Towards Modeling Cybersecurity Behavior of Humans in Organizations**|Klaas Ole Kürtz et.al.|[2603.08484](http://arxiv.org/abs/2603.08484)|null|
+|**2026-03-09**|**Behavioral Generative Agents for Power Dispatch and Auction**|Shaoze Li et.al.|[2603.08477](http://arxiv.org/abs/2603.08477)|null|
+|**2026-03-09**|**One Model Is Enough: Native Retrieval Embeddings from LLM Agent Hidden States**|Bo Jiang et.al.|[2603.08429](http://arxiv.org/abs/2603.08429)|null|
+|**2026-03-09**|**IronEngine: Towards General AI Assistant**|Xi Mo et.al.|[2603.08425](http://arxiv.org/abs/2603.08425)|null|
+|**2026-03-09**|**A Recipe for Stable Offline Multi-agent Reinforcement Learning**|Dongsu Lee et.al.|[2603.08399](http://arxiv.org/abs/2603.08399)|null|
+|**2026-03-09**|**A Hierarchical Error-Corrective Graph Framework for Autonomous Agents with LLM-Based Action Generation**|Cong Cao et.al.|[2603.08388](http://arxiv.org/abs/2603.08388)|null|
+|**2026-03-09**|**M $^3$ -ACE: Rectifying Visual Perception in Multimodal Math Reasoning via Multi-Agentic Context Engineering**|Peijin Xie et.al.|[2603.08369](http://arxiv.org/abs/2603.08369)|null|
+|**2026-03-09**|**SPD-RAG: Sub-Agent Per Document Retrieval-Augmented Generation**|Yagiz Can Akay et.al.|[2603.08329](http://arxiv.org/abs/2603.08329)|null|
+|**2026-03-09**|**Agentic Neurosymbolic Collaboration for Mathematical Discovery: A Case Study in Combinatorial Design**|Hai Xia et.al.|[2603.08322](http://arxiv.org/abs/2603.08322)|null|
+|**2026-03-09**|**FinToolBench: Evaluating LLM Agents for Real-World Financial Tool Use**|Jiaxuan Lu et.al.|[2603.08262](http://arxiv.org/abs/2603.08262)|null|
+|**2026-03-09**|**SplitAgent: A Privacy-Preserving Distributed Architecture for Enterprise-Cloud Agent Collaboration**|Jianshu She et.al.|[2603.08221](http://arxiv.org/abs/2603.08221)|null|
+|**2026-03-09**|**RexDrug: Reliable Multi-Drug Combination Extraction through Reasoning-Enhanced LLMs**|Zhijun Wang et.al.|[2603.08166](http://arxiv.org/abs/2603.08166)|null|
 |**2026-03-07**|**The Yerkes-Dodson Curve for AI Agents: Emergent Cooperation Under Environmental Pressure in Multi-Agent LLM Simulations**|Ivan Pasichnyk et.al.|[2603.07360](http://arxiv.org/abs/2603.07360)|null|
 |**2026-03-07**|**LLM-FK: Multi-Agent LLM Reasoning for Foreign Key Detection in Large-Scale Complex Databases**|Zijian Tang et.al.|[2603.07278](http://arxiv.org/abs/2603.07278)|null|
 |**2026-03-07**|**Lying to Win: Assessing LLM Deception through Human-AI Games and Parallel-World Probing**|Arash Marioriyad et.al.|[2603.07202](http://arxiv.org/abs/2603.07202)|null|
@@ -2321,6 +2341,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-09**|**FVG-PT: Adaptive Foreground View-Guided Prompt Tuning for Vision-Language Models**|Haoyang Li et.al.|[2603.08708](http://arxiv.org/abs/2603.08708)|null|
+|**2026-03-09**|**Agentic Critical Training**|Weize Liu et.al.|[2603.08706](http://arxiv.org/abs/2603.08706)|null|
+|**2026-03-09**|**Evaluating Financial Intelligence in Large Language Models: Benchmarking SuperInvesting AI with LLM Engines**|Akshay Gulati et.al.|[2603.08704](http://arxiv.org/abs/2603.08704)|null|
+|**2026-03-09**|**Benchmarking Language Modeling for Lossless Compression of Full-Fidelity Audio**|Phillip Long et.al.|[2603.08683](http://arxiv.org/abs/2603.08683)|null|
+|**2026-03-09**|**Exp-Force: Experience-Conditioned Pre-Grasp Force Selection with Vision-Language Models**|Siqi Shang et.al.|[2603.08668](http://arxiv.org/abs/2603.08668)|null|
+|**2026-03-09**|**CoCo: Code as CoT for Text-to-Image Preview and Rare Concept Generation**|Haodong Li et.al.|[2603.08652](http://arxiv.org/abs/2603.08652)|null|
+|**2026-03-09**|**PostTrainBench: Can LLM Agents Automate LLM Post-Training?**|Ben Rank et.al.|[2603.08640](http://arxiv.org/abs/2603.08640)|null|
+|**2026-03-09**|**UNBOX: Unveiling Black-box visual models with Natural-language**|Simone Carnemolla et.al.|[2603.08639](http://arxiv.org/abs/2603.08639)|null|
+|**2026-03-09**|**Boosting MLLM Spatial Reasoning with Geometrically Referenced 3D Scene Representations**|Jiangye Yuan et.al.|[2603.08592](http://arxiv.org/abs/2603.08592)|null|
+|**2026-03-09**|**MetaWorld-X: Hierarchical World Modeling via VLM-Orchestrated Experts for Humanoid Loco-Manipulation**|Yutong Shen et.al.|[2603.08572](http://arxiv.org/abs/2603.08572)|null|
+|**2026-03-09**|**RetroAgent: From Solving to Evolving via Retrospective Dual Intrinsic Feedback**|Xiaoying Zhang et.al.|[2603.08561](http://arxiv.org/abs/2603.08561)|null|
+|**2026-03-09**|**The Neural Compass: Probabilistic Relative Feature Fields for Robotic Search**|Gabriele Somaschini et.al.|[2603.08544](http://arxiv.org/abs/2603.08544)|null|
+|**2026-03-09**|**SecAgent: Efficient Mobile GUI Agent with Semantic Context**|Yiping Xie et.al.|[2603.08533](http://arxiv.org/abs/2603.08533)|null|
+|**2026-03-09**|**SCAFFOLD-CEGIS: Preventing Latent Security Degradation in LLM-Driven Iterative Code Refinement**|Yi Chen et.al.|[2603.08520](http://arxiv.org/abs/2603.08520)|null|
+|**2026-03-09**|**AtomVLA: Scalable Post-Training for Robotic Manipulation via Predictive Latent World Models**|Xiaoquan Sun et.al.|[2603.08519](http://arxiv.org/abs/2603.08519)|null|
+|**2026-03-09**|**Fanar-Sadiq: A Multi-Agent Architecture for Grounded Islamic QA**|Ummar Abbas et.al.|[2603.08501](http://arxiv.org/abs/2603.08501)|null|
+|**2026-03-09**|**Reading $\neq$ Seeing: Diagnosing and Closing the Typography Gap in Vision-Language Models**|Heng Zhou et.al.|[2603.08497](http://arxiv.org/abs/2603.08497)|null|
+|**2026-03-09**|**Efficient Credal Prediction through Decalibration**|Paul Hofman et.al.|[2603.08495](http://arxiv.org/abs/2603.08495)|null|
+|**2026-03-09**|**Global Cross-Modal Geo-Localization: A Million-Scale Dataset and a Physical Consistency Learning Framework**|Yutong Hu et.al.|[2603.08491](http://arxiv.org/abs/2603.08491)|null|
+|**2026-03-09**|**Visual Self-Fulfilling Alignment: Shaping Safety-Oriented Personas via Threat-Related Images**|Qishun Yang et.al.|[2603.08486](http://arxiv.org/abs/2603.08486)|null|
 |**2026-03-08**|**AQuA: Toward Strategic Response Generation for Ambiguous Visual Questions**|Jihyoung Jang et.al.|[2603.07394](http://arxiv.org/abs/2603.07394)|null|
 |**2026-03-08**|**Can Large Language Models Keep Up? Benchmarking Online Adaptation to Continual Knowledge Streams**|Jiyeon Kim et.al.|[2603.07392](http://arxiv.org/abs/2603.07392)|null|
 |**2026-03-08**|**Deterministic Fuzzy Triage for Legal Compliance Classification and Evidence Retrieval**|Rian Atri et.al.|[2603.07390](http://arxiv.org/abs/2603.07390)|null|
@@ -4280,6 +4320,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-09**|**Understanding thermal and quantum fluctuations in extended Kitaev-Yao-Lee spin-orbital model**|Jiefu Cen et.al.|[2603.08710](http://arxiv.org/abs/2603.08710)|null|
+|**2026-03-09**|**Agentic Critical Training**|Weize Liu et.al.|[2603.08706](http://arxiv.org/abs/2603.08706)|null|
+|**2026-03-09**|**How Far Can Unsupervised RLVR Scale LLM Training?**|Bingxiang He et.al.|[2603.08660](http://arxiv.org/abs/2603.08660)|null|
+|**2026-03-09**|**Embedding Classical Balance Control Principles in Reinforcement Learning for Humanoid Recovery**|Nehar Poddar et.al.|[2603.08619](http://arxiv.org/abs/2603.08619)|null|
+|**2026-03-09**|**Diff-Muscle: Efficient Learning for Musculoskeletal Robotic Table Tennis**|Wentao Zhao et.al.|[2603.08617](http://arxiv.org/abs/2603.08617)|null|
+|**2026-03-09**|**Online Learning in Semiparametric Econometric Models**|Xiaohong Chen et.al.|[2603.08614](http://arxiv.org/abs/2603.08614)|null|
+|**2026-03-09**|**Towards Batch-to-Streaming Deep Reinforcement Learning for Continuous Control**|Riccardo De Monte et.al.|[2603.08588](http://arxiv.org/abs/2603.08588)|null|
+|**2026-03-09**|**MetaWorld-X: Hierarchical World Modeling via VLM-Orchestrated Experts for Humanoid Loco-Manipulation**|Yutong Shen et.al.|[2603.08572](http://arxiv.org/abs/2603.08572)|null|
+|**2026-03-09**|**RetroAgent: From Solving to Evolving via Retrospective Dual Intrinsic Feedback**|Xiaoying Zhang et.al.|[2603.08561](http://arxiv.org/abs/2603.08561)|null|
+|**2026-03-09**|**Impact of Connectivity on Laplacian Representations in Reinforcement Learning**|Tommaso Giorgi et.al.|[2603.08558](http://arxiv.org/abs/2603.08558)|null|
+|**2026-03-09**|**Evaluation of EMF Exposure to Throughput Ratio for Sustainable 5G Networks**|Dinh Long Trinh et.al.|[2603.08549](http://arxiv.org/abs/2603.08549)|null|
+|**2026-03-09**|**EquiBim: Learning Symmetry-Equivariant Policy for Bimanual Manipulation**|Zhiyuan Zhang et.al.|[2603.08541](http://arxiv.org/abs/2603.08541)|null|
+|**2026-03-09**|**Rethinking Strict Dissipativity for Economic MPC**|Mario Zanon et.al.|[2603.08535](http://arxiv.org/abs/2603.08535)|null|
+|**2026-03-09**|**Breaking the Bias Barrier in Concave Multi-Objective Reinforcement Learning**|Swetha Ganesh et.al.|[2603.08518](http://arxiv.org/abs/2603.08518)|null|
+|**2026-03-09**|**Oracle-Guided Soft Shielding for Safe Move Prediction in Chess**|Prajit T Rajendran et.al.|[2603.08506](http://arxiv.org/abs/2603.08506)|null|
+|**2026-03-09**|**LAR-MoE: Latent-Aligned Routing for Mixture of Experts in Robotic Imitation Learning**|Ariel Rodriguez et.al.|[2603.08476](http://arxiv.org/abs/2603.08476)|null|
+|**2026-03-09**|**Integrating Lagrangian Neural Networks into the Dyna Framework for Reinforcement Learning**|Shreya Das et.al.|[2603.08468](http://arxiv.org/abs/2603.08468)|null|
+|**2026-03-09**|**Reasoning as Compression: Unifying Budget Forcing via the Conditional Information Bottleneck**|Fabio Valerio Massoli et.al.|[2603.08462](http://arxiv.org/abs/2603.08462)|null|
+|**2026-03-09**|**Stochastic Loop Corrections to Belief Propagation for Tensor Network Contraction**|Gi Beom Sim et.al.|[2603.08427](http://arxiv.org/abs/2603.08427)|null|
+|**2026-03-09**|**Meta-RL with Shared Representations Enables Fast Adaptation in Energy Systems**|Théo Zangato et.al.|[2603.08418](http://arxiv.org/abs/2603.08418)|null|
 |**2026-03-08**|**Underwater Embodied Intelligence for Autonomous Robots: A Constraint-Coupled Perspective on Planning, Control, and Deployment**|Jingzehua Xu et.al.|[2603.07393](http://arxiv.org/abs/2603.07393)|null|
 |**2026-03-07**|**Learning to Reflect: Hierarchical Multi-Agent Reinforcement Learning for CSI-Free mmWave Beam-Focusing**|Hieu Le et.al.|[2603.07370](http://arxiv.org/abs/2603.07370)|null|
 |**2026-03-07**|**Neural Control and Learning of Simulated Hand Movements With an EMG-Based Closed-Loop Interface**|Balint K. Hodossy et.al.|[2603.07364](http://arxiv.org/abs/2603.07364)|null|
