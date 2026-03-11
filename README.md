@@ -2368,6 +2368,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-10**|**From Data Statistics to Feature Geometry: How Correlations Shape Superposition**|Lucas Prieto et.al.|[2603.09972](http://arxiv.org/abs/2603.09972)|null|
+|**2026-03-10**|**Understanding the Use of a Large Language Model-Powered Guide to Make Virtual Reality Accessible for Blind and Low Vision People**|Jazmin Collins et.al.|[2603.09964](http://arxiv.org/abs/2603.09964)|null|
+|**2026-03-10**|**BEACON: Language-Conditioned Navigation Affordance Prediction under Occlusion**|Xinyu Gao et.al.|[2603.09961](http://arxiv.org/abs/2603.09961)|null|
+|**2026-03-10**|**Think Before You Lie: How Reasoning Improves Honesty**|Ann Yuan et.al.|[2603.09957](http://arxiv.org/abs/2603.09957)|null|
+|**2026-03-10**|**Towards a Neural Debugger for Python**|Maximilian Beck et.al.|[2603.09951](http://arxiv.org/abs/2603.09951)|null|
+|**2026-03-10**|**PathMem: Toward Cognition-Aligned Memory Transformation for Pathology MLLMs**|Jinyue Li et.al.|[2603.09943](http://arxiv.org/abs/2603.09943)|null|
+|**2026-03-10**|**Model Merging in the Era of Large Language Models: Methods, Applications, and Future Directions**|Mingyang Song et.al.|[2603.09938](http://arxiv.org/abs/2603.09938)|null|
+|**2026-03-10**|**Fine-grained Motion Retrieval via Joint-Angle Motion Images and Token-Patch Late Interaction**|Yao Zhang et.al.|[2603.09930](http://arxiv.org/abs/2603.09930)|null|
+|**2026-03-10**|**WikiCLIP: An Efficient Contrastive Baseline for Open-domain Visual Entity Recognition**|Shan Ning et.al.|[2603.09921](http://arxiv.org/abs/2603.09921)|null|
+|**2026-03-10**|**MedMASLab: A Unified Orchestration Framework for Benchmarking Multimodal Medical Multi-Agent Systems**|Yunhang Qian et.al.|[2603.09909](http://arxiv.org/abs/2603.09909)|null|
+|**2026-03-10**|**Stepping VLMs onto the Court: Benchmarking Spatial Intelligence in Sports**|Yuchen Yang et.al.|[2603.09896](http://arxiv.org/abs/2603.09896)|null|
+|**2026-03-10**|**MSSR: Memory-Aware Adaptive Replay for Continual LLM Fine-Tuning**|Yiyang Lu et.al.|[2603.09892](http://arxiv.org/abs/2603.09892)|null|
+|**2026-03-10**|**Influencing LLM Multi-Agent Dialogue via Policy-Parameterized Prompts**|Hongbo Bo et.al.|[2603.09890](http://arxiv.org/abs/2603.09890)|null|
+|**2026-03-10**|**Benchmarking Political Persuasion Risks Across Frontier Large Language Models**|Zhongren Chen et.al.|[2603.09884](http://arxiv.org/abs/2603.09884)|null|
+|**2026-03-10**|**Do What I Say: A Spoken Prompt Dataset for Instruction-Following**|Maike Züfle et.al.|[2603.09881](http://arxiv.org/abs/2603.09881)|null|
+|**2026-03-10**|**InternVL-U: Democratizing Unified Multimodal Models for Understanding, Reasoning, Generation and Editing**|Changyao Tian et.al.|[2603.09877](http://arxiv.org/abs/2603.09877)|null|
+|**2026-03-10**|**N-gram-like Language Models Predict Reading Time Best**|James A. Michaelov et.al.|[2603.09872](http://arxiv.org/abs/2603.09872)|null|
+|**2026-03-10**|**GAST: Gradient-aligned Sparse Tuning of Large Language Models with Data-layer Selection**|Kai Yao et.al.|[2603.09865](http://arxiv.org/abs/2603.09865)|null|
+|**2026-03-10**|**SCENEBench: An Audio Understanding Benchmark Grounded in Assistive and Industrial Use Cases**|Laya Iyer et.al.|[2603.09853](http://arxiv.org/abs/2603.09853)|null|
+|**2026-03-10**|**RecThinker: An Agentic Framework for Tool-Augmented Reasoning in Recommendation**|Haobo Zhang et.al.|[2603.09843](http://arxiv.org/abs/2603.09843)|null|
 |**2026-03-10**|**Understanding the Interplay between LLMs' Utilisation of Parametric and Contextual Knowledge: A keynote at ECIR 2025**|Isabelle Augenstein et.al.|[2603.09654](http://arxiv.org/abs/2603.09654)|null|
 |**2026-03-10**|**MiniAppBench: Evaluating the Shift from Text to Interactive HTML Responses in LLM-Powered Assistants**|Zuhao Zhang et.al.|[2603.09652](http://arxiv.org/abs/2603.09652)|null|
 |**2026-03-10**|**MM-tau-p $^2$ : Persona-Adaptive Prompting for Robust Multi-Modal Agent Evaluation in Dual-Control Settings**|Anupam Purwar et.al.|[2603.09643](http://arxiv.org/abs/2603.09643)|null|
@@ -4369,6 +4389,20 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-10**|**Probing Physics Beyond the Standard Model through Combined Analyses of Next-Generation Type Ia Supernova, CMB, and BAO Surveys**|Srinivasan Raghunathan et.al.|[2603.09973](http://arxiv.org/abs/2603.09973)|null|
+|**2026-03-10**|**Kinodynamic Motion Retargeting for Humanoid Locomotion via Multi-Contact Whole-Body Trajectory Optimization**|Xiaoyu Zhang et.al.|[2603.09956](http://arxiv.org/abs/2603.09956)|null|
+|**2026-03-10**|**When Learning Rates Go Wrong: Early Structural Signals in PPO Actor-Critic**|Alberto Fernández-Hernández et.al.|[2603.09950](http://arxiv.org/abs/2603.09950)|null|
+|**2026-03-10**|**Subspace decomposition with defect diffusion coefficient**|Dilini Kolombage et.al.|[2603.09924](http://arxiv.org/abs/2603.09924)|null|
+|**2026-03-10**|**Critical behavior of the thermal phase transition of U(1) lattice gauge systems**|Greta Sophie Reese et.al.|[2603.09895](http://arxiv.org/abs/2603.09895)|null|
+|**2026-03-10**|**Influencing LLM Multi-Agent Dialogue via Policy-Parameterized Prompts**|Hongbo Bo et.al.|[2603.09890](http://arxiv.org/abs/2603.09890)|null|
+|**2026-03-10**|**Robust Cooperative Localization in Featureless Environments: A Comparative Study of DCL, StCL, CCL, CI, and Standard-CL**|Nivand Khosravi et.al.|[2603.09886](http://arxiv.org/abs/2603.09886)|null|
+|**2026-03-10**|**Emerging Extrinsic Dexterity in Cluttered Scenes via Dynamics-aware Policy Learning**|Yixin Zheng et.al.|[2603.09882](http://arxiv.org/abs/2603.09882)|null|
+|**2026-03-10**|**RecThinker: An Agentic Framework for Tool-Augmented Reasoning in Recommendation**|Haobo Zhang et.al.|[2603.09843](http://arxiv.org/abs/2603.09843)|null|
+|**2026-03-10**|**Good Reasoning Makes Good Demonstrations: Implicit Reasoning Quality Supervision via In-Context Reinforcement Learning**|Tiehua Mei et.al.|[2603.09803](http://arxiv.org/abs/2603.09803)|null|
+|**2026-03-10**|**Long-Run Conditional Value-at-Risk Reinforcement Learning**|Qixin Wang et.al.|[2603.09734](http://arxiv.org/abs/2603.09734)|null|
+|**2026-03-10**|**Event-by-Event Multiplicity Fluctuations in Heavy-Ion Collisions Using Modified HIJING Monte Carlo Generator**|Y. A. Rusak et.al.|[2603.09732](http://arxiv.org/abs/2603.09732)|null|
+|**2026-03-10**|**GSStream: 3D Gaussian Splatting based Volumetric Scene Streaming System**|Zhiye Tang et.al.|[2603.09718](http://arxiv.org/abs/2603.09718)|null|
+|**2026-03-10**|**ActiveUltraFeedback: Efficient Preference Data Generation using Active Learning**|Davit Melikidze et.al.|[2603.09692](http://arxiv.org/abs/2603.09692)|null|
 |**2026-03-10**|**Analytic treatment of a polaron in a nonparabolic conduction band**|S. N. Klimin et.al.|[2603.09609](http://arxiv.org/abs/2603.09609)|null|
 |**2026-03-10**|**Phase diagram of 4D SU(3) Yang-Mills theory at $θ=π$ via imaginary theta simulations**|Akira Matsumoto et.al.|[2603.09604](http://arxiv.org/abs/2603.09604)|null|
 |**2026-03-10**|**Comprehensive structural and optical analysis of differently oriented Yb-implanted $β$-Ga$_2$O$_3$**|Joanna Matulewicz et.al.|[2603.09592](http://arxiv.org/abs/2603.09592)|null|
