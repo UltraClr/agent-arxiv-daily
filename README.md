@@ -21,6 +21,13 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-12**|**OmniStream: Mastering Perception, Reconstruction and Action in Continuous Streams**|Yibin Yan et.al.|[2603.12265](http://arxiv.org/abs/2603.12265)|null|
+|**2026-03-12**|**Security Considerations for Artificial Intelligence Agents**|Ninghui Li et.al.|[2603.12230](http://arxiv.org/abs/2603.12230)|null|
+|**2026-03-12**|**IndexCache: Accelerating Sparse Attention via Cross-Layer Index Reuse**|Yushi Bai et.al.|[2603.12201](http://arxiv.org/abs/2603.12201)|null|
+|**2026-03-12**|**GlyphBanana: Advancing Precise Text Rendering Through Agentic Workflows**|Zexuan Yan et.al.|[2603.12155](http://arxiv.org/abs/2603.12155)|null|
+|**2026-03-12**|**Automatic Generation of High-Performance RL Environments**|Seth Karten et.al.|[2603.12145](http://arxiv.org/abs/2603.12145)|null|
+|**2026-03-12**|**O3N: Omnidirectional Open-Vocabulary Occupancy Prediction**|Mengfei Duan et.al.|[2603.12144](http://arxiv.org/abs/2603.12144)|null|
+|**2026-03-12**|**Increasing intelligence in AI agents can worsen collective outcomes**|Neil F. Johnson et.al.|[2603.12129](http://arxiv.org/abs/2603.12129)|null|
 |**2026-03-12**|**On Information Self-Locking in Reinforcement Learning for Active Reasoning of LLM agents**|Deyu Zou et.al.|[2603.12109](http://arxiv.org/abs/2603.12109)|null|
 |**2026-03-12**|**XSkill: Continual Learning from Experience and Skills in Multimodal Agents**|Guanyu Jiang et.al.|[2603.12056](http://arxiv.org/abs/2603.12056)|null|
 |**2026-03-12**|**Kinetic SIS opinion-driven models with asymmetric awareness feedback: macroscopic limit and polarization**|Juan Pablo Pinasco et.al.|[2603.12041](http://arxiv.org/abs/2603.12041)|null|
@@ -2411,6 +2418,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-12**|**MM-CondChain: A Programmatically Verified Benchmark for Visually Grounded Deep Compositional Reasoning**|Haozhan Shen et.al.|[2603.12266](http://arxiv.org/abs/2603.12266)|null|
+|**2026-03-12**|**Video Streaming Thinking: VideoLLMs Can Watch and Think Simultaneously**|Yiran Guan et.al.|[2603.12262](http://arxiv.org/abs/2603.12262)|null|
+|**2026-03-12**|**Attend Before Attention: Efficient and Scalable Video Understanding via Autoregressive Gazing**|Baifeng Shi et.al.|[2603.12254](http://arxiv.org/abs/2603.12254)|null|
+|**2026-03-12**|**EndoCoT: Scaling Endogenous Chain-of-Thought Reasoning in Diffusion Models**|Xuanlang Dai et.al.|[2603.12252](http://arxiv.org/abs/2603.12252)|null|
+|**2026-03-12**|**Matching Features, Not Tokens: Energy-Based Fine-Tuning of Language Models**|Samy Jelassi et.al.|[2603.12248](http://arxiv.org/abs/2603.12248)|null|
+|**2026-03-12**|**Separable neural architectures as a primitive for unified predictive and generative intelligence**|Reza T. Batley et.al.|[2603.12244](http://arxiv.org/abs/2603.12244)|null|
+|**2026-03-12**|**SceneAssistant: A Visual Feedback Agent for Open-Vocabulary 3D Scene Generation**|Jun Luo et.al.|[2603.12238](http://arxiv.org/abs/2603.12238)|null|
+|**2026-03-12**|**Language Model Teams as Distributed Systems**|Elizabeth Mieczkowski et.al.|[2603.12229](http://arxiv.org/abs/2603.12229)|null|
+|**2026-03-12**|**Sparking Scientific Creativity via LLM-Driven Interdisciplinary Inspiration**|Priyanka Kargupta et.al.|[2603.12226](http://arxiv.org/abs/2603.12226)|null|
+|**2026-03-12**|**A Two-Stage Dual-Modality Model for Facial Emotional Expression Recognition**|Jiajun Sun et.al.|[2603.12221](http://arxiv.org/abs/2603.12221)|null|
+|**2026-03-12**|**ForensicZip: More Tokens are Better but Not Necessary in Forensic Vision-Language Models**|Yingxin Lai et.al.|[2603.12208](http://arxiv.org/abs/2603.12208)|null|
+|**2026-03-12**|**CLASP: Defending Hybrid Large Language Models Against Hidden State Poisoning Attacks**|Alexandre Le Mercier et.al.|[2603.12206](http://arxiv.org/abs/2603.12206)|null|
+|**2026-03-12**|**IndexCache: Accelerating Sparse Attention via Cross-Layer Index Reuse**|Yushi Bai et.al.|[2603.12201](http://arxiv.org/abs/2603.12201)|null|
+|**2026-03-12**|**Long-Context Encoder Models for Polish Language Understanding**|Sławomir Dadas et.al.|[2603.12191](http://arxiv.org/abs/2603.12191)|null|
+|**2026-03-12**|**BehaviorVLM: Unified Finetuning-Free Behavioral Understanding with Vision-Language Reasoning**|Jingyang Ke et.al.|[2603.12176](http://arxiv.org/abs/2603.12176)|null|
+|**2026-03-12**|**LatentGeo: Learnable Auxiliary Constructions in Latent Space for Multimodal Geometric Reasoning**|Haiying Xu et.al.|[2603.12166](http://arxiv.org/abs/2603.12166)|null|
+|**2026-03-12**|**LifeSim: Long-Horizon User Life Simulator for Personalized Assistant Evaluation**|Feiyu Duan et.al.|[2603.12152](http://arxiv.org/abs/2603.12152)|null|
+|**2026-03-12**|**IsoCompute Playbook: Optimally Scaling Sampling Compute for LLM RL**|Zhoujun Cheng et.al.|[2603.12151](http://arxiv.org/abs/2603.12151)|null|
+|**2026-03-12**|**Linking Perception, Confidence and Accuracy in MLLMs**|Yuetian Du et.al.|[2603.12149](http://arxiv.org/abs/2603.12149)|null|
+|**2026-03-12**|**EgoIntent: An Egocentric Step-level Benchmark for Understanding What, Why, and Next**|Ye Pan et.al.|[2603.12147](http://arxiv.org/abs/2603.12147)|null|
 |**2026-03-12**|**Hoi3DGen: Generating High-Quality Human-Object-Interactions in 3D**|Agniv Sharma et.al.|[2603.12126](http://arxiv.org/abs/2603.12126)|null|
 |**2026-03-12**|**Cross-Context Review: Improving LLM Output Quality by Separating Production and Review Sessions**|Tae-Eun Song et.al.|[2603.12123](http://arxiv.org/abs/2603.12123)|null|
 |**2026-03-12**|**SommBench: Assessing Sommelier Expertise of Language Models**|William Brach et.al.|[2603.12117](http://arxiv.org/abs/2603.12117)|null|
@@ -4480,6 +4507,22 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-12**|**HumDex:Humanoid Dexterous Manipulation Made Easy**|Liang Heng et.al.|[2603.12260](http://arxiv.org/abs/2603.12260)|null|
+|**2026-03-12**|**DreamVideo-Omni: Omni-Motion Controlled Multi-Subject Video Customization with Latent Identity Reinforcement Learning**|Yujie Wei et.al.|[2603.12257](http://arxiv.org/abs/2603.12257)|null|
+|**2026-03-12**|**Attend Before Attention: Efficient and Scalable Video Understanding via Autoregressive Gazing**|Baifeng Shi et.al.|[2603.12254](http://arxiv.org/abs/2603.12254)|null|
+|**2026-03-12**|**Matching Features, Not Tokens: Energy-Based Fine-Tuning of Language Models**|Samy Jelassi et.al.|[2603.12248](http://arxiv.org/abs/2603.12248)|null|
+|**2026-03-12**|**Trust Your Critic: Robust Reward Modeling and Reinforcement Learning for Faithful Image Editing and Generation**|Xiangyu Zhao et.al.|[2603.12247](http://arxiv.org/abs/2603.12247)|null|
+|**2026-03-12**|**Examining Reasoning LLMs-as-Judges in Non-Verifiable LLM Post-Training**|Yixin Liu et.al.|[2603.12246](http://arxiv.org/abs/2603.12246)|null|
+|**2026-03-12**|**Separable neural architectures as a primitive for unified predictive and generative intelligence**|Reza T. Batley et.al.|[2603.12244](http://arxiv.org/abs/2603.12244)|null|
+|**2026-03-12**|**HandelBot: Real-World Piano Playing via Fast Adaptation of Dexterous Robot Policies**|Amber Xie et.al.|[2603.12243](http://arxiv.org/abs/2603.12243)|null|
+|**2026-03-12**|**Integrated Online Monitoring and Adaption of Process Model Predictive Controllers**|Samuel Mallick et.al.|[2603.12187](http://arxiv.org/abs/2603.12187)|null|
+|**2026-03-12**|**Operator Splitting, Policy Iteration, and Machine Learning for Stochastic Optimal Control**|Alain Bensoussan et.al.|[2603.12167](http://arxiv.org/abs/2603.12167)|null|
+|**2026-03-12**|**LatentGeo: Learnable Auxiliary Constructions in Latent Space for Multimodal Geometric Reasoning**|Haiying Xu et.al.|[2603.12166](http://arxiv.org/abs/2603.12166)|null|
+|**2026-03-12**|**IsoCompute Playbook: Optimally Scaling Sampling Compute for LLM RL**|Zhoujun Cheng et.al.|[2603.12151](http://arxiv.org/abs/2603.12151)|null|
+|**2026-03-12**|**Linking Perception, Confidence and Accuracy in MLLMs**|Yuetian Du et.al.|[2603.12149](http://arxiv.org/abs/2603.12149)|null|
+|**2026-03-12**|**EgoIntent: An Egocentric Step-level Benchmark for Understanding What, Why, and Next**|Ye Pan et.al.|[2603.12147](http://arxiv.org/abs/2603.12147)|null|
+|**2026-03-12**|**Automatic Generation of High-Performance RL Environments**|Seth Karten et.al.|[2603.12145](http://arxiv.org/abs/2603.12145)|null|
+|**2026-03-12**|**Increasing intelligence in AI agents can worsen collective outcomes**|Neil F. Johnson et.al.|[2603.12129](http://arxiv.org/abs/2603.12129)|null|
 |**2026-03-12**|**Taming the Adversary: Stable Minimax Deep Deterministic Policy Gradient via Fractional Objectives**|Taeho Lee et.al.|[2603.12110](http://arxiv.org/abs/2603.12110)|null|
 |**2026-03-12**|**On Information Self-Locking in Reinforcement Learning for Active Reasoning of LLM agents**|Deyu Zou et.al.|[2603.12109](http://arxiv.org/abs/2603.12109)|null|
 |**2026-03-12**|**Wasserstein Gradient Flows for Batch Bayesian Optimal Experimental Design**|Louis Sharrock et.al.|[2603.12102](http://arxiv.org/abs/2603.12102)|null|
