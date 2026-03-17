@@ -1,5 +1,5 @@
 # Agent Research Papers
-### Automatically Updated on 2026.03.16
+### Automatically Updated on 2026.03.17
 Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Autonomous Agent`,`LLM Agent`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,6 +21,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-14**|**LegacyTranslate: LLM-based Multi-Agent Method for Legacy Code Translation**|Zahra Moti et.al.|[2603.14054](http://arxiv.org/abs/2603.14054)|null|
+|**2026-03-14**|**A Multi-Agent Perception-Action Alliance for Efficient Long Video Reasoning**|Yichang Xu et.al.|[2603.14052](http://arxiv.org/abs/2603.14052)|null|
+|**2026-03-14**|**Sovereign-OS: A Charter-Governed Operating System for Autonomous AI Agents with Verifiable Fiscal Discipline**|Aojie Yuan et.al.|[2603.14011](http://arxiv.org/abs/2603.14011)|null|
+|**2026-03-14**|**ToolFlood: Beyond Selection -- Hiding Valid Tools from LLM Agents via Semantic Covering**|Hussein Jawad et.al.|[2603.13950](http://arxiv.org/abs/2603.13950)|null|
+|**2026-03-14**|**AI Agents in Financial Markets: Architecture, Applications, and Systemic Implications**|Hui Gong et.al.|[2603.13942](http://arxiv.org/abs/2603.13942)|null|
+|**2026-03-14**|**APEX-Searcher: Augmenting LLMs' Search Capabilities through Agentic Planning and Execution**|Kun Chen et.al.|[2603.13853](http://arxiv.org/abs/2603.13853)|null|
+|**2026-03-14**|**ClimateAgents: A Multi-Agent Research Assistant for Social-Climate Dynamics Analysis**|Shan Shan et.al.|[2603.13840](http://arxiv.org/abs/2603.13840)|null|
+|**2026-03-14**|**Beyond Medical Diagnostics: How Medical Multimodal Large Language Models Think in Space**|Quoc-Huy Trinh et.al.|[2603.13800](http://arxiv.org/abs/2603.13800)|null|
+|**2026-03-14**|**DeceptGuard :A Constitutional Oversight Framework For Detecting Deception in LLM Agents**|Snehasis Mukhopadhyay et.al.|[2603.13791](http://arxiv.org/abs/2603.13791)|null|
+|**2026-03-14**|**LiveWeb-IE: A Benchmark For Online Web Information Extraction**|Seungbin Yang et.al.|[2603.13773](http://arxiv.org/abs/2603.13773)|null|
+|**2026-03-14**|**Retrieve, Schedule, Reflect: LLM Agents for Chip QoR Optimization**|Yikang ouyang et.al.|[2603.13767](http://arxiv.org/abs/2603.13767)|null|
+|**2026-03-14**|**Six Interventions for the Responsible and Ethical Implementation of Medical AI Agents**|Tom Bisson et.al.|[2603.13743](http://arxiv.org/abs/2603.13743)|null|
+|**2026-03-14**|**Testing with AI Agents: An Empirical Study of Test Generation Frequency, Quality, and Coverage**|Suzuka Yoshimoto et.al.|[2603.13724](http://arxiv.org/abs/2603.13724)|null|
+|**2026-03-14**|**Do AI Agents Really Improve Code Readability?**|Kyogo Horikawa et.al.|[2603.13723](http://arxiv.org/abs/2603.13723)|null|
+|**2026-03-14**|**InterventionLens: A Multi-Agent Framework for Detecting ASD Intervention Strategies in Parent-Child Shared Reading**|Xiao Wang et.al.|[2603.13710](http://arxiv.org/abs/2603.13710)|null|
+|**2026-03-14**|**TheraAgent: Multi-Agent Framework with Self-Evolving Memory and Evidence-Calibrated Reasoning for PET Theranostics**|Zhihao Chen et.al.|[2603.13676](http://arxiv.org/abs/2603.13676)|null|
+|**2026-03-14**|**Audo-Sight: AI-driven Ambient Perception Across Edge-Cloud for Blind and Low Vision Users**|Jacob Bradshaw et.al.|[2603.13668](http://arxiv.org/abs/2603.13668)|null|
+|**2026-03-13**|**SemRep: Generative Code Representation Learning with Code Transformations**|Weichen Li et.al.|[2603.13640](http://arxiv.org/abs/2603.13640)|null|
+|**2026-03-13**|**Design and evaluation of an agentic workflow for crisis-related synthetic tweet datasets**|Roben Delos Reyes et.al.|[2603.13625](http://arxiv.org/abs/2603.13625)|null|
+|**2026-03-13**|**EnterpriseOps-Gym: Environments and Evaluations for Stateful Agentic Planning and Tool Use in Enterprise Settings**|Shiva Krishna Reddy Malay et.al.|[2603.13594](http://arxiv.org/abs/2603.13594)|null|
 |**2026-03-13**|**From Experiments to Expertise: Scientific Knowledge Consolidation for AI-Driven Computational Research**|Haonan Huang et.al.|[2603.13191](http://arxiv.org/abs/2603.13191)|null|
 |**2026-03-13**|**Semantic Invariance in Agentic AI**|I. de Zarzà et.al.|[2603.13173](http://arxiv.org/abs/2603.13173)|null|
 |**2026-03-13**|**Steve-Evolving: Open-World Embodied Self-Evolution via Fine-Grained Diagnosis and Dual-Track Knowledge Distillation**|Zhengwei Xie et.al.|[2603.13131](http://arxiv.org/abs/2603.13131)|null|
@@ -2434,12 +2454,32 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |**2024-01-30**|**A mechanism for discovering semantic relationships among agent communication protocols**|Idoia Berges et.al.|[2401.16216](http://arxiv.org/abs/2401.16216)|null|
 |**2024-01-23**|**Semantic Web Technology for Agent Communication Protocols**|Idoia Berges et.al.|[2401.11841](http://arxiv.org/abs/2401.11841)|null|
 
-<p align=right>(<a href=#updated-on-20260316>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260317>back to top</a>)</p>
 
 ## Large Language Models
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-14**|**Improving Visual Reasoning with Iterative Evidence Refinement**|Zeru Shi et.al.|[2603.14117](http://arxiv.org/abs/2603.14117)|null|
+|**2026-03-14**|**OasisSimp: An Open-source Asian-English Sentence Simplification Dataset**|Hannah Liu et.al.|[2603.14111](http://arxiv.org/abs/2603.14111)|null|
+|**2026-03-14**|**SVD Contextual Sparsity Predictors for Fast LLM Inference**|Georgii Serbin et.al.|[2603.14110](http://arxiv.org/abs/2603.14110)|null|
+|**2026-03-14**|**Understanding the Emergence of Seemingly Useless Features in Next-Token Predictors**|Mark Rofin et.al.|[2603.14087](http://arxiv.org/abs/2603.14087)|null|
+|**2026-03-14**|**CMHL: Contrastive Multi-Head Learning for Emotionally Consistent Text Classification**|Menna Elgabry et.al.|[2603.14078](http://arxiv.org/abs/2603.14078)|null|
+|**2026-03-14**|**Demand-Driven Context: A Methodology for Building Enterprise Knowledge Bases Through Agent Failure**|Raj Navakoti et.al.|[2603.14057](http://arxiv.org/abs/2603.14057)|null|
+|**2026-03-14**|**LegacyTranslate: LLM-based Multi-Agent Method for Legacy Code Translation**|Zahra Moti et.al.|[2603.14054](http://arxiv.org/abs/2603.14054)|null|
+|**2026-03-14**|**A Theory of Appropriateness That Accounts for Norms of Rationality**|Joel Z. Leibo et.al.|[2603.14050](http://arxiv.org/abs/2603.14050)|null|
+|**2026-03-14**|**The Reasoning Bottleneck in Graph-RAG: Structured Prompting and Context Compression for Multi-Hop QA**|Yasaman Zarinkia et.al.|[2603.14045](http://arxiv.org/abs/2603.14045)|null|
+|**2026-03-14**|**GRPO and Reflection Reward for Mathematical Reasoning in Large Language Models**|Zhijie Wang et.al.|[2603.14041](http://arxiv.org/abs/2603.14041)|null|
+|**2026-03-14**|**SemEval-2026 Task 6: CLARITY -- Unmasking Political Question Evasions**|Konstantinos Thomas et.al.|[2603.14027](http://arxiv.org/abs/2603.14027)|null|
+|**2026-03-14**|**LLM-Guided Safe Reinforcement Learning for Energy System Topology Reconfiguration**|Zongyan Zhang et.al.|[2603.14018](http://arxiv.org/abs/2603.14018)|null|
+|**2026-03-14**|**Multi-Grained Vision-Language Alignment for Domain Generalized Person Re-Identification**|Jiachen Li et.al.|[2603.14012](http://arxiv.org/abs/2603.14012)|null|
+|**2026-03-14**|**Measuring Weather Effects and Link Quality Dynamics in LEO Satellite Networks**|Clemens Lottermoser et.al.|[2603.14008](http://arxiv.org/abs/2603.14008)|null|
+|**2026-03-14**|**Faithful or Just Plausible? Evaluating the Faithfulness of Closed-Source LLMs in Medical Reasoning**|Halimat Afolabi et.al.|[2603.13988](http://arxiv.org/abs/2603.13988)|null|
+|**2026-03-14**|**Supervised Fine-Tuning versus Reinforcement Learning: A Study of Post-Training Methods for Large Language Models**|Haitao Jiang et.al.|[2603.13985](http://arxiv.org/abs/2603.13985)|null|
+|**2026-03-14**|**When Visual Privacy Protection Meets Multimodal Large Language Models**|Xiaofei Hui et.al.|[2603.13978](http://arxiv.org/abs/2603.13978)|null|
+|**2026-03-14**|**FLUX: Data Worth Training On**|Gowtham et.al.|[2603.13972](http://arxiv.org/abs/2603.13972)|null|
+|**2026-03-14**|**EviAgent: Evidence-Driven Agent for Radiology Report Generation**|Tuoshi Qi et.al.|[2603.13956](http://arxiv.org/abs/2603.13956)|null|
+|**2026-03-14**|**LLM-Guided Reinforcement Learning for Audio-Visual Speech Enhancement**|Chih-Ning Chen et.al.|[2603.13952](http://arxiv.org/abs/2603.13952)|null|
 |**2026-03-13**|**Visual-ERM: Reward Modeling for Visual Equivalence**|Ziyu Liu et.al.|[2603.13224](http://arxiv.org/abs/2603.13224)|null|
 |**2026-03-13**|**A Generative Model of Conspicuous Consumption and Status Signaling**|Logan Cross et.al.|[2603.13220](http://arxiv.org/abs/2603.13220)|null|
 |**2026-03-13**|**MoEKD: Mixture-of-Experts Knowledge Distillation for Robust and High-Performing Compressed Code Models**|Md. Abdul Awal et.al.|[2603.13213](http://arxiv.org/abs/2603.13213)|null|
@@ -4552,12 +4592,32 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |**2023-09-06**|**Making Large Language Models Better Reasoners with Alignment**|Peiyi Wang et.al.|[2309.02144](http://arxiv.org/abs/2309.02144)|null|
 |**2023-06-27**|**Low-Rank Prune-And-Factorize for Language Model Compression**|Siyu Ren et.al.|[2306.14152](http://arxiv.org/abs/2306.14152)|null|
 
-<p align=right>(<a href=#updated-on-20260316>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260317>back to top</a>)</p>
 
 ## Reinforcement Learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-14**|**Diffusion Reinforcement Learning via Centered Reward Distillation**|Yuanzhi Zhu et.al.|[2603.14128](http://arxiv.org/abs/2603.14128)|null|
+|**2026-03-14**|**Improving Visual Reasoning with Iterative Evidence Refinement**|Zeru Shi et.al.|[2603.14117](http://arxiv.org/abs/2603.14117)|null|
+|**2026-03-14**|**Maximin Robust Bayesian Experimental Design**|Hany Abdulsamad et.al.|[2603.14094](http://arxiv.org/abs/2603.14094)|null|
+|**2026-03-14**|**A Benchmark for Multi-Party Negotiation Games from Real Negotiation Data**|Leo Benac et.al.|[2603.14066](http://arxiv.org/abs/2603.14066)|null|
+|**2026-03-14**|**Amortizing Trajectory Diffusion with Keyed Drift Fields**|Gokul Puthumanaillam et.al.|[2603.14056](http://arxiv.org/abs/2603.14056)|null|
+|**2026-03-14**|**GRPO and Reflection Reward for Mathematical Reasoning in Large Language Models**|Zhijie Wang et.al.|[2603.14041](http://arxiv.org/abs/2603.14041)|null|
+|**2026-03-14**|**Traffic and weather driven hybrid digital twin for bridge monitoring**|Phani Raja Bharath Balijepalli et.al.|[2603.14028](http://arxiv.org/abs/2603.14028)|null|
+|**2026-03-14**|**LLM-Guided Safe Reinforcement Learning for Energy System Topology Reconfiguration**|Zongyan Zhang et.al.|[2603.14018](http://arxiv.org/abs/2603.14018)|null|
+|**2026-03-14**|**Supervised Fine-Tuning versus Reinforcement Learning: A Study of Post-Training Methods for Large Language Models**|Haitao Jiang et.al.|[2603.13985](http://arxiv.org/abs/2603.13985)|null|
+|**2026-03-14**|**Chunk-Guided Q-Learning**|Gwanwoo Song et.al.|[2603.13971](http://arxiv.org/abs/2603.13971)|null|
+|**2026-03-14**|**LLM-Guided Reinforcement Learning for Audio-Visual Speech Enhancement**|Chih-Ning Chen et.al.|[2603.13952](http://arxiv.org/abs/2603.13952)|null|
+|**2026-03-14**|**SmoothVLA: Aligning Vision-Language-Action Models with Physical Constraints via Intrinsic Smoothness Optimization**|Jiashun Li et.al.|[2603.13925](http://arxiv.org/abs/2603.13925)|null|
+|**2026-03-14**|**ATCC: Adaptive Concurrency Control for Unforeseen Agentic Transactions**|Weixing Zhou et.al.|[2603.13906](http://arxiv.org/abs/2603.13906)|null|
+|**2026-03-14**|**A note on the invariants of the $L$ -functions**|Jerzy Kaczorowski et.al.|[2603.13889](http://arxiv.org/abs/2603.13889)|null|
+|**2026-03-14**|**Path-conditioned Reinforcement Learning-based Local Planning for Long-Range Navigation**|Mateo Haro et.al.|[2603.13888](http://arxiv.org/abs/2603.13888)|null|
+|**2026-03-14**|**Mass spectrometry of $^{75}$Zn ground and isomeric states from in-trap decay of $^{75}$ Cu**|M. Müller et.al.|[2603.13868](http://arxiv.org/abs/2603.13868)|null|
+|**2026-03-14**|**APEX-Searcher: Augmenting LLMs' Search Capabilities through Agentic Planning and Execution**|Kun Chen et.al.|[2603.13853](http://arxiv.org/abs/2603.13853)|null|
+|**2026-03-14**|**Fine-tuning is Not Enough: A Parallel Framework for Collaborative Imitation and Reinforcement Learning in End-to-end Autonomous Driving**|Zhexi Lian et.al.|[2603.13842](http://arxiv.org/abs/2603.13842)|null|
+|**2026-03-14**|**NEP_MiniMax: An Approach for NEPs Based on Matrix-valued Minimax Approximations**|Chenkun Zhang et.al.|[2603.13794](http://arxiv.org/abs/2603.13794)|null|
+|**2026-03-14**|**Your Vision-Language-Action Model Already Has Attention Heads For Path Deviation Detection**|Jaehwan Jeong et.al.|[2603.13782](http://arxiv.org/abs/2603.13782)|null|
 |**2026-03-13**|**Visual-ERM: Reward Modeling for Visual Equivalence**|Ziyu Liu et.al.|[2603.13224](http://arxiv.org/abs/2603.13224)|null|
 |**2026-03-13**|**$π$, K, and p production in high-multiplicity pp collisions at $\sqrt{s} = 13$ TeV**|ALICE Collaboration et.al.|[2603.13203](http://arxiv.org/abs/2603.13203)|null|
 |**2026-03-13**|**Radiative return meets GVMD**|Pau Petit Rosàs et.al.|[2603.13171](http://arxiv.org/abs/2603.13171)|null|
@@ -6684,7 +6744,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |**2019-11-14**|**Accelerating Training in Pommerman with Imitation and Reinforcement Learning**|Hardik Meisheri et.al.|[1911.04947](http://arxiv.org/abs/1911.04947)|null|
 |**2018-11-20**|**Modelling the Dynamic Joint Policy of Teammates with Attention Multi-agent DDPG**|Hangyu Mao et.al.|[1811.07029](http://arxiv.org/abs/1811.07029)|null|
 
-<p align=right>(<a href=#updated-on-20260316>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260317>back to top</a>)</p>
 
 Notes: 
 
