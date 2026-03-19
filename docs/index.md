@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Agent Research Papers
-### Automatically Updated on 2026.03.18
+### Automatically Updated on 2026.03.19
 Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Autonomous Agent`,`LLM Agent`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -16,6 +16,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-18**|**DustNET: enabling machine learning and AI models of dusty plasmas**|Zhehui Wang et.al.|[2603.17493](http://arxiv.org/abs/2603.17493)|null|
+|**2026-03-18**|**Caging the Agents: A Zero Trust Security Architecture for Autonomous AI in Healthcare**|Saikat Maiti et.al.|[2603.17419](http://arxiv.org/abs/2603.17419)|null|
+|**2026-03-18**|**Is Your LLM-as-a-Recommender Agent Trustable? LLMs' Recommendation is Easily Hacked by Biases (Preferences)**|Zichen Tang et.al.|[2603.17417](http://arxiv.org/abs/2603.17417)|null|
+|**2026-03-18**|**Bootstrapping Coding Agents: The Specification Is the Program**|Martin Monperrus et.al.|[2603.17399](http://arxiv.org/abs/2603.17399)|null|
+|**2026-03-18**|**Agentic Cognitive Profiling: Realigning Automated Alzheimer's Disease Detection with Clinical Construct Validity**|Jiawen Kang et.al.|[2603.17392](http://arxiv.org/abs/2603.17392)|null|
+|**2026-03-18**|**An Auditable AI Agent Loop for Empirical Economics: A Case Study in Forecast Combination**|Minchul Shin et.al.|[2603.17381](http://arxiv.org/abs/2603.17381)|null|
+|**2026-03-18**|**EvoGuard: An Extensible Agentic RL-based Framework for Practical and Evolving AI-Generated Image Detection**|Chenyang Zhu et.al.|[2603.17343](http://arxiv.org/abs/2603.17343)|null|
+|**2026-03-18**|**Grid Spatial Understanding: A Dataset for Textual Spatial Reasoning over Grids, Embodied Settings, and Coordinate Structures**|Risham Sidhu et.al.|[2603.17333](http://arxiv.org/abs/2603.17333)|null|
+|**2026-03-18**|**Recurrent Reasoning with Vision-Language Models for Estimating Long-Horizon Embodied Task Progress**|Yuelin Zhang et.al.|[2603.17312](http://arxiv.org/abs/2603.17312)|null|
+|**2026-03-18**|**IEMAS: An Incentive-Efficiency Routing Framework for Open Agentic Web Ecosystems**|Hongze Liu et.al.|[2603.17302](http://arxiv.org/abs/2603.17302)|null|
+|**2026-03-18**|**SEAL-Tag: Self-Tag Evidence Aggregation with Probabilistic Circuits for PII-Safe Retrieval-Augmented Generation**|Jin Xie et.al.|[2603.17292](http://arxiv.org/abs/2603.17292)|null|
+|**2026-03-18**|**Graph-Native Cognitive Memory for AI Agents: Formal Belief Revision Semantics for Versioned Memory Architectures**|Young Bin Park et.al.|[2603.17244](http://arxiv.org/abs/2603.17244)|null|
+|**2026-03-17**|**AI Scientist via Synthetic Task Scaling**|Ziyang Cai et.al.|[2603.17216](http://arxiv.org/abs/2603.17216)|null|
+|**2026-03-17**|**CODMAS: A Dialectic Multi-Agent Collaborative Framework for Structured RTL Optimization**|Che-Ming Chang et.al.|[2603.17204](http://arxiv.org/abs/2603.17204)|null|
+|**2026-03-17**|**MetaClaw: Just Talk -- An Agent That Meta-Learns and Evolves in the Wild**|Peng Xia et.al.|[2603.17187](http://arxiv.org/abs/2603.17187)|null|
+|**2026-03-17**|**PAuth - Precise Task-Scoped Authorization For Agents**|Reshabh K Sharma et.al.|[2603.17170](http://arxiv.org/abs/2603.17170)|null|
+|**2026-03-17**|**How Clued up are LLMs? Evaluating Multi-Step Deductive Reasoning in a Text-Based Game Environment**|Rebecca Ansell et.al.|[2603.17169](http://arxiv.org/abs/2603.17169)|null|
+|**2026-03-17**|**Intent Formalization: A Grand Challenge for Reliable Coding in the Age of AI Agents**|Shuvendu K. Lahiri et.al.|[2603.17150](http://arxiv.org/abs/2603.17150)|null|
+|**2026-03-17**|**When the Specification Emerges: Benchmarking Faithfulness Loss in Long-Horizon Coding Agents**|Lu Yan et.al.|[2603.17104](http://arxiv.org/abs/2603.17104)|null|
+|**2026-03-17**|**OpenQlaw: An Agentic AI Assistant for Analysis of 2D Quantum Materials**|Sankalp Pandey et.al.|[2603.17043](http://arxiv.org/abs/2603.17043)|null|
 |**2026-03-17**|**Chronos: Temporal-Aware Conversational Agents with Structured Event Retrieval for Long-Term Memory**|Sahil Sen et.al.|[2603.16862](http://arxiv.org/abs/2603.16862)|null|
 |**2026-03-17**|**Internalizing Agency from Reflective Experience**|Rui Ge et.al.|[2603.16843](http://arxiv.org/abs/2603.16843)|null|
 |**2026-03-17**|**Learning to Present: Inverse Specification Rewards for Agentic Slide Generation**|Karthik Ragunath Ananda Kumar et.al.|[2603.16839](http://arxiv.org/abs/2603.16839)|null|
@@ -2509,6 +2529,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-18**|**Detecting the Machine: A Comprehensive Benchmark of AI-Generated Text Detectors Across Architectures, Domains, and Adversarial Conditions**|Madhav S. Baidya et.al.|[2603.17522](http://arxiv.org/abs/2603.17522)|null|
+|**2026-03-18**|**PCA-Seg: Revisiting Cost Aggregation for Open-Vocabulary Semantic and Part Segmentation**|Jianjian Yin et.al.|[2603.17520](http://arxiv.org/abs/2603.17520)|null|
+|**2026-03-18**|**Language on Demand, Knowledge at Core: Composing LLMs with Encoder-Decoder Translation Models for Extensible Multilinguality**|Mengyu Bu et.al.|[2603.17512](http://arxiv.org/abs/2603.17512)|null|
+|**2026-03-18**|**Interpreting Context-Aware Human Preferences for Multi-Objective Robot Navigation**|Tharun Sethuraman et.al.|[2603.17510](http://arxiv.org/abs/2603.17510)|null|
+|**2026-03-18**|**Inducing Epistemological Humility in Large Language Models: A Targeted SFT Approach to Reducing Hallucination**|Cem Uluoglakci et.al.|[2603.17504](http://arxiv.org/abs/2603.17504)|null|
+|**2026-03-18**|**Learning When to Attend: Conditional Memory Access for Long-Context LLMs**|Sakshi Choudhary et.al.|[2603.17484](http://arxiv.org/abs/2603.17484)|null|
+|**2026-03-18**|**Humans and transformer LMs: Abstraction drives language learning**|Jasper Jian et.al.|[2603.17475](http://arxiv.org/abs/2603.17475)|null|
+|**2026-03-18**|**Efficient Soft Actor-Critic with LLM-Based Action-Level Guidance for Continuous Control**|Hao Ma et.al.|[2603.17468](http://arxiv.org/abs/2603.17468)|null|
+|**2026-03-18**|**VLM2Rec: Resolving Modality Collapse in Vision-Language Model Embedders for Multimodal Sequential Recommendation**|Junyoung Kim et.al.|[2603.17450](http://arxiv.org/abs/2603.17450)|null|
+|**2026-03-18**|**TRiMS: Real-Time Tracking of Minimal Sufficient Length for Efficient Reasoning via RL**|Tingcheng Bian et.al.|[2603.17449](http://arxiv.org/abs/2603.17449)|null|
+|**2026-03-18**|**Large Language Models as a Semantic Interface and Ethical Mediator in Neuro-Digital Ecosystems: Conceptual Foundations and a Regulatory Imperative**|Alexander V. Shenderuk-Zhidkov et.al.|[2603.17444](http://arxiv.org/abs/2603.17444)|null|
+|**2026-03-18**|**AdaZoom-GUI: Adaptive Zoom-based GUI Grounding with Instruction Refinement**|Siqi Pei et.al.|[2603.17441](http://arxiv.org/abs/2603.17441)|null|
+|**2026-03-18**|**Baguan-TS: A Sequence-Native In-Context Learning Model for Time Series Forecasting with Covariates**|Linxiao Yang et.al.|[2603.17439](http://arxiv.org/abs/2603.17439)|null|
+|**2026-03-18**|**ZipServ: Fast and Memory-Efficient LLM Inference with Hardware-Aware Lossless Compression**|Ruibo Fan et.al.|[2603.17435](http://arxiv.org/abs/2603.17435)|null|
+|**2026-03-18**|**Caging the Agents: A Zero Trust Security Architecture for Autonomous AI in Healthcare**|Saikat Maiti et.al.|[2603.17419](http://arxiv.org/abs/2603.17419)|null|
+|**2026-03-18**|**Is Your LLM-as-a-Recommender Agent Trustable? LLMs' Recommendation is Easily Hacked by Biases (Preferences)**|Zichen Tang et.al.|[2603.17417](http://arxiv.org/abs/2603.17417)|null|
+|**2026-03-18**|**Harnessing the Power of Foundation Models for Accurate Material Classification**|Qingran Lin et.al.|[2603.17390](http://arxiv.org/abs/2603.17390)|null|
+|**2026-03-18**|**Efficient Exploration at Scale**|Seyed Mohammad Asghari et.al.|[2603.17378](http://arxiv.org/abs/2603.17378)|null|
+|**2026-03-18**|**Shot-Aware Frame Sampling for Video Understanding**|Mengyu Zhao et.al.|[2603.17374](http://arxiv.org/abs/2603.17374)|null|
+|**2026-03-18**|**SafeTutors: Benchmarking Pedagogical Safety in AI Tutoring Systems**|Rima Hazra et.al.|[2603.17373](http://arxiv.org/abs/2603.17373)|null|
 |**2026-03-17**|**Efficient Reasoning on the Edge**|Yelysei Bondarenko et.al.|[2603.16867](http://arxiv.org/abs/2603.16867)|null|
 |**2026-03-17**|**Chronos: Temporal-Aware Conversational Agents with Structured Event Retrieval for Long-Term Memory**|Sahil Sen et.al.|[2603.16862](http://arxiv.org/abs/2603.16862)|null|
 |**2026-03-17**|**MolmoB0T: Large-Scale Simulation Enables Zero-Shot Manipulation**|Abhay Deshpande et.al.|[2603.16861](http://arxiv.org/abs/2603.16861)|null|
@@ -4705,6 +4745,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-18**|**Interpreting Context-Aware Human Preferences for Multi-Objective Robot Navigation**|Tharun Sethuraman et.al.|[2603.17510](http://arxiv.org/abs/2603.17510)|null|
+|**2026-03-18**|**Efficient Soft Actor-Critic with LLM-Based Action-Level Guidance for Continuous Control**|Hao Ma et.al.|[2603.17468](http://arxiv.org/abs/2603.17468)|null|
+|**2026-03-18**|**A Full-Density Approach to Simulating Random Iteration Equations with Applications**|Wolfgang Hoegele et.al.|[2603.17466](http://arxiv.org/abs/2603.17466)|null|
+|**2026-03-18**|**AR-CoPO: Align Autoregressive Video Generation with Contrastive Policy Optimization**|Dailan He et.al.|[2603.17461](http://arxiv.org/abs/2603.17461)|null|
+|**2026-03-18**|**CRE-T1 Preview Technical Report: Beyond Contrastive Learning for Reasoning-Intensive Retrieval**|Guangzhi Wang et.al.|[2603.17387](http://arxiv.org/abs/2603.17387)|null|
+|**2026-03-18**|**Efficient Exploration at Scale**|Seyed Mohammad Asghari et.al.|[2603.17378](http://arxiv.org/abs/2603.17378)|null|
+|**2026-03-18**|**EvoGuard: An Extensible Agentic RL-based Framework for Practical and Evolving AI-Generated Image Detection**|Chenyang Zhu et.al.|[2603.17343](http://arxiv.org/abs/2603.17343)|null|
+|**2026-03-18**|**A Progressive Visual-Logic-Aligned Framework for Ride-Hailing Adjudication**|Weiming Wu et.al.|[2603.17328](http://arxiv.org/abs/2603.17328)|null|
+|**2026-03-18**|**Empirical Likelihood Inference for Sen and Sen--Shorrocks--Thon Indices**|Sreelakshmi N et.al.|[2603.17327](http://arxiv.org/abs/2603.17327)|null|
+|**2026-03-18**|**ShuttleEnv: An Interactive Data-Driven RL Environment for Badminton Strategy Modeling**|Ang Li et.al.|[2603.17324](http://arxiv.org/abs/2603.17324)|null|
+|**2026-03-18**|**Physics-informed offline reinforcement learning eliminates catastrophic fuel waste in maritime routing**|Aniruddha Bora et.al.|[2603.17319](http://arxiv.org/abs/2603.17319)|null|
+|**2026-03-18**|**Virtual Polarization Modulation: Enabling CSI-Free DCO-OFDM over Dynamic OWC Channels**|Tian Cao et.al.|[2603.17316](http://arxiv.org/abs/2603.17316)|null|
+|**2026-03-18**|**Mean first escape times of Brownian motion on asymptotically hyperbolic and gas giant metric surfaces**|Jesse Gell-Redman et.al.|[2603.17313](http://arxiv.org/abs/2603.17313)|null|
+|**2026-03-18**|**Recurrent Reasoning with Vision-Language Models for Estimating Long-Horizon Embodied Task Progress**|Yuelin Zhang et.al.|[2603.17312](http://arxiv.org/abs/2603.17312)|null|
+|**2026-03-18**|**Ruyi2.5 Technical Report**|Huan Song et.al.|[2603.17311](http://arxiv.org/abs/2603.17311)|null|
+|**2026-03-18**|**InfoDensity: Rewarding Information-Dense Traces for Efficient Reasoning**|Chengwei Wei et.al.|[2603.17310](http://arxiv.org/abs/2603.17310)|null|
+|**2026-03-18**|**ReLMXEL: Adaptive RL-Based Memory Controller with Explainable Energy and Latency Optimization**|Panuganti Chirag Sai et.al.|[2603.17309](http://arxiv.org/abs/2603.17309)|null|
+|**2026-03-18**|**Contrastive Reasoning Alignment: Reinforcement Learning from Hidden Representations**|Haozheng Luo et.al.|[2603.17305](http://arxiv.org/abs/2603.17305)|null|
+|**2026-03-18**|**WINFlowNets: Warm-up Integrated Networks Training of Generative Flow Networks for Robotics and Machine Fault Adaptation**|Zahin Sufiyan et.al.|[2603.17301](http://arxiv.org/abs/2603.17301)|null|
+|**2026-03-18**|**Bayesian Scalar-on-Tensor Quantile Regression for Longitudinal Data on Alzheimer's Disease**|Rongke Lyu et.al.|[2603.17294](http://arxiv.org/abs/2603.17294)|null|
 |**2026-03-17**|**Efficient Reasoning on the Edge**|Yelysei Bondarenko et.al.|[2603.16867](http://arxiv.org/abs/2603.16867)|null|
 |**2026-03-17**|**DreamPlan: Efficient Reinforcement Fine-Tuning of Vision-Language Planners via Video World Models**|Emily Yue-Ting Jia et.al.|[2603.16860](http://arxiv.org/abs/2603.16860)|null|
 |**2026-03-17**|**Long-Horizon Traffic Forecasting via Incident-Aware Conformal Spatio-Temporal Transformers**|Mayur Patil et.al.|[2603.16857](http://arxiv.org/abs/2603.16857)|null|
