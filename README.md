@@ -21,6 +21,18 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-19**|**Markov Potential Game and Multi-Agent Reinforcement Learning for Autonomous Driving**|Huiwen Yan et.al.|[2603.19188](http://arxiv.org/abs/2603.19188)|null|
+|**2026-03-19**|**Meanings and Measurements: Multi-Agent Probabilistic Grounding for Vision-Language Navigation**|Swagat Padhan et.al.|[2603.19166](http://arxiv.org/abs/2603.19166)|null|
+|**2026-03-19**|**From Inference Efficiency to Embodied Efficiency: Revisiting Efficiency Metrics for Vision-Language-Action Models**|Zhuofan Li et.al.|[2603.19131](http://arxiv.org/abs/2603.19131)|null|
+|**2026-03-19**|**SignAgent: Agentic LLMs for Linguistically-Grounded Sign Language Annotation and Dataset Curation**|Oliver Cory et.al.|[2603.19059](http://arxiv.org/abs/2603.19059)|null|
+|**2026-03-19**|**The Simplicity of the Hodge Bundle**|Anand Patel et.al.|[2603.19052](http://arxiv.org/abs/2603.19052)|null|
+|**2026-03-19**|**LLMs Aren't Human: A Critical Perspective on LLM Personality**|Kim Zierahn et.al.|[2603.19030](http://arxiv.org/abs/2603.19030)|null|
+|**2026-03-19**|**Security awareness in LLM agents: the NDAI zone case**|Enrico Bottazzi et.al.|[2603.19011](http://arxiv.org/abs/2603.19011)|null|
+|**2026-03-19**|**AgentDS Technical Report: Benchmarking the Future of Human-AI Collaboration in Domain-Specific Data Science**|An Luo et.al.|[2603.19005](http://arxiv.org/abs/2603.19005)|null|
+|**2026-03-19**|**Agentic Business Process Management: A Research Manifesto**|Diego Calvanese et.al.|[2603.18916](http://arxiv.org/abs/2603.18916)|null|
+|**2026-03-19**|**Security, privacy, and agentic AI in a regulatory view: From definitions and distinctions to provisions and reflections**|Shiliang Zhang et.al.|[2603.18914](http://arxiv.org/abs/2603.18914)|null|
+|**2026-03-19**|**Act While Thinking: Accelerating LLM Agents via Pattern-Aware Speculative Tool Execution**|Yifan Sui et.al.|[2603.18897](http://arxiv.org/abs/2603.18897)|null|
+|**2026-03-19**|**I Can't Believe It's Corrupt: Evaluating Corruption in Multi-Agent Governance Systems**|Vedanta S P et.al.|[2603.18894](http://arxiv.org/abs/2603.18894)|null|
 |**2026-03-19**|**RewardFlow: Topology-Aware Reward Propagation on State Graphs for Agentic RL with Large Language Models**|Xiao Feng et.al.|[2603.18859](http://arxiv.org/abs/2603.18859)|null|
 |**2026-03-19**|**Agent Control Protocol: Admission Control for Agent Actions**|Marcelo Fernandez et.al.|[2603.18829](http://arxiv.org/abs/2603.18829)|null|
 |**2026-03-19**|**ProRL Agent: Rollout-as-a-Service for RL Training of Multi-Turn LLM Agents**|Hao Zhang et.al.|[2603.18815](http://arxiv.org/abs/2603.18815)|null|
@@ -2572,6 +2584,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-19**|**Generation Models Know Space: Unleashing Implicit 3D Priors for Scene Understanding**|Xianjin Wu et.al.|[2603.19235](http://arxiv.org/abs/2603.19235)|null|
+|**2026-03-19**|**Cubic Discrete Diffusion: Discrete Visual Generation on High-Dimensional Representation Tokens**|Yuqing Wang et.al.|[2603.19232](http://arxiv.org/abs/2603.19232)|null|
+|**2026-03-19**|**FinTradeBench: A Financial Reasoning Benchmark for LLMs**|Yogesh Agrawal et.al.|[2603.19225](http://arxiv.org/abs/2603.19225)|null|
+|**2026-03-19**|**Online Learning and Equilibrium Computation with Ranking Feedback**|Mingyang Liu et.al.|[2603.19221](http://arxiv.org/abs/2603.19221)|null|
+|**2026-03-19**|**LVOmniBench: Pioneering Long Audio-Video Understanding Evaluation for Omnimodal LLMs**|Keda Tao et.al.|[2603.19217](http://arxiv.org/abs/2603.19217)|null|
+|**2026-03-19**|**Do VLMs Need Vision Transformers? Evaluating State Space Models as Vision Encoders**|Shang-Jui Ray Kuo et.al.|[2603.19209](http://arxiv.org/abs/2603.19209)|null|
+|**2026-03-19**|**Tinted Frames: Question Framing Blinds Vision-Language Models**|Wan-Cyuan Fan et.al.|[2603.19203](http://arxiv.org/abs/2603.19203)|null|
+|**2026-03-19**|**How Auditory Knowledge in LLM Backbones Shapes Audio Language Models: A Holistic Evaluation**|Ke-Han Lu et.al.|[2603.19195](http://arxiv.org/abs/2603.19195)|null|
+|**2026-03-19**|**Box Maze: A Process-Control Architecture for Reliable LLM Reasoning**|Zou Qiang et.al.|[2603.19182](http://arxiv.org/abs/2603.19182)|null|
+|**2026-03-19**|**Evaluating Counterfactual Strategic Reasoning in Large Language Models**|Dimitrios Georgousis et.al.|[2603.19167](http://arxiv.org/abs/2603.19167)|null|
+|**2026-03-19**|**Meanings and Measurements: Multi-Agent Probabilistic Grounding for Vision-Language Navigation**|Swagat Padhan et.al.|[2603.19166](http://arxiv.org/abs/2603.19166)|null|
+|**2026-03-19**|**PPI is the Difference Estimator: Recognizing the Survey Sampling Roots of Prediction-Powered Inference**|Reagan Mozer et.al.|[2603.19160](http://arxiv.org/abs/2603.19160)|null|
+|**2026-03-19**|**ADAPT: Attention Driven Adaptive Prompt Scheduling and InTerpolating Orthogonal Complements for Rare Concepts Generation**|Kwanyoung Lee et.al.|[2603.19157](http://arxiv.org/abs/2603.19157)|null|
+|**2026-03-19**|**VEPO: Variable Entropy Policy Optimization for Low-Resource Language Foundation Models**|Chonghan Liu et.al.|[2603.19152](http://arxiv.org/abs/2603.19152)|null|
+|**2026-03-19**|**Optimal Splitting of Language Models from Mixtures to Specialized Domains**|Skyler Seto et.al.|[2603.19149](http://arxiv.org/abs/2603.19149)|null|
+|**2026-03-19**|**UGID: Unified Graph Isomorphism for Debiasing Large Language Models**|Zikang Ding et.al.|[2603.19144](http://arxiv.org/abs/2603.19144)|null|
+|**2026-03-19**|**GSMem: 3D Gaussian Splatting as Persistent Spatial Memory for Zero-Shot Embodied Exploration and Reasoning**|Yiren Lu et.al.|[2603.19137](http://arxiv.org/abs/2603.19137)|null|
+|**2026-03-19**|**A Pipelined Collaborative Speculative Decoding Framework for Efficient Edge-Cloud LLM Inference**|Yida Zhang et.al.|[2603.19133](http://arxiv.org/abs/2603.19133)|null|
+|**2026-03-19**|**From Inference Efficiency to Embodied Efficiency: Revisiting Efficiency Metrics for Vision-Language-Action Models**|Zhuofan Li et.al.|[2603.19131](http://arxiv.org/abs/2603.19131)|null|
+|**2026-03-19**|**On Optimizing Multimodal Jailbreaks for Spoken Language Models**|Aravind Krishnan et.al.|[2603.19127](http://arxiv.org/abs/2603.19127)|null|
 |**2026-03-19**|**MultihopSpatial: Multi-hop Compositional Spatial Reasoning Benchmark for Vision-Language Model**|Youngwan Lee et.al.|[2603.18892](http://arxiv.org/abs/2603.18892)|null|
 |**2026-03-19**|**PromptHub: Enhancing Multi-Prompt Visual In-Context Learning with Locality-Aware Fusion, Concentration and Alignment**|Tianci Luo et.al.|[2603.18891](http://arxiv.org/abs/2603.18891)|null|
 |**2026-03-19**|**Evaluating LLM-Generated Lessons from the Language Learning Students' Perspective: A Short Case Study on Duolingo**|Carlos Rafael Catalan et.al.|[2603.18873](http://arxiv.org/abs/2603.18873)|null|
@@ -4830,6 +4862,23 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-19**|**OS-Themis: A Scalable Critic Framework for Generalist GUI Rewards**|Zehao Li et.al.|[2603.19191](http://arxiv.org/abs/2603.19191)|null|
+|**2026-03-19**|**Markov Potential Game and Multi-Agent Reinforcement Learning for Autonomous Driving**|Huiwen Yan et.al.|[2603.19188](http://arxiv.org/abs/2603.19188)|null|
+|**2026-03-19**|**Box Maze: A Process-Control Architecture for Reliable LLM Reasoning**|Zou Qiang et.al.|[2603.19182](http://arxiv.org/abs/2603.19182)|null|
+|**2026-03-19**|**VEPO: Variable Entropy Policy Optimization for Low-Resource Language Foundation Models**|Chonghan Liu et.al.|[2603.19152](http://arxiv.org/abs/2603.19152)|null|
+|**2026-03-19**|**Hierarchical Latent Structure Learning through Online Inference**|Ines Aitsahalia et.al.|[2603.19139](http://arxiv.org/abs/2603.19139)|null|
+|**2026-03-19**|**Adaptive Regime-Aware Stock Price Prediction Using Autoencoder-Gated Dual Node Transformers with Reinforcement Learning Control**|Mohammad Al Ridhawi et.al.|[2603.19136](http://arxiv.org/abs/2603.19136)|null|
+|**2026-03-19**|**Variational and Annealing-Based Approaches to Quantum Combinatorial Optimization**|Hala Hawashin et.al.|[2603.19117](http://arxiv.org/abs/2603.19117)|null|
+|**2026-03-19**|**Articulated-Body Dynamics Network: Dynamics-Grounded Prior for Robot Learning**|Sangwoo Shin et.al.|[2603.19078](http://arxiv.org/abs/2603.19078)|null|
+|**2026-03-19**|**Probabilistic multivariate statistical process control via kernel parameter uncertainty propagation**|Zina-Sabrina Duma et.al.|[2603.19055](http://arxiv.org/abs/2603.19055)|null|
+|**2026-03-19**|**MoRI: Learning Motivation-Grounded Reasoning for Scientific Ideation in Large Language Models**|Chenyang Gu et.al.|[2603.19044](http://arxiv.org/abs/2603.19044)|null|
+|**2026-03-19**|**Computation of thermal entropy for the doped Hubbard Model**|Yu-Feng Song et.al.|[2603.18998](http://arxiv.org/abs/2603.18998)|null|
+|**2026-03-19**|**CRAFT: Aligning Diffusion Models with Fine-Tuning Is Easier Than You Think**|Zening Sun et.al.|[2603.18991](http://arxiv.org/abs/2603.18991)|null|
+|**2026-03-19**|**Distributed lag non-linear models with spatial effect modification using Laplacian P-splines**|Sara Rutten et.al.|[2603.18990](http://arxiv.org/abs/2603.18990)|null|
+|**2026-03-19**|**Maximum-Entropy Exploration with Future State-Action Visitation Measures**|Adrien Bolland et.al.|[2603.18965](http://arxiv.org/abs/2603.18965)|null|
+|**2026-03-19**|**Context Bootstrapped Reinforcement Learning**|Saaket Agashe et.al.|[2603.18953](http://arxiv.org/abs/2603.18953)|null|
+|**2026-03-19**|**Navigating complex phase diagrams in soft matter systems**|Michael Wassermair et.al.|[2603.18918](http://arxiv.org/abs/2603.18918)|null|
+|**2026-03-19**|**Safety-Guaranteed Imitation Learning from Nonlinear Model Predictive Control for Spacecraft Close Proximity Operations**|Alexander Meinert et.al.|[2603.18910](http://arxiv.org/abs/2603.18910)|null|
 |**2026-03-19**|**MultihopSpatial: Multi-hop Compositional Spatial Reasoning Benchmark for Vision-Language Model**|Youngwan Lee et.al.|[2603.18892](http://arxiv.org/abs/2603.18892)|null|
 |**2026-03-19**|**Reasoning over mathematical objects: on-policy reward modeling and test time aggregation**|Pranjal Aggarwal et.al.|[2603.18886](http://arxiv.org/abs/2603.18886)|null|
 |**2026-03-19**|**Bridging Network Fragmentation: A Semantic-Augmented DRL Framework for UAV-aided VANETs**|Gaoxiang Cao et.al.|[2603.18871](http://arxiv.org/abs/2603.18871)|null|
