@@ -1,5 +1,5 @@
 # Agent Research Papers
-> Updated on 2026.03.31
+> Updated on 2026.04.01
 Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Autonomous Agent`,`LLM Agent`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -176,6 +176,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 - 2025-11-24, **VDC-Agent: When Video Detailed Captioners Evolve Themselves via Agentic Self-Reflection**, Qiang Wang et.al., Paper: [http://arxiv.org/abs/2511.19436](http://arxiv.org/abs/2511.19436)
 - 2025-11-04, **VCode: a Multimodal Coding Benchmark with SVG as Symbolic Visual Representation**, Kevin Qinghong Lin et.al., Paper: [http://arxiv.org/abs/2511.02778](http://arxiv.org/abs/2511.02778)
 - 2025-10-19, **VAGEN: Reinforcing World Model Reasoning for Multi-Turn VLM Agents**, Kangrui Wang et.al., Paper: [http://arxiv.org/abs/2510.16907](http://arxiv.org/abs/2510.16907)
+- 2026-03-31, **VACP: Visual Analytics Context Protocol**, Tobias Stähle et.al., Paper: [http://arxiv.org/abs/2603.29322](http://arxiv.org/abs/2603.29322)
 - 2026-02-05, **V-Retrver: Evidence-Driven Agentic Reasoning for Universal Multimodal Retrieval**, Dongyang Chen et.al., Paper: [http://arxiv.org/abs/2602.06034](http://arxiv.org/abs/2602.06034)
 - 2025-09-12, **V-Math: An Agentic Approach to the Vietnamese National High School Graduation Mathematics Exams**, Duong Q. Nguyen et.al., Paper: [http://arxiv.org/abs/2509.12251](http://arxiv.org/abs/2509.12251)
 - 2025-08-26, **Utilizing Training Data to Improve LLM Reasoning for Tabular Understanding**, Chufan Gao et.al., Paper: [http://arxiv.org/abs/2508.18676](http://arxiv.org/abs/2508.18676)
@@ -529,9 +530,11 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 - 2025-11-21, **Simulating Disky Broad Line Region Reverberation**, Mary Ogborn et.al., Paper: [http://arxiv.org/abs/2511.17334](http://arxiv.org/abs/2511.17334)
 - 2025-09-29, **SimuHome: A Temporal- and Environment-Aware Benchmark for Smart Home LLM Agents**, Gyuhyeon Seo et.al., Paper: [http://arxiv.org/abs/2509.24282](http://arxiv.org/abs/2509.24282)
 - 2026-01-05, **SimpleMem: Efficient Lifelong Memory for LLM Agents**, Jiaqi Liu et.al., Paper: [http://arxiv.org/abs/2601.02553](http://arxiv.org/abs/2601.02553)
+- 2026-03-31, **SimMOF: AI agent for Automated MOF Simulations**, Jaewoong Lee et.al., Paper: [http://arxiv.org/abs/2603.29152](http://arxiv.org/abs/2603.29152)
 - 2025-09-21, **SignalLLM: A General-Purpose LLM Agent Framework for Automated Signal Processing**, Junlong Ke et.al., Paper: [http://arxiv.org/abs/2509.17197](http://arxiv.org/abs/2509.17197)
 - 2026-03-19, **SignAgent: Agentic LLMs for Linguistically-Grounded Sign Language Annotation and Dataset Curation**, Oliver Cory et.al., Paper: [http://arxiv.org/abs/2603.19059](http://arxiv.org/abs/2603.19059)
 - 2026-01-30, **Sifting the Noise: A Comparative Study of LLM Agents in Vulnerability False Positive Filtering**, Yunpeng Xiong et.al., Paper: [http://arxiv.org/abs/2601.22952](http://arxiv.org/abs/2601.22952)
+- 2026-03-31, **Should I State or Should I Show? Aligning AI with Human Preferences**, Keaton Ellis et.al., Paper: [http://arxiv.org/abs/2603.29317](http://arxiv.org/abs/2603.29317)
 - 2025-10-22, **SheetBrain: A Neuro-Symbolic Agent for Accurate Reasoning over Complex and Large Spreadsheets**, Ziwei Wang et.al., Paper: [http://arxiv.org/abs/2510.19247](http://arxiv.org/abs/2510.19247)
 - 2025-11-06, **Shared Spatial Memory Through Predictive Coding**, Zhengru Fang et.al., Paper: [http://arxiv.org/abs/2511.04235](http://arxiv.org/abs/2511.04235)
 - 2025-10-20, **ShapeCraft: LLM Agents for Structured, Textured and Interactive 3D Modeling**, Shuyuan Zhang et.al., Paper: [http://arxiv.org/abs/2510.17603](http://arxiv.org/abs/2510.17603)
@@ -576,6 +579,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 - 2026-02-16, **Secure and Energy-Efficient Wireless Agentic AI Networks**, Yuanyan Song et.al., Paper: [http://arxiv.org/abs/2602.15212](http://arxiv.org/abs/2602.15212)
 - 2025-08-27, **Secure Multi-LLM Agentic AI and Agentification for Edge General Intelligence by Zero-Trust: A Survey**, Yinqiu Liu et.al., Paper: [http://arxiv.org/abs/2508.19870](http://arxiv.org/abs/2508.19870)
 - 2025-10-21, **Search Self-play: Pushing the Frontier of Agent Capability without Supervision**, Hongliang Lu et.al., Paper: [http://arxiv.org/abs/2510.18821](http://arxiv.org/abs/2510.18821)
+- 2026-03-31, **SciVisAgentBench: A Benchmark for Evaluating Scientific Data Analysis and Visualization Agents**, Kuangshi Ai et.al., Paper: [http://arxiv.org/abs/2603.29139](http://arxiv.org/abs/2603.29139)
 - 2025-09-12, **SciML Agents: Write the Solver, Not the Solution**, Saarth Gaonkar et.al., Paper: [http://arxiv.org/abs/2509.09936](http://arxiv.org/abs/2509.09936)
 - 2026-02-13, **SciAgentGym: Benchmarking Multi-Step Scientific Tool-use in LLM Agents**, Yujiong Shen et.al., Paper: [http://arxiv.org/abs/2602.12984](http://arxiv.org/abs/2602.12984)
 - 2026-03-29, **Sci-Mind: Cognitively-Inspired Adversarial Debate for Autonomous Mathematical Modeling**, Ruiying Sun et.al., Paper: [http://arxiv.org/abs/2603.27584](http://arxiv.org/abs/2603.27584)
@@ -1029,6 +1033,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 - 2025-12-29, **Nested Browser-Use Learning for Agentic Information Seeking**, Baixuan Li et.al., Paper: [http://arxiv.org/abs/2512.23647](http://arxiv.org/abs/2512.23647)
 - 2026-01-07, **NeoAMT: Neologism-Aware Agentic Machine Translation with Reinforcement Learning**, Zhongtao Miao et.al., Paper: [http://arxiv.org/abs/2601.03790](http://arxiv.org/abs/2601.03790)
 - 2025-12-23, **Nemotron 3 Nano: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Model for Agentic Reasoning**, NVIDIA et.al., Paper: [http://arxiv.org/abs/2512.20848](http://arxiv.org/abs/2512.20848)
+- 2026-03-31, **Near-Miss: Latent Policy Failure Detection in Agentic Workflows**, Ella Rabinovich et.al., Paper: [http://arxiv.org/abs/2603.29665](http://arxiv.org/abs/2603.29665)
 - 2025-11-19, **Navigating Quantum Missteps in Agent-Based Modeling: A Schelling Model Case Study**, C. Nico Barati et.al., Paper: [http://arxiv.org/abs/2511.15642](http://arxiv.org/abs/2511.15642)
 - 2025-12-05, **Natural Language Summarization Enables Multi-Repository Bug Localization by LLMs in Microservice Architectures**, Amirkia Rafiei Oskooei et.al., Paper: [http://arxiv.org/abs/2512.05908](http://arxiv.org/abs/2512.05908)
 - 2025-12-04, **Natural Language Actor-Critic: Scalable Off-Policy Learning in Language Space**, Joey Hong et.al., Paper: [http://arxiv.org/abs/2512.04601](http://arxiv.org/abs/2512.04601)
@@ -1050,6 +1055,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 - 2025-10-27, **Multi-Stakeholder Alignment in LLM-Powered Collaborative AI Systems: A Multi-Agent Framework for Intelligent Tutoring**, Alexandre P Uchoa et.al., Paper: [http://arxiv.org/abs/2510.23245](http://arxiv.org/abs/2510.23245)
 - 2025-11-14, **Multi-Phase Spacecraft Trajectory Optimization via Transformer-Based Reinforcement Learning**, Amit Jain et.al., Paper: [http://arxiv.org/abs/2511.11402](http://arxiv.org/abs/2511.11402)
 - 2026-01-06, **Multi-Modal Data-Enhanced Foundation Models for Prediction and Control in Wireless Networks: A Survey**, Han Zhang et.al., Paper: [http://arxiv.org/abs/2601.03181](http://arxiv.org/abs/2601.03181)
+- 2026-03-31, **Multi-Layered Memory Architectures for LLM Agents: An Experimental Evaluation of Long-Term Context Retention**, Sunil Tiwari et.al., Paper: [http://arxiv.org/abs/2603.29194](http://arxiv.org/abs/2603.29194)
 - 2025-10-06, **Multi-Agent Tool-Integrated Policy Optimization**, Zhanfeng Mo et.al., Paper: [http://arxiv.org/abs/2510.04678](http://arxiv.org/abs/2510.04678)
 - 2026-01-15, **Multi-Agent Taint Specification Extraction for Vulnerability Detection**, Jonah Ghebremichael et.al., Paper: [http://arxiv.org/abs/2601.10865](http://arxiv.org/abs/2601.10865)
 - 2026-01-30, **Multi-Agent Systems Should be Treated as Principal-Agent Problems**, Paulius Rauba et.al., Paper: [http://arxiv.org/abs/2601.23211](http://arxiv.org/abs/2601.23211)
@@ -1135,6 +1141,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 - 2025-12-23, **MemR $^3$ : Memory Retrieval via Reflective Reasoning for LLM Agents**, Xingbo Du et.al., Paper: [http://arxiv.org/abs/2512.20237](http://arxiv.org/abs/2512.20237)
 - 2025-09-23, **MemOrb: A Plug-and-Play Verbal-Reinforcement Memory Layer for E-Commerce Customer Service**, Yizhe Huang et.al., Paper: [http://arxiv.org/abs/2509.18713](http://arxiv.org/abs/2509.18713)
 - 2026-03-19, **MemMA: Coordinating the Memory Cycle through Multi-Agent Reasoning and In-Situ Self-Evolution**, Minhua Lin et.al., Paper: [http://arxiv.org/abs/2603.18718](http://arxiv.org/abs/2603.18718)
+- 2026-03-31, **MemFactory: Unified Inference & Training Framework for Agent Memory**, Ziliang Guo et.al., Paper: [http://arxiv.org/abs/2603.29493](http://arxiv.org/abs/2603.29493)
 - 2026-01-28, **MemCtrl: Using MLLMs as Active Memory Controllers on Embodied Agents**, Vishnu Sashank Dorbala et.al., Paper: [http://arxiv.org/abs/2601.20831](http://arxiv.org/abs/2601.20831)
 - 2025-09-30, **Mem-α: Learning Memory Construction via Reinforcement Learning**, Yu Wang et.al., Paper: [http://arxiv.org/abs/2509.25911](http://arxiv.org/abs/2509.25911)
 - 2026-03-09, **Meissa: Multi-modal Medical Agentic Intelligence**, Yixiong Chen et.al., Paper: [http://arxiv.org/abs/2603.09018](http://arxiv.org/abs/2603.09018)
@@ -1288,6 +1295,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 - 2025-10-10, **Leading the Follower: Learning Persuasive Agents in Social Deduction Games**, Zhang Zheng et.al., Paper: [http://arxiv.org/abs/2510.09087](http://arxiv.org/abs/2510.09087)
 - 2025-12-22, **LeLaR: The First In-Orbit Demonstration of an AI-Based Satellite Attitude Controller**, Kirill Djebko et.al., Paper: [http://arxiv.org/abs/2512.19576](http://arxiv.org/abs/2512.19576)
 - 2025-10-28, **Law in Silico: Simulating Legal Society with LLM-Based Agents**, Yiding Wang et.al., Paper: [http://arxiv.org/abs/2510.24442](http://arxiv.org/abs/2510.24442)
+- 2026-03-31, **Latent-Y: A Lab-Validated Autonomous Agent for De Novo Drug Design**, Latent Labs Team et.al., Paper: [http://arxiv.org/abs/2603.29727](http://arxiv.org/abs/2603.29727)
 - 2026-03-10, **Latent-DARM: Bridging Discrete Diffusion And Autoregressive Models For Reasoning**, Lina Berrayana et.al., Paper: [http://arxiv.org/abs/2603.09184](http://arxiv.org/abs/2603.09184)
 - 2025-12-01, **Latent Debate: A Surrogate Framework for Interpreting LLM Thinking**, Lihu Chen et.al., Paper: [http://arxiv.org/abs/2512.01909](http://arxiv.org/abs/2512.01909)
 - 2025-11-25, **Latent Collaboration in Multi-Agent Systems**, Jiaru Zou et.al., Paper: [http://arxiv.org/abs/2511.20639](http://arxiv.org/abs/2511.20639)
@@ -1355,6 +1363,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 - 2026-01-14, **KryptoPilot: An Open-World Knowledge-Augmented LLM Agent for Automated Cryptographic Exploitation**, Xiaonan Liu et.al., Paper: [http://arxiv.org/abs/2601.09129](http://arxiv.org/abs/2601.09129)
 - 2025-11-05, **Kosmos: An AI Scientist for Autonomous Discovery**, Ludovico Mitchener et.al., Paper: [http://arxiv.org/abs/2511.02824](http://arxiv.org/abs/2511.02824)
 - 2026-01-16, **Knowledge is Not Enough: Injecting RL Skills for Continual Adaptation**, Pingzhi Tang et.al., Paper: [http://arxiv.org/abs/2601.11258](http://arxiv.org/abs/2601.11258)
+- 2026-03-31, **Knowledge database development by large language models for countermeasures against viruses and marine toxins**, Hung N. Do et.al., Paper: [http://arxiv.org/abs/2603.29149](http://arxiv.org/abs/2603.29149)
 - 2026-03-24, **Knowledge Access Beats Model Size: Memory Augmented Routing for Persistent AI Agents**, Xunzhuo Liu et.al., Paper: [http://arxiv.org/abs/2603.23013](http://arxiv.org/abs/2603.23013)
 - 2026-02-16, **Knowing Isn't Understanding: Re-grounding Generative Proactivity with Epistemic and Behavioral Insight**, Kirandeep Kaur et.al., Paper: [http://arxiv.org/abs/2602.15259](http://arxiv.org/abs/2602.15259)
 - 2025-10-29, **KnowCoder-A1: Incentivizing Agentic Reasoning Capability with Outcome Supervision for KBQA**, Zhuo Chen et.al., Paper: [http://arxiv.org/abs/2510.25101](http://arxiv.org/abs/2510.25101)
@@ -1489,6 +1498,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 - 2025-09-19, **How do Language Models Generate Slang: A Systematic Comparison between Human and Machine-Generated Slang Usages**, Siyang Wu et.al., Paper: [http://arxiv.org/abs/2509.15518](http://arxiv.org/abs/2509.15518)
 - 2025-10-10, **How can we assess human-agent interactions? Case studies in software agent design**, Valerie Chen et.al., Paper: [http://arxiv.org/abs/2510.09801](http://arxiv.org/abs/2510.09801)
 - 2026-03-25, **How are AI agents used? Evidence from 177,000 MCP tools**, Merlin Stein et.al., Paper: [http://arxiv.org/abs/2603.23802](http://arxiv.org/abs/2603.23802)
+- 2026-03-31, **How and Why Agents Can Identify Bug-Introducing Commits**, Niklas Risse et.al., Paper: [http://arxiv.org/abs/2603.29378](http://arxiv.org/abs/2603.29378)
 - 2026-02-24, **How Foundational Skills Influence VLM-based Embodied Agents:A Native Perspective**, Bo Peng et.al., Paper: [http://arxiv.org/abs/2602.20687](http://arxiv.org/abs/2602.20687)
 - 2025-12-01, **How Far Are We from Genuinely Useful Deep Research Agents?**, Dingling Zhang et.al., Paper: [http://arxiv.org/abs/2512.01948](http://arxiv.org/abs/2512.01948)
 - 2025-09-17, **How Does Cognitive Bias Affect Large Language Models? A Case Study on the Anchoring Effect in Price Negotiation Simulations**, Yoshiki Takenami et.al., Paper: [http://arxiv.org/abs/2508.21137](http://arxiv.org/abs/2508.21137)
@@ -1855,6 +1865,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 - 2026-02-03, **Efficient Estimation of Kernel Surrogate Models for Task Attribution**, Zhenshuo Zhang et.al., Paper: [http://arxiv.org/abs/2602.03783](http://arxiv.org/abs/2602.03783)
 - 2025-11-17, **Efficient Calibration for Decision Making**, Parikshit Gopalan et.al., Paper: [http://arxiv.org/abs/2511.13699](http://arxiv.org/abs/2511.13699)
 - 2025-11-25, **Effective Command-line Interface Fuzzing with Path-Aware Large Language Model Orchestration**, Momoko Shiraishi et.al., Paper: [http://arxiv.org/abs/2511.20555](http://arxiv.org/abs/2511.20555)
+- 2026-03-31, **Economics of Human and AI Collaboration: When is Partial Automation More Attractive than Full Automation?**, Wensu Li et.al., Paper: [http://arxiv.org/abs/2603.29121](http://arxiv.org/abs/2603.29121)
 - 2026-03-26, **EcoThink: A Green Adaptive Inference Framework for Sustainable and Accessible Agents**, Linxiao Li et.al., Paper: [http://arxiv.org/abs/2603.25498](http://arxiv.org/abs/2603.25498)
 - 2025-10-20, **Echoes of Human Malice in Agents: Benchmarking LLMs for Multi-Turn Online Harassment Attacks**, Trilok Padhi et.al., Paper: [http://arxiv.org/abs/2510.14207](http://arxiv.org/abs/2510.14207)
 - 2025-12-22, **EchoTrail-GUI: Building Actionable Memory for GUI Agents via Critic-Guided Self-Exploration**, Runze Li et.al., Paper: [http://arxiv.org/abs/2512.19396](http://arxiv.org/abs/2512.19396)
@@ -1871,6 +1882,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 - 2026-03-10, **EPOCH: An Agentic Protocol for Multi-Round System Optimization**, Zhanlin Liu et.al., Paper: [http://arxiv.org/abs/2603.09049](http://arxiv.org/abs/2603.09049)
 - 2025-09-26, **EPO: Entropy-regularized Policy Optimization for LLM Agents Reinforcement Learning**, Wujiang Xu et.al., Paper: [http://arxiv.org/abs/2509.22576](http://arxiv.org/abs/2509.22576)
 - 2026-02-04, **EMA Policy Gradient: Taming Reinforcement Learning for LLMs with EMA Anchor and Top-k KL**, Lunjun Zhang et.al., Paper: [http://arxiv.org/abs/2602.04417](http://arxiv.org/abs/2602.04417)
+- 2026-03-31, **ELT-Bench-Verified: Benchmark Quality Issues Underestimate AI Agent Capabilities**, Christopher Zanoli et.al., Paper: [http://arxiv.org/abs/2603.29399](http://arxiv.org/abs/2603.29399)
 - 2026-03-25, **ELITE: Experiential Learning and Intent-Aware Transfer for Self-improving Embodied Agents**, Bingqing Wei et.al., Paper: [http://arxiv.org/abs/2603.24018](http://arxiv.org/abs/2603.24018)
 - 2026-03-12, **ELISA: An Interpretable Hybrid Generative AI Agent for Expression-Grounded Discovery in Single-Cell Genomics**, Omar Coser et.al., Paper: [http://arxiv.org/abs/2603.11872](http://arxiv.org/abs/2603.11872)
 - 2026-01-15, **EHRNavigator: A Multi-Agent System for Patient-Level Clinical Question Answering over Heterogeneous Electronic Health Records**, Lingfei Qian et.al., Paper: [http://arxiv.org/abs/2601.10020](http://arxiv.org/abs/2601.10020)
@@ -2024,6 +2036,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 - 2025-10-28, **Cybersecurity AI Benchmark (CAIBench): A Meta-Benchmark for Evaluating Cybersecurity AI Agents**, María Sanz-Gómez et.al., Paper: [http://arxiv.org/abs/2510.24317](http://arxiv.org/abs/2510.24317)
 - 2025-08-28, **CyberSleuth: Autonomous Blue-Team LLM Agent for Web Attack Forensics**, Stefano Fumero et.al., Paper: [http://arxiv.org/abs/2508.20643](http://arxiv.org/abs/2508.20643)
 - 2026-03-19, **CyberJustice Tutor: An Agentic AI Framework for Cybersecurity Learning via Think-Plan-Act Reasoning and Pedagogical Scaffolding**, Baiqiang Wang et.al., Paper: [http://arxiv.org/abs/2603.18470](http://arxiv.org/abs/2603.18470)
+- 2026-03-31, **CutClaw: Agentic Hours-Long Video Editing via Music Synchronization**, Shifang Zhao et.al., Paper: [http://arxiv.org/abs/2603.29664](http://arxiv.org/abs/2603.29664)
 - 2025-10-08, **Customer-R1: Personalized Simulation of Human Behaviors via RL-based LLM Agent in Online Shopping**, Ziyi Wang et.al., Paper: [http://arxiv.org/abs/2510.07230](http://arxiv.org/abs/2510.07230)
 - 2025-09-11, **Curriculum-Based Multi-Tier Semantic Exploration via Deep Reinforcement Learning**, Abdel Hakim Drid et.al., Paper: [http://arxiv.org/abs/2509.09356](http://arxiv.org/abs/2509.09356)
 - 2025-11-04, **Curriculum Design for Trajectory-Constrained Agent: Compressing Chain-of-Thought Tokens in LLMs**, Georgios Tzannetos et.al., Paper: [http://arxiv.org/abs/2511.02690](http://arxiv.org/abs/2511.02690)
@@ -2144,6 +2157,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 - 2025-11-14, **CertiA360: Enhance Compliance Agility in Aerospace Software Development**, J. Antonio Dantas Macedo et.al., Paper: [http://arxiv.org/abs/2511.11550](http://arxiv.org/abs/2511.11550)
 - 2026-03-02, **CeProAgents: A Hierarchical Agents System for Automated Chemical Process Development**, Yuhang Yang et.al., Paper: [http://arxiv.org/abs/2603.01654](http://arxiv.org/abs/2603.01654)
 - 2026-01-04, **CaveAgent: Transforming LLMs into Stateful Runtime Operators**, Maohao Ran et.al., Paper: [http://arxiv.org/abs/2601.01569](http://arxiv.org/abs/2601.01569)
+- 2026-03-31, **CausalPulse: An Industrial-Grade Neurosymbolic Multi-Agent Copilot for Causal Diagnostics in Smart Manufacturing**, Chathurangi Shyalika et.al., Paper: [http://arxiv.org/abs/2603.29755](http://arxiv.org/abs/2603.29755)
 - 2025-08-26, **CausalMACE: Causality Empowered Multi-Agents in Minecraft Cooperative Tasks**, Qi Chai et.al., Paper: [http://arxiv.org/abs/2508.18797](http://arxiv.org/abs/2508.18797)
 - 2026-01-06, **Causal-Enhanced AI Agents for Medical Research Screening**, Duc Ngo et.al., Paper: [http://arxiv.org/abs/2601.02814](http://arxiv.org/abs/2601.02814)
 - 2026-03-23, **Causal Evidence that Language Models use Confidence to Drive Behavior**, Dharshan Kumaran et.al., Paper: [http://arxiv.org/abs/2603.22161](http://arxiv.org/abs/2603.22161)
@@ -2165,6 +2179,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 - 2026-01-07, **Can LLMs See Without Pixels? Benchmarking Spatial Intelligence from Textual Descriptions**, Zhongbin Guo et.al., Paper: [http://arxiv.org/abs/2601.03590](http://arxiv.org/abs/2601.03590)
 - 2025-10-31, **Can LLMs Help You at Work? A Sandbox for Evaluating LLM Agents in Enterprise Environments**, Harsh Vishwakarma et.al., Paper: [http://arxiv.org/abs/2510.27287](http://arxiv.org/abs/2510.27287)
 - 2026-02-03, **Can LLMs Do Rocket Science? Exploring the Limits of Complex Reasoning with GTOC 12**, Iñaki del Campo et.al., Paper: [http://arxiv.org/abs/2602.03630](http://arxiv.org/abs/2602.03630)
+- 2026-03-31, **Can LLM Agents Identify Spoken Dialects like a Linguist?**, Tobias Bystrich et.al., Paper: [http://arxiv.org/abs/2603.29541](http://arxiv.org/abs/2603.29541)
 - 2026-03-24, **Can LLM Agents Generate Real-World Evidence? Evaluating Observational Studies in Medical Databases**, Dubai Li et.al., Paper: [http://arxiv.org/abs/2603.22767](http://arxiv.org/abs/2603.22767)
 - 2026-03-18, **Can Blindfolded LLMs Still Trade? An Anonymization-First Framework for Portfolio Optimization**, Joohyoung Jeon et.al., Paper: [http://arxiv.org/abs/2603.17692](http://arxiv.org/abs/2603.17692)
 - 2026-02-26, **Can Agents Distinguish Visually Hard-to-Separate Diseases in a Zero-Shot Setting? A Pilot Study**, Zihao Zhao et.al., Paper: [http://arxiv.org/abs/2602.22959](http://arxiv.org/abs/2602.22959)
@@ -2222,6 +2237,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 - 2025-10-16, **Bounds and asymptotic expansions for the radii of convexity and uniform convexity of normalized Bessel functions**, Árpád Baricz et.al., Paper: [http://arxiv.org/abs/2510.14323](http://arxiv.org/abs/2510.14323)
 - 2025-11-28, **Bounded-Error Quantum Simulation via Hamiltonian and Lindbladian Learning**, Tristan Kraft et.al., Paper: [http://arxiv.org/abs/2511.23392](http://arxiv.org/abs/2511.23392)
 - 2026-02-25, **Both Ends Count! Just How Good are LLM Agents at "Text-to-Big SQL"?**, Germán T. Eizaguirre et.al., Paper: [http://arxiv.org/abs/2602.21480](http://arxiv.org/abs/2602.21480)
+- 2026-03-31, **BotVerse: Real-Time Event-Driven Simulation of Social Agents**, Edoardo Allegrini et.al., Paper: [http://arxiv.org/abs/2603.29741](http://arxiv.org/abs/2603.29741)
 - 2026-03-20, **Borderless Long Speech Synthesis**, Xingchen Song et.al., Paper: [http://arxiv.org/abs/2603.19798](http://arxiv.org/abs/2603.19798)
 - 2025-12-05, **Bootstrapping Fuzzers for Compilers of Low-Resource Language Dialects Using Language Models**, Sairam Vaidya et.al., Paper: [http://arxiv.org/abs/2512.05887](http://arxiv.org/abs/2512.05887)
 - 2026-03-18, **Bootstrapping Coding Agents: The Specification Is the Program**, Martin Monperrus et.al., Paper: [http://arxiv.org/abs/2603.17399](http://arxiv.org/abs/2603.17399)
@@ -2248,6 +2264,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 - 2025-10-03, **Beyond the Final Answer: Evaluating the Reasoning Trajectories of Tool-Augmented Agents**, Wonjoong Kim et.al., Paper: [http://arxiv.org/abs/2510.02837](http://arxiv.org/abs/2510.02837)
 - 2026-03-16, **Beyond the Covariance Trap: Unlocking Generalization in Same-Subject Knowledge Editing for Large Language Models**, Xiyu Liu et.al., Paper: [http://arxiv.org/abs/2603.15518](http://arxiv.org/abs/2603.15518)
 - 2026-02-03, **Beyond the Commit: Developer Perspectives on Productivity with AI Coding Assistants**, Valerie Chen et.al., Paper: [http://arxiv.org/abs/2602.03593](http://arxiv.org/abs/2602.03593)
+- 2026-03-31, **Beyond pass@1: A Reliability Science Framework for Long-Horizon LLM Agents**, Aaditya Khanal et.al., Paper: [http://arxiv.org/abs/2603.29231](http://arxiv.org/abs/2603.29231)
 - 2026-03-20, **Beyond detection: cooperative multi-agent reasoning for rapid onboard EO crisis response**, Alejandro D. Mousist et.al., Paper: [http://arxiv.org/abs/2603.19858](http://arxiv.org/abs/2603.19858)
 - 2025-12-16, **Beyond Text-to-SQL: Autonomous Research-Driven Database Exploration with DAR**, Ostap Vykhopen et.al., Paper: [http://arxiv.org/abs/2512.14622](http://arxiv.org/abs/2512.14622)
 - 2026-03-03, **Beyond Task Completion: Revealing Corrupt Success in LLM Agents through Procedure-Aware Evaluation**, Hongliu Cao et.al., Paper: [http://arxiv.org/abs/2603.03116](http://arxiv.org/abs/2603.03116)
@@ -2413,6 +2430,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 - 2026-01-26, **An LLM-Agent-Based Framework for Age of Information Optimization in Heterogeneous Random Access Networks**, Fang Liu et.al., Paper: [http://arxiv.org/abs/2601.18563](http://arxiv.org/abs/2601.18563)
 - 2025-09-16, **An LLM Agentic Approach for Legal-Critical Software: A Case Study for Tax Prep Software**, Sina Gogani-Khiabani et.al., Paper: [http://arxiv.org/abs/2509.13471](http://arxiv.org/abs/2509.13471)
 - 2026-01-21, **An LLM Agent-based Framework for Whaling Countermeasures**, Daisuke Miyamoto et.al., Paper: [http://arxiv.org/abs/2601.14606](http://arxiv.org/abs/2601.14606)
+- 2026-03-31, **An Empirical Study of Multi-Agent Collaboration for Automated Research**, Yang Shen et.al., Paper: [http://arxiv.org/abs/2603.29632](http://arxiv.org/abs/2603.29632)
 - 2026-02-03, **An Empirical Study of Collective Behaviors and Social Dynamics in Large Language Model Agents**, Farnoosh Hashemi et.al., Paper: [http://arxiv.org/abs/2602.03775](http://arxiv.org/abs/2602.03775)
 - 2026-02-25, **An Empirical Study of Bugs in Modern LLM Agent Frameworks**, Xinxue Zhu et.al., Paper: [http://arxiv.org/abs/2602.21806](http://arxiv.org/abs/2602.21806)
 - 2025-12-01, **An Empirical Study of Agent Developer Practices in AI Agent Frameworks**, Yanlin Wang et.al., Paper: [http://arxiv.org/abs/2512.01939](http://arxiv.org/abs/2512.01939)
@@ -2605,6 +2623,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 - 2025-11-28, **ASTRO: Adaptive Stitching via Dynamics-Guided Trajectory Rollouts**, Hang Yu et.al., Paper: [http://arxiv.org/abs/2511.23442](http://arxiv.org/abs/2511.23442)
 - 2025-12-04, **ASTRIDE: A Security Threat Modeling Platform for Agentic-AI Applications**, Eranga Bandara et.al., Paper: [http://arxiv.org/abs/2512.04785](http://arxiv.org/abs/2512.04785)
 - 2025-10-11, **ASTREA: Introducing Agentic Intelligence for Orbital Thermal Autonomy**, Alejandro D. Mousist et.al., Paper: [http://arxiv.org/abs/2509.13380](http://arxiv.org/abs/2509.13380)
+- 2026-03-31, **ASI-Evolve: AI Accelerates AI**, Weixian Xu et.al., Paper: [http://arxiv.org/abs/2603.29640](http://arxiv.org/abs/2603.29640)
 - 2026-01-26, **ARMOR: Agentic Reasoning for Methods Orchestration and Reparameterization for Robust Adversarial Attacks**, Gabriel Lee Jun Rong et.al., Paper: [http://arxiv.org/abs/2601.18386](http://arxiv.org/abs/2601.18386)
 - 2026-01-12, **ARM: Role-Conditioned Neuron Transplantation for Training-Free Generalist LLM Agent Merging**, Zhuoka Feng et.al., Paper: [http://arxiv.org/abs/2601.07309](http://arxiv.org/abs/2601.07309)
 - 2025-12-04, **ARM-Thinker: Reinforcing Multimodal Generative Reward Models with Agentic Tool Use and Visual Reasoning**, Shengyuan Ding et.al., Paper: [http://arxiv.org/abs/2512.05111](http://arxiv.org/abs/2512.05111)
@@ -2727,6 +2746,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 - 2026-02-24, **A Benchmark for Deep Information Synthesis**, Debjit Paul et.al., Paper: [http://arxiv.org/abs/2602.21143](http://arxiv.org/abs/2602.21143)
 - 2025-12-18, **A Benchmark and Agentic Framework for Omni-Modal Reasoning and Tool Use in Long Videos**, Mohammed Irfan Kurpath et.al., Paper: [http://arxiv.org/abs/2512.16978](http://arxiv.org/abs/2512.16978)
 - 2026-02-09, **A Behavioural and Representational Evaluation of Goal-Directedness in Language Model Agents**, Raghu Arghal et.al., Paper: [http://arxiv.org/abs/2602.08964](http://arxiv.org/abs/2602.08964)
+- 2026-03-31, **6GAgentGym: Tool Use, Data Synthesis, and Agentic Learning for Network Management**, Jiao Chen et.al., Paper: [http://arxiv.org/abs/2603.29656](http://arxiv.org/abs/2603.29656)
 - 2026-02-09, **6G-Bench: An Open Benchmark for Semantic Communication and Network-Level Reasoning with Foundation Models in AI-Native 6G Networks**, Mohamed Amine Ferrag et.al., Paper: [http://arxiv.org/abs/2602.08675](http://arxiv.org/abs/2602.08675)
 - 2025-11-04, **1 PoCo: Agentic Proof-of-Concept Exploit Generation for Smart Contracts**, Vivi Andersson et.al., Paper: [http://arxiv.org/abs/2511.02780](http://arxiv.org/abs/2511.02780)
 - 2026-03-04, **$τ$ -Knowledge: Evaluating Conversational Agents over Unstructured Knowledge**, Quan Shi et.al., Paper: [http://arxiv.org/abs/2603.04370](http://arxiv.org/abs/2603.04370)
@@ -2738,7 +2758,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 - 2026-03-28, **"Elementary, My Dear Watson." Detecting Malicious Skills via Neuro-Symbolic Reasoning across Heterogeneous Artifacts**, Shenao Wang et.al., Paper: [http://arxiv.org/abs/2603.27204](http://arxiv.org/abs/2603.27204)
 - 2026-02-24, **"Are You Sure?": An Empirical Study of Human Perception Vulnerability in LLM-Driven Agentic Systems**, Xinfeng Li et.al., Paper: [http://arxiv.org/abs/2602.21127](http://arxiv.org/abs/2602.21127)
 
-<p align=right>(<a href=#updated-on-20260331>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260401>back to top</a>)</p>
 
 ## Large Language Models
 
@@ -5212,7 +5232,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 - 2026-02-20, **"How Do I ...?": Procedural Questions Predominate Student-LLM Chatbot Conversations**, Alexandra Neagu et.al., Paper: [http://arxiv.org/abs/2602.18372](http://arxiv.org/abs/2602.18372)
 - 2026-02-24, **"Are You Sure?": An Empirical Study of Human Perception Vulnerability in LLM-Driven Agentic Systems**, Xinfeng Li et.al., Paper: [http://arxiv.org/abs/2602.21127](http://arxiv.org/abs/2602.21127)
 
-<p align=right>(<a href=#updated-on-20260331>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260401>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -7681,7 +7701,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 - 2026-03-11, **$V_{0.5}$ : Generalist Value Model as a Prior for Sparse RL Rollouts**, Yi-Kai Zhang et.al., Paper: [http://arxiv.org/abs/2603.10848](http://arxiv.org/abs/2603.10848)
 - 2025-11-25, **$MC^2$ Mixed Integer and Linear Programming**, Nick Polson et.al., Paper: [http://arxiv.org/abs/2511.20575](http://arxiv.org/abs/2511.20575)
 
-<p align=right>(<a href=#updated-on-20260331>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260401>back to top</a>)</p>
 
 Notes: 
 
