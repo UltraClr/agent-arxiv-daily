@@ -16,6 +16,14 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-31**|**The Triadic Cognitive Architecture: Bounding Autonomous Action via Spatio-Temporal and Epistemic Friction**|Davide Di Gioia et.al.|[2603.30031](http://arxiv.org/abs/2603.30031)|null|
+|**2026-03-31**|**Architecting Secure AI Agents: Perspectives on System-Level Defenses Against Indirect Prompt Injection Attacks**|Chong Xiang et.al.|[2603.30016](http://arxiv.org/abs/2603.30016)|null|
+|**2026-03-31**|**SurgNavAR: An Augmented Reality Surgical Navigation Framework for Optical See-Through Head Mounted Displays**|Abdullah Thabit et.al.|[2603.29990](http://arxiv.org/abs/2603.29990)|null|
+|**2026-03-31**|**BayesInsights: Modelling Software Delivery and Developer Experience with Bayesian Networks at Bloomberg**|Serkan Kirbas et.al.|[2603.29929](http://arxiv.org/abs/2603.29929)|null|
+|**2026-03-31**|**SkillReducer: Optimizing LLM Agent Skills for Token Efficiency**|Yudong Gao et.al.|[2603.29919](http://arxiv.org/abs/2603.29919)|null|
+|**2026-03-31**|**ATP-Bench: Towards Agentic Tool Planning for MLLM Interleaved Generation**|Yinuo Liu et.al.|[2603.29902](http://arxiv.org/abs/2603.29902)|null|
+|**2026-03-31**|**Owl-AuraID 1.0: An Intelligent System for Autonomous Scientific Instrumentation and Scientific Data Analysis**|Han Deng et.al.|[2603.29828](http://arxiv.org/abs/2603.29828)|null|
+|**2026-03-31**|**SceneTeract: Agentic Functional Affordances and VLM Grounding in 3D Scenes**|Léopold Maillard et.al.|[2603.29798](http://arxiv.org/abs/2603.29798)|null|
 |**2026-03-31**|**CausalPulse: An Industrial-Grade Neurosymbolic Multi-Agent Copilot for Causal Diagnostics in Smart Manufacturing**|Chathurangi Shyalika et.al.|[2603.29755](http://arxiv.org/abs/2603.29755)|null|
 |**2026-03-31**|**BotVerse: Real-Time Event-Driven Simulation of Social Agents**|Edoardo Allegrini et.al.|[2603.29741](http://arxiv.org/abs/2603.29741)|null|
 |**2026-03-31**|**Latent-Y: A Lab-Validated Autonomous Agent for De Novo Drug Design**|Latent Labs Team et.al.|[2603.29727](http://arxiv.org/abs/2603.29727)|null|
@@ -2759,6 +2767,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-31**|**Aligned, Orthogonal or In-conflict: When can we safely optimize Chain-of-Thought?**|Max Kaufmann et.al.|[2603.30036](http://arxiv.org/abs/2603.30036)|null|
+|**2026-03-31**|**Reward-Based Online LLM Routing via NeuralUCB**|Ming-Hua Tsai et.al.|[2603.30035](http://arxiv.org/abs/2603.30035)|null|
+|**2026-03-31**|**The Triadic Cognitive Architecture: Bounding Autonomous Action via Spatio-Temporal and Epistemic Friction**|Davide Di Gioia et.al.|[2603.30031](http://arxiv.org/abs/2603.30031)|null|
+|**2026-03-31**|**Can Commercial LLMs Be Parliamentary Political Companions? Comparing LLM Reasoning Against Romanian Legislative Expuneri de Motive**|Iulian Lucău et.al.|[2603.30028](http://arxiv.org/abs/2603.30028)|null|
+|**2026-03-31**|**ContextClaim: A Context-Driven Paradigm for Verifiable Claim Detection**|Yufeng Li et.al.|[2603.30025](http://arxiv.org/abs/2603.30025)|null|
+|**2026-03-31**|**Hybrid Framework for Robotic Manipulation: Integrating Reinforcement Learning and Large Language Models**|Md Saad et.al.|[2603.30022](http://arxiv.org/abs/2603.30022)|null|
+|**2026-03-31**|**Architecting Secure AI Agents: Perspectives on System-Level Defenses Against Indirect Prompt Injection Attacks**|Chong Xiang et.al.|[2603.30016](http://arxiv.org/abs/2603.30016)|null|
+|**2026-03-31**|**Performative Scenario Optimization**|Quanyan Zhu et.al.|[2603.29982](http://arxiv.org/abs/2603.29982)|null|
+|**2026-03-31**|**Scaling Video Pretraining for Surgical Foundation Models**|Sicheng Lu et.al.|[2603.29966](http://arxiv.org/abs/2603.29966)|null|
+|**2026-03-31**|**Think Anywhere in Code Generation**|Xue Jiang et.al.|[2603.29957](http://arxiv.org/abs/2603.29957)|null|
+|**2026-03-31**|**EC-Bench: Enumeration and Counting Benchmark for Ultra-Long Videos**|Fumihiko Tsuchiya et.al.|[2603.29943](http://arxiv.org/abs/2603.29943)|null|
+|**2026-03-31**|**Bethe Ansatz with a Large Language Model**|Balázs Pozsgay et.al.|[2603.29932](http://arxiv.org/abs/2603.29932)|null|
+|**2026-03-31**|**SISA: A Scale-In Systolic Array for GEMM Acceleration**|Luigi Altamura et.al.|[2603.29913](http://arxiv.org/abs/2603.29913)|null|
+|**2026-03-31**|**C-TRAIL: A Commonsense World Framework for Trajectory Planning in Autonomous Driving**|Zhihong Cui et.al.|[2603.29908](http://arxiv.org/abs/2603.29908)|null|
+|**2026-03-31**|**ATP-Bench: Towards Agentic Tool Planning for MLLM Interleaved Generation**|Yinuo Liu et.al.|[2603.29902](http://arxiv.org/abs/2603.29902)|null|
+|**2026-03-31**|**ShapE-GRPO: Shapley-Enhanced Reward Allocation for Multi-Candidate LLM Training**|Rui Ai et.al.|[2603.29871](http://arxiv.org/abs/2603.29871)|null|
+|**2026-03-31**|**SNEAK: Evaluating Strategic Communication and Information Leakage in Large Language Models**|Adar Avsian et.al.|[2603.29846](http://arxiv.org/abs/2603.29846)|null|
+|**2026-03-31**|**Cold-Starts in Generative Recommendation: A Reproducibility Study**|Zhen Zhang et.al.|[2603.29845](http://arxiv.org/abs/2603.29845)|null|
+|**2026-03-31**|**DIAL: Decoupling Intent and Action via Latent World Modeling for End-to-End VLA**|Yi Chen et.al.|[2603.29844](http://arxiv.org/abs/2603.29844)|null|
+|**2026-03-31**|**Compiling Code LLMs into Lightweight Executables**|Jieke Shi et.al.|[2603.29813](http://arxiv.org/abs/2603.29813)|null|
 |**2026-03-29**|**EvA: An Evidence-First Audio Understanding Paradigm for LALMs**|Xinyuan Xie et.al.|[2603.27667](http://arxiv.org/abs/2603.27667)|null|
 |**2026-03-29**|**Investigating the Influence of Language on Sycophantic Behavior of Multilingual LLMs**|Bayan Abdullah Aldahlawi et.al.|[2603.27664](http://arxiv.org/abs/2603.27664)|null|
 |**2026-03-29**|**A Benchmarking Methodology to Assess Open-Source Video Large Language Models in Automatic Captioning of News Videos**|David Miranda Paredes et.al.|[2603.27662](http://arxiv.org/abs/2603.27662)|null|
@@ -5233,6 +5261,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-31**|**HapCompass: A Rotational Haptic Device for Contact-Rich Robotic Teleoperation**|Xiangshan Tan et.al.|[2603.30042](http://arxiv.org/abs/2603.30042)|null|
+|**2026-03-31**|**Hybrid Framework for Robotic Manipulation: Integrating Reinforcement Learning and Large Language Models**|Md Saad et.al.|[2603.30022](http://arxiv.org/abs/2603.30022)|null|
+|**2026-03-31**|**Phyelds: A Pythonic Framework for Aggregate Computing**|Gianluca Aguzzi et.al.|[2603.29999](http://arxiv.org/abs/2603.29999)|null|
+|**2026-03-31**|**The Hollyfeld Gambit in Astrophysics**|Benne Holwerda et.al.|[2603.29964](http://arxiv.org/abs/2603.29964)|null|
+|**2026-03-31**|**GreenFLag: A Green Agentic Approach for Energy-Efficient Federated Learning**|Theodora Panagea et.al.|[2603.29933](http://arxiv.org/abs/2603.29933)|null|
+|**2026-03-31**|**C-TRAIL: A Commonsense World Framework for Trajectory Planning in Autonomous Driving**|Zhihong Cui et.al.|[2603.29908](http://arxiv.org/abs/2603.29908)|null|
+|**2026-03-31**|**Penalized GMM Framework for Inference on Functionals of Nonparametric Instrumental Variable Estimators**|Edvard Bakhitov et.al.|[2603.29889](http://arxiv.org/abs/2603.29889)|null|
+|**2026-03-31**|**ShapE-GRPO: Shapley-Enhanced Reward Allocation for Multi-Candidate LLM Training**|Rui Ai et.al.|[2603.29871](http://arxiv.org/abs/2603.29871)|null|
+|**2026-03-31**|**Bayesian methods for the identification of model parameters for water transport in porous media**|Paola Stolfi et.al.|[2603.29859](http://arxiv.org/abs/2603.29859)|null|
+|**2026-03-31**|**An Output Feedback Q-learning Algorithm for Optimal Control of Nonlinear Systems with Koopman Linear Embedding**|Victor G. Lopez et.al.|[2603.29858](http://arxiv.org/abs/2603.29858)|null|
+|**2026-03-31**|**Friends, Foes, and First Authors: A Game Theory Model of How Power Plays Rewrite Academic Co-Authorship Networks**|Amit Bengal et.al.|[2603.29834](http://arxiv.org/abs/2603.29834)|null|
+|**2026-03-31**|**Generalizing Output-Feedback Covariance Steering to Incorporate Non-Orthogonal Estimation Errors**|Daniel C. Qi et.al.|[2603.29753](http://arxiv.org/abs/2603.29753)|null|
+|**2026-03-31**|**Reinforced Reasoning for End-to-End Retrosynthetic Planning**|Chenyang Zuo et.al.|[2603.29723](http://arxiv.org/abs/2603.29723)|null|
+|**2026-03-31**|**6GAgentGym: Tool Use, Data Synthesis, and Agentic Learning for Network Management**|Jiao Chen et.al.|[2603.29656](http://arxiv.org/abs/2603.29656)|null|
+|**2026-03-31**|**ASI-Evolve: AI Accelerates AI**|Weixian Xu et.al.|[2603.29640](http://arxiv.org/abs/2603.29640)|null|
+|**2026-03-31**|**Learning Diagnostic Reasoning for Decision Support in Toxicology**|Nico Oberländer et.al.|[2603.29608](http://arxiv.org/abs/2603.29608)|null|
+|**2026-03-31**|**FlowPIE: Test-Time Scientific Idea Evolution with Flow-Guided Literature Exploration**|Qiyao Wang et.al.|[2603.29557](http://arxiv.org/abs/2603.29557)|null|
+|**2026-03-31**|**GraSP-STL: A Graph-Based Framework for Zero-Shot Signal Temporal Logic Planning via Offline Goal-Conditioned Reinforcement Learning**|Ancheng Hou et.al.|[2603.29533](http://arxiv.org/abs/2603.29533)|null|
+|**2026-03-31**|**Communication Outage-Resistant UUV State Estimation: A Variational History Distillation Approach**|Shuyue Li et.al.|[2603.29512](http://arxiv.org/abs/2603.29512)|null|
+|**2026-03-31**|**Target-Aligned Reinforcement Learning**|Leonard S. Pleiss et.al.|[2603.29501](http://arxiv.org/abs/2603.29501)|null|
 |**2026-03-29**|**RTLSeek: Boosting the LLM-Based RTL Generation with Multi-Stage Diversity-Oriented Reinforcement Learning**|Xinyu Zhang et.al.|[2603.27630](http://arxiv.org/abs/2603.27630)|null|
 |**2026-03-29**|**DSevolve: Enabling Real-Time Adaptive Scheduling on Dynamic Shop Floor with LLM-Evolved Heuristic Portfolios**|Jin Huang et.al.|[2603.27628](http://arxiv.org/abs/2603.27628)|null|
 |**2026-03-29**|**Optimal resource allocation for maintaining system solvency**|Gaoyue Guo et.al.|[2603.27622](http://arxiv.org/abs/2603.27622)|null|
