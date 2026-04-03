@@ -16,6 +16,9 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-02**|**Novel Memory Forgetting Techniques for Autonomous AI Agents: Balancing Relevance and Efficiency**|Payal Fofadiya et.al.|[2604.02280](http://arxiv.org/abs/2604.02280)|null|
+|**2026-04-02**|**The Self Driving Portfolio: Agentic Architecture for Institutional Asset Management**|Andrew Ang et.al.|[2604.02279](http://arxiv.org/abs/2604.02279)|null|
+|**2026-04-02**|**SKILL0: In-Context Agentic Reinforcement Learning for Skill Internalization**|Zhengxi Lu et.al.|[2604.02268](http://arxiv.org/abs/2604.02268)|null|
 |**2026-04-02**|**Quantifying Self-Preservation Bias in Large Language Models**|Matteo Migliarini et.al.|[2604.02174](http://arxiv.org/abs/2604.02174)|null|
 |**2026-04-02**|**Brief Is Better: Non-Monotonic Chain-of-Thought Budget Effects in Function-Calling Language Agents**|Xuan Qi et.al.|[2604.02155](http://arxiv.org/abs/2604.02155)|null|
 |**2026-04-02**|**MTI: A Behavior-Based Temperament Profiling System for AI Agents**|Jihoon Jeong et.al.|[2604.02145](http://arxiv.org/abs/2604.02145)|null|
@@ -2817,6 +2820,22 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-02**|**Steerable Visual Representations**|Jona Ruthardt et.al.|[2604.02327](http://arxiv.org/abs/2604.02327)|null|
+|**2026-04-02**|**Grounded Token Initialization for New Vocabulary in LMs for Generative Recommendation**|Daiwei Chen et.al.|[2604.02324](http://arxiv.org/abs/2604.02324)|null|
+|**2026-04-02**|**Batched Contextual Reinforcement: A Task-Scaling Law for Efficient Reasoning**|Bangji Yang et.al.|[2604.02322](http://arxiv.org/abs/2604.02322)|null|
+|**2026-04-02**|**Large-scale Codec Avatars: The Unreasonable Effectiveness of Large-scale Avatar Pretraining**|Junxuan Li et.al.|[2604.02320](http://arxiv.org/abs/2604.02320)|null|
+|**2026-04-02**|**Beyond the Assistant Turn: User Turn Generation as a Probe of Interaction Awareness in Language Models**|Sarath Shekkizhar et.al.|[2604.02315](http://arxiv.org/abs/2604.02315)|null|
+|**2026-04-02**|**go- $m$ HC: Direct Parameterization of Manifold-Constrained Hyper-Connections via Generalized Orthostochastic Matrices**|Torque Dandachi et.al.|[2604.02309](http://arxiv.org/abs/2604.02309)|null|
+|**2026-04-02**|**VOID: Video Object and Interaction Deletion**|Saman Motamed et.al.|[2604.02296](http://arxiv.org/abs/2604.02296)|null|
+|**2026-04-02**|**Omni123: Exploring 3D Native Foundation Models with Limited 3D Data by Unifying Text to 2D and 3D Generation**|Chongjie Ye et.al.|[2604.02289](http://arxiv.org/abs/2604.02289)|null|
+|**2026-04-02**|**Unifying Group-Relative and Self-Distillation Policy Optimization via Sample Routing**|Gengsheng Li et.al.|[2604.02288](http://arxiv.org/abs/2604.02288)|null|
+|**2026-04-02**|**Retrieval-Augmented Question Answering over Scientific Literature for the Electron-Ion Collider**|Tina. J. Jat et.al.|[2604.02259](http://arxiv.org/abs/2604.02259)|null|
+|**2026-04-02**|**SPAR: Single-Pass Any-Resolution ViT for Open-vocabulary Segmentation**|Naomi Kombol et.al.|[2604.02252](http://arxiv.org/abs/2604.02252)|null|
+|**2026-04-02**|**Do Emotions in Prompts Matter? Effects of Emotional Framing on Large Language Models**|Minda Zhao et.al.|[2604.02236](http://arxiv.org/abs/2604.02236)|null|
+|**2026-04-02**|**Answering the Wrong Question: Reasoning Trace Inversion for Abstention in LLMs**|Abinitha Gourabathina et.al.|[2604.02230](http://arxiv.org/abs/2604.02230)|null|
+|**2026-04-02**|**When to ASK: Uncertainty-Gated Language Assistance for Reinforcement Learning**|Juarez Monteiro et.al.|[2604.02226](http://arxiv.org/abs/2604.02226)|null|
+|**2026-04-02**|**Impact of Multimodal and Conversational AI on Learning Outcomes and Experience**|Karan Taneja et.al.|[2604.02221](http://arxiv.org/abs/2604.02221)|null|
+|**2026-04-02**|**VISTA: Visualization of Token Attribution via Efficient Analysis**|Syed Ahmed et.al.|[2604.02217](http://arxiv.org/abs/2604.02217)|null|
 |**2026-04-02**|**Multi-Agent Video Recommenders: Evolution, Patterns, and Open Challenges**|Srivaths Ranganathan et.al.|[2604.02211](http://arxiv.org/abs/2604.02211)|null|
 |**2026-04-02**|**Towards Position-Robust Talent Recommendation via Large Language Models**|Silin Du et.al.|[2604.02200](http://arxiv.org/abs/2604.02200)|null|
 |**2026-04-02**|**Neuro-RIT: Neuron-Guided Instruction Tuning for Robust Retrieval-Augmented Language Model**|Jaemin Kim et.al.|[2604.02194](http://arxiv.org/abs/2604.02194)|null|
@@ -5371,6 +5390,14 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-02**|**Beyond Referring Expressions: Scenario Comprehension Visual Grounding**|Ruozhen He et.al.|[2604.02323](http://arxiv.org/abs/2604.02323)|null|
+|**2026-04-02**|**Detecting Symmetry-Resolved Entanglement: A Quantum Monte Carlo Approach**|Kuangjie Chen et.al.|[2604.02307](http://arxiv.org/abs/2604.02307)|null|
+|**2026-04-02**|**Disentangled Deep Priors for Bayesian Inverse Problems**|Arkaprabha Ganguli et.al.|[2604.02304](http://arxiv.org/abs/2604.02304)|null|
+|**2026-04-02**|**Unifying Group-Relative and Self-Distillation Policy Optimization via Sample Routing**|Gengsheng Li et.al.|[2604.02288](http://arxiv.org/abs/2604.02288)|null|
+|**2026-04-02**|**CIVIC: Cooperative Immersion Via Intelligent Credit-sharing in DRL-Powered Metaverse**|Amr Aboeleneen et.al.|[2604.02284](http://arxiv.org/abs/2604.02284)|null|
+|**2026-04-02**|**SKILL0: In-Context Agentic Reinforcement Learning for Skill Internalization**|Zhengxi Lu et.al.|[2604.02268](http://arxiv.org/abs/2604.02268)|null|
+|**2026-04-02**|**Model-Based Reinforcement Learning for Control under Time-Varying Dynamics**|Klemens Iten et.al.|[2604.02260](http://arxiv.org/abs/2604.02260)|null|
+|**2026-04-02**|**When to ASK: Uncertainty-Gated Language Assistance for Reinforcement Learning**|Juarez Monteiro et.al.|[2604.02226](http://arxiv.org/abs/2604.02226)|null|
 |**2026-04-02**|**Multi-Agent Video Recommenders: Evolution, Patterns, and Open Challenges**|Srivaths Ranganathan et.al.|[2604.02211](http://arxiv.org/abs/2604.02211)|null|
 |**2026-04-02**|**What can be computed in average anonymous networks?**|Joel Rybicki et.al.|[2604.02192](http://arxiv.org/abs/2604.02192)|null|
 |**2026-04-02**|**Entropic crystallization of geometrically frustrated magnets on 1/1 approximant Tsai-type quasicrystal**|Oscar Novat et.al.|[2604.02180](http://arxiv.org/abs/2604.02180)|null|
