@@ -21,6 +21,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-08**|**ReCodeAgent: A Multi-Agent Workflow for Language-agnostic Translation and Validation of Large-scale Repositories**|Ali Reza Ibrahimzada et.al.|[2604.07341](http://arxiv.org/abs/2604.07341)|null|
 |**2026-04-08**|**TraceSafe: A Systematic Assessment of LLM Guardrails on Multi-Step Tool-Calling Trajectories**|Yen-Shan Chen et.al.|[2604.07223](http://arxiv.org/abs/2604.07223)|null|
 |**2026-04-08**|**Agent-Driven Corpus Linguistics: A Framework for Autonomous Linguistic Discovery**|Jia Yu et.al.|[2604.07189](http://arxiv.org/abs/2604.07189)|null|
 |**2026-04-08**|**Learning to Search: A Decision-Based Agent for Knowledge-Based Visual Question Answering**|Zhuohong Chen et.al.|[2604.07146](http://arxiv.org/abs/2604.07146)|null|
@@ -2919,6 +2920,14 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-08**|**Personalized RewardBench: Evaluating Reward Models with Human Aligned Personalization**|Qiyao Ma et.al.|[2604.07343](http://arxiv.org/abs/2604.07343)|null|
+|**2026-04-08**|**Appear2Meaning: A Cross-Cultural Benchmark for Structured Cultural Metadata Inference from Images**|Yuechen Jiang et.al.|[2604.07338](http://arxiv.org/abs/2604.07338)|null|
+|**2026-04-08**|**Syntax Is Easy, Semantics Is Hard: Evaluating LLMs for LTL Translation**|Priscilla Kyei Danso et.al.|[2604.07321](http://arxiv.org/abs/2604.07321)|null|
+|**2026-04-08**|**Evaluating In-Context Translation with Synchronous Context-Free Grammar Transduction**|Jackson Petty et.al.|[2604.07320](http://arxiv.org/abs/2604.07320)|null|
+|**2026-04-08**|**Chatbot-Based Assessment of Code Understanding in Automated Programming Assessment Systems**|Eduard Frankford et.al.|[2604.07304](http://arxiv.org/abs/2604.07304)|null|
+|**2026-04-08**|**Region-Graph Optimal Transport Routing for Mixture-of-Experts Whole-Slide Image Classification**|Xin Tian et.al.|[2604.07298](http://arxiv.org/abs/2604.07298)|null|
+|**2026-04-08**|**Why teaching resists automation in an AI-inundated era: Human judgment, non-modular work, and the limits of delegation**|Songhee Han et.al.|[2604.07285](http://arxiv.org/abs/2604.07285)|null|
+|**2026-04-08**|**A Systematic Study of Retrieval Pipeline Design for Retrieval-Augmented Medical Question Answering**|Nusrat Sultana et.al.|[2604.07274](http://arxiv.org/abs/2604.07274)|null|
 |**2026-04-08**|**On the Price of Privacy for Language Identification and Generation**|Xiaoyu Li et.al.|[2604.07238](http://arxiv.org/abs/2604.07238)|null|
 |**2026-04-08**|**How Much LLM Does a Self-Revising Agent Actually Need?**|Seongwoo Jeong et.al.|[2604.07236](http://arxiv.org/abs/2604.07236)|null|
 |**2026-04-08**|**TraceSafe: A Systematic Assessment of LLM Guardrails on Multi-Step Tool-Calling Trajectories**|Yen-Shan Chen et.al.|[2604.07223](http://arxiv.org/abs/2604.07223)|null|
@@ -5591,6 +5600,9 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-08**|**Personalized RewardBench: Evaluating Reward Models with Human Aligned Personalization**|Qiyao Ma et.al.|[2604.07343](http://arxiv.org/abs/2604.07343)|null|
+|**2026-04-08**|**Robots that learn to evaluate models of collective behavior**|Mathis Hocke et.al.|[2604.07303](http://arxiv.org/abs/2604.07303)|null|
+|**2026-04-08**|**Android Coach: Improve Online Agentic Training Efficiency with Single State Multiple Actions**|Guo Gan et.al.|[2604.07277](http://arxiv.org/abs/2604.07277)|null|
 |**2026-04-08**|**Robust Quadruped Locomotion via Evolutionary Reinforcement Learning**|Brian McAteer et.al.|[2604.07224](http://arxiv.org/abs/2604.07224)|null|
 |**2026-04-08**|**VersaVogue: Visual Expert Orchestration and Preference Alignment for Unified Fashion Synthesis**|Jian Yu et.al.|[2604.07210](http://arxiv.org/abs/2604.07210)|null|
 |**2026-04-08**|**BRIDGE: Multimodal-to-Text Retrieval via Reinforcement-Learned Query Alignment**|Mohamed Darwish Mounis et.al.|[2604.07201](http://arxiv.org/abs/2604.07201)|null|
