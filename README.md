@@ -21,6 +21,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-15**|**Enhancing Local Life Service Recommendation with Agentic Reasoning in Large Language Model**|Shiteng Cao et.al.|[2604.14051](http://arxiv.org/abs/2604.14051)|null|
+|**2026-04-15**|**A Complete Symmetry Classification of Shallow ReLU Networks**|Pranavkrishnan Ramakrishnan et.al.|[2604.14037](http://arxiv.org/abs/2604.14037)|null|
+|**2026-04-15**|**Memory Transfer Learning: How Memories are Transferred Across Domains in Coding Agents**|Kangsan Kim et.al.|[2604.14004](http://arxiv.org/abs/2604.14004)|null|
+|**2026-04-15**|**Acts of Configuration: Rethinking Provenance, Temporality and Legitimacy in Post-Mortem Agents**|Kellie Yu Hui Sim et.al.|[2604.13996](http://arxiv.org/abs/2604.13996)|null|
+|**2026-04-15**|**CollabCoder: Plan-Code Co-Evolution via Collaborative Decision-Making for Efficient Code Generation**|Duy Tung Doan et.al.|[2604.13946](http://arxiv.org/abs/2604.13946)|null|
+|**2026-04-15**|**AI-Assisted Peer Review at Scale: The AAAI-26 AI Review Pilot**|Joydeep Biswas et.al.|[2604.13940](http://arxiv.org/abs/2604.13940)|null|
+|**2026-04-15**|**AI Coding Agents Need Better Compiler Remarks**|Akash Deo et.al.|[2604.13927](http://arxiv.org/abs/2604.13927)|null|
+|**2026-04-15**|**DiPO: Disentangled Perplexity Policy Optimization for Fine-grained Exploration-Exploitation Trade-Off**|Xiaofan Li et.al.|[2604.13902](http://arxiv.org/abs/2604.13902)|null|
+|**2026-04-15**|**Sandpile Economics: Theory, Identification, and Evidence**|Diego Vallarino et.al.|[2604.13890](http://arxiv.org/abs/2604.13890)|null|
+|**2026-04-15**|**ToolOmni: Enabling Open-World Tool Use via Agentic learning with Proactive Retrieval and Grounded Execution**|Shouzheng Huang et.al.|[2604.13787](http://arxiv.org/abs/2604.13787)|null|
+|**2026-04-15**|**The cognitive companion: a lightweight parallel monitoring architecture for detecting and recovering from reasoning degradation in LLM agents**|Rafflesia Khan et.al.|[2604.13759](http://arxiv.org/abs/2604.13759)|null|
+|**2026-04-15**|**Rethinking AI Hardware: A Three-Layer Cognitive Architecture for Autonomous Agents**|Li Chen et.al.|[2604.13757](http://arxiv.org/abs/2604.13757)|null|
+|**2026-04-15**|**Doc-V*:Coarse-to-Fine Interactive Visual Reasoning for Multi-Page Document VQA**|Yuanlei Zheng et.al.|[2604.13731](http://arxiv.org/abs/2604.13731)|null|
+|**2026-04-15**|**Beyond Arrow's Impossibility: Fairness as an Emergent Property of Multi-Agent Collaboration**|Sayan Kumar Chaki et.al.|[2604.13705](http://arxiv.org/abs/2604.13705)|null|
+|**2026-04-15**|**IndicDB -- Benchmarking Multilingual Text-to-SQL Capabilities in Indian Languages**|Aviral Dawar et.al.|[2604.13686](http://arxiv.org/abs/2604.13686)|null|
+|**2026-04-15**|**SafeHarness: Lifecycle-Integrated Security Architecture for LLM-based Agent Deployment**|Xixun Lin et.al.|[2604.13630](http://arxiv.org/abs/2604.13630)|null|
+|**2026-04-15**|**Golden Handcuffs make safer AI agents**|Aram Ebtekar et.al.|[2604.13609](http://arxiv.org/abs/2604.13609)|null|
+|**2026-04-15**|**WebMAC: A Multi-Agent Collaborative Framework for Scenario Testing of Web Systems**|Zhenyu Wan et.al.|[2604.13559](http://arxiv.org/abs/2604.13559)|null|
+|**2026-04-15**|**AgentComm: Semantic Communication for Embodied Agents**|Peiwen Jiang et.al.|[2604.13558](http://arxiv.org/abs/2604.13558)|null|
+|**2026-04-15**|**Don't Let AI Agents YOLO Your Files: Shifting Information and Control to Filesystems for Agent Safety and Autonomy**|Shawn et.al.|[2604.13536](http://arxiv.org/abs/2604.13536)|null|
 |**2026-04-13**|**ClawGuard: A Runtime Security Framework for Tool-Augmented LLM Agents Against Indirect Prompt Injection**|Wei Zhao et.al.|[2604.11790](http://arxiv.org/abs/2604.11790)|null|
 |**2026-04-13**|**ClawGUI: A Unified Framework for Training, Evaluating, and Deploying GUI Agents**|Fei Tang et.al.|[2604.11784](http://arxiv.org/abs/2604.11784)|null|
 |**2026-04-13**|**$λ_A$ : A Typed Lambda Calculus for LLM Agent Composition**|Qin Liu et.al.|[2604.11767](http://arxiv.org/abs/2604.11767)|null|
