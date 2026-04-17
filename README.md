@@ -21,6 +21,11 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-16**|**MM-WebAgent: A Hierarchical Multimodal Web Agent for Webpage Generation**|Yan Li et.al.|[2604.15309](http://arxiv.org/abs/2604.15309)|null|
+|**2026-04-16**|**CoopEval: Benchmarking Cooperation-Sustaining Mechanisms and LLM Agents in Social Dilemmas**|Emanuel Tewolde et.al.|[2604.15267](http://arxiv.org/abs/2604.15267)|null|
+|**2026-04-16**|**Agentic Microphysics: A Manifesto for Generative AI Safety**|Federico Pierucci et.al.|[2604.15236](http://arxiv.org/abs/2604.15236)|null|
+|**2026-04-16**|**RadAgent: A tool-using AI agent for stepwise interpretation of chest computed tomography**|Mélanie Roschewitz et.al.|[2604.15231](http://arxiv.org/abs/2604.15231)|null|
+|**2026-04-16**|**Scepsy: Serving Agentic Workflows Using Aggregate LLM Pipelines**|Marcel Wagenländer et.al.|[2604.15186](http://arxiv.org/abs/2604.15186)|null|
 |**2026-04-16**|**DPC: Training-Free Text-to-SQL Candidate Selection via Dual-Paradigm Consistency**|Boyan Li et.al.|[2604.15163](http://arxiv.org/abs/2604.15163)|null|
 |**2026-04-16**|**Autonomous Evolution of EDA Tools: Multi-Agent Self-Evolved ABC**|Cunxi Yu et.al.|[2604.15082](http://arxiv.org/abs/2604.15082)|null|
 |**2026-04-16**|**CoGrid & the Multi-User Gymnasium: A Framework for Multi-Agent Experimentation**|Chase McDonald et.al.|[2604.15044](http://arxiv.org/abs/2604.15044)|null|
@@ -3051,6 +3056,17 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-16**|**Generalization in LLM Problem Solving: The Case of the Shortest Path**|Yao Tong et.al.|[2604.15306](http://arxiv.org/abs/2604.15306)|null|
+|**2026-04-16**|**AnimationBench: Are Video Models Good at Character-Centric Animation?**|Leyi Wu et.al.|[2604.15299](http://arxiv.org/abs/2604.15299)|null|
+|**2026-04-16**|**Why Do Vision Language Models Struggle To Recognize Human Emotions?**|Madhav Agarwal et.al.|[2604.15280](http://arxiv.org/abs/2604.15280)|null|
+|**2026-04-16**|**Enhancing Large Language Models with Retrieval Augmented Generation for Software Testing and Inspection Automation**|Zoe Fingleton et.al.|[2604.15270](http://arxiv.org/abs/2604.15270)|null|
+|**2026-04-16**|**From Tokens to Steps: Verification-Aware Speculative Decoding for Efficient Multi-Step Reasoning**|Kiran Purohit et.al.|[2604.15244](http://arxiv.org/abs/2604.15244)|null|
+|**2026-04-16**|**RadAgent: A tool-using AI agent for stepwise interpretation of chest computed tomography**|Mélanie Roschewitz et.al.|[2604.15231](http://arxiv.org/abs/2604.15231)|null|
+|**2026-04-16**|**UrbanClipAtlas: A Visual Analytics Framework for Event and Scene Retrieval in Urban Videos**|Joel Perca et.al.|[2604.15225](http://arxiv.org/abs/2604.15225)|null|
+|**2026-04-16**|**Context Over Content: Exposing Evaluation Faking in Automated Judges**|Manan Gupta et.al.|[2604.15224](http://arxiv.org/abs/2604.15224)|null|
+|**2026-04-16**|**MADE: A Living Benchmark for Multi-Label Text Classification with Uncertainty Quantification of Medical Device Adverse Events**|Raunak Agarwal et.al.|[2604.15203](http://arxiv.org/abs/2604.15203)|null|
+|**2026-04-16**|**VisPCO: Visual Token Pruning Configuration Optimization via Budget-Aware Pareto-Frontier Learning for Vision-Language Models**|Huawei Ji et.al.|[2604.15188](http://arxiv.org/abs/2604.15188)|null|
+|**2026-04-16**|**Scepsy: Serving Agentic Workflows Using Aggregate LLM Pipelines**|Marcel Wagenländer et.al.|[2604.15186](http://arxiv.org/abs/2604.15186)|null|
 |**2026-04-16**|**OmniLight: One Model to Rule All Lighting Conditions**|Youngjin Oh et.al.|[2604.15170](http://arxiv.org/abs/2604.15170)|null|
 |**2026-04-16**|**DPC: Training-Free Text-to-SQL Candidate Selection via Dual-Paradigm Consistency**|Boyan Li et.al.|[2604.15163](http://arxiv.org/abs/2604.15163)|null|
 |**2026-04-16**|**Compressing Sequences in the Latent Embedding Space: $K$ -Token Merging for Large Language Models**|Zihao Xu et.al.|[2604.15153](http://arxiv.org/abs/2604.15153)|null|
@@ -5871,9 +5887,17 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-16**|**RAD-2: Scaling Reinforcement Learning in a Generator-Discriminator Framework**|Hao Gao et.al.|[2604.15308](http://arxiv.org/abs/2604.15308)|null|
+|**2026-04-16**|**Generalization in LLM Problem Solving: The Case of the Shortest Path**|Yao Tong et.al.|[2604.15306](http://arxiv.org/abs/2604.15306)|null|
+|**2026-04-16**|**Abstract Sim2Real through Approximate Information States**|Yunfu Deng et.al.|[2604.15289](http://arxiv.org/abs/2604.15289)|null|
+|**2026-04-16**|**R3D: Revisiting 3D Policy Learning**|Zhengdong Hong et.al.|[2604.15281](http://arxiv.org/abs/2604.15281)|null|
+|**2026-04-16**|**From Tokens to Steps: Verification-Aware Speculative Decoding for Efficient Multi-Step Reasoning**|Kiran Purohit et.al.|[2604.15244](http://arxiv.org/abs/2604.15244)|null|
+|**2026-04-16**|**A Hierarchical Spatiotemporal Action Tokenizer for In-Context Imitation Learning in Robotics**|Fawad Javed Fateh et.al.|[2604.15215](http://arxiv.org/abs/2604.15215)|null|
+|**2026-04-16**|**RL-STPA: Adapting System-Theoretic Hazard Analysis for Safety-Critical Reinforcement Learning**|Steven A. Senczyszyn et.al.|[2604.15201](http://arxiv.org/abs/2604.15201)|null|
+|**2026-04-16**|**Quantum Metropolis-Hastings via Penalised Qubitized Walks: Spectral Filtering and Circuit Implementation**|Miguel Carrasco-Arango et.al.|[2604.15179](http://arxiv.org/abs/2604.15179)|null|
 |**2026-04-16**|**LLMs Gaming Verifiers: RLVR can Lead to Reward Hacking**|Lukas Helff et.al.|[2604.15149](http://arxiv.org/abs/2604.15149)|null|
 |**2026-04-16**|**IG-Search: Step-Level Information Gain Rewards for Search-Augmented Reasoning**|Zihan Liang et.al.|[2604.15148](http://arxiv.org/abs/2604.15148)|null|
-|**2026-04-16**|**A minimal implementation of Yang--Mills theory on a digital quantum computer**|Georg Bergner et.al.|[2604.15132](http://arxiv.org/abs/2604.15132)|null|
+|**2026-04-16**|**A minimal implementation of Yang-Mills theory on a digital quantum computer**|Georg Bergner et.al.|[2604.15132](http://arxiv.org/abs/2604.15132)|null|
 |**2026-04-16**|**OpenMobile: Building Open Mobile Agents with Task and Trajectory Synthesis**|Kanzhi Cheng et.al.|[2604.15093](http://arxiv.org/abs/2604.15093)|null|
 |**2026-04-16**|**Static heterogeneity generates apparent universality in first-passage bursty dynamics**|Morten Møller et.al.|[2604.15084](http://arxiv.org/abs/2604.15084)|null|
 |**2026-04-16**|**High-temperature charge-4e superconductivity in SU(4) interacting fermions**|Shao-Hang Shi et.al.|[2604.15056](http://arxiv.org/abs/2604.15056)|null|
