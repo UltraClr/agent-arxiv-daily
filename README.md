@@ -1,5 +1,5 @@
 # Agent Research Papers
-### Automatically Updated on 2026.04.16
+### Automatically Updated on 2026.04.17
 Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Autonomous Agent`,`LLM Agent`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,6 +21,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-16**|**DPC: Training-Free Text-to-SQL Candidate Selection via Dual-Paradigm Consistency**|Boyan Li et.al.|[2604.15163](http://arxiv.org/abs/2604.15163)|null|
+|**2026-04-16**|**Autonomous Evolution of EDA Tools: Multi-Agent Self-Evolved ABC**|Cunxi Yu et.al.|[2604.15082](http://arxiv.org/abs/2604.15082)|null|
+|**2026-04-16**|**CoGrid & the Multi-User Gymnasium: A Framework for Multi-Agent Experimentation**|Chase McDonald et.al.|[2604.15044](http://arxiv.org/abs/2604.15044)|null|
+|**2026-04-16**|**From Reactive to Proactive: Assessing the Proactivity of Voice Agents via ProVoice-Bench**|Ke Xu et.al.|[2604.15037](http://arxiv.org/abs/2604.15037)|null|
+|**2026-04-16**|**Autogenesis: A Self-Evolving Agent Protocol**|Wentao Zhang et.al.|[2604.15034](http://arxiv.org/abs/2604.15034)|null|
+|**2026-04-16**|**Dr.~RTL: Autonomous Agentic RTL Optimization through Tool-Grounded Self-Improvement**|Wenji Fang et.al.|[2604.14989](http://arxiv.org/abs/2604.14989)|null|
+|**2026-04-16**|**Agentic Explainability at Scale: Between Corporate Fears and XAI Needs**|Yomna Elsayed et.al.|[2604.14984](http://arxiv.org/abs/2604.14984)|null|
+|**2026-04-16**|**SAGER: Self-Evolving User Policy Skills for Recommendation Agent**|Zhen Tao et.al.|[2604.14972](http://arxiv.org/abs/2604.14972)|null|
+|**2026-04-16**|**RaTA-Tool: Retrieval-based Tool Selection with Multimodal Large Language Models**|Gabriele Mattioli et.al.|[2604.14951](http://arxiv.org/abs/2604.14951)|null|
+|**2026-04-16**|**IE as Cache: Information Extraction Enhanced Agentic Reasoning**|Hang Lv et.al.|[2604.14930](http://arxiv.org/abs/2604.14930)|null|
+|**2026-04-16**|**ADAPT: Benchmarking Commonsense Planning under Unspecified Affordance Constraints**|Pei-An Chen et.al.|[2604.14902](http://arxiv.org/abs/2604.14902)|null|
+|**2026-04-16**|**Toward Agentic RAG for Ukrainian**|Marta Sumyk et.al.|[2604.14896](http://arxiv.org/abs/2604.14896)|null|
+|**2026-04-16**|**Does RL Expand the Capability Boundary of LLM Agents? A PASS@(k,T) Analysis**|Zhiyuan Zhai et.al.|[2604.14877](http://arxiv.org/abs/2604.14877)|null|
+|**2026-04-16**|**Benchmarks for Trajectory Safety Evaluation and Diagnosis in OpenClaw and Codex: ATBench-Claw and ATBench-CodeX**|Zhonghao Yang et.al.|[2604.14858](http://arxiv.org/abs/2604.14858)|null|
+|**2026-04-16**|**SWE-TRACE: Optimizing Long-Horizon SWE Agents Through Rubric Process Reward Models and Heuristic Test-Time Scaling**|Hao Han et.al.|[2604.14820](http://arxiv.org/abs/2604.14820)|null|
+|**2026-04-16**|**World-Value-Action Model: Implicit Planning for Vision-Language-Action Systems**|Runze Li et.al.|[2604.14732](http://arxiv.org/abs/2604.14732)|null|
+|**2026-04-16**|**Layered Mutability: Continuity and Governance in Persistent Self-Modifying Agents**|Krti Tallam et.al.|[2604.14717](http://arxiv.org/abs/2604.14717)|null|
+|**2026-04-16**|**HWE-Bench: Benchmarking LLM Agents on Real-World Hardware Bug Repair Tasks**|Fan Cui et.al.|[2604.14709](http://arxiv.org/abs/2604.14709)|null|
+|**2026-04-16**|**CAMO: An Agentic Framework for Automated Causal Discovery from Micro Behaviors to Macro Emergence in LLM Agent Simulations**|Xiangning Yu et.al.|[2604.14691](http://arxiv.org/abs/2604.14691)|null|
+|**2026-04-16**|**AIPC: Agent-Based Automation for AI Model Deployment with Qualcomm AI Runtime**|Jianhao Su et.al.|[2604.14661](http://arxiv.org/abs/2604.14661)|null|
 |**2026-04-15**|**Enhancing Local Life Service Recommendation with Agentic Reasoning in Large Language Model**|Shiteng Cao et.al.|[2604.14051](http://arxiv.org/abs/2604.14051)|null|
 |**2026-04-15**|**A Complete Symmetry Classification of Shallow ReLU Networks**|Pranavkrishnan Ramakrishnan et.al.|[2604.14037](http://arxiv.org/abs/2604.14037)|null|
 |**2026-04-15**|**Memory Transfer Learning: How Memories are Transferred Across Domains in Coding Agents**|Kangsan Kim et.al.|[2604.14004](http://arxiv.org/abs/2604.14004)|null|
@@ -3025,12 +3045,32 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |**2024-01-30**|**A mechanism for discovering semantic relationships among agent communication protocols**|Idoia Berges et.al.|[2401.16216](http://arxiv.org/abs/2401.16216)|null|
 |**2024-01-23**|**Semantic Web Technology for Agent Communication Protocols**|Idoia Berges et.al.|[2401.11841](http://arxiv.org/abs/2401.11841)|null|
 
-<p align=right>(<a href=#updated-on-20260416>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260417>back to top</a>)</p>
 
 ## Large Language Models
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-16**|**OmniLight: One Model to Rule All Lighting Conditions**|Youngjin Oh et.al.|[2604.15170](http://arxiv.org/abs/2604.15170)|null|
+|**2026-04-16**|**DPC: Training-Free Text-to-SQL Candidate Selection via Dual-Paradigm Consistency**|Boyan Li et.al.|[2604.15163](http://arxiv.org/abs/2604.15163)|null|
+|**2026-04-16**|**Compressing Sequences in the Latent Embedding Space: $K$ -Token Merging for Large Language Models**|Zihao Xu et.al.|[2604.15153](http://arxiv.org/abs/2604.15153)|null|
+|**2026-04-16**|**QuantCode-Bench: A Benchmark for Evaluating the Ability of Large Language Models to Generate Executable Algorithmic Trading Strategies**|Alexey Khoroshilov et.al.|[2604.15151](http://arxiv.org/abs/2604.15151)|null|
+|**2026-04-16**|**IG-Search: Step-Level Information Gain Rewards for Search-Augmented Reasoning**|Zihan Liang et.al.|[2604.15148](http://arxiv.org/abs/2604.15148)|null|
+|**2026-04-16**|**Feedback-Driven Execution for LLM-Based Binary Analysis**|XiangRui Zhang et.al.|[2604.15136](http://arxiv.org/abs/2604.15136)|null|
+|**2026-04-16**|**Blinded Multi-Rater Comparative Evaluation of a Large Language Model and Clinician-Authored Responses in CGM-Informed Diabetes Counseling**|Zhijun Guo et.al.|[2604.15124](http://arxiv.org/abs/2604.15124)|null|
+|**2026-04-16**|**IUQ: Interrogative Uncertainty Quantification for Long-Form Large Language Model Generation**|Haozhi Fan et.al.|[2604.15109](http://arxiv.org/abs/2604.15109)|null|
+|**2026-04-16**|**OpenMobile: Building Open Mobile Agents with Task and Trajectory Synthesis**|Kanzhi Cheng et.al.|[2604.15093](http://arxiv.org/abs/2604.15093)|null|
+|**2026-04-16**|**Beyond Visual Cues: Semantic-Driven Token Filtering and Expert Routing for Anytime Person ReID**|Jiaxuan Li et.al.|[2604.15090](http://arxiv.org/abs/2604.15090)|null|
+|**2026-04-16**|**Autonomous Evolution of EDA Tools: Multi-Agent Self-Evolved ABC**|Cunxi Yu et.al.|[2604.15082](http://arxiv.org/abs/2604.15082)|null|
+|**2026-04-16**|**Atropos: Improving Cost-Benefit Trade-off of LLM-based Agents under Self-Consistency with Early Termination and Model Hotswap**|Naryeong Kim et.al.|[2604.15075](http://arxiv.org/abs/2604.15075)|null|
+|**2026-04-16**|**HintPilot: LLM-based Compiler Hint Synthesis for Code Optimization**|Hanyun Jiang et.al.|[2604.15041](http://arxiv.org/abs/2604.15041)|null|
+|**2026-04-16**|**Towards Faster Language Model Inference Using Mixture-of-Experts Flow Matching**|Aihua Li et.al.|[2604.15009](http://arxiv.org/abs/2604.15009)|null|
+|**2026-04-16**|**Serving Chain-structured Jobs with Large Memory Footprints with Application to Large Foundation Model Serving**|Tingyang Sun et.al.|[2604.14993](http://arxiv.org/abs/2604.14993)|null|
+|**2026-04-16**|**Dr.~RTL: Autonomous Agentic RTL Optimization through Tool-Grounded Self-Improvement**|Wenji Fang et.al.|[2604.14989](http://arxiv.org/abs/2604.14989)|null|
+|**2026-04-16**|**SAGER: Self-Evolving User Policy Skills for Recommendation Agent**|Zhen Tao et.al.|[2604.14972](http://arxiv.org/abs/2604.14972)|null|
+|**2026-04-16**|**Explain the Flag: Contextualizing Hate Speech Beyond Censorship**|Jason Liartis et.al.|[2604.14970](http://arxiv.org/abs/2604.14970)|null|
+|**2026-04-16**|**Discovering Novel LLM Experts via Task-Capability Coevolution**|Andrew Dai et.al.|[2604.14969](http://arxiv.org/abs/2604.14969)|null|
+|**2026-04-16**|**UniDoc-RL: Coarse-to-Fine Visual RAG with Hierarchical Actions and Dense Rewards**|Jun Wang et.al.|[2604.14967](http://arxiv.org/abs/2604.14967)|null|
 |**2026-04-15**|**One Token per Highly Selective Frame: Towards Extreme Compression for Long Video Understanding**|Zheyu Zhang et.al.|[2604.14149](http://arxiv.org/abs/2604.14149)|null|
 |**2026-04-15**|**ROSE: Retrieval-Oriented Segmentation Enhancement**|Song Tang et.al.|[2604.14147](http://arxiv.org/abs/2604.14147)|null|
 |**2026-04-15**|**LongCoT: Benchmarking Long-Horizon Chain-of-Thought Reasoning**|Sumeet Ramesh Motwani et.al.|[2604.14140](http://arxiv.org/abs/2604.14140)|null|
@@ -5825,12 +5865,32 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |**2023-09-06**|**Making Large Language Models Better Reasoners with Alignment**|Peiyi Wang et.al.|[2309.02144](http://arxiv.org/abs/2309.02144)|null|
 |**2023-06-27**|**Low-Rank Prune-And-Factorize for Language Model Compression**|Siyu Ren et.al.|[2306.14152](http://arxiv.org/abs/2306.14152)|null|
 
-<p align=right>(<a href=#updated-on-20260416>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260417>back to top</a>)</p>
 
 ## Reinforcement Learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-16**|**LLMs Gaming Verifiers: RLVR can Lead to Reward Hacking**|Lukas Helff et.al.|[2604.15149](http://arxiv.org/abs/2604.15149)|null|
+|**2026-04-16**|**IG-Search: Step-Level Information Gain Rewards for Search-Augmented Reasoning**|Zihan Liang et.al.|[2604.15148](http://arxiv.org/abs/2604.15148)|null|
+|**2026-04-16**|**A minimal implementation of Yang--Mills theory on a digital quantum computer**|Georg Bergner et.al.|[2604.15132](http://arxiv.org/abs/2604.15132)|null|
+|**2026-04-16**|**OpenMobile: Building Open Mobile Agents with Task and Trajectory Synthesis**|Kanzhi Cheng et.al.|[2604.15093](http://arxiv.org/abs/2604.15093)|null|
+|**2026-04-16**|**Static heterogeneity generates apparent universality in first-passage bursty dynamics**|Morten Møller et.al.|[2604.15084](http://arxiv.org/abs/2604.15084)|null|
+|**2026-04-16**|**High-temperature charge-4e superconductivity in SU(4) interacting fermions**|Shao-Hang Shi et.al.|[2604.15056](http://arxiv.org/abs/2604.15056)|null|
+|**2026-04-16**|**Nonlinear backstepping with saturation for low-thrust station-keeping of libration point orbits**|António Nunes et.al.|[2604.15028](http://arxiv.org/abs/2604.15028)|null|
+|**2026-04-16**|**Fully Differentiable Ultrasound Simulation Utilizing Ray-Tracing**|L. River Spencer et.al.|[2604.15017](http://arxiv.org/abs/2604.15017)|null|
+|**2026-04-16**|**Momentum-constrained Hybrid Heuristic Trajectory Optimization Framework with Residual-enhanced DRL for Visually Impaired Scenarios**|Yuting Zeng et.al.|[2604.14986](http://arxiv.org/abs/2604.14986)|null|
+|**2026-04-16**|**Blazing the trails before beating the path: Sample-efficient Monte-Carlo planning**|Jean-Bastien Grill et.al.|[2604.14974](http://arxiv.org/abs/2604.14974)|null|
+|**2026-04-16**|**UniDoc-RL: Coarse-to-Fine Visual RAG with Hierarchical Actions and Dense Rewards**|Jun Wang et.al.|[2604.14967](http://arxiv.org/abs/2604.14967)|null|
+|**2026-04-16**|**POMDP-based Object Search with Growing State Space and Hybrid Action Domain**|Yongbo Chen et.al.|[2604.14965](http://arxiv.org/abs/2604.14965)|null|
+|**2026-04-16**|**WavAlign: Enhancing Intelligence and Expressiveness in Spoken Dialogue Models via Adaptive Hybrid Post-Training**|Yifu Chen et.al.|[2604.14932](http://arxiv.org/abs/2604.14932)|null|
+|**2026-04-16**|**Dynamic Lagrange Multipliers in a Non-concave Utility Framework**|Yang Liu et.al.|[2604.14924](http://arxiv.org/abs/2604.14924)|null|
+|**2026-04-16**|**LongAct: Harnessing Intrinsic Activation Patterns for Long-Context Reinforcement Learning**|Bowen Ping et.al.|[2604.14922](http://arxiv.org/abs/2604.14922)|null|
+|**2026-04-16**|**Dual-Axis Generative Reward Model Toward Semantic and Turn-taking Robustness in Interactive Spoken Dialogue Models**|Yifu Chen et.al.|[2604.14920](http://arxiv.org/abs/2604.14920)|null|
+|**2026-04-16**|**Data-driven Linear Quadratic Integral Control: A Convex Formulation and Policy Gradient Approach**|Armin Gießler et.al.|[2604.14905](http://arxiv.org/abs/2604.14905)|null|
+|**2026-04-16**|**Beyond Importance Sampling: Rejection-Gated Policy Optimization**|Ziwu Sun et.al.|[2604.14895](http://arxiv.org/abs/2604.14895)|null|
+|**2026-04-16**|**GenRec: A Preference-Oriented Generative Framework for Large-Scale Recommendation**|Yanyan Zou et.al.|[2604.14878](http://arxiv.org/abs/2604.14878)|null|
+|**2026-04-16**|**Does RL Expand the Capability Boundary of LLM Agents? A PASS@(k,T) Analysis**|Zhiyuan Zhai et.al.|[2604.14877](http://arxiv.org/abs/2604.14877)|null|
 |**2026-04-15**|**From $P(y|x)$ to $P(y)$ : Investigating Reinforcement Learning in Pre-train Space**|Yuqiao Tan et.al.|[2604.14142](http://arxiv.org/abs/2604.14142)|null|
 |**2026-04-15**|**AI-assisted modeling and Bayesian inference of unpolarized quark transverse momentum distributions from Drell-Yan data**|Zhong-Bo Kang et.al.|[2604.14133](http://arxiv.org/abs/2604.14133)|null|
 |**2026-04-15**|**Simulating the dynamics of an SU(2) matrix model on a trapped-ion quantum computer**|Gavin S. Hartnett et.al.|[2604.14094](http://arxiv.org/abs/2604.14094)|null|
@@ -8586,7 +8646,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |**2019-11-14**|**Accelerating Training in Pommerman with Imitation and Reinforcement Learning**|Hardik Meisheri et.al.|[1911.04947](http://arxiv.org/abs/1911.04947)|null|
 |**2018-11-20**|**Modelling the Dynamic Joint Policy of Teammates with Attention Multi-agent DDPG**|Hangyu Mao et.al.|[1811.07029](http://arxiv.org/abs/1811.07029)|null|
 
-<p align=right>(<a href=#updated-on-20260416>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260417>back to top</a>)</p>
 
 Notes: 
 
