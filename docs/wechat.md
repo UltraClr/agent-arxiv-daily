@@ -1,5 +1,5 @@
 # Agent Research Papers
-> Updated on 2026.04.18
+> Updated on 2026.04.19
 Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Autonomous Agent`,`LLM Agent`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -3048,7 +3048,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 - 2026-03-28, **"Elementary, My Dear Watson." Detecting Malicious Skills via Neuro-Symbolic Reasoning across Heterogeneous Artifacts**, Shenao Wang et.al., Paper: [http://arxiv.org/abs/2603.27204](http://arxiv.org/abs/2603.27204)
 - 2026-02-24, **"Are You Sure?": An Empirical Study of Human Perception Vulnerability in LLM-Driven Agentic Systems**, Xinfeng Li et.al., Paper: [http://arxiv.org/abs/2602.21127](http://arxiv.org/abs/2602.21127)
 
-<p align=right>(<a href=#updated-on-20260418>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260419>back to top</a>)</p>
 
 ## Large Language Models
 
@@ -5877,7 +5877,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 - 2026-02-20, **"How Do I ...?": Procedural Questions Predominate Student-LLM Chatbot Conversations**, Alexandra Neagu et.al., Paper: [http://arxiv.org/abs/2602.18372](http://arxiv.org/abs/2602.18372)
 - 2026-02-24, **"Are You Sure?": An Empirical Study of Human Perception Vulnerability in LLM-Driven Agentic Systems**, Xinfeng Li et.al., Paper: [http://arxiv.org/abs/2602.21127](http://arxiv.org/abs/2602.21127)
 
-<p align=right>(<a href=#updated-on-20260418>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260419>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -8664,7 +8664,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 - 2026-03-11, **$V_{0.5}$ : Generalist Value Model as a Prior for Sparse RL Rollouts**, Yi-Kai Zhang et.al., Paper: [http://arxiv.org/abs/2603.10848](http://arxiv.org/abs/2603.10848)
 - 2025-11-25, **$MC^2$ Mixed Integer and Linear Programming**, Nick Polson et.al., Paper: [http://arxiv.org/abs/2511.20575](http://arxiv.org/abs/2511.20575)
 
-<p align=right>(<a href=#updated-on-20260418>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260419>back to top</a>)</p>
 
 Notes: 
 
