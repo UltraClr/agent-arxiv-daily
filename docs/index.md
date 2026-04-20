@@ -5966,7 +5966,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |**2026-04-16**|**Beyond Importance Sampling: Rejection-Gated Policy Optimization**|Ziwu Sun et.al.|[2604.14895](http://arxiv.org/abs/2604.14895)|null|
 |**2026-04-16**|**GenRec: A Preference-Oriented Generative Framework for Large-Scale Recommendation**|Yanyan Zou et.al.|[2604.14878](http://arxiv.org/abs/2604.14878)|null|
 |**2026-04-16**|**Does RL Expand the Capability Boundary of LLM Agents? A PASS@(k,T) Analysis**|Zhiyuan Zhai et.al.|[2604.14877](http://arxiv.org/abs/2604.14877)|null|
-|**2026-04-15**|**From $P(y|x)$ to $P(y)$ : Investigating Reinforcement Learning in Pre-train Space**|Yuqiao Tan et.al.|[2604.14142](http://arxiv.org/abs/2604.14142)|null|
+|**2026-04-15**|**From $P(y|x)$ to $P(y)$ : Investigating Reinforcement Learning in Pre-train Space**|Yuqiao Tan et.al.|[2604.14142](http://arxiv.org/abs/2604.14142)|
 |**2026-04-15**|**AI-assisted modeling and Bayesian inference of unpolarized quark transverse momentum distributions from Drell-Yan data**|Zhong-Bo Kang et.al.|[2604.14133](http://arxiv.org/abs/2604.14133)|null|
 |**2026-04-15**|**Simulating the dynamics of an SU(2) matrix model on a trapped-ion quantum computer**|Gavin S. Hartnett et.al.|[2604.14094](http://arxiv.org/abs/2604.14094)|null|
 |**2026-04-15**|**Multistage Conditional Compositional Optimization**|Buse Şen et.al.|[2604.14075](http://arxiv.org/abs/2604.14075)|null|
