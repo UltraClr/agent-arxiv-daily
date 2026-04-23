@@ -1,5 +1,5 @@
 # Agent Research Papers
-### Automatically Updated on 2026.04.22
+### Automatically Updated on 2026.04.23
 Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Autonomous Agent`,`LLM Agent`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -3146,12 +3146,32 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |**2024-01-30**|**A mechanism for discovering semantic relationships among agent communication protocols**|Idoia Berges et.al.|[2401.16216](http://arxiv.org/abs/2401.16216)|null|
 |**2024-01-23**|**Semantic Web Technology for Agent Communication Protocols**|Idoia Berges et.al.|[2401.11841](http://arxiv.org/abs/2401.11841)|null|
 
-<p align=right>(<a href=#updated-on-20260422>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260423>back to top</a>)</p>
 
 ## Large Language Models
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-22**|**SpeechParaling-Bench: A Comprehensive Benchmark for Paralinguistic-Aware Speech Generation**|Ruohan Liu et.al.|[2604.20842](http://arxiv.org/abs/2604.20842)|null|
+|**2026-04-22**|**Parallel-SFT: Improving Zero-Shot Cross-Programming-Language Transfer for Code RL**|Zhaofeng Wu et.al.|[2604.20835](http://arxiv.org/abs/2604.20835)|null|
+|**2026-04-22**|**PokeVLA: Empowering Pocket-Sized Vision-Language-Action Model with Comprehensive World Knowledge Guidance**|Yupeng Zheng et.al.|[2604.20834](http://arxiv.org/abs/2604.20834)|null|
+|**2026-04-22**|**AVISE: Framework for Evaluating the Security of AI Systems**|Mikko Lempinen et.al.|[2604.20833](http://arxiv.org/abs/2604.20833)|null|
+|**2026-04-22**|**Stream-CQSA: Avoiding Out-of-Memory in Attention Computation via Flexible Workload Scheduling**|Yiming Bian et.al.|[2604.20819](http://arxiv.org/abs/2604.20819)|null|
+|**2026-04-22**|**Convergent Evolution: How Different Language Models Learn Similar Number Representations**|Deqing Fu et.al.|[2604.20817](http://arxiv.org/abs/2604.20817)|null|
+|**2026-04-22**|**DNA storage approaching the information-theoretic ceiling**|James L. Banal et.al.|[2604.20810](http://arxiv.org/abs/2604.20810)|null|
+|**2026-04-22**|**OMIBench: Benchmarking Olympiad-Level Multi-Image Reasoning in Large Vision-Language Model**|Qiguang Chen et.al.|[2604.20806](http://arxiv.org/abs/2604.20806)|null|
+|**2026-04-22**|**Synthesizing Multi-Agent Harnesses for Vulnerability Discovery**|Hanzhi Liu et.al.|[2604.20801](http://arxiv.org/abs/2604.20801)|null|
+|**2026-04-22**|**LLaDA2.0-Uni: Unifying Multimodal Understanding and Generation with Diffusion Large Language Model**|Inclusion AI et.al.|[2604.20796](http://arxiv.org/abs/2604.20796)|null|
+|**2026-04-22**|**Automatic Ontology Construction Using LLMs as an External Layer of Memory, Verification, and Planning for Hybrid Intelligent Systems**|Pavel Salovskii et.al.|[2604.20795](http://arxiv.org/abs/2604.20795)|null|
+|**2026-04-22**|**Can "AI" Be a Doctor? A Study of Empathy, Readability, and Alignment in Clinical LLMs**|Mariano Barone et.al.|[2604.20791](http://arxiv.org/abs/2604.20791)|null|
+|**2026-04-22**|**V-tableR1: Process-Supervised Multimodal Table Reasoning with Critic-Guided Policy Optimization**|Yubo Jiang et.al.|[2604.20755](http://arxiv.org/abs/2604.20755)|null|
+|**2026-04-22**|**Where and What: Reasoning Dynamic and Implicit Preferences in Situated Conversational Recommendation**|Dongding Lin et.al.|[2604.20749](http://arxiv.org/abs/2604.20749)|null|
+|**2026-04-22**|**RespondeoQA: a Benchmark for Bilingual Latin-English Question Answering**|Marisa Hudspeth et.al.|[2604.20738](http://arxiv.org/abs/2604.20738)|null|
+|**2026-04-22**|**Render-in-the-Loop: Vector Graphics Generation via Visual Self-Feedback**|Guotao Liang et.al.|[2604.20730](http://arxiv.org/abs/2604.20730)|null|
+|**2026-04-22**|**COMPASS: COntinual Multilingual PEFT with Adaptive Semantic Sampling**|Noah Flynn et.al.|[2604.20720](http://arxiv.org/abs/2604.20720)|null|
+|**2026-04-22**|**SSL-R1: Self-Supervised Visual Reinforcement Post-Training for Multimodal Large Language Models**|Jiahao Xie et.al.|[2604.20705](http://arxiv.org/abs/2604.20705)|null|
+|**2026-04-22**|**R-CoV: Region-Aware Chain-of-Verification for Alleviating Object Hallucinations in LVLMs**|Jiahao Xie et.al.|[2604.20696](http://arxiv.org/abs/2604.20696)|null|
+|**2026-04-22**|**MGDA-Decoupled: Geometry-Aware Multi-Objective Optimisation for DPO-based LLM Alignment**|Andor Vári-Kakas et.al.|[2604.20685](http://arxiv.org/abs/2604.20685)|null|
 |**2026-04-21**|**PlayCoder: Making LLM-Generated GUI Code Playable**|Zhiyuan Peng et.al.|[2604.19742](http://arxiv.org/abs/2604.19742)|null|
 |**2026-04-21**|**Discovering a Shared Logical Subspace: Steering LLM Logical Reasoning via Alignment of Natural-Language and Symbolic Views**|Feihao Fang et.al.|[2604.19716](http://arxiv.org/abs/2604.19716)|null|
 |**2026-04-21**|**Epistemic orientation in parliamentary discourse is associated with deliberative democracy**|Segun Aroyehun et.al.|[2604.19699](http://arxiv.org/abs/2604.19699)|null|
@@ -6077,12 +6097,32 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |**2023-09-06**|**Making Large Language Models Better Reasoners with Alignment**|Peiyi Wang et.al.|[2309.02144](http://arxiv.org/abs/2309.02144)|null|
 |**2023-06-27**|**Low-Rank Prune-And-Factorize for Language Model Compression**|Siyu Ren et.al.|[2306.14152](http://arxiv.org/abs/2306.14152)|null|
 
-<p align=right>(<a href=#updated-on-20260422>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260423>back to top</a>)</p>
 
 ## Reinforcement Learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-22**|**Unconventional Quantum Criticality in Long-Range Spin-1 Chains: Insights from Entanglement Entropy and Bipartite Fluctuations**|Justin Tim-Lok Chau et.al.|[2604.20831](http://arxiv.org/abs/2604.20831)|null|
+|**2026-04-22**|**ParetoSlider: Diffusion Models Post-Training for Continuous Reward Control**|Shelly Golan et.al.|[2604.20816](http://arxiv.org/abs/2604.20816)|null|
+|**2026-04-22**|**V-tableR1: Process-Supervised Multimodal Table Reasoning with Critic-Guided Policy Optimization**|Yubo Jiang et.al.|[2604.20755](http://arxiv.org/abs/2604.20755)|null|
+|**2026-04-22**|**Fast Bayesian equipment condition monitoring via simulation based inference: applications to heat exchanger health**|Peter Collett et.al.|[2604.20735](http://arxiv.org/abs/2604.20735)|null|
+|**2026-04-22**|**Near-Future Policy Optimization**|Chuanyu Qin et.al.|[2604.20733](http://arxiv.org/abs/2604.20733)|null|
+|**2026-04-22**|**Visual-Tactile Peg-in-Hole Assembly Learning from Peg-out-of-Hole Disassembly**|Yongqiang Zhao et.al.|[2604.20712](http://arxiv.org/abs/2604.20712)|null|
+|**2026-04-22**|**SSL-R1: Self-Supervised Visual Reinforcement Post-Training for Multimodal Large Language Models**|Jiahao Xie et.al.|[2604.20705](http://arxiv.org/abs/2604.20705)|null|
+|**2026-04-22**|**Divide-and-Conquer Neural Network Surrogates for Quantum Sampling: Accelerating Markov Chain Monte Carlo in Large-Scale Constrained Optimization Problems**|Yuya Kawamata et.al.|[2604.20701](http://arxiv.org/abs/2604.20701)|null|
+|**2026-04-22**|**Bayesian approach for uncertainty quantification of hybrid spectral unmixing in $γ$ -ray spectrometry**|Dinh Triem Phan et.al.|[2604.20691](http://arxiv.org/abs/2604.20691)|null|
+|**2026-04-22**|**FingerEye: Continuous and Unified Vision-Tactile Sensing for Dexterous Manipulation**|Zhixuan Xu et.al.|[2604.20689](http://arxiv.org/abs/2604.20689)|null|
+|**2026-04-22**|**MGDA-Decoupled: Geometry-Aware Multi-Objective Optimisation for DPO-based LLM Alignment**|Andor Vári-Kakas et.al.|[2604.20685](http://arxiv.org/abs/2604.20685)|null|
+|**2026-04-22**|**GRPO-VPS: Enhancing Group Relative Policy Optimization with Verifiable Process Supervision for Effective Reasoning**|Jingyi Wang et.al.|[2604.20659](http://arxiv.org/abs/2604.20659)|null|
+|**2026-04-22**|**Polaron transport and Verwey transition in magnetite**|Nikita Fominykh et.al.|[2604.20642](http://arxiv.org/abs/2604.20642)|null|
+|**2026-04-22**|**Occupancy Reward Shaping: Improving Credit Assignment for Offline Goal-Conditioned Reinforcement Learning**|Aravind Venugopal et.al.|[2604.20627](http://arxiv.org/abs/2604.20627)|null|
+|**2026-04-22**|**Self-Guided Plan Extraction for Instruction-Following Tasks with Goal-Conditional Reinforcement Learning**|Zoya Volovikova et.al.|[2604.20601](http://arxiv.org/abs/2604.20601)|null|
+|**2026-04-22**|**Predicting co-segregation in multicomponent alloys with solute-solute interactions**|Zuoyong Zhang et.al.|[2604.20593](http://arxiv.org/abs/2604.20593)|null|
+|**2026-04-22**|**A Hierarchical MARL-Based Approach for Coordinated Retail P2P Trading and Wholesale Market Participation of DERs**|Patrick Wilk et.al.|[2604.20586](http://arxiv.org/abs/2604.20586)|null|
+|**2026-04-22**|**Ask Only When Needed: Proactive Retrieval from Memory and Skills for Experience-Driven Lifelong Agents**|Yuxuan Cai et.al.|[2604.20572](http://arxiv.org/abs/2604.20572)|null|
+|**2026-04-22**|**Where Reasoning Breaks: Logic-Aware Path Selection by Controlling Logical Connectives in LLMs Reasoning Chains**|Seunghyun Park et.al.|[2604.20564](http://arxiv.org/abs/2604.20564)|null|
+|**2026-04-22**|**Conditional Monte Carlo Tree Diffusion for Designing Cell-Type-Specific and Biologically Faithful Regulatory DNA**|Animesh Awasthi et.al.|[2604.20488](http://arxiv.org/abs/2604.20488)|null|
 |**2026-04-21**|**Safe Continual Reinforcement Learning in Non-stationary Environments**|Austin Coursey et.al.|[2604.19737](http://arxiv.org/abs/2604.19737)|null|
 |**2026-04-21**|**FASTER: Value-Guided Sampling for Fast RL**|Perry Dong et.al.|[2604.19730](http://arxiv.org/abs/2604.19730)|null|
 |**2026-04-21**|**On two ways to use determinantal point processes for Monte Carlo integration**|Guillaume Gautier et.al.|[2604.19698](http://arxiv.org/abs/2604.19698)|null|
@@ -8962,7 +9002,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |**2019-11-14**|**Accelerating Training in Pommerman with Imitation and Reinforcement Learning**|Hardik Meisheri et.al.|[1911.04947](http://arxiv.org/abs/1911.04947)|null|
 |**2018-11-20**|**Modelling the Dynamic Joint Policy of Teammates with Attention Multi-agent DDPG**|Hangyu Mao et.al.|[1811.07029](http://arxiv.org/abs/1811.07029)|null|
 
-<p align=right>(<a href=#updated-on-20260422>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260423>back to top</a>)</p>
 
 Notes: 
 
