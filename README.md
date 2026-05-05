@@ -1,5 +1,5 @@
 # Agent Research Papers
-### Automatically Updated on 2026.05.04
+### Automatically Updated on 2026.05.05
 Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Autonomous Agent`,`LLM Agent`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -3302,12 +3302,32 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |**2024-01-30**|**A mechanism for discovering semantic relationships among agent communication protocols**|Idoia Berges et.al.|[2401.16216](http://arxiv.org/abs/2401.16216)|null|
 |**2024-01-23**|**Semantic Web Technology for Agent Communication Protocols**|Idoia Berges et.al.|[2401.11841](http://arxiv.org/abs/2401.11841)|null|
 
-<p align=right>(<a href=#updated-on-20260504>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260505>back to top</a>)</p>
 
 ## Large Language Models
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-04**|**Semantic Risk-Aware Heuristic Planning for Robotic Navigation in Dynamic Environments: An LLM-Inspired Approach**|Hamza Ahmed Durrani et.al.|[2605.02862](http://arxiv.org/abs/2605.02862)|null|
+|**2026-05-04**|**Standing on the Shoulders of Giants: Stabilized Knowledge Distillation for Cross--Language Code Clone Detection**|Mohamad Khajezade et.al.|[2605.02860](http://arxiv.org/abs/2605.02860)|null|
+|**2026-05-04**|**Trust, but Verify: Peeling Low-Bit Transformer Networks for Training Monitoring**|Arian Eamaz et.al.|[2605.02853](http://arxiv.org/abs/2605.02853)|null|
+|**2026-05-04**|**VideoNet: A Large-Scale Dataset for Domain-Specific Action Recognition**|Tanush Yadav et.al.|[2605.02834](http://arxiv.org/abs/2605.02834)|null|
+|**2026-05-04**|**When Is the Same Model Not the Same Service? A Measurement Study of Hosted Open-Weight LLM APIs**|Haorui Li et.al.|[2605.02821](http://arxiv.org/abs/2605.02821)|null|
+|**2026-05-04**|**SCPRM: A Schema-aware Cumulative Process Reward Model for Knowledge Graph Question Answering**|Jiujiu Chen et.al.|[2605.02819](http://arxiv.org/abs/2605.02819)|null|
+|**2026-05-04**|**Reinforcement Learning for LLM-based Multi-Agent Systems through Orchestration Traces**|Chenchen Zhang et.al.|[2605.02801](http://arxiv.org/abs/2605.02801)|null|
+|**2026-05-04**|**FunFuzz: An LLM-Powered Evolutionary Fuzzing Framework**|Mario Rodríguez Béjar et.al.|[2605.02789](http://arxiv.org/abs/2605.02789)|null|
+|**2026-05-04**|**When Audio-Language Models Fail to Leverage Multimodal Context for Dysarthric Speech Recognition**|Pehuén Moure et.al.|[2605.02782](http://arxiv.org/abs/2605.02782)|null|
+|**2026-05-04**|**Mitigating Misalignment Contagion by Steering with Implicit Traits**|Maria Chang et.al.|[2605.02751](http://arxiv.org/abs/2605.02751)|null|
+|**2026-05-04**|**Bolek: A Multimodal Language Model for Molecular Reasoning**|Frederic Grabowski et.al.|[2605.02745](http://arxiv.org/abs/2605.02745)|null|
+|**2026-05-04**|**AI-Generated Smells: An Analysis of Code and Architecture in LLM and Agent-Driven Development**|Yuecai Zhu et.al.|[2605.02741](http://arxiv.org/abs/2605.02741)|null|
+|**2026-05-04**|**Visual Latents Know More Than They Say: Unsilencing Latent Reasoning in MLLMs**|Xin Zhang et.al.|[2605.02735](http://arxiv.org/abs/2605.02735)|null|
+|**2026-05-04**|**Perceptual Flow Network for Visually Grounded Reasoning**|Yangfu Li et.al.|[2605.02730](http://arxiv.org/abs/2605.02730)|null|
+|**2026-05-04**|**PubMed-Ophtha: An open resource for training ophthalmology vision-language models on scientific literature**|Verena Jasmin Hallitschke et.al.|[2605.02720](http://arxiv.org/abs/2605.02720)|null|
+|**2026-05-04**|**Hybrid Inspection and Task-Based Access Control in Zero-Trust Agentic AI**|Majed El Helou et.al.|[2605.02682](http://arxiv.org/abs/2605.02682)|null|
+|**2026-05-04**|**Fuzzy Fingerprinting Encoder Pre-trained Language Models for Emotion Recognition in Conversations: Human Assessment and Validity Study**|Patrícia Pereira et.al.|[2605.02665](http://arxiv.org/abs/2605.02665)|null|
+|**2026-05-04**|**ContextualJailbreak: Evolutionary Red-Teaming via Simulated Conversational Priming**|Mario Rodríguez Béjar et.al.|[2605.02647](http://arxiv.org/abs/2605.02647)|null|
+|**2026-05-04**|**Mamoda2.5: Enhancing Unified Multimodal Model with DiT-MoE**|Yangming Shi et.al.|[2605.02641](http://arxiv.org/abs/2605.02641)|null|
+|**2026-05-04**|**AutoFocus: Uncertainty-Aware Active Visual Search for GUI Grounding**|Ruilin Yao et.al.|[2605.02630](http://arxiv.org/abs/2605.02630)|null|
 |**2026-05-01**|**When LLMs Stop Following Steps: A Diagnostic Study of Procedural Execution in Language Models**|Sailesh Panda et.al.|[2605.00817](http://arxiv.org/abs/2605.00817)|null|
 |**2026-05-01**|**Persistent Visual Memory: Sustaining Perception for Deep Generation in LVLMs**|Siyuan Huang et.al.|[2605.00814](http://arxiv.org/abs/2605.00814)|null|
 |**2026-05-01**|**Let ViT Speak: Generative Language-Image Pre-training**|Yan Fang et.al.|[2605.00809](http://arxiv.org/abs/2605.00809)|null|
@@ -6393,7 +6413,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |**2023-09-06**|**Making Large Language Models Better Reasoners with Alignment**|Peiyi Wang et.al.|[2309.02144](http://arxiv.org/abs/2309.02144)|null|
 |**2023-06-27**|**Low-Rank Prune-And-Factorize for Language Model Compression**|Siyu Ren et.al.|[2306.14152](http://arxiv.org/abs/2306.14152)|null|
 
-<p align=right>(<a href=#updated-on-20260504>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260505>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -9438,7 +9458,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |**2019-11-14**|**Accelerating Training in Pommerman with Imitation and Reinforcement Learning**|Hardik Meisheri et.al.|[1911.04947](http://arxiv.org/abs/1911.04947)|null|
 |**2018-11-20**|**Modelling the Dynamic Joint Policy of Teammates with Attention Multi-agent DDPG**|Hangyu Mao et.al.|[1811.07029](http://arxiv.org/abs/1811.07029)|null|
 
-<p align=right>(<a href=#updated-on-20260504>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260505>back to top</a>)</p>
 
 Notes: 
 
