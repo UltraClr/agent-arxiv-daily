@@ -21,6 +21,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-05**|**OpenSeeker-v2: Pushing the Limits of Search Agents with Informative and High-Difficulty Trajectories**|Yuwen Du et.al.|[2605.04036](http://arxiv.org/abs/2605.04036)|null|
+|**2026-05-05**|**SymptomAI: Towards a Conversational AI Agent for Everyday Symptom Assessment**|Joseph Breda et.al.|[2605.04012](http://arxiv.org/abs/2605.04012)|null|
+|**2026-05-05**|**From Intent to Execution: Composing Agentic Workflows with Agent Recommendation**|Kishan Athrey et.al.|[2605.03986](http://arxiv.org/abs/2605.03986)|null|
+|**2026-05-05**|**Generating Proof-of-Vulnerability Tests to Help Enhance the Security of Complex Software**|Shravya Kanchi et.al.|[2605.03956](http://arxiv.org/abs/2605.03956)|null|
+|**2026-05-05**|**MOSAIC-Bench: Measuring Compositional Vulnerability Induction in Coding Agents**|Jonathan Steinberg et.al.|[2605.03952](http://arxiv.org/abs/2605.03952)|null|
+|**2026-05-05**|**Contextual Multi-Objective Optimization: Rethinking Objectives in Frontier AI Systems**|Jie Zhou et.al.|[2605.03900](http://arxiv.org/abs/2605.03900)|null|
+|**2026-05-05**|**Evaluating Generative Models as Interactive Emergent Representations of Human-Like Collaborative Behavior**|Shinas Shaji et.al.|[2605.03855](http://arxiv.org/abs/2605.03855)|null|
+|**2026-05-05**|**ScrapMem: A Bio-inspired Framework for On-device Personalized Agent Memory via Optical Forgetting**|Jiale Chang et.al.|[2605.03804](http://arxiv.org/abs/2605.03804)|null|
+|**2026-05-05**|**MEMTIER: Tiered Memory Architecture and Retrieval Bottleneck Analysis for Long-Running Autonomous AI Agents**|Bronislav Sidik et.al.|[2605.03675](http://arxiv.org/abs/2605.03675)|null|
+|**2026-05-05**|**Workspace-Bench 1.0: Benchmarking AI Agents on Workspace Tasks with Large-Scale File Dependencies**|Zirui Tang et.al.|[2605.03596](http://arxiv.org/abs/2605.03596)|null|
+|**2026-05-05**|**A Skill-Based AI Agentic Pipeline for Library of Congress Subject Indexing**|Eric H. C. Chow et.al.|[2605.03537](http://arxiv.org/abs/2605.03537)|null|
+|**2026-05-05**|**Multi-Agent Systems for Root Cause Analysis in Microservices**|Alexander Naakka et.al.|[2605.03505](http://arxiv.org/abs/2605.03505)|null|
+|**2026-05-05**|**MEMSAD: Gradient-Coupled Anomaly Detection for Memory Poisoning in Retrieval-Augmented Agents**|Ishrith Gowda et.al.|[2605.03482](http://arxiv.org/abs/2605.03482)|null|
+|**2026-05-05**|**CuraView: A Multi-Agent Framework for Medical Hallucination Detection with GraphRAG-Enhanced Knowledge Verification**|Severin Ye et.al.|[2605.03476](http://arxiv.org/abs/2605.03476)|null|
+|**2026-05-05**|**Robust Agent Compensation (RAC): Teaching AI Agents to Compensate**|Srinath Perera et.al.|[2605.03409](http://arxiv.org/abs/2605.03409)|null|
+|**2026-05-05**|**GeoDecider: A Coarse-to-Fine Agentic Workflow for Explainable Lithology Classification**|Jiahao Wang et.al.|[2605.03383](http://arxiv.org/abs/2605.03383)|null|
+|**2026-05-05**|**ARGUS: Defending LLM Agents Against Context-Aware Prompt Injection**|Shihao Weng et.al.|[2605.03378](http://arxiv.org/abs/2605.03378)|null|
+|**2026-05-05**|**SkCC: Portable and Secure Skill Compilation for Cross-Framework LLM Agents**|Yipeng Ouyang et.al.|[2605.03353](http://arxiv.org/abs/2605.03353)|null|
+|**2026-05-05**|**LLM-ADAM: A Generalizable LLM Agent Framework for Pre-Print Anomaly Detection in Additive Manufacturing**|Ahmadreza Eslaminia et.al.|[2605.03328](http://arxiv.org/abs/2605.03328)|null|
+|**2026-05-05**|**Revisiting the Travel Planning Capabilities of Large Language Models**|Bo-Wen Zhang et.al.|[2605.03308](http://arxiv.org/abs/2605.03308)|null|
 |**2026-05-01**|**Can Coding Agents Reproduce Findings in Computational Materials Science?**|Ziyang Huang et.al.|[2605.00803](http://arxiv.org/abs/2605.00803)|null|
 |**2026-05-01**|**Position: agentic AI orchestration should be Bayes-consistent**|Theodore Papamarkou et.al.|[2605.00742](http://arxiv.org/abs/2605.00742)|null|
 |**2026-05-01**|**Self-Adaptive Multi-Agent LLM-Based Security Pattern Selection for IoT Systems**|Saeid Jamshidi et.al.|[2605.00741](http://arxiv.org/abs/2605.00741)|null|
