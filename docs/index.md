@@ -3401,6 +3401,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-11**|**ELF: Embedded Language Flows**|Keya Hu et.al.|[2605.10938](http://arxiv.org/abs/2605.10938)|null|
+|**2026-05-11**|**Personal Visual Context Learning in Large Multimodal Models**|Zihui Xue et.al.|[2605.10936](http://arxiv.org/abs/2605.10936)|null|
+|**2026-05-11**|**DECO: Sparse Mixture-of-Experts with Dense-Comparable Performance on End-Side Devices**|Chenyang Song et.al.|[2605.10933](http://arxiv.org/abs/2605.10933)|null|
+|**2026-05-11**|**Evaluating the False Trust engendered by LLM Explanations**|Vardhan Palod et.al.|[2605.10930](http://arxiv.org/abs/2605.10930)|null|
+|**2026-05-11**|**Dynamic Skill Lifecycle Management for Agentic Reinforcement Learning**|Junhao Shen et.al.|[2605.10923](http://arxiv.org/abs/2605.10923)|null|
+|**2026-05-11**|**RoboMemArena: A Comprehensive and Challenging Robotic Memory Benchmark**|Huashuo Lei et.al.|[2605.10921](http://arxiv.org/abs/2605.10921)|null|
+|**2026-05-11**|**WildClawBench: A Benchmark for Real-World, Long-Horizon Agent Evaluation**|Shuangrui Ding et.al.|[2605.10912](http://arxiv.org/abs/2605.10912)|null|
+|**2026-05-11**|**Beyond Red-Teaming: Formal Guarantees of LLM Guardrail Classifiers**|Nikita Kezins et.al.|[2605.10901](http://arxiv.org/abs/2605.10901)|null|
+|**2026-05-11**|**Grounded or Guessing? LVLM Confidence Estimation via Blind-Image Contrastive Ranking**|Reza Khanmohammadi et.al.|[2605.10893](http://arxiv.org/abs/2605.10893)|null|
+|**2026-05-11**|**Count Anything at Any Granularity**|Chang Liu et.al.|[2605.10887](http://arxiv.org/abs/2605.10887)|null|
+|**2026-05-11**|**LoKA: Low-precision Kernel Applications for Recommendation Models At Scale**|Liang Luo et.al.|[2605.10886](http://arxiv.org/abs/2605.10886)|null|
+|**2026-05-11**|**Compute Where it Counts: Self Optimizing Language Models**|Yash Akhauri et.al.|[2605.10875](http://arxiv.org/abs/2605.10875)|null|
+|**2026-05-11**|**BenchCAD: A Comprehensive, Industry-Standard Benchmark for Programmatic CAD**|Haozhe Zhang et.al.|[2605.10865](http://arxiv.org/abs/2605.10865)|null|
+|**2026-05-11**|**DGPO: Beyond Pairwise Preferences with Directional Consistent Groupwise Optimization**|Mengyi Deng et.al.|[2605.10863](http://arxiv.org/abs/2605.10863)|null|
+|**2026-05-11**|**RUBEN: Rule-Based Explanations for Retrieval-Augmented LLM Systems**|Joel Rorseth et.al.|[2605.10862](http://arxiv.org/abs/2605.10862)|null|
+|**2026-05-11**|**Learning More from Less: Exploiting Counterfactuals for Data-Efficient Chart Understanding**|Jianzhu Bao et.al.|[2605.10855](http://arxiv.org/abs/2605.10855)|null|
+|**2026-05-11**|**Grounded Satirical Generation with RAG**|Oona Itkonen et.al.|[2605.10853](http://arxiv.org/abs/2605.10853)|null|
+|**2026-05-11**|**Verification Mirage: Mapping the Reliability Boundary of Self-Verification in Medical VQA**|Ruinan Jin et.al.|[2605.10850](http://arxiv.org/abs/2605.10850)|null|
+|**2026-05-11**|**Rethinking Agentic Search with Pi-Serini: Is Lexical Retrieval Sufficient?**|Tz-Huan Hsu et.al.|[2605.10848](http://arxiv.org/abs/2605.10848)|null|
+|**2026-05-11**|**Training-Free Cultural Alignment of Large Language Models via Persona Disagreement**|Huynh Trung Kiet et.al.|[2605.10843](http://arxiv.org/abs/2605.10843)|null|
 |**2026-05-11**|**Extending Confidence-Based Text2Cypher with Grammar and Schema Aware Filtering**|Makbule Gulcin Ozsoy et.al.|[2605.10318](http://arxiv.org/abs/2605.10318)|null|
 |**2026-05-11**|**AgentRx: A Benchmark Study of LLM Agents for Multimodal Clinical Prediction Tasks**|Baraa Al Jorf et.al.|[2605.10286](http://arxiv.org/abs/2605.10286)|null|
 |**2026-05-11**|**DP-LAC: Lightweight Adaptive Clipping for Differentially Private Federated Fine-tuning of Language Models**|Haaris Mehmood et.al.|[2605.10272](http://arxiv.org/abs/2605.10272)|null|
@@ -6610,6 +6630,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-11**|**Power Reinforcement Post-Training of Text-to-Image Models with Super-Linear Advantage Shaping**|Haoyuan Sun et.al.|[2605.10937](http://arxiv.org/abs/2605.10937)|null|
+|**2026-05-11**|**Variational Inference for Lévy Process-Driven SDEs via Neural Tilting**|Yaman Kindap et.al.|[2605.10934](http://arxiv.org/abs/2605.10934)|null|
+|**2026-05-11**|**Dynamic Skill Lifecycle Management for Agentic Reinforcement Learning**|Junhao Shen et.al.|[2605.10923](http://arxiv.org/abs/2605.10923)|null|
+|**2026-05-11**|**gemlib.mcmc: composable kernels for Metropolis-within-Gibbs sampling schemes**|Alin Morariu et.al.|[2605.10914](http://arxiv.org/abs/2605.10914)|null|
+|**2026-05-11**|**Equivariant Reinforcement Learning for Clifford Quantum Circuit Synthesis**|Richie Yeung et.al.|[2605.10910](http://arxiv.org/abs/2605.10910)|null|
+|**2026-05-11**|**Revisiting Policy Gradients for Restricted Policy Classes: Escaping Myopic Local Optima with $k$ -step Policy Gradients**|Alex DeWeese et.al.|[2605.10909](http://arxiv.org/abs/2605.10909)|null|
+|**2026-05-11**|**RubricEM: Meta-RL with Rubric-guided Policy Decomposition beyond Verifiable Rewards**|Gaotang Li et.al.|[2605.10899](http://arxiv.org/abs/2605.10899)|null|
+|**2026-05-11**|**BenchCAD: A Comprehensive, Industry-Standard Benchmark for Programmatic CAD**|Haozhe Zhang et.al.|[2605.10865](http://arxiv.org/abs/2605.10865)|null|
+|**2026-05-11**|**Towards On-Policy Data Evolution for Visual-Native Multimodal Deep Search Agents**|Shijue Huang et.al.|[2605.10832](http://arxiv.org/abs/2605.10832)|null|
+|**2026-05-11**|**Unified Noise Steering for Efficient Human-Guided VLA Adaptation**|Junjie Lu et.al.|[2605.10821](http://arxiv.org/abs/2605.10821)|null|
+|**2026-05-11**|**Policy Gradient Methods for Non-Markovian Reinforcement Learning**|Avik Kar et.al.|[2605.10816](http://arxiv.org/abs/2605.10816)|null|
+|**2026-05-11**|**Likelihood scoring for continuations of mathematical text: a self-supervised benchmark with tests for shortcut vulnerabilities**|Daniel Ranard et.al.|[2605.10810](http://arxiv.org/abs/2605.10810)|null|
+|**2026-05-11**|**New AI-Driven Tools for Enhancing Campus Well-being: A Prevention and Intervention Approach**|Jinwen Tang et.al.|[2605.10804](http://arxiv.org/abs/2605.10804)|null|
+|**2026-05-11**|**RadThinking: A Dataset for Longitudinal Clinical Reasoning in Radiology**|Wenxuan Li et.al.|[2605.10761](http://arxiv.org/abs/2605.10761)|null|
+|**2026-05-11**|**XQCfD: Accelerating Fast Actor-Critic Algorithms with Prior Data and Prior Policies**|Daniel Palenicek et.al.|[2605.10734](http://arxiv.org/abs/2605.10734)|null|
+|**2026-05-11**|**What should post-training optimize? A test-time scaling law perspective**|Muheng Li et.al.|[2605.10716](http://arxiv.org/abs/2605.10716)|null|
+|**2026-05-11**|**xApp Empowered Resource Management for Non-Terrestrial Users in 5G O-RAN Networks**|Mohammed M. H. Qazzaz et.al.|[2605.10704](http://arxiv.org/abs/2605.10704)|null|
+|**2026-05-11**|**Natural Policy Gradient as Doubly Smoothed Policy Iteration: A Bellman-Operator Framework**|Phalguni Nanda et.al.|[2605.10671](http://arxiv.org/abs/2605.10671)|null|
+|**2026-05-11**|**Micro-environment of the Eu interstitial in $β$-SiAlON:Eu$^{2+}$ green phosphor**|Julien Bouquiaux et.al.|[2605.10665](http://arxiv.org/abs/2605.10665)|null|
+|**2026-05-11**|**Evolving-RL: End-to-End Optimization of Experience-Driven Self-Evolving Capability within Agents**|Zhiyuan Fan et.al.|[2605.10663](http://arxiv.org/abs/2605.10663)|null|
 |**2026-05-11**|**Partial annealing and pattern decorrelation in associative neural networks**|Linda Albanese et.al.|[2605.10304](http://arxiv.org/abs/2605.10304)|null|
 |**2026-05-11**|**Robust Probabilistic Shielding for Safe Offline Reinforcement Learning**|Maris F. L. Galesloot et.al.|[2605.10293](http://arxiv.org/abs/2605.10293)|null|
 |**2026-05-11**|**MemReread: Enhancing Agentic Long-Context Reasoning via Memory-Guided Rereading**|Baibei Ji et.al.|[2605.10268](http://arxiv.org/abs/2605.10268)|null|
