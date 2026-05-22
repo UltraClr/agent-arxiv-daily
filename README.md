@@ -21,6 +21,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-21**|**MOSS: Self-Evolution through Source-Level Rewriting in Autonomous Agent Systems**|Qianshu Cai et.al.|[2605.22794](http://arxiv.org/abs/2605.22794)|null|
+|**2026-05-21**|**DeltaBox: Scaling Stateful AI Agents with Millisecond-Level Sandbox Checkpoint/Rollback**|Yunpeng Dong et.al.|[2605.22781](http://arxiv.org/abs/2605.22781)|null|
+|**2026-05-21**|**Towards a General Intelligence and Interface for Wearable Health Data**|Girish Narayanswamy et.al.|[2605.22759](http://arxiv.org/abs/2605.22759)|null|
+|**2026-05-21**|**Self-Evolving Multi-Agent Systems via Decentralized Memory**|Guangya Hao et.al.|[2605.22721](http://arxiv.org/abs/2605.22721)|null|
+|**2026-05-21**|**WorkstreamBench: Evaluating LLM Agents on End-to-End Spreadsheet Tasks in Finance**|Thomson Yen et.al.|[2605.22664](http://arxiv.org/abs/2605.22664)|null|
+|**2026-05-21**|**Boiling the Frog: A Multi-Turn Benchmark for Agentic Safety**|Piercosma Bisconti et.al.|[2605.22643](http://arxiv.org/abs/2605.22643)|null|
+|**2026-05-21**|**Spreadsheet-RL: Advancing Large Language Model Agents on Realistic Spreadsheet Tasks via Reinforcement Learning**|Banghao Chi et.al.|[2605.22642](http://arxiv.org/abs/2605.22642)|null|
+|**2026-05-21**|**Contractual Skills: A GovernSpec Design Framework for Enterprise AI Agents**|Ting Liu et.al.|[2605.22634](http://arxiv.org/abs/2605.22634)|null|
+|**2026-05-21**|**Agentic CLEAR: Automating Multi-Level Evaluation of LLM Agents**|Asaf Yehudai et.al.|[2605.22608](http://arxiv.org/abs/2605.22608)|null|
+|**2026-05-21**|**Measuring Security Without Fooling Ourselves: Why Benchmarking Agents Is Hard**|Sahar Abdelnabi et.al.|[2605.22568](http://arxiv.org/abs/2605.22568)|null|
+|**2026-05-21**|**GraphFlow: A Graph-Based Workflow Management for Efficient LLM-Agent Serving**|Ao Li et.al.|[2605.22566](http://arxiv.org/abs/2605.22566)|null|
+|**2026-05-21**|**Why Are Agentic Pull Requests Merged or Rejected? An Empirical Study**|Sien Reeve O. Peralta et.al.|[2605.22534](http://arxiv.org/abs/2605.22534)|null|
+|**2026-05-21**|**"Refactoring Runaway": Understanding and Mitigating Tangled Refactorings in Coding Agents for Issue Resolution**|Zhao Tian et.al.|[2605.22526](http://arxiv.org/abs/2605.22526)|null|
+|**2026-05-21**|**Compiling Agentic Workflows into LLM Weights: Near-Frontier Quality at Two Orders of Magnitude Less Cost**|Simon Dennis et.al.|[2605.22502](http://arxiv.org/abs/2605.22502)|null|
+|**2026-05-21**|**DeferMem: Query-Time Evidence Distillation via Reinforcement Learning for Long-Term Memory QA**|Jianing Yin et.al.|[2605.22411](http://arxiv.org/abs/2605.22411)|null|
+|**2026-05-21**|**AgroTools: A Benchmark for Tool-Augmented Multimodal Agents in Agriculture**|Zi Ye et.al.|[2605.22366](http://arxiv.org/abs/2605.22366)|null|
+|**2026-05-21**|**Benchmarking Autonomous Agents against Temporal, Spatial, and Semantic Evasions**|Jianan Ma et.al.|[2605.22321](http://arxiv.org/abs/2605.22321)|null|
+|**2026-05-21**|**Cross-domain benchmarks reveal when coordinated AI agents improve scientific inference from partial evidence**|Fiona Y. Wong et.al.|[2605.22300](http://arxiv.org/abs/2605.22300)|null|
+|**2026-05-21**|**SGR-Bench: Benchmarking Search Agents on State-Gated Retrieval**|Ningyuan Li et.al.|[2605.22219](http://arxiv.org/abs/2605.22219)|null|
+|**2026-05-21**|**Maestro: Reinforcement Learning to Orchestrate Hierarchical Model-Skill Ensembles**|Jinyang Wu et.al.|[2605.22177](http://arxiv.org/abs/2605.22177)|null|
 |**2026-05-20**|**Agent JIT Compilation for Latency-Optimizing Web Agent Planning and Scheduling**|Caleb Winston et.al.|[2605.21470](http://arxiv.org/abs/2605.21470)|null|
 |**2026-05-20**|**Mem- $π$ : Adaptive Memory through Learning When and What to Generate**|Xiaoqiang Wang et.al.|[2605.21463](http://arxiv.org/abs/2605.21463)|null|
 |**2026-05-20**|**Quality and Security Signals in AI-Generated Python Refactoring Pull Requests**|Mohamed Almukhtar et.al.|[2605.21453](http://arxiv.org/abs/2605.21453)|null|
@@ -3548,6 +3568,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-21**|**Which Way Did It Move? Diagnosing and Overcoming Directional Motion Blindness in Video-LLMs**|Jongseo Lee et.al.|[2605.22823](http://arxiv.org/abs/2605.22823)|null|
+|**2026-05-21**|**Tokenisation via Convex Relaxations**|Jan Tempus et.al.|[2605.22821](http://arxiv.org/abs/2605.22821)|null|
+|**2026-05-21**|**Vector Policy Optimization: Training for Diversity Improves Test-Time Search**|Ryan Bahlous-Boldi et.al.|[2605.22817](http://arxiv.org/abs/2605.22817)|null|
+|**2026-05-21**|**AwareVLN: Reasoning with Self-awareness for Vision-Language Navigation**|Wenxuan Guo et.al.|[2605.22816](http://arxiv.org/abs/2605.22816)|null|
+|**2026-05-21**|**GS-QA: A Benchmark for Geospatial Question Answering**|Majid Saeedan et.al.|[2605.22811](http://arxiv.org/abs/2605.22811)|null|
+|**2026-05-21**|**Gated DeltaNet-2: Decoupling Erase and Write in Linear Attention**|Ali Hatamizadeh et.al.|[2605.22791](http://arxiv.org/abs/2605.22791)|null|
+|**2026-05-21**|**LCGuard: Latent Communication Guard for Safe KV Sharing in Multi-Agent Systems**|Sadia Asif et.al.|[2605.22786](http://arxiv.org/abs/2605.22786)|null|
+|**2026-05-21**|**FAME: Failure-Aware Mixture-of-Experts for Message-Level Log Anomaly Detection**|Huanchi Wang et.al.|[2605.22779](http://arxiv.org/abs/2605.22779)|null|
+|**2026-05-21**|**Reducing Political Manipulation with Consistency Training**|Long Phan et.al.|[2605.22771](http://arxiv.org/abs/2605.22771)|null|
+|**2026-05-21**|**Understanding Data Temporality Impact on Large Language Models Pre-training**|Pilchen Hippolyte et.al.|[2605.22769](http://arxiv.org/abs/2605.22769)|null|
+|**2026-05-21**|**Uniform Diffusion Models Revisited: Leave-One-Out Denoiser and Absorbing State Reformulation**|Samson Gourevitch et.al.|[2605.22765](http://arxiv.org/abs/2605.22765)|null|
+|**2026-05-21**|**Advancing Mathematics Research with AI-Driven Formal Proof Search**|George Tsoukalas et.al.|[2605.22763](http://arxiv.org/abs/2605.22763)|null|
+|**2026-05-21**|**Beyond Acoustic Emotion Recognition: Multimodal Pathos Analysis in Political Speech Using LLM-Based and Acoustic Emotion Models**|Juergen Dietrich et.al.|[2605.22732](http://arxiv.org/abs/2605.22732)|null|
+|**2026-05-21**|**Post-Training is About States, Not Tokens: A State Distribution View of SFT, RL, and On-Policy Distillation**|Dong Nie et.al.|[2605.22731](http://arxiv.org/abs/2605.22731)|null|
+|**2026-05-21**|**AMEL: Accumulated Message Effects on LLM Judgments**|Sid-ali Temkit et.al.|[2605.22714](http://arxiv.org/abs/2605.22714)|null|
+|**2026-05-21**|**Tokenization with Split Trees**|Craig W. Schmidt et.al.|[2605.22705](http://arxiv.org/abs/2605.22705)|null|
+|**2026-05-21**|**Machine Learning Interatomic Potentials: Advancing Open-Source Software for Efficient and Scalable Molecular Simulation**|Christoph Brunken et.al.|[2605.22698](http://arxiv.org/abs/2605.22698)|null|
+|**2026-05-21**|**Conceptualizing Embeddings: Sparse Disentanglement for Vision-Language Models**|Piotr Kubaty et.al.|[2605.22679](http://arxiv.org/abs/2605.22679)|null|
+|**2026-05-21**|**Self-Policy Distillation via Capability-Selective Subspace Projection**|Guangya Hao et.al.|[2605.22675](http://arxiv.org/abs/2605.22675)|null|
+|**2026-05-21**|**Is Capability a Liability? More Capable Language Models Make Worse Forecasts When It Matters Most**|Nick Merrill et.al.|[2605.22672](http://arxiv.org/abs/2605.22672)|null|
 |**2026-05-20**|**Quantifying Hyperparameter Transfer and the Importance of Embedding Layer Learning Rate**|Dayal Singh Kalra et.al.|[2605.21486](http://arxiv.org/abs/2605.21486)|null|
 |**2026-05-20**|**EvoStruct: Bridging Evolutionary and Structural Priors for Antibody CDR Design via Protein Language Model Adaptation**|Mansoor Ahmed et.al.|[2605.21485](http://arxiv.org/abs/2605.21485)|null|
 |**2026-05-20**|**DeepWeb-Bench: A Deep Research Benchmark Demanding Massive Cross-Source Evidence and Long-Horizon Derivation**|Sixiong Xie et.al.|[2605.21482](http://arxiv.org/abs/2605.21482)|null|
@@ -6919,6 +6959,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-21**|**Vector Policy Optimization: Training for Diversity Improves Test-Time Search**|Ryan Bahlous-Boldi et.al.|[2605.22817](http://arxiv.org/abs/2605.22817)|null|
+|**2026-05-21**|**Remember to be Curious: Episodic Context and Persistent Worlds for 3D Exploration**|Lily Goli et.al.|[2605.22814](http://arxiv.org/abs/2605.22814)|null|
+|**2026-05-21**|**DeltaBox: Scaling Stateful AI Agents with Millisecond-Level Sandbox Checkpoint/Rollback**|Yunpeng Dong et.al.|[2605.22781](http://arxiv.org/abs/2605.22781)|null|
+|**2026-05-21**|**Deep Reinforcement Learning for Flexible Job Shop Scheduling with Random Job Arrivals**|Yu Tang et.al.|[2605.22773](http://arxiv.org/abs/2605.22773)|null|
+|**2026-05-21**|**Superhuman Safe and Agile Racing through Multi-Agent Reinforcement Learning**|Ismail Geles et.al.|[2605.22748](http://arxiv.org/abs/2605.22748)|null|
+|**2026-05-21**|**Post-Training is About States, Not Tokens: A State Distribution View of SFT, RL, and On-Policy Distillation**|Dong Nie et.al.|[2605.22731](http://arxiv.org/abs/2605.22731)|null|
+|**2026-05-21**|**N3P: Accelerated Automated Parking via a Learning-Based Naturalistic Three-Stage Scheme**|Yifan Xue et.al.|[2605.22722](http://arxiv.org/abs/2605.22722)|null|
+|**2026-05-21**|**Live Music Diffusion Models: Efficient Fine-Tuning and Post-Training of Interactive Diffusion Music Generators**|Zachary Novack et.al.|[2605.22717](http://arxiv.org/abs/2605.22717)|null|
+|**2026-05-21**|**Abstraction for Offline Goal-Conditioned Reinforcement Learning**|Clarisse Wibault et.al.|[2605.22711](http://arxiv.org/abs/2605.22711)|null|
+|**2026-05-21**|**Clipping Bottleneck: Stabilizing RLVR via Stochastic Recovery of Near-Boundary Signals**|Shuo Yang et.al.|[2605.22703](http://arxiv.org/abs/2605.22703)|null|
+|**2026-05-21**|**SegCompass: Exploring Interpretable Alignment with Sparse Autoencoders for Enhanced Reasoning Segmentation**|Zhenyu Lu et.al.|[2605.22658](http://arxiv.org/abs/2605.22658)|null|
+|**2026-05-21**|**Directed extended-range percolation**|Wenbo Liu et.al.|[2605.22646](http://arxiv.org/abs/2605.22646)|null|
+|**2026-05-21**|**Spreadsheet-RL: Advancing Large Language Model Agents on Realistic Spreadsheet Tasks via Reinforcement Learning**|Banghao Chi et.al.|[2605.22642](http://arxiv.org/abs/2605.22642)|null|
+|**2026-05-21**|**Whole-Blood Boundary Analysis of BioFET-Based ctDNA Detection for Intravascular Sensing in Intrabody Nanonetworks**|Ida Kleger-Rudomin et.al.|[2605.22637](http://arxiv.org/abs/2605.22637)|null|
+|**2026-05-21**|**A note on convergence of Wasserstein policy optimization**|David Šiška et.al.|[2605.22622](http://arxiv.org/abs/2605.22622)|null|
+|**2026-05-21**|**Two is better than one: A Collapse-free Multi-Reward RLIF Training Framework**|Shourov Joarder et.al.|[2605.22620](http://arxiv.org/abs/2605.22620)|null|
+|**2026-05-21**|**Upscaling DFT-trained machine-learning interatomic potential toward Quantum Monte Carlo accuracy: Sulfur-vacancy migration in monolayer MoS $_2$ as a testbed**|Adam Hložný et.al.|[2605.22601](http://arxiv.org/abs/2605.22601)|null|
+|**2026-05-21**|**LANG: Reinforcement Learning for Multilingual Reasoning with Language-Adaptive Hint Guidance**|Yuchun Fan et.al.|[2605.22567](http://arxiv.org/abs/2605.22567)|null|
+|**2026-05-21**|**F-TIS: Harnessing Diverse Models in Collaborative GRPO**|Nikolay Blagoev et.al.|[2605.22537](http://arxiv.org/abs/2605.22537)|null|
+|**2026-05-21**|**Search-E1: Self-Distillation Drives Self-Evolution in Search-Augmented Reasoning**|Zihan Liang et.al.|[2605.22511](http://arxiv.org/abs/2605.22511)|null|
 |**2026-05-20**|**Variance Reduction for Expectations with Diffusion Teachers**|Jesse Bettencourt et.al.|[2605.21489](http://arxiv.org/abs/2605.21489)|null|
 |**2026-05-20**|**Agent JIT Compilation for Latency-Optimizing Web Agent Planning and Scheduling**|Caleb Winston et.al.|[2605.21470](http://arxiv.org/abs/2605.21470)|null|
 |**2026-05-20**|**You Only Need Minimal RLVR Training: Extrapolating LLMs via Rank-1 Trajectories**|Zhepei Wei et.al.|[2605.21468](http://arxiv.org/abs/2605.21468)|null|
