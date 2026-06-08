@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Agent Research Papers
-### Automatically Updated on 2026.06.07
+### Automatically Updated on 2026.06.08
 Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Autonomous Agent`,`LLM Agent`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -16,6 +16,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-05**|**Accelerated Decentralized Stochastic Gradient Descent for Strongly Convex Optimization**|Ming Sun et.al.|[2606.07496](http://arxiv.org/abs/2606.07496)|null|
+|**2026-06-05**|**How AI Agents Reshape Knowledge Work: Autonomy, Efficiency, and Scope**|Jeremy Yang et.al.|[2606.07489](http://arxiv.org/abs/2606.07489)|null|
+|**2026-06-05**|**OPENPATH: A Supervisor--Specialist Agent System for Personalized, Accessible, and Multi-stop Urban Trip Planning**|Ziyang Xiong et.al.|[2606.07486](http://arxiv.org/abs/2606.07486)|null|
+|**2026-06-05**|**Agentic Very Much! Adoption of Coding Agent in New GitHub Projects**|Romain Robbes et.al.|[2606.07448](http://arxiv.org/abs/2606.07448)|null|
+|**2026-06-05**|**Skill-3D: Evolving Scene-Aware Skills for Agentic 3D Spatial Reasoning**|Haoyuan Li et.al.|[2606.07436](http://arxiv.org/abs/2606.07436)|null|
+|**2026-06-05**|**Socratic-SWE: Self-Evolving Coding Agents via Trace-Derived Agent Skills**|Chuan Xiao et.al.|[2606.07412](http://arxiv.org/abs/2606.07412)|null|
+|**2026-06-05**|**Audio-Oscar: A Multi-Agent System for Complex Audio Scene Generation, Orchestration, and Refinement**|Yifan Duan et.al.|[2606.07397](http://arxiv.org/abs/2606.07397)|null|
+|**2026-06-05**|**Do Coding Agents Deceive Us? Detecting and Preventing Cheating via Capped Evaluation with Randomized Tests**|Thanawat Lodkaew et.al.|[2606.07379](http://arxiv.org/abs/2606.07379)|null|
+|**2026-06-05**|**Self-evolving LLM agents with in-distribution Optimization**|Yudi Zhang et.al.|[2606.07367](http://arxiv.org/abs/2606.07367)|null|
+|**2026-06-05**|**Hierarchical Certified Semantic Commitment for Byzantine-Resilient LLM-Agent Collaboration**|Haoran Xu et.al.|[2606.07316](http://arxiv.org/abs/2606.07316)|null|
+|**2026-06-05**|**QBugLM: An Agentic Benchmarking Framework for LLM-based Quantum Software Debugging**|An B. B. Pham et.al.|[2606.07314](http://arxiv.org/abs/2606.07314)|null|
+|**2026-06-05**|**CAPE: Contrastive Action-conditioned Parallel Encoding for Embodied Planning**|Cong Chen et.al.|[2606.07304](http://arxiv.org/abs/2606.07304)|null|
+|**2026-06-05**|**SWE-Explore: Benchmarking How Coding Agents Explore Repositories**|Shaoqiu Zhang et.al.|[2606.07297](http://arxiv.org/abs/2606.07297)|null|
+|**2026-06-05**|**MMAE: A Massive Multitask Audio Editing Benchmark**|Ziyang Ma et.al.|[2606.07229](http://arxiv.org/abs/2606.07229)|null|
+|**2026-06-05**|**Learning Multi-Agent Communication Protocol: Study on Information Entropy Efficiency in MARL**|Xinren Zhang et.al.|[2606.07200](http://arxiv.org/abs/2606.07200)|null|
+|**2026-06-05**|**From Privacy to Workflow Integrity: Communication-Graph Metadata in Autonomous Agent Interoperability**|Bijaya Dangol et.al.|[2606.07150](http://arxiv.org/abs/2606.07150)|null|
+|**2026-06-05**|**MalSkillBench: A Runtime-Verified Benchmark of Malicious Agent Skills**|Wenbo Guo et.al.|[2606.07131](http://arxiv.org/abs/2606.07131)|null|
+|**2026-06-05**|**SlimSearcher: Training Efficiency-Aware Web Agents via Adaptive Reward Gating**|Zequn Xie et.al.|[2606.07074](http://arxiv.org/abs/2606.07074)|null|
+|**2026-06-05**|**TRACE: Trajectory Reasoning through Adaptive Cross-Step Evidence Aggregation for LLM Agents**|Vijitha Mittapalli et.al.|[2606.07054](http://arxiv.org/abs/2606.07054)|null|
+|**2026-06-05**|**Exploring Agentic Tool-Calling Decisions via Uncertainty-Aligned Reinforcement Learning**|Yijin Zhou et.al.|[2606.06976](http://arxiv.org/abs/2606.06976)|null|
 |**2026-06-04**|**Thinking with Imagination: Agentic Visual Spatial Reasoning with World Simulators**|Chenming Zhu et.al.|[2606.06476](http://arxiv.org/abs/2606.06476)|null|
 |**2026-06-04**|**MLEvolve: A Self-Evolving Framework for Automated Machine Learning Algorithm Discovery**|Shangheng Du et.al.|[2606.06473](http://arxiv.org/abs/2606.06473)|null|
 |**2026-06-04**|**Goedel-Architect: Streamlining Formal Theorem Proving with Blueprint Generation and Refinement**|Jui-Hui Chung et.al.|[2606.06468](http://arxiv.org/abs/2606.06468)|null|
@@ -3661,6 +3681,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-05**|**Counterintuitive problems in discrete probability**|Luca Avena et.al.|[2606.07516](http://arxiv.org/abs/2606.07516)|null|
+|**2026-06-05**|**How reliable are LLMs when it comes to playing dice?**|Luca Avena et.al.|[2606.07515](http://arxiv.org/abs/2606.07515)|null|
+|**2026-06-05**|**MemDreamer: Decoupling Perception and Reasoning for Long Video Understanding via Hierarchical Graph Memory and Agentic Retrieval Mechanism**|Cong Chen et.al.|[2606.07512](http://arxiv.org/abs/2606.07512)|null|
+|**2026-06-05**|**Your UnEmbedding Matrix is Secretly a Feature Lens for Text Embeddings**|Songhao Wu et.al.|[2606.07502](http://arxiv.org/abs/2606.07502)|null|
+|**2026-06-05**|**Sparse Subspace-to-Expert Sharing for Task-Agnostic Continual Learning**|Fatema Siddika et.al.|[2606.07500](http://arxiv.org/abs/2606.07500)|null|
+|**2026-06-05**|**Supervision versus Demonstration-Based In-Context Learning for Multiword Expression Classification**|Sercan Karakaş et.al.|[2606.07479](http://arxiv.org/abs/2606.07479)|null|
+|**2026-06-05**|**TEVI: Text-Conditioned Editing of Visual Representations via Sparse Autoencoders for Improved Vision-Language Alignment**|Sweta Mahajan et.al.|[2606.07451](http://arxiv.org/abs/2606.07451)|null|
+|**2026-06-05**|**Sycophantic Praise: Evaluating Excessive Praise in Language Models**|Daniel Vennemeyer et.al.|[2606.07441](http://arxiv.org/abs/2606.07441)|null|
+|**2026-06-05**|**Watch, Remember, Reason: Human-View Video Understanding with MLLMs**|Jiahao Meng et.al.|[2606.07433](http://arxiv.org/abs/2606.07433)|null|
+|**2026-06-05**|**Rapid co-design of Buoyancy-assisted robots for Challenging Locomotion using Gaussian Evolutionary Specialists**|Ankit Sinha et.al.|[2606.07424](http://arxiv.org/abs/2606.07424)|null|
+|**2026-06-05**|**The Masked Advantage: Uncovering Local-Language Access to Cultural Knowledge in LLMs**|Yang Zhang et.al.|[2606.07422](http://arxiv.org/abs/2606.07422)|null|
+|**2026-06-05**|**Lost in Migration: Exposing Android Framework Vulnerabilities in Parallel Java-Kotlin Implementations**|Rui Li et.al.|[2606.07420](http://arxiv.org/abs/2606.07420)|null|
+|**2026-06-05**|**Sparsely gated tiny linear experts**|Simon Schug et.al.|[2606.07414](http://arxiv.org/abs/2606.07414)|null|
+|**2026-06-05**|**Socratic-SWE: Self-Evolving Coding Agents via Trace-Derived Agent Skills**|Chuan Xiao et.al.|[2606.07412](http://arxiv.org/abs/2606.07412)|null|
+|**2026-06-05**|**A Comprehensive Anatomy of Human and DeepSeek-R1 LLM Mathematical Reasoning**|Yuxiang Chen et.al.|[2606.07410](http://arxiv.org/abs/2606.07410)|null|
+|**2026-06-05**|**Reversible Foundations: Training a 120B Sparse MoE through State-Preserving Scaling**|Rohan Shravan et.al.|[2606.07404](http://arxiv.org/abs/2606.07404)|null|
+|**2026-06-05**|**Online Pandora's Box for Contextual LLM Cascading**|Alexandre Belloni et.al.|[2606.07392](http://arxiv.org/abs/2606.07392)|null|
+|**2026-06-05**|**Self-evolving LLM agents with in-distribution Optimization**|Yudi Zhang et.al.|[2606.07367](http://arxiv.org/abs/2606.07367)|null|
+|**2026-06-05**|**On the Shoulders of Giants: Empowering Automated Smart Contract Auditing via the GiAnt Corpus**|Xiaoting Zhang et.al.|[2606.07363](http://arxiv.org/abs/2606.07363)|null|
+|**2026-06-05**|**TabSwift: An Efficient Tabular Foundation Model with Row-Wise Attention**|Si-Yang Liu et.al.|[2606.07345](http://arxiv.org/abs/2606.07345)|null|
 |**2026-06-04**|**HANDOFF: Humanoid Agentic Task-Space Whole-Body Control via Distilled Complementary Teachers**|Lizhi Yang et.al.|[2606.06493](http://arxiv.org/abs/2606.06493)|null|
 |**2026-06-04**|**Code2LoRA: Hypernetwork-Generated Adapters for Code Language Models under Software Evolution**|Liliana Hotsko et.al.|[2606.06492](http://arxiv.org/abs/2606.06492)|null|
 |**2026-06-04**|**TempoVLA: Learning Speed-Controllable Vision-Language-Action Policies**|Dong Jing et.al.|[2606.06491](http://arxiv.org/abs/2606.06491)|null|
@@ -7150,6 +7190,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-05**|**Affordance-Based Hierarchical Reinforcement Learning for Quadruped Pedipulation**|Tuba Girgin et.al.|[2606.07506](http://arxiv.org/abs/2606.07506)|null|
+|**2026-06-05**|**Modelling Opinion Dynamics at Scale with Deep MARL**|Lukas Seier et.al.|[2606.07487](http://arxiv.org/abs/2606.07487)|null|
+|**2026-06-05**|**Rapid co-design of Buoyancy-assisted robots for Challenging Locomotion using Gaussian Evolutionary Specialists**|Ankit Sinha et.al.|[2606.07424](http://arxiv.org/abs/2606.07424)|null|
+|**2026-06-05**|**Generative Modeling of Discrete Latent Structures via Dynamic Policy Gradients**|Stefan Ivanovic et.al.|[2606.07400](http://arxiv.org/abs/2606.07400)|null|
+|**2026-06-05**|**Simulation-Driven Imitation Learning for Biosignals-Free Shared-Autonomy Prosthetic Grasping**|Kaijie Shi et.al.|[2606.07389](http://arxiv.org/abs/2606.07389)|null|
+|**2026-06-05**|**Spline Policy: A Structured Representation for Robot Policies**|Mengze Tian et.al.|[2606.07386](http://arxiv.org/abs/2606.07386)|null|
+|**2026-06-05**|**Self-evolving LLM agents with in-distribution Optimization**|Yudi Zhang et.al.|[2606.07367](http://arxiv.org/abs/2606.07367)|null|
+|**2026-06-05**|**KIT's Submission to Cross-Lingual Voice Cloning in IWSLT 2026**|Seymanur Akti et.al.|[2606.07240](http://arxiv.org/abs/2606.07240)|null|
+|**2026-06-05**|**Learning Multi-Agent Communication Protocol: Study on Information Entropy Efficiency in MARL**|Xinren Zhang et.al.|[2606.07200](http://arxiv.org/abs/2606.07200)|null|
+|**2026-06-05**|**On the true low-energy excitations of the three-dimensional spin glass**|Claudio Chilin et.al.|[2606.07197](http://arxiv.org/abs/2606.07197)|null|
+|**2026-06-05**|**Shield-Loco: Shielding Locomotion Policies with Predictive Safety Filtering**|Aditya Shirwatkar et.al.|[2606.07193](http://arxiv.org/abs/2606.07193)|null|
+|**2026-06-05**|**From Correctness to Utility: Gain-Based Prefix Evaluation for LLM Reasoning**|Yuhang Zhou et.al.|[2606.07190](http://arxiv.org/abs/2606.07190)|null|
+|**2026-06-05**|**VALO1.0: New real-photon parton distributions with Monte Carlo uncertainties**|Madhav Chithirasreemadam et.al.|[2606.07189](http://arxiv.org/abs/2606.07189)|null|
+|**2026-06-05**|**Phase diagram of the extended chequerboard $J-Q$ model**|Jiayou Yin et.al.|[2606.07178](http://arxiv.org/abs/2606.07178)|null|
+|**2026-06-05**|**$α$ -PFN: Fast Entropy Search via In-Context Learning**|Herilalaina Rakotoarison et.al.|[2606.07134](http://arxiv.org/abs/2606.07134)|null|
+|**2026-06-05**|**Predictive Style Matching: Natural and Robust Humanoid Locomotion**|Simeon Nedelchev et.al.|[2606.07083](http://arxiv.org/abs/2606.07083)|null|
+|**2026-06-05**|**On the Geometry of On-Policy Distillation**|Zhennan Shen et.al.|[2606.07082](http://arxiv.org/abs/2606.07082)|null|
+|**2026-06-05**|**SlimSearcher: Training Efficiency-Aware Web Agents via Adaptive Reward Gating**|Zequn Xie et.al.|[2606.07074](http://arxiv.org/abs/2606.07074)|null|
+|**2026-06-05**|**Exact noise characterization of entanglement distribution in star networks**|Kenneth Goodenough et.al.|[2606.07043](http://arxiv.org/abs/2606.07043)|null|
+|**2026-06-05**|**Beyond Rubrics: Exploration-Guided Evaluation Skills for Reward Modeling**|Xing Yue et.al.|[2606.07040](http://arxiv.org/abs/2606.07040)|null|
 |**2026-06-04**|**TempoVLA: Learning Speed-Controllable Vision-Language-Action Policies**|Dong Jing et.al.|[2606.06491](http://arxiv.org/abs/2606.06491)|null|
 |**2026-06-04**|**RREDCoT: Segment-Level Reward Redistribution for Reasoning Models**|Mykyta Ielanskyi et.al.|[2606.06475](http://arxiv.org/abs/2606.06475)|null|
 |**2026-06-04**|**Latent Reasoning with Normalizing Flows**|Guancheng Tu et.al.|[2606.06447](http://arxiv.org/abs/2606.06447)|null|
