@@ -21,6 +21,15 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-08**|**OmniGameArena: A Unified UE5 Benchmark for VLM Game Agents with Improvement Dynamics**|Mingxian Lin et.al.|[2606.09826](http://arxiv.org/abs/2606.09826)|null|
+|**2026-06-08**|**Limit Theory for $N$-Player $α$ -Potential Games**|Xin Guo et.al.|[2606.09815](http://arxiv.org/abs/2606.09815)|null|
+|**2026-06-08**|**iMaC: Translating Actions into Motion and Contact Images for Embodied World Models**|Zhenyu Wu et.al.|[2606.09813](http://arxiv.org/abs/2606.09813)|null|
+|**2026-06-08**|**FASE: Fast Adaptive Semantic Entropy for Code Quality**|Shizhe Lin et.al.|[2606.09800](http://arxiv.org/abs/2606.09800)|null|
+|**2026-06-08**|**SIGA: Self-Evolving Coding-Agent Adapters for Scientific Simulation**|Matthew Ho et.al.|[2606.09774](http://arxiv.org/abs/2606.09774)|null|
+|**2026-06-08**|**Collaborative Human-Agent Protocol (CHAP)**|Arsalan Shahid et.al.|[2606.09751](http://arxiv.org/abs/2606.09751)|null|
+|**2026-06-08**|**HDSL: A Hierarchical Domain-Specific Language for Structured 3D Indoor Scene Generation and Localized Editing with LLM Agents**|Letian Li et.al.|[2606.09738](http://arxiv.org/abs/2606.09738)|null|
+|**2026-06-08**|**SearchSwarm: Towards Delegation Intelligence in Agentic LLMs for Long-Horizon Deep Research**|Pu Ning et.al.|[2606.09730](http://arxiv.org/abs/2606.09730)|null|
+|**2026-06-08**|**IS-CoT: Breaking the Long-form Generation Collapse via Interleaved Structural Thinking**|Zechen Sun et.al.|[2606.09709](http://arxiv.org/abs/2606.09709)|null|
 |**2026-06-08**|**(Auto)formalization is supposed to be easy: Trellis process semantics for spelling out rigorous proofs**|Wesley Pegden et.al.|[2606.09674](http://arxiv.org/abs/2606.09674)|null|
 |**2026-06-08**|**MAVIS: Multi-Agent Video Retrieval via Structured Video Understanding**|Jie Zhang et.al.|[2606.09641](http://arxiv.org/abs/2606.09641)|null|
 |**2026-06-08**|**Agentic Persona Generation with Critique-Refinement: An Industrial Evaluation**|Mohammad Hossein Amini et.al.|[2606.09637](http://arxiv.org/abs/2606.09637)|null|
@@ -3708,6 +3717,20 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-08**|**OmniGameArena: A Unified UE5 Benchmark for VLM Game Agents with Improvement Dynamics**|Mingxian Lin et.al.|[2606.09826](http://arxiv.org/abs/2606.09826)|null|
+|**2026-06-08**|**Causally Evaluating the Learnability of Formal Language Tasks**|Vésteinn Snæbjarnarson et.al.|[2606.09822](http://arxiv.org/abs/2606.09822)|null|
+|**2026-06-08**|**Rethinking the Divergence Regularization in LLM RL**|Jiarui Yao et.al.|[2606.09821](http://arxiv.org/abs/2606.09821)|null|
+|**2026-06-08**|**Your Model Already Knows: Attention-Guided Safety Filter for Vision-Language-Action Models**|Seongbin Park et.al.|[2606.09749](http://arxiv.org/abs/2606.09749)|null|
+|**2026-06-08**|**HDSL: A Hierarchical Domain-Specific Language for Structured 3D Indoor Scene Generation and Localized Editing with LLM Agents**|Letian Li et.al.|[2606.09738](http://arxiv.org/abs/2606.09738)|null|
+|**2026-06-08**|**The Neutral Mask: How RLHF Provides Shallow Alignment while Leaving Partisan Structure Intact in a Large Language Model**|Wendy K. Tam et.al.|[2606.09735](http://arxiv.org/abs/2606.09735)|null|
+|**2026-06-08**|**Tight Sample Complexity of Transformers**|Chenxiao Yang et.al.|[2606.09731](http://arxiv.org/abs/2606.09731)|null|
+|**2026-06-08**|**SearchSwarm: Towards Delegation Intelligence in Agentic LLMs for Long-Horizon Deep Research**|Pu Ning et.al.|[2606.09730](http://arxiv.org/abs/2606.09730)|null|
+|**2026-06-08**|**Beyond Probabilistic Similarity: Structural, Temporal, and Causal Limitations of Retrieval-Augmented Generation in the Legal Domain**|Hudson de Martim et.al.|[2606.09724](http://arxiv.org/abs/2606.09724)|null|
+|**2026-06-08**|**Proxy Reward Internalization and Mechanistic Exploitation: A Learned Precursor to Reward Hacking and Its Generalization**|Mohammad Beigi et.al.|[2606.09711](http://arxiv.org/abs/2606.09711)|null|
+|**2026-06-08**|**IS-CoT: Breaking the Long-form Generation Collapse via Interleaved Structural Thinking**|Zechen Sun et.al.|[2606.09709](http://arxiv.org/abs/2606.09709)|null|
+|**2026-06-08**|**Learning to Attack and Defend: Adaptive Red Teaming of Language Models via GRPO**|Blake Bullwinkel et.al.|[2606.09701](http://arxiv.org/abs/2606.09701)|null|
+|**2026-06-08**|**What the Eyes See, the LLMs Miss: Exploiting Human Perception for Adversarial Text Attacks**|Qin Yang et.al.|[2606.09700](http://arxiv.org/abs/2606.09700)|null|
+|**2026-06-08**|**PsychoSafe: Eliciting Psychologically-Informed Refusals in Large Language Models**|Gianluca Barmina et.al.|[2606.09697](http://arxiv.org/abs/2606.09697)|null|
 |**2026-06-08**|**Correlation Is Not Enough: Embedding Human Metadata for Individual Causal Discovery**|Suraj Biswas et.al.|[2606.09672](http://arxiv.org/abs/2606.09672)|null|
 |**2026-06-08**|**SpatialWorld: Benchmarking Interactive Spatial Reasoning of Multimodal Agents in Real-World Tasks**|Hongcheng Gao et.al.|[2606.09669](http://arxiv.org/abs/2606.09669)|null|
 |**2026-06-08**|**In-Context Learning for Latent Space Bayesian Optimization**|Tuan A. Vu et.al.|[2606.09664](http://arxiv.org/abs/2606.09664)|null|
@@ -7239,6 +7262,15 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-08**|**An Agency-Transferring Model-Free Policy Enhancement Technique**|Anton Bolychev et.al.|[2606.09825](http://arxiv.org/abs/2606.09825)|null|
+|**2026-06-08**|**Rethinking the Divergence Regularization in LLM RL**|Jiarui Yao et.al.|[2606.09821](http://arxiv.org/abs/2606.09821)|null|
+|**2026-06-08**|**Finite-n Estimate of Dedekind Numbers by Layer-Ratio Monte Carlo**|Tian-Shun Chen et.al.|[2606.09795](http://arxiv.org/abs/2606.09795)|null|
+|**2026-06-08**|**Certified spectral functions from lattice Monte Carlo data**|Sophie Mutzel et.al.|[2606.09791](http://arxiv.org/abs/2606.09791)|null|
+|**2026-06-08**|**Preserving Plasticity in Continual Learning via Dynamical Isometry**|Andries Rosseau et.al.|[2606.09762](http://arxiv.org/abs/2606.09762)|null|
+|**2026-06-08**|**Difference-Aware Retrieval Policies for Imitation Learning**|Quinn Pfeifer et.al.|[2606.09758](http://arxiv.org/abs/2606.09758)|null|
+|**2026-06-08**|**Jamming-Resilient Sparse Delay-Doppler NOMA: Unitary Precoding, Randomized Active Sets, and Superincreasing Power Allocation**|Michel Kulhandjian et.al.|[2606.09753](http://arxiv.org/abs/2606.09753)|null|
+|**2026-06-08**|**The Neutral Mask: How RLHF Provides Shallow Alignment while Leaving Partisan Structure Intact in a Large Language Model**|Wendy K. Tam et.al.|[2606.09735](http://arxiv.org/abs/2606.09735)|null|
+|**2026-06-08**|**Learning to Attack and Defend: Adaptive Red Teaming of Language Models via GRPO**|Blake Bullwinkel et.al.|[2606.09701](http://arxiv.org/abs/2606.09701)|null|
 |**2026-06-08**|**Gradient-Guided Reward Optimization for Inference-time Alignment**|Hankun Lin et.al.|[2606.09635](http://arxiv.org/abs/2606.09635)|null|
 |**2026-06-08**|**DexPIE: Stable Dexterous Policy Improvement from Real-World Experience**|Ruizhe Liao et.al.|[2606.09615](http://arxiv.org/abs/2606.09615)|null|
 |**2026-06-08**|**Shape Formation for the Cooperative Transportation of Arbitrary Objects Using Multi-Agent Reinforcement Learning**|Mohamed Sayed et.al.|[2606.09610](http://arxiv.org/abs/2606.09610)|null|
