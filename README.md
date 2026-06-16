@@ -21,6 +21,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-15**|**Context-Aware RL for Agentic and Multimodal LLMs**|Peiyang Xu et.al.|[2606.17053](http://arxiv.org/abs/2606.17053)|null|
+|**2026-06-15**|**Benchmarking LLM Agents on Meta-Analysis Articles from Nature Portfolio**|Anzhe Xie et.al.|[2606.17041](http://arxiv.org/abs/2606.17041)|null|
+|**2026-06-15**|**TokenPilot: Cache-Efficient Context Management for LLM Agents**|Buqiang Xu et.al.|[2606.17016](http://arxiv.org/abs/2606.17016)|null|
+|**2026-06-15**|**Agent trajectories as programs: fingerprinting and programming coding-agent behavior**|Hamidah Oderinwale et.al.|[2606.16988](http://arxiv.org/abs/2606.16988)|null|
+|**2026-06-15**|**Directory-Aware Query and Maintenance in Vector Databases**|Mengzhao Wang et.al.|[2606.16903](http://arxiv.org/abs/2606.16903)|null|
+|**2026-06-15**|**Semantic Flip: Synthetic OOD Generation for Robust Refusal in Embodied Question Answering and Spatial Localization**|Dongbin Na et.al.|[2606.16898](http://arxiv.org/abs/2606.16898)|null|
+|**2026-06-15**|**Human-on-the-Bridge: Scalable Evaluation for AI Agents**|Fouad Bousetouane et.al.|[2606.16871](http://arxiv.org/abs/2606.16871)|null|
+|**2026-06-15**|**Evolution & Foundation: AI Shares Creative Control**|Dylan Banarse et.al.|[2606.16849](http://arxiv.org/abs/2606.16849)|null|
+|**2026-06-15**|**Towards LLM Accelerated Rapid Reviews for Software Tool Discovery -- Case for Log Anomaly Detection**|Jesse Nyyssölä et.al.|[2606.16839](http://arxiv.org/abs/2606.16839)|null|
+|**2026-06-15**|**CacheWise: Understanding Workloads and Optimizing KVCache Management for Efficiently Serving LLM Coding Agents**|Shubham Tiwari et.al.|[2606.16824](http://arxiv.org/abs/2606.16824)|null|
+|**2026-06-15**|**GIST-CMTF: Goal-State Inference for Causal Minimal Tool Filtering in LLM Agents**|Rahul Suresh Babu et.al.|[2606.16813](http://arxiv.org/abs/2606.16813)|null|
+|**2026-06-15**|**LabOSBench: Benchmarking Computer Use Agents for Scientific Instrument Control**|Anqi Zou et.al.|[2606.16802](http://arxiv.org/abs/2606.16802)|null|
+|**2026-06-15**|**OpenClaw-Skill: Collective Skill Tree Search for Agentic Large Language Models**|Tianyi Lin et.al.|[2606.16774](http://arxiv.org/abs/2606.16774)|null|
+|**2026-06-15**|**Skill-to-LoRA: From Using Skills to Learning Behaviors for Token-Efficient LLM Agents**|Tianyi Zhang et.al.|[2606.16769](http://arxiv.org/abs/2606.16769)|null|
+|**2026-06-15**|**Witnesses and Counterexamples for Timed Bisimulation**|Alexander Lieb et.al.|[2606.16736](http://arxiv.org/abs/2606.16736)|null|
+|**2026-06-15**|**A First-Principles Derivation of LLM Policy Optimization: From Expected Reward to GRPO and Its Structural Extensions**|Jianghan Shen et.al.|[2606.16733](http://arxiv.org/abs/2606.16733)|null|
+|**2026-06-15**|**AgentFairBench: Do LLM Agents Discriminate When They Act?**|Triveni Morla et.al.|[2606.16723](http://arxiv.org/abs/2606.16723)|null|
+|**2026-06-15**|**Misinformation Propagation in Benign Multi-Agent Systems**|Jonas Becker et.al.|[2606.16710](http://arxiv.org/abs/2606.16710)|null|
+|**2026-06-15**|**User as Code: Executable Memory for Personalized Agents**|Bojie Li et.al.|[2606.16707](http://arxiv.org/abs/2606.16707)|null|
+|**2026-06-15**|**Multimodal Evaluator Preference Collapse: Cross-Modal Contagion in Self-Evolving Agents**|Zewen Liu et.al.|[2606.16682](http://arxiv.org/abs/2606.16682)|null|
 |**2026-06-12**|**AgentSpec: Understanding Embodied Agent Scaffolds Through Controlled Composition**|Jixuan Chen et.al.|[2606.14674](http://arxiv.org/abs/2606.14674)|null|
 |**2026-06-12**|**Towards Direct Latent-Space Synthesis for Parallel Branches in LLM-Agent Workflows**|Shikun Liu et.al.|[2606.14672](http://arxiv.org/abs/2606.14672)|null|
 |**2026-06-12**|**Towards In Silico Cancer Therapy Design: An Agent-Based Approach for GPU-Accelerated Molecular Pathway Simulation**|Stefano Maestri et.al.|[2606.14603](http://arxiv.org/abs/2606.14603)|null|
@@ -3797,6 +3817,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-15**|**The Value Axis: Language Models Encode Whether They're on the Right Track**|Nick Jiang et.al.|[2606.17056](http://arxiv.org/abs/2606.17056)|null|
+|**2026-06-15**|**Context-Aware RL for Agentic and Multimodal LLMs**|Peiyang Xu et.al.|[2606.17053](http://arxiv.org/abs/2606.17053)|null|
+|**2026-06-15**|**FusionRS: A Large-Scale RGB-Infrared Remote Sensing Dataset for Dual-Modal Vision-Language Foundation Models**|Jiaju Han et.al.|[2606.17020](http://arxiv.org/abs/2606.17020)|null|
+|**2026-06-15**|**When in Doubt, Plan It Out: Committed Small Language Model Deliberation for Reactive Reinforcement Learning**|Nathan Gavenski et.al.|[2606.16995](http://arxiv.org/abs/2606.16995)|null|
+|**2026-06-15**|**DreamX-World 1.0: A General-Purpose Interactive World Model**| DreamX Team et.al.|[2606.16993](http://arxiv.org/abs/2606.16993)|null|
+|**2026-06-15**|**Consensus-based Agentic Large Language Model Framework for Harmonized Tariff Schedule Code Classification**|Truong Thanh Hung Nguyen et.al.|[2606.16987](http://arxiv.org/abs/2606.16987)|null|
+|**2026-06-15**|**Phantoms and Disclosures: a Causal Framework for Auditing Synthetic Data**|Kareem Amin et.al.|[2606.16952](http://arxiv.org/abs/2606.16952)|null|
+|**2026-06-15**|**Scalable Circuit Learning for Interpreting Large Language Models**|Naiyu Yin et.al.|[2606.16939](http://arxiv.org/abs/2606.16939)|null|
+|**2026-06-15**|**Exploring Extrinsic and Intrinsic Properties for Effective Reasoning with Code Interpreter**|Patomporn Payoungkhamdee et.al.|[2606.16934](http://arxiv.org/abs/2606.16934)|null|
+|**2026-06-15**|**IMPACTeen: Intentions, Manipulation, Persuasion, Annotations, and Consequences in Teen Communication Dataset**|Aleksander Szczęsny et.al.|[2606.16910](http://arxiv.org/abs/2606.16910)|null|
+|**2026-06-15**|**LESS Is More: Mutual-Stability Sampling for Diffusion Language Models**|Amr Mohamed et.al.|[2606.16908](http://arxiv.org/abs/2606.16908)|null|
+|**2026-06-15**|**Speaking the Language of Science: Toward a General-Purpose Generative Foundation Model for the Natural Sciences**|Mingyang Li et.al.|[2606.16905](http://arxiv.org/abs/2606.16905)|null|
+|**2026-06-15**|**Binary Tracking for Spatial QA and Navigation with Open Vision-Language Models**|Dongbin Na et.al.|[2606.16902](http://arxiv.org/abs/2606.16902)|null|
+|**2026-06-15**|**Fantastic Pretraining Optimizers and Where to Find Them II: Hyperball Optimization**|Kaiyue Wen et.al.|[2606.16899](http://arxiv.org/abs/2606.16899)|null|
+|**2026-06-15**|**Semantic Flip: Synthetic OOD Generation for Robust Refusal in Embodied Question Answering and Spatial Localization**|Dongbin Na et.al.|[2606.16898](http://arxiv.org/abs/2606.16898)|null|
+|**2026-06-15**|**Contrastive-Difference CKA Reveals Concept-Specific Structural Alignment Across Language Model Architectures**|Xueping Gao et.al.|[2606.16897](http://arxiv.org/abs/2606.16897)|null|
+|**2026-06-15**|**Compositional Reasoning Depth Predicts Clinical AI Failure: Empirical Evidence Consistent with Transformer Compositionality Limits in Electronic Health Record Question Answering**|Sanjay Basu et.al.|[2606.16890](http://arxiv.org/abs/2606.16890)|null|
+|**2026-06-15**|**Neuro-Symbolic Software Verification: Hyper-charging Local Language Models with Symbolic Reasoning at Scale**|Muhammad A. A. Pirzada et.al.|[2606.16886](http://arxiv.org/abs/2606.16886)|null|
+|**2026-06-15**|**Revisiting the Systematicity in Negation in the Era of In-Context Learning**|Hitomi Yanaka et.al.|[2606.16867](http://arxiv.org/abs/2606.16867)|null|
+|**2026-06-15**|**Follow the Latent Roadmap: Navigating Revocable Decoding for Diffusion LLMs with Anchor Tokens**|Yizhen Yao et.al.|[2606.16847](http://arxiv.org/abs/2606.16847)|null|
 |**2026-06-12**|**Gaze Heads: How VLMs Look at What They Describe**|Rohit Gandikota et.al.|[2606.14703](http://arxiv.org/abs/2606.14703)|null|
 |**2026-06-12**|**OmniVideo-100K: A Dataset for Audio-Visual Reasoning through Structured Scripts and Evidence Chains**|Xinyue Cai et.al.|[2606.14702](http://arxiv.org/abs/2606.14702)|null|
 |**2026-06-12**|**RepFusion: Leveraging Multimodal Priors for Denoising in Representation Space**|Xichen Pan et.al.|[2606.14700](http://arxiv.org/abs/2606.14700)|null|
@@ -7422,6 +7462,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-15**|**The Value Axis: Language Models Encode Whether They're on the Right Track**|Nick Jiang et.al.|[2606.17056](http://arxiv.org/abs/2606.17056)|null|
+|**2026-06-15**|**Context-Aware RL for Agentic and Multimodal LLMs**|Peiyang Xu et.al.|[2606.17053](http://arxiv.org/abs/2606.17053)|null|
+|**2026-06-15**|**Hierarchical Advantage Weighting for Online RL Fine-Tuning of VLAs from Sparse Episode Outcomes**|Tongyan Fang et.al.|[2606.17043](http://arxiv.org/abs/2606.17043)|null|
+|**2026-06-15**|**R2RDreamer: 3D-aware Data Augmentation for Spatially-generalized 2D Manipulation Policies**|Xiuwei Xu et.al.|[2606.17040](http://arxiv.org/abs/2606.17040)|null|
+|**2026-06-15**|**DEEPRUBRIC: Evidence-Tree Rubric Supervision for Efficient Reinforcement Learning of Deep Research Agents**|Minghang Zhu et.al.|[2606.17029](http://arxiv.org/abs/2606.17029)|null|
+|**2026-06-15**|**ExpRL: Exploratory RL for LLM Mid-Training**|Violet Xiang et.al.|[2606.17024](http://arxiv.org/abs/2606.17024)|null|
+|**2026-06-15**|**ROVE: Unlocking Human Interventions for Humanoid Manipulation via Reinforcement Learning**|Wei Xiao et.al.|[2606.17011](http://arxiv.org/abs/2606.17011)|null|
+|**2026-06-15**|**TuneJury: An Open Metric for Improving Music Generation Preference Alignment**|Yonghyun Kim et.al.|[2606.17006](http://arxiv.org/abs/2606.17006)|null|
+|**2026-06-15**|**When in Doubt, Plan It Out: Committed Small Language Model Deliberation for Reactive Reinforcement Learning**|Nathan Gavenski et.al.|[2606.16995](http://arxiv.org/abs/2606.16995)|null|
+|**2026-06-15**|**DreamX-World 1.0: A General-Purpose Interactive World Model**| DreamX Team et.al.|[2606.16993](http://arxiv.org/abs/2606.16993)|null|
+|**2026-06-15**|**Grassmannian quantum cohomology in the infinite limit and total positivity**|Ines Chung-Halpern et.al.|[2606.16983](http://arxiv.org/abs/2606.16983)|null|
+|**2026-06-15**|**Task-Error Residual Learning for Real-Robot Five-Ball Juggling**|Kai Ploeger et.al.|[2606.16978](http://arxiv.org/abs/2606.16978)|null|
+|**2026-06-15**|**Exploring Extrinsic and Intrinsic Properties for Effective Reasoning with Code Interpreter**|Patomporn Payoungkhamdee et.al.|[2606.16934](http://arxiv.org/abs/2606.16934)|null|
+|**2026-06-15**|**A Unified Causal-Origin Taxonomy of Distributional Shifts in Reinforcement Learning**|Ardianto Wibowo et.al.|[2606.16933](http://arxiv.org/abs/2606.16933)|null|
+|**2026-06-15**|**Greed Is Learned: Visible Incentives as Reward-Hacking Triggers**|Tong Che et.al.|[2606.16914](http://arxiv.org/abs/2606.16914)|null|
+|**2026-06-15**|**Latent Space Reinforcement Learning for Inverse Material Estimation in Food Fracture Simulation**|Adrian Ramlal et.al.|[2606.16870](http://arxiv.org/abs/2606.16870)|null|
+|**2026-06-15**|**Video-Based Optimal Transport for Feedback-Efficient Offline Preference-Based Reinforcement Learning**|Tung M. Luu et.al.|[2606.16856](http://arxiv.org/abs/2606.16856)|null|
+|**2026-06-15**|**Deep Q-Learning on Hölder Spaces**|Qian Qi et.al.|[2606.16846](http://arxiv.org/abs/2606.16846)|null|
+|**2026-06-15**|**Understanding the Behaviors of Environment-aware Information Retrieval**|Ruifeng Yuan et.al.|[2606.16817](http://arxiv.org/abs/2606.16817)|null|
+|**2026-06-15**|**OpenClaw-Skill: Collective Skill Tree Search for Agentic Large Language Models**|Tianyi Lin et.al.|[2606.16774](http://arxiv.org/abs/2606.16774)|null|
 |**2026-06-12**|**Learning Coordinated Preference for Multi-Objective Multi-Agent Reinforcement Learning**|Pengxin Wang et.al.|[2606.14693](http://arxiv.org/abs/2606.14693)|null|
 |**2026-06-12**|**CORA: Analyzing and bridging thinking-answer gap in Multimodal RLVR via Consistency-Oriented Reasoning Alignment**|Jiayue Cao et.al.|[2606.14691](http://arxiv.org/abs/2606.14691)|null|
 |**2026-06-12**|**AgentSpec: Understanding Embodied Agent Scaffolds Through Controlled Composition**|Jixuan Chen et.al.|[2606.14674](http://arxiv.org/abs/2606.14674)|null|
