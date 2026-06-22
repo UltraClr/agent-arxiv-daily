@@ -3934,7 +3934,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |**2026-06-15**|**Context-Aware RL for Agentic and Multimodal LLMs**|Peiyang Xu et.al.|[2606.17053](http://arxiv.org/abs/2606.17053)|null|
 |**2026-06-15**|**FusionRS: A Large-Scale RGB-Infrared Remote Sensing Dataset for Dual-Modal Vision-Language Foundation Models**|Jiaju Han et.al.|[2606.17020](http://arxiv.org/abs/2606.17020)|null|
 |**2026-06-15**|**When in Doubt, Plan It Out: Committed Small Language Model Deliberation for Reactive Reinforcement Learning**|Nathan Gavenski et.al.|[2606.16995](http://arxiv.org/abs/2606.16995)|null|
-|**2026-06-15**|**DreamX-World 1.0: A General-Purpose Interactive World Model**| DreamX Team et.al.|[2606.16993](http://arxiv.org/abs/2606.16993)|null|
+|**2026-06-15**|**DreamX-World 1.0: A General-Purpose Interactive World Model**|DreamX Team et.al.|[2606.16993](http://arxiv.org/abs/2606.16993)|null|
 |**2026-06-15**|**Consensus-based Agentic Large Language Model Framework for Harmonized Tariff Schedule Code Classification**|Truong Thanh Hung Nguyen et.al.|[2606.16987](http://arxiv.org/abs/2606.16987)|null|
 |**2026-06-15**|**Phantoms and Disclosures: a Causal Framework for Auditing Synthetic Data**|Kareem Amin et.al.|[2606.16952](http://arxiv.org/abs/2606.16952)|null|
 |**2026-06-15**|**Scalable Circuit Learning for Interpreting Large Language Models**|Naiyu Yin et.al.|[2606.16939](http://arxiv.org/abs/2606.16939)|null|
@@ -7642,7 +7642,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |**2026-06-15**|**ROVE: Unlocking Human Interventions for Humanoid Manipulation via Reinforcement Learning**|Wei Xiao et.al.|[2606.17011](http://arxiv.org/abs/2606.17011)|null|
 |**2026-06-15**|**TuneJury: An Open Metric for Improving Music Generation Preference Alignment**|Yonghyun Kim et.al.|[2606.17006](http://arxiv.org/abs/2606.17006)|null|
 |**2026-06-15**|**When in Doubt, Plan It Out: Committed Small Language Model Deliberation for Reactive Reinforcement Learning**|Nathan Gavenski et.al.|[2606.16995](http://arxiv.org/abs/2606.16995)|null|
-|**2026-06-15**|**DreamX-World 1.0: A General-Purpose Interactive World Model**| DreamX Team et.al.|[2606.16993](http://arxiv.org/abs/2606.16993)|null|
+|**2026-06-15**|**DreamX-World 1.0: A General-Purpose Interactive World Model**|DreamX Team et.al.|[2606.16993](http://arxiv.org/abs/2606.16993)|null|
 |**2026-06-15**|**Grassmannian quantum cohomology in the infinite limit and total positivity**|Ines Chung-Halpern et.al.|[2606.16983](http://arxiv.org/abs/2606.16983)|null|
 |**2026-06-15**|**Task-Error Residual Learning for Real-Robot Five-Ball Juggling**|Kai Ploeger et.al.|[2606.16978](http://arxiv.org/abs/2606.16978)|null|
 |**2026-06-15**|**Exploring Extrinsic and Intrinsic Properties for Effective Reasoning with Code Interpreter**|Patomporn Payoungkhamdee et.al.|[2606.16934](http://arxiv.org/abs/2606.16934)|null|
