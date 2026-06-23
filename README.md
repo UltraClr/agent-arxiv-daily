@@ -21,6 +21,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-22**|**Semantic Browsing: Controllable Diversity for Image Generation**|Sara Dorfman et.al.|[2606.23679](http://arxiv.org/abs/2606.23679)|null|
+|**2026-06-22**|**AIR: Adaptive Interleaved Reasoning with Code in MLLMs**|Cong Han et.al.|[2606.23678](http://arxiv.org/abs/2606.23678)|null|
+|**2026-06-22**|**HoloAgent-0: A Unified Embodied Agent Framework with 3D Spatial Memory**|Xiaolin Zhou et.al.|[2606.23565](http://arxiv.org/abs/2606.23565)|null|
+|**2026-06-22**|**Concordia: JIT-Compiled Persistent-Kernel Checkpointing for Fault-Tolerant LLM Inference**|Yuhang Gan et.al.|[2606.23521](http://arxiv.org/abs/2606.23521)|null|
+|**2026-06-22**|**Continuity equations in the Generalised Lagrangian Mean theory**|Vladimir A. Vladimirov et.al.|[2606.23481](http://arxiv.org/abs/2606.23481)|null|
+|**2026-06-22**|**AOHP: An Open-Source OS-Level Agent Harness for Personalized, Efficient and Secure Interaction**|Shanhui Zhao et.al.|[2606.23449](http://arxiv.org/abs/2606.23449)|null|
+|**2026-06-22**|**Detecting Malicious Agent Skills in the Wild using Attention**|Bacem Etteib et.al.|[2606.23416](http://arxiv.org/abs/2606.23416)|null|
+|**2026-06-22**|**Superhuman AI for Generals.io Using Self-Play Reinforcement Learning**|Matej Straka et.al.|[2606.23348](http://arxiv.org/abs/2606.23348)|null|
+|**2026-06-22**|**Group Selection Promotes Prosocial Prompts in Populations of LLM Agents**|Luis Celiktemel et.al.|[2606.23343](http://arxiv.org/abs/2606.23343)|null|
+|**2026-06-22**|**VideoAgent: All-in-One Framework for Video Understanding and Editing**|Hengji Zhou et.al.|[2606.23327](http://arxiv.org/abs/2606.23327)|null|
+|**2026-06-22**|**Test-Driven, AI-Assisted Learning: Replacing Lectures with Weekly Closed-Book Tests**|Jin-Guo Liu et.al.|[2606.23315](http://arxiv.org/abs/2606.23315)|null|
+|**2026-06-22**|**IOI: Decoupling Kinematics and Physics for Interactive World Models**|Chengyu Bai et.al.|[2606.23296](http://arxiv.org/abs/2606.23296)|null|
+|**2026-06-22**|**GIF: Locally Sound Geometric Information Flow Control for LLMs**|Adam Storek et.al.|[2606.23277](http://arxiv.org/abs/2606.23277)|null|
+|**2026-06-22**|**Wireless Personal Agent: Extending Wireless Intelligence from Networks to Terminals**|Jiedan Tan et.al.|[2606.23255](http://arxiv.org/abs/2606.23255)|null|
+|**2026-06-22**|**RS-Gen: A Multi-Stage Agentic Framework for Reasoning and Search-Augmented Image Generation**|Feifei Bian et.al.|[2606.23221](http://arxiv.org/abs/2606.23221)|null|
+|**2026-06-22**|**MuPPET: A Benchmark for Contextual Privacy of LLM Assistants in Multi-Party Conversations**|Elena Sofia Ruzzetti et.al.|[2606.23217](http://arxiv.org/abs/2606.23217)|null|
+|**2026-06-22**|**Memory Contagion: Cross-Temporal Propagation of Evaluator Bias via Agent Memory**|Zewen Liu et.al.|[2606.23195](http://arxiv.org/abs/2606.23195)|null|
+|**2026-06-22**|**Position: Correct Answer, Wrong Mechanism -- When AI Scientists Defend General Claims Their Own Data Contradicts**|Steven Young Eulig et.al.|[2606.23175](http://arxiv.org/abs/2606.23175)|null|
+|**2026-06-22**|**Understanding the (In)Security of Vibe-Coded Applications**|Junquan Deng et.al.|[2606.23130](http://arxiv.org/abs/2606.23130)|null|
+|**2026-06-22**|**Managing Procedural Memory in LLM Agents: Control, Adaptation, and Evaluation**|Julia Belikova et.al.|[2606.23127](http://arxiv.org/abs/2606.23127)|null|
 |**2026-06-21**|**MacAgentBench: Benchmarking AI Agents on Real-World macOS Desktop**|Yikun Fu et.al.|[2606.22557](http://arxiv.org/abs/2606.22557)|null|
 |**2026-06-21**|**Governance Decay: How Context Compaction Silently Erases Safety Constraints in Long-Horizon LLM Agents**|Shiyang Chen et.al.|[2606.22528](http://arxiv.org/abs/2606.22528)|null|
 |**2026-06-21**|**Lingering Authority: Revocable Resource-and-Effect Capabilities for Coding Agents**|Igor Santos-Grueiro et.al.|[2606.22504](http://arxiv.org/abs/2606.22504)|null|
@@ -3897,6 +3917,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-22**|**Randomized YaRN Improves Length Generalization for Long-Context Reasoning**|Manas Mehta et.al.|[2606.23687](http://arxiv.org/abs/2606.23687)|null|
+|**2026-06-22**|**Semantic Browsing: Controllable Diversity for Image Generation**|Sara Dorfman et.al.|[2606.23679](http://arxiv.org/abs/2606.23679)|null|
+|**2026-06-22**|**AIR: Adaptive Interleaved Reasoning with Code in MLLMs**|Cong Han et.al.|[2606.23678](http://arxiv.org/abs/2606.23678)|null|
+|**2026-06-22**|**Open Problem: Is AdamW Effective Under Heavy-Tailed Noise?**|Dingzhi Yu et.al.|[2606.23676](http://arxiv.org/abs/2606.23676)|null|
+|**2026-06-22**|**Teaching LLMs String Matching, Backtracking, and Error Recovery to Deduce Bases and Truth Tables for the Combinatorially Exploding Bit Manipulation Puzzles**|Prateek Agnihotri et.al.|[2606.23672](http://arxiv.org/abs/2606.23672)|null|
+|**2026-06-22**|**Can LLMs Reliably Self-Report Adversarial Prefills, and How?**|Quang Minh Nguyen et.al.|[2606.23671](http://arxiv.org/abs/2606.23671)|null|
+|**2026-06-22**|**Tapered Language Models**|Reza Bayat et.al.|[2606.23670](http://arxiv.org/abs/2606.23670)|null|
+|**2026-06-22**|**On the Limits of Prompt-Conditioned Language Models as General-Purpose Learners**|David Mguni et.al.|[2606.23668](http://arxiv.org/abs/2606.23668)|null|
+|**2026-06-22**|**The Table Says Otherwise: Testing LLMs with Counterfactual Relational Data**|Xinzhi Wang et.al.|[2606.23667](http://arxiv.org/abs/2606.23667)|null|
+|**2026-06-22**|**Statistical Proof as a Window into Human-AI Collaboration: Practical Insights and a Community Agenda**|Xiaojing Sun et.al.|[2606.23666](http://arxiv.org/abs/2606.23666)|null|
+|**2026-06-22**|**Muown Implicitly Performs Angular Step-size Decay**|Florian Hübler et.al.|[2606.23637](http://arxiv.org/abs/2606.23637)|null|
+|**2026-06-22**|**AI Exposure Scores: what they measure, what they miss, and what comes next**|Campbell Lund et.al.|[2606.23633](http://arxiv.org/abs/2606.23633)|null|
+|**2026-06-22**|**Data Selection Through Iterative Self-Filtering for Vision-Language Settings**|Andrei Liviu Nicolicioiu et.al.|[2606.23611](http://arxiv.org/abs/2606.23611)|null|
+|**2026-06-22**|**Causal Discovery in the Era of Agents**|Yujia Zheng et.al.|[2606.23608](http://arxiv.org/abs/2606.23608)|null|
+|**2026-06-22**|**Scaling Linear Mode Connectivity and Merging to Billion Parameter Pretrained Transformers**|Tianyi Li et.al.|[2606.23607](http://arxiv.org/abs/2606.23607)|null|
+|**2026-06-22**|**SPIRAL: Learning to Search and Aggregate**|Jubayer Ibn Hamid et.al.|[2606.23595](http://arxiv.org/abs/2606.23595)|null|
+|**2026-06-22**|**The Topology of Ill-Posed Questions: Persistent Homology for Detection and Steering in LLMs**|Guangyu Jiang et.al.|[2606.23590](http://arxiv.org/abs/2606.23590)|null|
+|**2026-06-22**|**Evaluation Awareness Is Not One Capability: Evidence from Open Language Models**|Nilesh Nayan et.al.|[2606.23583](http://arxiv.org/abs/2606.23583)|null|
+|**2026-06-22**|**INCARBench: A Benchmark for Scientific Configuration in VASP INCAR by Large Language Models**|Bin Shao et.al.|[2606.23571](http://arxiv.org/abs/2606.23571)|null|
+|**2026-06-22**|**SVD-Surgeon: Optimal Singular-Value Surgery for Large Language Model Compression**|Mahmoud Safari et.al.|[2606.23568](http://arxiv.org/abs/2606.23568)|null|
 |**2026-06-21**|**PaperClaw: Harnessing Agents for Autonomous Research and Human-in-the-Loop Refinement**|Weiwei Ye et.al.|[2606.22610](http://arxiv.org/abs/2606.22610)|null|
 |**2026-06-21**|**Sub-Billion, Super-Frontier: Small Language Models Rival Zero-Shot Frontier LLMs on General and Literary Relation Extraction**|Despina Christou et.al.|[2606.22606](http://arxiv.org/abs/2606.22606)|null|
 |**2026-06-21**|**MapReason-OSM: Can Vision-Language Models Make Graph-Verifiable Mobility Decisions from Street Maps ?**|Srinivas Venkatanarayanan et.al.|[2606.22597](http://arxiv.org/abs/2606.22597)|null|
@@ -7622,6 +7662,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-22**|**CoorDex: Coordinating Body and Hand Priors for Continuous Dexterous Humanoid Loco-Manipulation**|Sikai Li et.al.|[2606.23680](http://arxiv.org/abs/2606.23680)|null|
+|**2026-06-22**|**AIR: Adaptive Interleaved Reasoning with Code in MLLMs**|Cong Han et.al.|[2606.23678](http://arxiv.org/abs/2606.23678)|null|
+|**2026-06-22**|**Resolving support-mismatch by local basis rotation in variational Monte Carlo**|Jia-Lin Chen et.al.|[2606.23657](http://arxiv.org/abs/2606.23657)|null|
+|**2026-06-22**|**Dynamic estimation of slowly varying sequences**|Prashant Gokhale et.al.|[2606.23655](http://arxiv.org/abs/2606.23655)|null|
+|**2026-06-22**|**Optimal Stopping for a Diffusion with Unobserved Bernoulli Drift**|Georgy Gaitsgori et.al.|[2606.23648](http://arxiv.org/abs/2606.23648)|null|
+|**2026-06-22**|**Learning Process Rewards via Success Visitation Matching for Efficient RL**|Raymond Tsao et.al.|[2606.23640](http://arxiv.org/abs/2606.23640)|null|
+|**2026-06-22**|**DiT-Reward: Generative Representations for Text-to-Image Reward Modeling**|Yuanming Yang et.al.|[2606.23626](http://arxiv.org/abs/2606.23626)|null|
+|**2026-06-22**|**Learning to See While Learning to Act: Diffusion Models for Active Perception in Robot Imitation**|Kuancheng Wang et.al.|[2606.23625](http://arxiv.org/abs/2606.23625)|null|
+|**2026-06-22**|**dVLA-RL: Reinforcement Learning over Denoising Trajectories for Discrete Diffusion Vision-Language-Action Models**|Yuhao Wu et.al.|[2606.23623](http://arxiv.org/abs/2606.23623)|null|
+|**2026-06-22**|**RECALL: Recovery Experience Collection for Active Lifelong Learning in Vision-Language-Action Models**|Ulas Berk Karli et.al.|[2606.23617](http://arxiv.org/abs/2606.23617)|null|
+|**2026-06-22**|**MORL-A2C: Multi-Objective Reinforcement Learning Reranker for Optimizing Healthiness in MOPI-HFRS**|Aarya Vasantlal et.al.|[2606.23603](http://arxiv.org/abs/2606.23603)|null|
+|**2026-06-22**|**SPIRAL: Learning to Search and Aggregate**|Jubayer Ibn Hamid et.al.|[2606.23595](http://arxiv.org/abs/2606.23595)|null|
+|**2026-06-22**|**Two-Stage Optimization for Dynamic Line Rating and Energy Storage Deployment**|Abanish Tiwari et.al.|[2606.23586](http://arxiv.org/abs/2606.23586)|null|
+|**2026-06-22**|**Decentralized Autonomous Traffic Management through Corridor Networks**|Jasmine Jerry Aloor et.al.|[2606.23585](http://arxiv.org/abs/2606.23585)|null|
+|**2026-06-22**|**Protection Switching in Hybrid Hollow-Core and Single-Mode Fiber Networks: Challenges, Analysis, and Mitigation Strategies**|Md Ghulam Saber et.al.|[2606.23554](http://arxiv.org/abs/2606.23554)|null|
+|**2026-06-22**|**Structure-Aware Variance Reduction for Unbiased Randomized Hamiltonian Simulation**|Joshua W. Dai et.al.|[2606.23544](http://arxiv.org/abs/2606.23544)|null|
+|**2026-06-22**|**VeriEvol: Scaling Multimodal Mathematical Reasoning via Verifiable Evol-Instruct**|Haoling Li et.al.|[2606.23543](http://arxiv.org/abs/2606.23543)|null|
+|**2026-06-22**|**SQLConductor: Search-to-Policy Learning for Step-wise Text-to-SQL Orchestration**|Yizhang Zhu et.al.|[2606.23537](http://arxiv.org/abs/2606.23537)|null|
+|**2026-06-22**|**BiliVLA: Scene-Aware Vision-Language-Action Model with Reinforcement Learning for Autonomous Biliary Endoscopic Navigation**|Jinsong Lin et.al.|[2606.23531](http://arxiv.org/abs/2606.23531)|null|
+|**2026-06-22**|**Towards an Automated Reasoning Tool for Complexity Analysis of Automated Reasoners**|Louis Rustenholz et.al.|[2606.23516](http://arxiv.org/abs/2606.23516)|null|
 |**2026-06-21**|**On the Position Bias of On-Policy Distillation**|Yan Xie et.al.|[2606.22600](http://arxiv.org/abs/2606.22600)|null|
 |**2026-06-21**|**Stationary Robust Mean-Field Games under Model Mismatches**|Yue Wang et.al.|[2606.22579](http://arxiv.org/abs/2606.22579)|null|
 |**2026-06-21**|**OASIS: Observation-Aware Simulation-Based Inference via Distributional Matching**|Arya Farahi et.al.|[2606.22572](http://arxiv.org/abs/2606.22572)|null|
