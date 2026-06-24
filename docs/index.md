@@ -16,6 +16,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-23**|**SHERLOC: Structured Diagnostic Localization for Code Repair Agents**|Hovhannes Tamoyan et.al.|[2606.24820](http://arxiv.org/abs/2606.24820)|null|
+|**2026-06-23**|**MANGO: Automated Multi-Agent Test Oracle Generation for Vision-Language-Action Models**|Pablo Valle et.al.|[2606.24815](http://arxiv.org/abs/2606.24815)|null|
+|**2026-06-23**|**Paying to Know: Micro-Transaction Markets for Verified Product Information in Agentic E-Commerce**|Filippos Ventirozos et.al.|[2606.24783](http://arxiv.org/abs/2606.24783)|null|
+|**2026-06-23**|**DeepBD: A Grounded Agentic Workflow for Variant Prioritization and Diagnosis of Genetic Birth Defects**|Shiyu Li et.al.|[2606.24779](http://arxiv.org/abs/2606.24779)|null|
+|**2026-06-23**|**Are We Ready For An Agent-Native Memory System?**|Wei Zhou et.al.|[2606.24775](http://arxiv.org/abs/2606.24775)|null|
+|**2026-06-23**|**SupplyNet: Supporting Visual Exploratory Learning in Supply Chain via Contextual Multi-Agent Simulation**|Yanjia Li et.al.|[2606.24694](http://arxiv.org/abs/2606.24694)|null|
+|**2026-06-23**|**Automated Summarization of Software Documents: An LLM-based Multi-Agent Approach**|Duc S. H. Nguyen et.al.|[2606.24689](http://arxiv.org/abs/2606.24689)|null|
+|**2026-06-23**|**Agentic Collaborative Cognition for Zero-Shot 3D Understanding**|Wenxin Wang et.al.|[2606.24649](http://arxiv.org/abs/2606.24649)|null|
+|**2026-06-23**|**SAFARI: Scaling Long Horizon Agentic Fault Attribution via Active Investigation**|Chenyang Zhu et.al.|[2606.24626](http://arxiv.org/abs/2606.24626)|null|
+|**2026-06-23**|**Privacy-Preserving RAG via Multi-Agent Semantic Rewriting: Achieving Confidentiality Without Compromising Contextual Fidelity**|Yuanhe Zhao et.al.|[2606.24623](http://arxiv.org/abs/2606.24623)|null|
+|**2026-06-23**|**Degeneracy-Aware Resilient Resource Allocation in Cell-Free Cache-Aided MU-MIMO Networks**|Sayanti Ghosh et.al.|[2606.24611](http://arxiv.org/abs/2606.24611)|null|
+|**2026-06-23**|**CONDUCTOR: An LLM-Orchestrated Digital Twin for Uncertainty-Aware Distribution Grid Operations**|Antonio Alcántara et.al.|[2606.24609](http://arxiv.org/abs/2606.24609)|null|
+|**2026-06-23**|**Qwen-AgentWorld: Language World Models for General Agents**|Yuxin Zuo et.al.|[2606.24597](http://arxiv.org/abs/2606.24597)|null|
+|**2026-06-23**|**MEMPROBE: Probing Long-Term Agent Memory via Hidden User-State Recovery**|Enze Ma et.al.|[2606.24595](http://arxiv.org/abs/2606.24595)|null|
+|**2026-06-23**|**AdversaBench: Automated LLM Red-Teaming with Multi-Judge Confirmation and Cross-Model Transferability**|Khanak Khandelwal et.al.|[2606.24589](http://arxiv.org/abs/2606.24589)|null|
+|**2026-06-23**|**NatureBench: Can Coding Agents Match the Published SOTA of Nature-Family Papers?**|Yuru Wang et.al.|[2606.24530](http://arxiv.org/abs/2606.24530)|null|
+|**2026-06-23**|**Bayesian control for coding agents**|Theodore Papamarkou et.al.|[2606.24453](http://arxiv.org/abs/2606.24453)|null|
+|**2026-06-23**|**Agentic Generation of AST Transformation Rules for Fixing Breaking Updates**|Frank Reyes et.al.|[2606.24446](http://arxiv.org/abs/2606.24446)|null|
+|**2026-06-23**|**ReM-MoA: Reasoning Memory Sustains Mixture-of-Agents Scaling**|Heng Ping et.al.|[2606.24437](http://arxiv.org/abs/2606.24437)|null|
+|**2026-06-23**|**Detecting AI Coding Agents in Open Source: A Validated Multi-Method Census of 180 Million Repositories**|Arsham Khosravani et.al.|[2606.24429](http://arxiv.org/abs/2606.24429)|null|
 |**2026-06-22**|**Semantic Browsing: Controllable Diversity for Image Generation**|Sara Dorfman et.al.|[2606.23679](http://arxiv.org/abs/2606.23679)|null|
 |**2026-06-22**|**AIR: Adaptive Interleaved Reasoning with Code in MLLMs**|Cong Han et.al.|[2606.23678](http://arxiv.org/abs/2606.23678)|null|
 |**2026-06-22**|**HoloAgent-0: A Unified Embodied Agent Framework with 3D Spatial Memory**|Xiaolin Zhou et.al.|[2606.23565](http://arxiv.org/abs/2606.23565)|null|
@@ -3910,6 +3930,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-23**|**BenchX: Benchmarking AI Models for Cancer Detection and Localization with Demographic and Protocol Biases**|Qi Chen et.al.|[2606.24883](http://arxiv.org/abs/2606.24883)|null|
+|**2026-06-23**|**"Zooming In" on Agentic Web Browsers as Assistive Technologies: A Case Study with a Low-Vision Technology Expert**|Laura Colazzo et.al.|[2606.24870](http://arxiv.org/abs/2606.24870)|null|
+|**2026-06-23**|**OpenThoughts-Agent: Data Recipes for Agentic Models**|Negin Raoof et.al.|[2606.24855](http://arxiv.org/abs/2606.24855)|null|
+|**2026-06-23**|**IV-CoT: Implicit Visual Chain-of-Thought for Structure-Aware Text-to-Image Generation**|Zixuan Li et.al.|[2606.24849](http://arxiv.org/abs/2606.24849)|null|
+|**2026-06-23**|**Matching Tasks to Objectives: Fine-Tuning and Prompt-Tuning Strategies for Encoder-Decoder Pre-trained Language Models**|Ahmad Pouramini et.al.|[2606.24841](http://arxiv.org/abs/2606.24841)|null|
+|**2026-06-23**|**Vision-Language Model Reasoning for Contextual Semantic Mapping in Intralogistics**|Marvin Rüdt et.al.|[2606.24814](http://arxiv.org/abs/2606.24814)|null|
+|**2026-06-23**|**Large-Language-Model Discovery of Quantum LDPC Codes through Structured Concept Evolution**|Zidu Liu et.al.|[2606.24808](http://arxiv.org/abs/2606.24808)|null|
+|**2026-06-23**|**EG-VQA: Benchmarking Verifiable Video Question Answering with Grounded Temporal Evidence**|Linpeng Huang et.al.|[2606.24797](http://arxiv.org/abs/2606.24797)|null|
+|**2026-06-23**|**Grad Detect: Gradient-Based Hallucination Detection in LLMs**|Anand Kamat et.al.|[2606.24790](http://arxiv.org/abs/2606.24790)|null|
+|**2026-06-23**|**Are We Ready For An Agent-Native Memory System?**|Wei Zhou et.al.|[2606.24775](http://arxiv.org/abs/2606.24775)|null|
+|**2026-06-23**|**Posterior Refinement: Fast Language Generation via Any-Order Flow Maps**|Manan Agarwal et.al.|[2606.24773](http://arxiv.org/abs/2606.24773)|null|
+|**2026-06-23**|**UniDrive: A Unified Vision-Language and Grounding Framework for Interpretable Risk Understanding in Autonomous Driving**|Xiaowei Gao et.al.|[2606.24759](http://arxiv.org/abs/2606.24759)|null|
+|**2026-06-23**|**Can Scale Save Us From Plasticity Loss in Large Language Models?**|J. Fernando Hernandez-Garcia et.al.|[2606.24752](http://arxiv.org/abs/2606.24752)|null|
+|**2026-06-23**|**Scaling Laws for Task-Specific LLM Distillation**|Lavinia Ghita et.al.|[2606.24747](http://arxiv.org/abs/2606.24747)|null|
+|**2026-06-23**|**Beyond U-Net: A Latent-Representation-Aligned Skip-Free Backbone for Flow-Matching Speech Enhancement**|Wangyi Pu et.al.|[2606.24745](http://arxiv.org/abs/2606.24745)|null|
+|**2026-06-23**|**World Value Models for Robotic Manipulation**|Zhihao Wang et.al.|[2606.24742](http://arxiv.org/abs/2606.24742)|null|
+|**2026-06-23**|**BioMedVR: Confusion-Aware Mixture-of-Prompt Experts for Biomedical Visual Reprogramming**|Jiaxiang Liu et.al.|[2606.24740](http://arxiv.org/abs/2606.24740)|null|
+|**2026-06-23**|**A Grounded Evidence-Retrieval Benchmark and Hybrid RAG Framework for Silicon Pixel Detector R&D**|Tianqi Gao et.al.|[2606.24725](http://arxiv.org/abs/2606.24725)|null|
+|**2026-06-23**|**Evaluating the Interpretability of Sparse Autoencoders with Concept Annotations**|Jonas Klotz et.al.|[2606.24716](http://arxiv.org/abs/2606.24716)|null|
+|**2026-06-23**|**Automated Summarization of Software Documents: An LLM-based Multi-Agent Approach**|Duc S. H. Nguyen et.al.|[2606.24689](http://arxiv.org/abs/2606.24689)|null|
 |**2026-06-22**|**Randomized YaRN Improves Length Generalization for Long-Context Reasoning**|Manas Mehta et.al.|[2606.23687](http://arxiv.org/abs/2606.23687)|null|
 |**2026-06-22**|**Semantic Browsing: Controllable Diversity for Image Generation**|Sara Dorfman et.al.|[2606.23679](http://arxiv.org/abs/2606.23679)|null|
 |**2026-06-22**|**AIR: Adaptive Interleaved Reasoning with Code in MLLMs**|Cong Han et.al.|[2606.23678](http://arxiv.org/abs/2606.23678)|null|
@@ -7653,6 +7693,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-23**|**Sequential Probability Ratio Test using Z-Statistics (SPRT-z): A Practical Approach for Online Experimentation**|Derek L. Ho et.al.|[2606.24871](http://arxiv.org/abs/2606.24871)|null|
+|**2026-06-23**|**Exact log-odds representation and mean-field criticality of a growing social group model**|Xingfu Ke et.al.|[2606.24818](http://arxiv.org/abs/2606.24818)|null|
+|**2026-06-23**|**Finite Spectral-Band Optimal Control of Acoustic Waves via Subwavelength Point-Like Resonant Actuators**|Arpan Mukherjee et.al.|[2606.24788](http://arxiv.org/abs/2606.24788)|null|
+|**2026-06-23**|**World Value Models for Robotic Manipulation**|Zhihao Wang et.al.|[2606.24742](http://arxiv.org/abs/2606.24742)|null|
+|**2026-06-23**|**Reweighting Underlying Event and Colour Reconnection parameter variations in Sherpa**|Moritz Pabst et.al.|[2606.24702](http://arxiv.org/abs/2606.24702)|null|
+|**2026-06-23**|**LaGO: Latent Action Guidance for Online Reinforcement Learning**|Kuan-Yen Liu et.al.|[2606.24669](http://arxiv.org/abs/2606.24669)|null|
+|**2026-06-23**|**CineCap: Structured Reasoning with Spatio-Temporal Anchors for Cinematographic Video Captioning**|Xinyu Mao et.al.|[2606.24636](http://arxiv.org/abs/2606.24636)|null|
+|**2026-06-23**|**Beyond Monotonic Progress: Retry-Supervised Value Learning for Robot Imitation**|Xinyao Qin et.al.|[2606.24633](http://arxiv.org/abs/2606.24633)|null|
+|**2026-06-23**|**Themis: An explainable AI-enabled framework for Reinforcement Learning with Human Feedback**|Andreas Chouliaras et.al.|[2606.24622](http://arxiv.org/abs/2606.24622)|null|
+|**2026-06-23**|**Quantum-enabled active matter at the atomic scale**|Sabrina Burgardt et.al.|[2606.24615](http://arxiv.org/abs/2606.24615)|null|
+|**2026-06-23**|**Degeneracy-Aware Resilient Resource Allocation in Cell-Free Cache-Aided MU-MIMO Networks**|Sayanti Ghosh et.al.|[2606.24611](http://arxiv.org/abs/2606.24611)|null|
+|**2026-06-23**|**ViTexQA: A Multi-Frame Temporal Perception Dataset for Video Text Question Answering**|Zhentao Guo et.al.|[2606.24602](http://arxiv.org/abs/2606.24602)|null|
+|**2026-06-23**|**ASALT: Adaptive State Alignment for Lateral Transfer in Multi-agent Reinforcement Learning**|Anurag Akula et.al.|[2606.24601](http://arxiv.org/abs/2606.24601)|null|
+|**2026-06-23**|**PointVG-R: Internalizing Geometric Reasoning in MLLMs for Precise Pointing Localization via Visual Chain of Thought**|Ling Li et.al.|[2606.24539](http://arxiv.org/abs/2606.24539)|null|
+|**2026-06-23**|**VisCritic: Visual State Comparison as Process Reward for GUI Agents**|Jiachen Qian et.al.|[2606.24525](http://arxiv.org/abs/2606.24525)|null|
+|**2026-06-23**|**What Do Flow-Based Inverse Solvers Approximate? A Posterior-Transport View**|Jian Xu et.al.|[2606.24516](http://arxiv.org/abs/2606.24516)|null|
+|**2026-06-23**|**Reinforcement Learning for Computer-Use Agents with Autonomous Evaluation**|Marta Sumyk et.al.|[2606.24515](http://arxiv.org/abs/2606.24515)|null|
+|**2026-06-23**|**Uncovering Latent Structures in Robust Pulse Sequences: A Model-Based Reinforcement Learning Approach for Adaptable Quantum Control**|Tobias Kiermeyer et.al.|[2606.24507](http://arxiv.org/abs/2606.24507)|null|
+|**2026-06-23**|**video-SALMONN-R $^3$ : Learning to ReWatch, ReAsk, and ReAnswer for Efficient Video Understanding**|Yixuan Li et.al.|[2606.24477](http://arxiv.org/abs/2606.24477)|null|
+|**2026-06-23**|**Entanglement and non-separability of momenta and coordinates at colliders**|Marco Fabbrichesi et.al.|[2606.24468](http://arxiv.org/abs/2606.24468)|null|
 |**2026-06-22**|**CoorDex: Coordinating Body and Hand Priors for Continuous Dexterous Humanoid Loco-Manipulation**|Sikai Li et.al.|[2606.23680](http://arxiv.org/abs/2606.23680)|null|
 |**2026-06-22**|**AIR: Adaptive Interleaved Reasoning with Code in MLLMs**|Cong Han et.al.|[2606.23678](http://arxiv.org/abs/2606.23678)|null|
 |**2026-06-22**|**Resolving support-mismatch by local basis rotation in variational Monte Carlo**|Jia-Lin Chen et.al.|[2606.23657](http://arxiv.org/abs/2606.23657)|null|
