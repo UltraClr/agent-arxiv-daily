@@ -21,6 +21,21 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-29**|**Self-Evolving World Models for LLM Agent Planning**|Xuan Zhang et.al.|[2606.30639](http://arxiv.org/abs/2606.30639)|null|
+|**2026-06-29**|**GROW $^2$ : Grounding Which and Where for Robot Tool Use**|Yuhong Deng et.al.|[2606.30632](http://arxiv.org/abs/2606.30632)|null|
+|**2026-06-29**|**UnfoldArt: Zero-Shot Recovery of Full Articulated 3D Objects from Text or Image**|Mohamed el amine boudjoghra et.al.|[2606.30608](http://arxiv.org/abs/2606.30608)|null|
+|**2026-06-29**|**MESA: Prioritizing Vulnerable Communication Channels for Securing Multi-Agent Systems**|Kunyang Li et.al.|[2606.30602](http://arxiv.org/abs/2606.30602)|null|
+|**2026-06-29**|**SWE-INTERACT: Reimagining SWE Benchmarks as User-Driven Long-Horizon Coding Sessions**|Mohit Raghavendra et.al.|[2606.30573](http://arxiv.org/abs/2606.30573)|null|
+|**2026-06-29**|**Attractor States Emerge in Multi-Turn LLM Conversations**|Ting-Wen Ko et.al.|[2606.30571](http://arxiv.org/abs/2606.30571)|null|
+|**2026-06-29**|**Forensic Trajectory Signatures for Agent Memory Poisoning Detection**|Jun Wen Leong et.al.|[2606.30566](http://arxiv.org/abs/2606.30566)|null|
+|**2026-06-29**|**TraceLab: Characterizing Coding Agent Workloads for LLM Serving**|Kan Zhu et.al.|[2606.30560](http://arxiv.org/abs/2606.30560)|null|
+|**2026-06-29**|**Linguistic Firewall: Geometry as Defense in Multi-Agent Systems Routing**|Dvir Alsheich et.al.|[2606.30555](http://arxiv.org/abs/2606.30555)|null|
+|**2026-06-29**|**To Tab or Not to Tab: Measuring Critical Engagement in AI Code Completion Tools Using Behavioral Signals and Attention Checks**|Jessica Hutchison et.al.|[2606.30549](http://arxiv.org/abs/2606.30549)|null|
+|**2026-06-29**|**MAS-Lab: A Specification-Driven Validation Framework for Reliable Multi-Agent Systems**|Jordan Augé et.al.|[2606.30546](http://arxiv.org/abs/2606.30546)|null|
+|**2026-06-29**|**TRACE: Temporal Relationship-Aware Conversational Entrainment Detection in Dyadic Speech**|Sathvik Manikantan Napa Ugandhar et.al.|[2606.30543](http://arxiv.org/abs/2606.30543)|null|
+|**2026-06-29**|**Entity Binding Failures in Tool-Augmented Agents**|Rahul Suresh Babu et.al.|[2606.30531](http://arxiv.org/abs/2606.30531)|null|
+|**2026-06-29**|**Collective cooperation without individual fidelity in LLM agents**|Henrique Ferraz de Arruda et.al.|[2606.30454](http://arxiv.org/abs/2606.30454)|null|
+|**2026-06-29**|**Whose Side Is Your Agent On? Multi-Party Principal Loyalty in LLM Agents**|Bojie Li et.al.|[2606.30383](http://arxiv.org/abs/2606.30383)|null|
 |**2026-06-29**|**Towards Continual Motion-Language Agents: LoRA Variants for Incremental Motion Understanding and Generation**|Bertram Taetz et.al.|[2606.30266](http://arxiv.org/abs/2606.30266)|null|
 |**2026-06-29**|**TACO: Tool-Augmented Credit Optimization for Agentic Tool Use**|Mingkuan Feng et.al.|[2606.30251](http://arxiv.org/abs/2606.30251)|null|
 |**2026-06-29**|**DAIN: Dynamic Agent-Based Interaction Network for Efficient and Collaborative Multimodal Reasoning**|Xinxin Chen et.al.|[2606.30189](http://arxiv.org/abs/2606.30189)|null|
@@ -4017,6 +4032,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-29**|**LeVo 2: Stable and Melodious Song Generation via Hierarchical Representation Modeling and Progressive Post-Training**|Shun Lei et.al.|[2606.30642](http://arxiv.org/abs/2606.30642)|null|
+|**2026-06-29**|**GROW $^2$ : Grounding Which and Where for Robot Tool Use**|Yuhong Deng et.al.|[2606.30632](http://arxiv.org/abs/2606.30632)|null|
+|**2026-06-29**|**DOPD: Dual On-policy Distillation**|Xinlei Yu et.al.|[2606.30626](http://arxiv.org/abs/2606.30626)|null|
+|**2026-06-29**|**Scaling the Horizon, Not the Parameters: Reaching Trillion-Parameter Performance with a 35B Agent**|Lei Bai et.al.|[2606.30616](http://arxiv.org/abs/2606.30616)|null|
+|**2026-06-29**|**PyMETA: A Benchmark Dataset for Hierarchical Student Code Error Classification with Python-Interpreter-Based Labels**|Chuyue Li et.al.|[2606.30610](http://arxiv.org/abs/2606.30610)|null|
+|**2026-06-29**|**C $^{2}$ R: Cross-sample Consistency Regularization Mitigates Feature Splitting and Absorption in Sparse Autoencoders**|Haoran Jin et.al.|[2606.30609](http://arxiv.org/abs/2606.30609)|null|
+|**2026-06-29**|**Words Speak Louder Than Code: Investigating Cognitive Heuristics in LLM-Based Code Vulnerability Detection**|Asif Shahriar et.al.|[2606.30587](http://arxiv.org/abs/2606.30587)|null|
+|**2026-06-29**|**AI Premium**|Nicola Borri et.al.|[2606.30583](http://arxiv.org/abs/2606.30583)|null|
+|**2026-06-29**|**Uncertainty-Aware Generation and Decision-Making Under Ambiguity**|Nico Daheim et.al.|[2606.30578](http://arxiv.org/abs/2606.30578)|null|
+|**2026-06-29**|**A Multi-task Mixture of Experts Framework for Malware Classification, Packing Detection, and Family Attribution**|Jithin S. et.al.|[2606.30572](http://arxiv.org/abs/2606.30572)|null|
+|**2026-06-29**|**Attractor States Emerge in Multi-Turn LLM Conversations**|Ting-Wen Ko et.al.|[2606.30571](http://arxiv.org/abs/2606.30571)|null|
+|**2026-06-29**|**Poller: Are LLMs Suitable for Evaluating the Poetry Understanding Task?**|Shanshan Wang et.al.|[2606.30556](http://arxiv.org/abs/2606.30556)|null|
+|**2026-06-29**|**Linguistic Firewall: Geometry as Defense in Multi-Agent Systems Routing**|Dvir Alsheich et.al.|[2606.30555](http://arxiv.org/abs/2606.30555)|null|
+|**2026-06-29**|**COSM: A Cooperative Scheduling Framework for Concurrent PIM and CPU Execution on Mobile Devices**|Yilong Zhao et.al.|[2606.30553](http://arxiv.org/abs/2606.30553)|null|
+|**2026-06-29**|**Training Vision-Language-Action Models with Dense Embodied Chain-of-Thought Supervision**|Haoyang Li et.al.|[2606.30552](http://arxiv.org/abs/2606.30552)|null|
+|**2026-06-29**|**Teaching Prompt-Based Programming with LLMs: A 45-Minute Lesson with Guided Practice for End-User Programmers**|Keith Tran et.al.|[2606.30547](http://arxiv.org/abs/2606.30547)|null|
+|**2026-06-29**|**Entity Binding Failures in Tool-Augmented Agents**|Rahul Suresh Babu et.al.|[2606.30531](http://arxiv.org/abs/2606.30531)|null|
+|**2026-06-29**|**The Illusion of Agentic Complexity in README.md Generation: Evaluating Single-Agent vs. Multi-Agent RAG Systems**|Abu Saleh et.al.|[2606.30524](http://arxiv.org/abs/2606.30524)|null|
+|**2026-06-29**|**Regime-Aware Peer Specialization for Robust RAG under Heterogeneous Knowledge Conflicts**|Bo Wang et.al.|[2606.30518](http://arxiv.org/abs/2606.30518)|null|
+|**2026-06-29**|**On the Faithfulness of Post-Hoc Concept Bottleneck Models**|Laines Schmalwasser et.al.|[2606.30498](http://arxiv.org/abs/2606.30498)|null|
 |**2026-06-29**|**MCP Server Architecture Patterns for LLM-Integrated Applications**|Carson Rodrigues et.al.|[2606.30317](http://arxiv.org/abs/2606.30317)|null|
 |**2026-06-29**|**DialogPII: A multilingual dataset of synthetic dialog transcripts to detect personal information**|Roland Roller et.al.|[2606.30312](http://arxiv.org/abs/2606.30312)|null|
 |**2026-06-29**|**ManimAgent: Self-Evolving Multimodal Agents for Visual Education**|Wenjia Jiang et.al.|[2606.30296](http://arxiv.org/abs/2606.30296)|null|
@@ -7862,6 +7897,22 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-29**|**Pessimism's Paradox: Conservative Offline Training Amplifies Reward Hacking During Online Adaptation in Reasoning Models**|Subramanyam Sahoo et.al.|[2606.30627](http://arxiv.org/abs/2606.30627)|null|
+|**2026-06-29**|**Prescriptions for the stochasticity effect on the integrated X-ray luminosity of star-forming galaxies:Implications for selecting star-forming galaxies and AGN in X-ray surveys**|Elias Kyritsis et.al.|[2606.30624](http://arxiv.org/abs/2606.30624)|null|
+|**2026-06-29**|**When and Which Sensor to Observe? Timely Tracking of a Joint Markov Source**|Ismail Cosandal et.al.|[2606.30623](http://arxiv.org/abs/2606.30623)|null|
+|**2026-06-29**|**Equilibrium and non-equilibrium phases of microwave-dressed polar molecules beyond rotational symmetries**|Matteo Ciardi et.al.|[2606.30589](http://arxiv.org/abs/2606.30589)|null|
+|**2026-06-29**|**Staged Hybridisation for Visual Quantum Reinforcement Learning via Knowledge Distillation**|Javier Lazaro et.al.|[2606.30520](http://arxiv.org/abs/2606.30520)|null|
+|**2026-06-29**|**Bayesian Analysis with Markov Chain Monte Carlo for Global Optimization and Degeneracy Diagnosis in Nuclear Mass Models**|Xiangnan Lee et.al.|[2606.30519](http://arxiv.org/abs/2606.30519)|null|
+|**2026-06-29**|**Discovering the Kalman-Bucy-Koopman Filter**|Umesh Vaidya et.al.|[2606.30487](http://arxiv.org/abs/2606.30487)|null|
+|**2026-06-29**|**Grasp-Oriented Non-Prehensile Manipulation via Learning a Graspability Field**|Licheng Zhong et.al.|[2606.30474](http://arxiv.org/abs/2606.30474)|null|
+|**2026-06-29**|**When Does Online Imitation Learning Help in LLM Post-Training? The Role of (Non-)Realizability Beyond Horizon**|Huaqing Zhang et.al.|[2606.30445](http://arxiv.org/abs/2606.30445)|null|
+|**2026-06-29**|**Experience Augmented Policy Optimization for LLM Reasoning**|Jinda Lu et.al.|[2606.30420](http://arxiv.org/abs/2606.30420)|null|
+|**2026-06-29**|**Quantum-enhanced Monte Carlo Tree Search framework for combinatorial optimization problems**|Yohan Finet et.al.|[2606.30415](http://arxiv.org/abs/2606.30415)|null|
+|**2026-06-29**|**Diffusion Fine-tuning with Rewarded Moment Matching Distillation**|Alexis Jacq et.al.|[2606.30414](http://arxiv.org/abs/2606.30414)|null|
+|**2026-06-29**|**MOPD: Multi-Teacher On-Policy Distillation for Capability Integration in LLM Post-Training**|Wenhan Ma et.al.|[2606.30406](http://arxiv.org/abs/2606.30406)|null|
+|**2026-06-29**|**FlowAWR: Online Adaptive Flow Reinforcement via Advantage-Weighted Rectification**|Zheming Fu et.al.|[2606.30376](http://arxiv.org/abs/2606.30376)|null|
+|**2026-06-29**|**DRIFT: Difficulty Routing Self-DIstillation with Rhythm-Gated Exploration and Success BuFfer Training**|Haisen Luo et.al.|[2606.30345](http://arxiv.org/abs/2606.30345)|null|
+|**2026-06-29**|**Value Functions of Separable Convex Integer Programs are Periodically Convex**|Koen Ligthart et.al.|[2606.30330](http://arxiv.org/abs/2606.30330)|null|
 |**2026-06-29**|**Toward an Energy-Optimized Operation of Data Centers Located in Wind Farms Using Reinforcement Learning**|Jan Stenner et.al.|[2606.30316](http://arxiv.org/abs/2606.30316)|null|
 |**2026-06-29**|**Highly Data Parallelizable Estimation of the Sliced-Wasserstein Distance Using Cumulative Distribution Functions**|Christophe Vauthier et.al.|[2606.30310](http://arxiv.org/abs/2606.30310)|null|
 |**2026-06-29**|**Pathway variability, coat stiffening and mechanical adaptation during clathrin-mediated endocytosis**|Johannes H. H. Dreckhoff et.al.|[2606.30267](http://arxiv.org/abs/2606.30267)|null|
