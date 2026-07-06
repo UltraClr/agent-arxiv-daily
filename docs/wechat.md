@@ -11405,7 +11405,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 - 2026-03-04, **BeamPERL: Parameter-Efficient RL with Verifiable Rewards Specializes Compact LLMs for Structured Beam Mechanics Reasoning**, Tarjei Paule Hage et.al., Paper: [http://arxiv.org/abs/2603.04124](http://arxiv.org/abs/2603.04124)
 - 2026-04-27, **Beam Scheduling for Cross-Layer ISAC: A Deep Reinforcement Learning Approach**, Xiyu Wang et.al., Paper: [http://arxiv.org/abs/2604.24369](http://arxiv.org/abs/2604.24369)
 - 2026-01-15, **Be Your Own Red Teamer: Safety Alignment via Self-Play and Reflective Experience Replay**, Hao Wang et.al., Paper: [http://arxiv.org/abs/2601.10589](http://arxiv.org/abs/2601.10589)
-- 2026-06-29, **Be Faithful When Response: Returning Fluent and Grounded Answers for Vision-Language Models Reinforcement Learning**,  Peng et.al., Paper: [http://arxiv.org/abs/2606.29984](http://arxiv.org/abs/2606.29984)
+- 2026-06-29, **Be Faithful When Response: Returning Fluent and Grounded Answers for Vision-Language Models Reinforcement Learning**, Peng et.al., Paper: [http://arxiv.org/abs/2606.29984](http://arxiv.org/abs/2606.29984)
 - 2026-02-17, **Bayesian parameter study of the Seyfert-starburst composite galaxies NGC 1068 and NGC 7469**, Björn Eichmann et.al., Paper: [http://arxiv.org/abs/2602.15644](http://arxiv.org/abs/2602.15644)
 - 2026-03-31, **Bayesian methods for the identification of model parameters for water transport in porous media**, Paola Stolfi et.al., Paper: [http://arxiv.org/abs/2603.29859](http://arxiv.org/abs/2603.29859)
 - 2025-11-04, **Bayesian full waveform inversion with learned prior using deep convolutional autoencoder**, Shuhua Hu et.al., Paper: [http://arxiv.org/abs/2511.02737](http://arxiv.org/abs/2511.02737)

@@ -8112,7 +8112,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |**2026-06-29**|**Error bounds for simultaneous Wasserstein contractive adaptive increasingly rare MCMC**|Julian Hofstadler et.al.|[2606.30018](http://arxiv.org/abs/2606.30018)|null|
 |**2026-06-29**|**Monte Carlo Energy Aggregation for Mobile 3D Gaussian Splatting**|Xiaobiao Du et.al.|[2606.30017](http://arxiv.org/abs/2606.30017)|null|
 |**2026-06-29**|**AlgoSkill: Learning to Design Algorithms by Scheduling Human-Like Skills**|Xinyuan Song et.al.|[2606.29999](http://arxiv.org/abs/2606.29999)|null|
-|**2026-06-29**|**Be Faithful When Response: Returning Fluent and Grounded Answers for Vision-Language Models Reinforcement Learning**| Peng et.al.|[2606.29984](http://arxiv.org/abs/2606.29984)|null|
+|**2026-06-29**|**Be Faithful When Response: Returning Fluent and Grounded Answers for Vision-Language Models Reinforcement Learning**|Peng et.al.|[2606.29984](http://arxiv.org/abs/2606.29984)|null|
 |**2026-06-26**|**WARP-RM: A Warp-Augmented Relative Progress Reward Model for Data Curation**|Justin Yu et.al.|[2606.28320](http://arxiv.org/abs/2606.28320)|null|
 |**2026-06-26**|**Constraining primordial oscillations and inflationary particle production with Planck, ACT DR6, and DESI DR2**|Simran K. Nerval et.al.|[2606.28310](http://arxiv.org/abs/2606.28310)|null|
 |**2026-06-26**|**Accretion-Driven Evolution of Compact-Object Populations in Gas-Rich Environments and the Origin of Massive Gravitational-Wave Sources**|Mor Rozner et.al.|[2606.28293](http://arxiv.org/abs/2606.28293)|null|
