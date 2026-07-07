@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Agent Research Papers
-### Automatically Updated on 2026.07.06
+### Automatically Updated on 2026.07.07
 Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Autonomous Agent`,`LLM Agent`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -4085,6 +4085,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-06**|**PAST-TIDE: Prototype-Anchored Statement Tuning with Topic-Invariant Normalization for Stance Detection**|Md. Shakhoyat Rahman Shujon et.al.|[2607.04690](http://arxiv.org/abs/2607.04690)|null|
+|**2026-07-06**|**URSA: Chemistry-Aware Benchmark for Utilitarian Retrosynthesis Assessment**|Bogdan Zagribelnyy et.al.|[2607.04688](http://arxiv.org/abs/2607.04688)|null|
+|**2026-07-06**|**ToolFailBench: Diagnosing Tool-Use Failures in LLM Agents**|Harsh Soni et.al.|[2607.04686](http://arxiv.org/abs/2607.04686)|null|
+|**2026-07-06**|**Does It Fail to See or Fail to Know? Attributing Errors in Vision-Language Models**|Khang Nhat Hoang Vo et.al.|[2607.04683](http://arxiv.org/abs/2607.04683)|null|
+|**2026-07-06**|**Do Vision-Language-Action Models Mean What They Say? On the Role of Faithfulness in Embodied Reasoning**|Matthew Foutter et.al.|[2607.04681](http://arxiv.org/abs/2607.04681)|null|
+|**2026-07-06**|**DiCE-CIR: Direct Composition Learning for Efficient Zero-Shot Composed Image Retrieval**|Gwang-Ho Na et.al.|[2607.04665](http://arxiv.org/abs/2607.04665)|null|
+|**2026-07-06**|**Retroactive Chain-of-Thought (RetroCoT): Forensic Reconstruction Prompts as a Safety Diagnostic Across Model Generations**|Samira Hajizadeh et.al.|[2607.04645](http://arxiv.org/abs/2607.04645)|null|
+|**2026-07-06**|**Wrong Before Right: Late Rescue and Interface Failure in Aligned Language Models**|Jiaqi Deng et.al.|[2607.04640](http://arxiv.org/abs/2607.04640)|null|
+|**2026-07-06**|**PixelPilot: Scalable Vision-Language-Action Models for End-to-End Autonomous Driving**|Pin Tang et.al.|[2607.04637](http://arxiv.org/abs/2607.04637)|null|
+|**2026-07-06**|**Can LLMs Really Recover Microservice Failures? A Recovery-Aware Evaluation of Diagnosis-to-Action Reasoning**|Jiaxing Qi et.al.|[2607.04623](http://arxiv.org/abs/2607.04623)|null|
+|**2026-07-06**|**CARD: Cross-component Audio Representation Distillation for Encoder-Free Audio Captioning**|Ganesh Pavan Kartikeya Bharadwaj Kolluri et.al.|[2607.04619](http://arxiv.org/abs/2607.04619)|null|
+|**2026-07-06**|**StructuredEdit: Constraint-Aware Graphic Design Editing via Differentiable Parameter Propagation**|Veeramanohar Avudaiappan et.al.|[2607.04612](http://arxiv.org/abs/2607.04612)|null|
+|**2026-07-06**|**RoboVista: Evaluating Vision Language Models for Diverse Robot Applications**|Shuangyu Xie et.al.|[2607.04610](http://arxiv.org/abs/2607.04610)|null|
+|**2026-07-06**|**Displacement Preserving Relational Distillation for Robust Medical Segmentation**|Zhicheng Ding et.al.|[2607.04599](http://arxiv.org/abs/2607.04599)|null|
+|**2026-07-06**|**TORINO: Token Reduction via Interpretable Concept Overlap in Vision-Language Models**|Riccardo Renzulli et.al.|[2607.04593](http://arxiv.org/abs/2607.04593)|null|
+|**2026-07-06**|**Attention Limited Reward Learning**|Wenqian Xing et.al.|[2607.04590](http://arxiv.org/abs/2607.04590)|null|
+|**2026-07-06**|**Finetuning Lightweight LLMs for Control Flow Graph Generation**|Hanyu Zhang et.al.|[2607.04582](http://arxiv.org/abs/2607.04582)|null|
+|**2026-07-06**|**LLM-Driven CI-CD Workflow Intelligence for Cyber Systems Engineering**|Bonan Shen et.al.|[2607.04579](http://arxiv.org/abs/2607.04579)|null|
+|**2026-07-06**|**Detecting Answer-Driven Reasoning in LLM-Based Educational Tutors via Truncated Chain-of-Thought Auditing**|Bonan Shen et.al.|[2607.04572](http://arxiv.org/abs/2607.04572)|null|
+|**2026-07-06**|**LLMs for Agentic Home Energy Management**|Sokipriala Jonah et.al.|[2607.04569](http://arxiv.org/abs/2607.04569)|null|
 |**2026-07-02**|**Program-as-Weights: A Programming Paradigm for Fuzzy Functions**|Wentao Zhang et.al.|[2607.02512](http://arxiv.org/abs/2607.02512)|null|
 |**2026-07-02**|**ReContext: Recursive Evidence Replay as LLM Harness for Long-Context Reasoning**|Yanjun Zhao et.al.|[2607.02509](http://arxiv.org/abs/2607.02509)|null|
 |**2026-07-02**|**DemoPSD: Disagreement-Modulated Policy Self-Distillation**|Yunhe Li et.al.|[2607.02502](http://arxiv.org/abs/2607.02502)|null|
