@@ -16,6 +16,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-06**|**CompactionRL: Reinforcement Learning with Context Compaction for Long-Horizon Agents**|Yujiang Li et.al.|[2607.05378](http://arxiv.org/abs/2607.05378)|null|
+|**2026-07-06**|**Cortex: A Bidirectionally Aligned Embodied Agent Framework for Long-horizon Manipulation**|Jiaqi Peng et.al.|[2607.05377](http://arxiv.org/abs/2607.05377)|null|
+|**2026-07-06**|**SovereignPA-Bench: Evaluating User-Owned Personal Agents under Evolving Intent, Platform Mediation, and Consent Constraints**|Dylan Zongmin Liu et.al.|[2607.05363](http://arxiv.org/abs/2607.05363)|null|
+|**2026-07-06**|**OptiAgent: End-to-End Optimization Modeling via Multi-Agent Iterative Refinement**|Adriana Laurindo Monteiro et.al.|[2607.05346](http://arxiv.org/abs/2607.05346)|null|
+|**2026-07-06**|**PiSAs: Benchmarking Contextual Integrity in Multi-User Agentic Systems**|Shubham Gupta et.al.|[2607.05318](http://arxiv.org/abs/2607.05318)|null|
+|**2026-07-06**|**MetaSkill-Evolve: Recursive Self-Improvement of LLM Agents via Two-Timescale Meta-Skill Evolution**|Zefeng Wang et.al.|[2607.05297](http://arxiv.org/abs/2607.05297)|null|
+|**2026-07-06**|**Untrusted Content Masking for Web Agents with Security Guarantees**|Kristina Nikolić et.al.|[2607.05277](http://arxiv.org/abs/2607.05277)|null|
+|**2026-07-06**|**Latent Programming Horizons in Coding Agents**|André Silva et.al.|[2607.05188](http://arxiv.org/abs/2607.05188)|null|
+|**2026-07-06**|**ClassicLogic: A Knowledge-Driven Benchmark of Classic Puzzle Games for Evaluating Compositional Generalization**|Mahnoor Shahid et.al.|[2607.05185](http://arxiv.org/abs/2607.05185)|null|
+|**2026-07-06**|**AgentGym2: Benchmarking Large Language Model Agents in De-Idealized Real-World Environments**|Zhiheng Xi et.al.|[2607.05174](http://arxiv.org/abs/2607.05174)|null|
+|**2026-07-06**|**On the risk of coding before testing: An empirical study on LLM-based test generation workflow**|Michael Konstantinou et.al.|[2607.05139](http://arxiv.org/abs/2607.05139)|null|
+|**2026-07-06**|**PDEFlow: Autonomous Agentic PDE Pipelines for Neural Operator Learning and Solver-Free Inference**|Akshat Jani et.al.|[2607.05134](http://arxiv.org/abs/2607.05134)|null|
+|**2026-07-06**|**When Agents Lie: Premeditation, Persistence, and Exploitation in Repeated Games**|Jerick Shi et.al.|[2607.05132](http://arxiv.org/abs/2607.05132)|null|
+|**2026-07-06**|**Agent Data Injection Attacks are Realistic Threats to AI Agents**|Woohyuk Choi et.al.|[2607.05120](http://arxiv.org/abs/2607.05120)|null|
+|**2026-07-06**|**Commensal image plane transient search methods with the SKAO**|Alex Andersson et.al.|[2607.05118](http://arxiv.org/abs/2607.05118)|null|
+|**2026-07-06**|**Smooth Reduced Rank Regression with P-splines**|Mark de Rooij et.al.|[2607.05096](http://arxiv.org/abs/2607.05096)|null|
+|**2026-07-06**|**Toward Trustworthy Large Language Model Agents in Healthcare**|Hadi Hasan et.al.|[2607.05055](http://arxiv.org/abs/2607.05055)|null|
+|**2026-07-06**|**Your Agent's Memories Are Not Its Own: Forged Reasoning Attacks on LLM Agent Memory and Defenses**|Neeraj Karamchandani et.al.|[2607.05029](http://arxiv.org/abs/2607.05029)|null|
+|**2026-07-06**|**TACTIC-KG: Toward Small Agent Teams for Cyber Threat Intelligence Knowledge Graph Construction**|Mouhamed Amine Bouchiha et.al.|[2607.05001](http://arxiv.org/abs/2607.05001)|null|
+|**2026-07-06**|**STAPO: Selective Trajectory-Aware Policy Optimization for LLM Agent Training**|Qiuyi Qi et.al.|[2607.04963](http://arxiv.org/abs/2607.04963)|null|
 |**2026-07-02**|**Distributed Attacks in Persistent-State AI Control**|Josh Hills et.al.|[2607.02514](http://arxiv.org/abs/2607.02514)|null|
 |**2026-07-02**|**What LLM Agents Say When No One Is Watching: Social Structure and Latent Objective Emergence in Multi-Agent Debates**|Arman Ghaffarizadeh et.al.|[2607.02507](http://arxiv.org/abs/2607.02507)|null|
 |**2026-07-02**|**Reasoning LLM Improves Speaker Recognition in Long-form TV Dramas**|Yuxuan Li et.al.|[2607.02504](http://arxiv.org/abs/2607.02504)|null|
@@ -4085,6 +4105,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-06**|**Weak-to-Strong Generalization via Direct On-Policy Distillation**|Shiyuan Feng et.al.|[2607.05394](http://arxiv.org/abs/2607.05394)|null|
+|**2026-07-06**|**SPEARBench: A Benchmark for Naturalness Evaluation in Streaming Speech-to-Speech Language Models**|Thomas Thebaud et.al.|[2607.05365](http://arxiv.org/abs/2607.05365)|null|
+|**2026-07-06**|**Faithfulness to Refusal: A Causal Audit of Neuron Selectors**|Ananth Eswar et.al.|[2607.05355](http://arxiv.org/abs/2607.05355)|null|
+|**2026-07-06**|**Selective Disclosure Watermarking for Large Language Models**|Xuyang Chen et.al.|[2607.05353](http://arxiv.org/abs/2607.05353)|null|
+|**2026-07-06**|**Beyond Isolated Objects: Relationship-aware Open Vocabulary Scene Understanding via 3D Scene Graph Analysis**|Xianhao Chen et.al.|[2607.05348](http://arxiv.org/abs/2607.05348)|null|
+|**2026-07-06**|**Data-driven atomistic modelling of hybrid halide perovskite passivation**|Laura-Bianca Paşca et.al.|[2607.05321](http://arxiv.org/abs/2607.05321)|null|
+|**2026-07-06**|**How Much is Left? LLMs Linearly Encode Their Remaining Output Length**|Mohamed Amine Merzouk et.al.|[2607.05316](http://arxiv.org/abs/2607.05316)|null|
+|**2026-07-06**|**Evaluating and Understanding Model Editing for Medical Vision Language Models**|Guli Zhu et.al.|[2607.05310](http://arxiv.org/abs/2607.05310)|null|
+|**2026-07-06**|**ChatImage: Navigating Long-Form LLM Answers through Interactive Images**|Wencan Jiang et.al.|[2607.05290](http://arxiv.org/abs/2607.05290)|null|
+|**2026-07-06**|**Is the Geometry Doing the Work? An Operating-Point Audit of Hierarchy in Hyperbolic Vision-Language Models**|Jaeyoung Kim et.al.|[2607.05268](http://arxiv.org/abs/2607.05268)|null|
+|**2026-07-06**|**SteelBench: Evaluating Vision-Language Models in Real-World Industrial Environments**|Suryanarayana Reddy Yarrabothula et.al.|[2607.05264](http://arxiv.org/abs/2607.05264)|null|
+|**2026-07-06**|**Repurposing CLIP to Localize at Pixel Level**|Jiaxiang Fang et.al.|[2607.05253](http://arxiv.org/abs/2607.05253)|null|
+|**2026-07-06**|**MoP-JEPA: Hard-Assigned Predictor Mixtures for Stochastic JEPA World Models**|Zhi Song et.al.|[2607.05238](http://arxiv.org/abs/2607.05238)|null|
+|**2026-07-06**|**A Multimodal Reasoning Typology for Grounding Chart-Image Coherence in Science Communication**|Avina Nakarmi et.al.|[2607.05222](http://arxiv.org/abs/2607.05222)|null|
+|**2026-07-06**|**Curated retrieval versus open web search in public AI information services: a coverage-trust trade-off**|Hafsteinn Einarsson et.al.|[2607.05217](http://arxiv.org/abs/2607.05217)|null|
+|**2026-07-06**|**Reason, Reward, Refine: Step-Level Errors Corrections with Structured Feedback for Physics Reasoning in Small Language Models**|Raj Jaiswal et.al.|[2607.05199](http://arxiv.org/abs/2607.05199)|null|
+|**2026-07-06**|**Latent Programming Horizons in Coding Agents**|André Silva et.al.|[2607.05188](http://arxiv.org/abs/2607.05188)|null|
+|**2026-07-06**|**Rethinking On-Policy Self-Distillation for Thinking Models**|Simran Kaur et.al.|[2607.05184](http://arxiv.org/abs/2607.05184)|null|
+|**2026-07-06**|**VLM-CASE: Vision-Language Model Enabled Context-Adaptive Safety Envelopes for Anticipatory Safe Autonomous Driving**|Tianjia Yang et.al.|[2607.05180](http://arxiv.org/abs/2607.05180)|null|
+|**2026-07-06**|**AgentGym2: Benchmarking Large Language Model Agents in De-Idealized Real-World Environments**|Zhiheng Xi et.al.|[2607.05174](http://arxiv.org/abs/2607.05174)|null|
 |**2026-07-06**|**PAST-TIDE: Prototype-Anchored Statement Tuning with Topic-Invariant Normalization for Stance Detection**|Md. Shakhoyat Rahman Shujon et.al.|[2607.04690](http://arxiv.org/abs/2607.04690)|null|
 |**2026-07-06**|**URSA: Chemistry-Aware Benchmark for Utilitarian Retrosynthesis Assessment**|Bogdan Zagribelnyy et.al.|[2607.04688](http://arxiv.org/abs/2607.04688)|null|
 |**2026-07-06**|**ToolFailBench: Diagnosing Tool-Use Failures in LLM Agents**|Harsh Soni et.al.|[2607.04686](http://arxiv.org/abs/2607.04686)|null|
@@ -8028,6 +8068,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-06**|**Weak-to-Strong Generalization via Direct On-Policy Distillation**|Shiyuan Feng et.al.|[2607.05394](http://arxiv.org/abs/2607.05394)|null|
+|**2026-07-06**|**CompactionRL: Reinforcement Learning with Context Compaction for Long-Horizon Agents**|Yujiang Li et.al.|[2607.05378](http://arxiv.org/abs/2607.05378)|null|
+|**2026-07-06**|**Fitted Occupancy-Ratio Evaluation without Bellman Completeness**|Lars van der Laan et.al.|[2607.05375](http://arxiv.org/abs/2607.05375)|null|
+|**2026-07-06**|**Graph Sparse Sampling: Breaking the Curse of the Horizon in Continuous MDP Planning**|Idan Lev-Yehudi et.al.|[2607.05359](http://arxiv.org/abs/2607.05359)|null|
+|**2026-07-06**|**Partial Gateaux and Frechet Derivatives and Applications to Variational Analysis**|Jinlu Li et.al.|[2607.05313](http://arxiv.org/abs/2607.05313)|null|
+|**2026-07-06**|**Adaptive Inference Batching using Policy Gradients**|Ruslan Sharifullin et.al.|[2607.05272](http://arxiv.org/abs/2607.05272)|null|
+|**2026-07-06**|**Optimal Base Station Placement for Beyond 5G Networks with Non-Convex Topology**|Mohamed Shalma et.al.|[2607.05210](http://arxiv.org/abs/2607.05210)|null|
+|**2026-07-06**|**Reason, Reward, Refine: Step-Level Errors Corrections with Structured Feedback for Physics Reasoning in Small Language Models**|Raj Jaiswal et.al.|[2607.05199](http://arxiv.org/abs/2607.05199)|null|
+|**2026-07-06**|**When Claws Remember but Do Not Tell: Stealthy Memory Injection in Persistent Personal Agents**|Yechao Zhang et.al.|[2607.05189](http://arxiv.org/abs/2607.05189)|null|
+|**2026-07-06**|**SMART: A Machine Learning and Monte Carlo Framework for Rapid Analysis of Stochastic Transistor Aging and Process Variation in Digital Circuits**|Arash Esshaghi et.al.|[2607.05187](http://arxiv.org/abs/2607.05187)|null|
+|**2026-07-06**|**Relational Multi-Agent Reinforcement Learning for Dynamic Pricing in High-Speed Railway Markets**|Enrique Adrian Villarrubia-Martin et.al.|[2607.05179](http://arxiv.org/abs/2607.05179)|null|
+|**2026-07-06**|**Efficient classical simulation of two-dimensional long-range systems: Rydberg arrays and beyond**|Jia-Lin Chan et.al.|[2607.05178](http://arxiv.org/abs/2607.05178)|null|
+|**2026-07-06**|**Variance reduction with probing and Multilevel Monte Carlo in Lattice QCD**|Andreas Frommer et.al.|[2607.05157](http://arxiv.org/abs/2607.05157)|null|
+|**2026-07-06**|**Claim-Level Rubric Rewards for Video Caption Reinforcement Learning**|Mingqi Gao et.al.|[2607.05150](http://arxiv.org/abs/2607.05150)|null|
+|**2026-07-06**|**TimeThink: Reasoning with Time for Video LLMs**|Handong Li et.al.|[2607.05089](http://arxiv.org/abs/2607.05089)|null|
+|**2026-07-06**|**Diffusion-Guided Uncertainty-Aware Delayed Policy Optimization**|Junqi Tu et.al.|[2607.05064](http://arxiv.org/abs/2607.05064)|null|
+|**2026-07-06**|**Watts per event: evaluating Sustainability of HEP Event Generators beyond the LHC era**|Szabolcs Molnár et.al.|[2607.05018](http://arxiv.org/abs/2607.05018)|null|
+|**2026-07-06**|**Non-Convex Sparse Reinforcement Learning via Non-Monotone Inclusions**|Kyohei Suzuki et.al.|[2607.04990](http://arxiv.org/abs/2607.04990)|null|
+|**2026-07-06**|**STAPO: Selective Trajectory-Aware Policy Optimization for LLM Agent Training**|Qiuyi Qi et.al.|[2607.04963](http://arxiv.org/abs/2607.04963)|null|
+|**2026-07-06**|**Closing the Reality Gap: Zero-Shot Sim-to-Real Deployment for Dexterous Force-Based Grasping and Manipulation**|Zhe Zhao et.al.|[2607.04940](http://arxiv.org/abs/2607.04940)|null|
 |**2026-07-02**|**Seek to Segment: Active Perception for Panoramic Referring Segmentation**|Song Tang et.al.|[2607.02497](http://arxiv.org/abs/2607.02497)|null|
 |**2026-07-02**|**Visually Grounded Self-Reflection for Vision-Language Models via Reinforcement Learning**|Liyan Tang et.al.|[2607.02490](http://arxiv.org/abs/2607.02490)|null|
 |**2026-07-02**|**Learning Agile Intruder Interception using Differentiable Quadrotor Dynamics**|Michael Anoruo et.al.|[2607.02472](http://arxiv.org/abs/2607.02472)|null|
