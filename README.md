@@ -21,6 +21,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-10**|**VEXAIoT: Autonomous IoT Vulnerability EXploitation using AI Agents**|Katherine Swinea et.al.|[2607.09653](http://arxiv.org/abs/2607.09653)|null|
+|**2026-07-10**|**Lean-QIT: Towards a Formal Infrastructure for Quantum Information Theory**|Chengkai Zhu et.al.|[2607.09632](http://arxiv.org/abs/2607.09632)|null|
+|**2026-07-10**|**LLM for EDA in Front-End Design: Challenges and Opportunities**|Kangwei Xu et.al.|[2607.09616](http://arxiv.org/abs/2607.09616)|null|
+|**2026-07-10**|**Agora: Enhancing LLM Agent Reasoning Via Auction-Based Task Allocation**|Kaiji Zhou et.al.|[2607.09600](http://arxiv.org/abs/2607.09600)|null|
+|**2026-07-10**|**Writing Bug Reports for Software Repair Agents: What Information Matters Most?**|Vincenzo Luigi Bruno et.al.|[2607.09553](http://arxiv.org/abs/2607.09553)|null|
+|**2026-07-10**|**Failure as a Process: An Anatomy of CLI Coding Agent Trajectories**|Xiangxin Zhao et.al.|[2607.09510](http://arxiv.org/abs/2607.09510)|null|
+|**2026-07-10**|**All Explanations are Wrong, But Many Are Useful: Exploring the Rashomon Explanation Set with Large Language Models**|Pan Li et.al.|[2607.09502](http://arxiv.org/abs/2607.09502)|null|
+|**2026-07-10**|**Shared Selective Persistent Memory for Agentic LLM Systems**|Sanjana Pedada et.al.|[2607.09493](http://arxiv.org/abs/2607.09493)|null|
+|**2026-07-10**|**ProofCouncil: An LLM Agent for Solving Open Mathematical Problems**|Johannes Schmitt et.al.|[2607.09474](http://arxiv.org/abs/2607.09474)|null|
+|**2026-07-10**|**Fictional Worldbuilding: Multi-Agent LLM Collaboration with Hierarchical Context Compression and Iterative Review**|Jingbo Chen et.al.|[2607.09403](http://arxiv.org/abs/2607.09403)|null|
+|**2026-07-10**|**Communication-Efficient Digital-Twin Coordination for Heterogeneous LLM Embodied Agents over Computing Power Networks**|Nuocheng Yang et.al.|[2607.09330](http://arxiv.org/abs/2607.09330)|null|
+|**2026-07-10**|**LongMedBench: Benchmarking Medical Agents for Long-Horizon Clinical Decision-Making**|Yanzhen Chen et.al.|[2607.09322](http://arxiv.org/abs/2607.09322)|null|
+|**2026-07-10**|**Toward Auditable AI Scientists: A Hypothesis Evolution Protocol for LLM Agents**|Izumi Takahara et.al.|[2607.09195](http://arxiv.org/abs/2607.09195)|null|
+|**2026-07-10**|**Malaika: Understanding Malware through Tri-Grounded Agentic Reasoning**|Xingzhi Qian et.al.|[2607.09179](http://arxiv.org/abs/2607.09179)|null|
+|**2026-07-10**|**Scoped Verification for Reliable Long-Horizon Agentic Context Evolution under Distribution Shift**|Dan C. Hsu et.al.|[2607.09175](http://arxiv.org/abs/2607.09175)|null|
+|**2026-07-10**|**Present but Rescaled: Chat-to-Agent Transfer of Additive Activation Steering**|Lucas Pinto et.al.|[2607.09156](http://arxiv.org/abs/2607.09156)|null|
+|**2026-07-10**|**ReProAgent: Tool-Augmented Multi-Stage Agentic Generation of Bug Reproduction Tests from Issue Reports**|Quanjun Zhang et.al.|[2607.09123](http://arxiv.org/abs/2607.09123)|null|
+|**2026-07-10**|**Multi-Agent LLM Collaboration for Unit Test Generation via Human-Testing-Inspired Workflows**|Quanjun Zhang et.al.|[2607.09101](http://arxiv.org/abs/2607.09101)|null|
+|**2026-07-10**|**Inside the Skill Market: From Software Engineering Activities to Reusable Agent Skills**|Jialun Cao et.al.|[2607.09065](http://arxiv.org/abs/2607.09065)|null|
+|**2026-07-10**|**ARCANA: A Reflective Multi-Agent Program Synthesis Framework for ARC-AGI-2 Reasoning**|Kunbo Zhang et.al.|[2607.09059](http://arxiv.org/abs/2607.09059)|null|
 |**2026-07-09**|**UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks**|Zhekai Chen et.al.|[2607.08768](http://arxiv.org/abs/2607.08768)|null|
 |**2026-07-09**|**DexVerse: A Modular Benchmark for Multi-Task, Multi-Embodiment Dexterous Manipulation**|Yunchao Yao et.al.|[2607.08751](http://arxiv.org/abs/2607.08751)|null|
 |**2026-07-09**|**Workflow as Knowledge: Semantic Persistence for LLM-Mediated Workflows**|Emanuele Quinto et.al.|[2607.08740](http://arxiv.org/abs/2607.08740)|null|
@@ -4172,6 +4192,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-10**|**Scalable Visual Pretraining for Language Intelligence**|Yiming Zhang et.al.|[2607.09657](http://arxiv.org/abs/2607.09657)|null|
+|**2026-07-10**|**Evolution of Accuracy and Visual-Cognitive Errors in a Decade of Vision-Language AI Models**|Shravan Murlidaran et.al.|[2607.09654](http://arxiv.org/abs/2607.09654)|null|
+|**2026-07-10**|**VEXAIoT: Autonomous IoT Vulnerability EXploitation using AI Agents**|Katherine Swinea et.al.|[2607.09653](http://arxiv.org/abs/2607.09653)|null|
+|**2026-07-10**|**Semantic Pareto-DQN: A Multi-Objective Reinforcement Learning Framework for Financial Anomaly Detection**|Cláudio Lúcio do Val Lopes et.al.|[2607.09641](http://arxiv.org/abs/2607.09641)|null|
+|**2026-07-10**|**LLM for EDA in Front-End Design: Challenges and Opportunities**|Kangwei Xu et.al.|[2607.09616](http://arxiv.org/abs/2607.09616)|null|
+|**2026-07-10**|**Agora: Enhancing LLM Agent Reasoning Via Auction-Based Task Allocation**|Kaiji Zhou et.al.|[2607.09600](http://arxiv.org/abs/2607.09600)|null|
+|**2026-07-10**|**TCLA: Training-Free Class-wise Logit Adaptation for Medical Vision-Language Models**|Tianyou Jiang et.al.|[2607.09562](http://arxiv.org/abs/2607.09562)|null|
+|**2026-07-10**|**The Count Is There, but Misaligned: Understanding and Correcting Counting Failures in VLMs**|Ahmed Oumar El-Shangiti et.al.|[2607.09544](http://arxiv.org/abs/2607.09544)|null|
+|**2026-07-10**|**Balancing Usefulness and Naturalness: An LLM-based Curation Pipeline for Code Review Comments**|Oussama Ben Sghaier et.al.|[2607.09524](http://arxiv.org/abs/2607.09524)|null|
+|**2026-07-10**|**Seeing is Free, Speaking is Not: Uncovering the True Energy Bottleneck in Edge VLM Inference**|Junfei Zhan et.al.|[2607.09520](http://arxiv.org/abs/2607.09520)|null|
+|**2026-07-10**|**Failure as a Process: An Anatomy of CLI Coding Agent Trajectories**|Xiangxin Zhao et.al.|[2607.09510](http://arxiv.org/abs/2607.09510)|null|
+|**2026-07-10**|**What VGGT Knows About Overlap: Probing Geometric Foundation Models for Co-Visibility**|Filippo Ziliotto et.al.|[2607.09503](http://arxiv.org/abs/2607.09503)|null|
+|**2026-07-10**|**All Explanations are Wrong, But Many Are Useful: Exploring the Rashomon Explanation Set with Large Language Models**|Pan Li et.al.|[2607.09502](http://arxiv.org/abs/2607.09502)|null|
+|**2026-07-10**|**Multimodal Reward Hacking in Reinforcement Learning**|Jiayu Yao et.al.|[2607.09492](http://arxiv.org/abs/2607.09492)|null|
+|**2026-07-10**|**Neural Collapse Is Forbidden: Information Floors in Language Models**|Bruno Abrahao et.al.|[2607.09487](http://arxiv.org/abs/2607.09487)|null|
+|**2026-07-10**|**ProofCouncil: An LLM Agent for Solving Open Mathematical Problems**|Johannes Schmitt et.al.|[2607.09474](http://arxiv.org/abs/2607.09474)|null|
+|**2026-07-10**|**Practical Source Code Recovery from Binary Functions Using Anchor-Based Retrieval and LLM Reasoning**|Charles Edward Gagnon et.al.|[2607.09452](http://arxiv.org/abs/2607.09452)|null|
+|**2026-07-10**|**Robustifying Vision-Language Models via Test-Time Prompt Adaptation**|Xingyu Zhu et.al.|[2607.09450](http://arxiv.org/abs/2607.09450)|null|
+|**2026-07-10**|**Parameter-Efficient Vision-Language Adaptation with Continuous Metadata Conditioning for Animal Re-Identification**|Anil Osman Tur et.al.|[2607.09443](http://arxiv.org/abs/2607.09443)|null|
+|**2026-07-10**|**Test-Time Scaling for Small VLMs on Multilingual Visual MCQ**|Spiros Baxevanakis et.al.|[2607.09438](http://arxiv.org/abs/2607.09438)|null|
 |**2026-07-09**|**UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks**|Zhekai Chen et.al.|[2607.08768](http://arxiv.org/abs/2607.08768)|null|
 |**2026-07-09**|**OpenCoF: Learning to Reason Through Video Generation**|Xinyan Chen et.al.|[2607.08763](http://arxiv.org/abs/2607.08763)|null|
 |**2026-07-09**|**AUTOPILOT VQA: Benchmarking Vision-Language Models for Incident-Centric Dashcam Understanding**|Siddharth Damodharan et.al.|[2607.08745](http://arxiv.org/abs/2607.08745)|null|
@@ -8197,6 +8237,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-10**|**Semantic Pareto-DQN: A Multi-Objective Reinforcement Learning Framework for Financial Anomaly Detection**|Cláudio Lúcio do Val Lopes et.al.|[2607.09641](http://arxiv.org/abs/2607.09641)|null|
+|**2026-07-10**|**Beyond the Cube: Overlapping Grid Methods for Debris Collision Risk Assessment**|Yacob Medhin et.al.|[2607.09634](http://arxiv.org/abs/2607.09634)|null|
+|**2026-07-10**|**PAC-ACT: Post-training Actor-Critic for Action Chunking Transformers**|Yujie Pang et.al.|[2607.09590](http://arxiv.org/abs/2607.09590)|null|
+|**2026-07-10**|**CORAL-AUV: CFD Oriented Reinforcement Learning for Autonomous Underwater Vehicles**|Steven Roche et.al.|[2607.09557](http://arxiv.org/abs/2607.09557)|null|
+|**2026-07-10**|**A Boosted Energy Extraction from the CapMix Process by Grafting with Titratable Polymers**|Mamta Yadav et.al.|[2607.09554](http://arxiv.org/abs/2607.09554)|null|
+|**2026-07-10**|**Fused Constrained Policy Reuse Optimization for Wireless Resource Allocation**|An Liu et.al.|[2607.09498](http://arxiv.org/abs/2607.09498)|null|
+|**2026-07-10**|**Multimodal Reward Hacking in Reinforcement Learning**|Jiayu Yao et.al.|[2607.09492](http://arxiv.org/abs/2607.09492)|null|
+|**2026-07-10**|**Symmetry-Protected Pinch Curves in Classical Spin Liquids**|Takumi Fukushima et.al.|[2607.09470](http://arxiv.org/abs/2607.09470)|null|
+|**2026-07-10**|**Deep Learning for Dynamic Programming with Recursive Utility Using First-order Conditions**|Xianhua Peng et.al.|[2607.09461](http://arxiv.org/abs/2607.09461)|null|
+|**2026-07-10**|**Action-Factored Multi-Agent Reinforcement Learning for Scalable Quantum Device Tuning**|Edwin De Nicolo et.al.|[2607.09422](http://arxiv.org/abs/2607.09422)|null|
+|**2026-07-10**|**Tests for Increasing Convex Ordering Based on Generalized Tsallis Entropy Measures**|Aritra Saha et.al.|[2607.09418](http://arxiv.org/abs/2607.09418)|null|
+|**2026-07-10**|**Two observables of one wall: how surface relaxivity can bias the diffusion intra-axonal fraction and the myelin water fraction**|Rutger H. J. Fick et.al.|[2607.09401](http://arxiv.org/abs/2607.09401)|null|
+|**2026-07-10**|**Mach-Mind-4-Flash Technical Report**| Foundation Model Team et.al.|[2607.09375](http://arxiv.org/abs/2607.09375)|null|
+|**2026-07-10**|**Shortcut Trajectory Planning for Efficient Offline Reinforcement Learning**|Guanquan Wang et.al.|[2607.09336](http://arxiv.org/abs/2607.09336)|null|
+|**2026-07-10**|**Clock-noise subtraction in geometric time-delay interferometry for space-based gravitational-wave parameter estimation**|Rui Luo et.al.|[2607.09335](http://arxiv.org/abs/2607.09335)|null|
+|**2026-07-10**|**Risk-Aware General-Utility Markov Decision Processes**|Pedro P. Santos et.al.|[2607.09298](http://arxiv.org/abs/2607.09298)|null|
+|**2026-07-10**|**Multi-Agent Reinforcement Learning for SLA-Aware Network Slicing in UAV-Enabled MEC**|Mohammad Farhoudi et.al.|[2607.09295](http://arxiv.org/abs/2607.09295)|null|
+|**2026-07-10**|**Diffusion Monte Carlo study of deuteron-like fully light hexaquarks**|M. C. Gordillo et.al.|[2607.09288](http://arxiv.org/abs/2607.09288)|null|
+|**2026-07-10**|**An Improved Deep Reinforcement Learning Control Strategy for Traction Dual Rectifiers in EMUs**|Zhigang Liu et.al.|[2607.09276](http://arxiv.org/abs/2607.09276)|null|
+|**2026-07-10**|**When Does Order Flow Matter? State-Dependent L2 Liquidity-State Transitions in Crypto Futures**|Joohyoung Jeon et.al.|[2607.09230](http://arxiv.org/abs/2607.09230)|null|
 |**2026-07-09**|**Force convergence in Monte Carlo Lyman-alpha radiative transfer**|Joshua Kasiri et.al.|[2607.08726](http://arxiv.org/abs/2607.08726)|null|
 |**2026-07-09**|**Latent Memory Palace: Reasoning for Control as Autoregressive Variational Inference**|Chuning Zhu et.al.|[2607.08724](http://arxiv.org/abs/2607.08724)|null|
 |**2026-07-09**|**Optimal-Transport-Based Cell Resampling for Negative and Pathological Event Weights**|Regan Doherty et.al.|[2607.08723](http://arxiv.org/abs/2607.08723)|null|
