@@ -21,6 +21,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-13**|**A Minimalist Retargeting-Guided Reinforcement Learning Recipe for Dexterous Manipulation**|Yunhai Feng et.al.|[2607.11874](http://arxiv.org/abs/2607.11874)|null|
+|**2026-07-13**|**Beyond the Single Camera: Agentic Multi-View Reasoning in Sports Video Understanding**|Kerui Chen et.al.|[2607.11844](http://arxiv.org/abs/2607.11844)|null|
+|**2026-07-13**|**When Local Monitors Miss Compositional Harm: Diagnosing Distributed Backdoors in Multi-Agent Systems**|Yibo Hu et.al.|[2607.11751](http://arxiv.org/abs/2607.11751)|null|
+|**2026-07-13**|**Agent Hacks Agent: Autoresearch for Production-Agent Red-Teaming**|Xutao Mao et.al.|[2607.11698](http://arxiv.org/abs/2607.11698)|null|
+|**2026-07-13**|**From World Action Models to Embodied Brains: A Roadmap for Open-World Physical Intelligence**|Yuanzhi Liang et.al.|[2607.11689](http://arxiv.org/abs/2607.11689)|null|
+|**2026-07-13**|**Heuristic Learning for Active Flow Control Using Coding Agents**|Paul Garnier et.al.|[2607.11565](http://arxiv.org/abs/2607.11565)|null|
+|**2026-07-13**|**PaperRouter-Agent: A Content-Grounded LLM Agent for Personalized Hierarchical Paper Routing**|Keshen Zhou et.al.|[2607.11564](http://arxiv.org/abs/2607.11564)|null|
+|**2026-07-13**|**Linux disk encryption and self-encrypting drives -- A case study on Opal2 drives security**|Milan Brož et.al.|[2607.11563](http://arxiv.org/abs/2607.11563)|null|
+|**2026-07-13**|**Towards Human-level Dexterous Teleoperation**|Puhao Li et.al.|[2607.11481](http://arxiv.org/abs/2607.11481)|null|
+|**2026-07-13**|**UMoE:Unlocking Every Expert in Domain-Specific Training**|Xuefeng Li et.al.|[2607.11444](http://arxiv.org/abs/2607.11444)|null|
+|**2026-07-13**|**ToFu: A White-Box, Token-Efficient Agent Harness for Researchers**|Junhao Ruan et.al.|[2607.11423](http://arxiv.org/abs/2607.11423)|null|
+|**2026-07-13**|**Agentic Routing: The Harness-Native Data Flywheel**|Xinchen Liu et.al.|[2607.11399](http://arxiv.org/abs/2607.11399)|null|
+|**2026-07-13**|**TerraRepair: A Tool-Grounded LLM Agent for Infrastructure-as-Code Repair**|Minase Mekete Mengistu et.al.|[2607.11390](http://arxiv.org/abs/2607.11390)|null|
+|**2026-07-13**|**A Glimpse into Long-term Physical Coexistence with Intelligent Robots**|Weiqi Jin et.al.|[2607.11377](http://arxiv.org/abs/2607.11377)|null|
+|**2026-07-13**|**OpsMem: Dual-Memory Reasoning with Cross-Memory Resonance for Failure Diagnosis**|Yongqian Sun et.al.|[2607.11357](http://arxiv.org/abs/2607.11357)|null|
+|**2026-07-13**|**Compile, Then Page: Executable SOP Programs and a Capability-Gated Runtime for Procedural LLM Agents**|Chenglin Yu et.al.|[2607.11346](http://arxiv.org/abs/2607.11346)|null|
+|**2026-07-13**|**Toward AI-Agent-Driven Particle Transport Simulations: Implementation of AI-Assisted Workflows for PHITS**|Tatsuhiko Sato et.al.|[2607.11309](http://arxiv.org/abs/2607.11309)|null|
+|**2026-07-13**|**FlowArk: Boosting Agentic Data-flow Analysis for Android Apps via Context-Aware Knowledge Reuse**|Yiming Zhang et.al.|[2607.11308](http://arxiv.org/abs/2607.11308)|null|
+|**2026-07-13**|**Efficient Test-Time Optimization for Multi-Agent Proof Autoformalization**|Tian-Shuo Liu et.al.|[2607.11307](http://arxiv.org/abs/2607.11307)|null|
+|**2026-07-13**|**Mako: A Self-Evolving Agentic Operating System (SE-AOS) for Autonomous Web Exploitation**|Praneeth Narisetty et.al.|[2607.11288](http://arxiv.org/abs/2607.11288)|null|
 |**2026-07-10**|**VEXAIoT: Autonomous IoT Vulnerability EXploitation using AI Agents**|Katherine Swinea et.al.|[2607.09653](http://arxiv.org/abs/2607.09653)|null|
 |**2026-07-10**|**Lean-QIT: Towards a Formal Infrastructure for Quantum Information Theory**|Chengkai Zhu et.al.|[2607.09632](http://arxiv.org/abs/2607.09632)|null|
 |**2026-07-10**|**LLM for EDA in Front-End Design: Challenges and Opportunities**|Kangwei Xu et.al.|[2607.09616](http://arxiv.org/abs/2607.09616)|null|
@@ -4192,6 +4212,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-13**|**Mixture of Frames Policy: Multi-Frame Action Denoising for Bimanual Mobile Manipulation**|Dian Wang et.al.|[2607.11884](http://arxiv.org/abs/2607.11884)|null|
+|**2026-07-13**|**Requential Coding: Pushing the Limits of Model Compression with Self-Generated Training Data**|Shikai Qiu et.al.|[2607.11883](http://arxiv.org/abs/2607.11883)|null|
+|**2026-07-13**|**Invariant Learning Dynamics of Transformers in Inductive Reasoning Tasks**|Tiberiu Musat et.al.|[2607.11875](http://arxiv.org/abs/2607.11875)|null|
+|**2026-07-13**|**A Durability and Cross-Language Transfer Benchmark for a Validated Teaching-Feedback Classification Protocol**|Esteban U. Vega Barajas et.al.|[2607.11873](http://arxiv.org/abs/2607.11873)|null|
+|**2026-07-13**|**Evidence-Backed Video Question Answering**|Shijie Wang et.al.|[2607.11862](http://arxiv.org/abs/2607.11862)|null|
+|**2026-07-13**|**Can LLMs Perform Deep Technical Comprehension of Computer Architecture Papers?**|Nishant Aggarwal et.al.|[2607.11859](http://arxiv.org/abs/2607.11859)|null|
+|**2026-07-13**|**AdvancedMathBench: A Benchmark Suite for Advanced Mathematical Proof Generation and Verification**|Lingkai Kong et.al.|[2607.11849](http://arxiv.org/abs/2607.11849)|null|
+|**2026-07-13**|**Beyond the Single Camera: Agentic Multi-View Reasoning in Sports Video Understanding**|Kerui Chen et.al.|[2607.11844](http://arxiv.org/abs/2607.11844)|null|
+|**2026-07-13**|**Supporting Reflection in LLM-based Exploratory Search**|Giulia Di Fede et.al.|[2607.11810](http://arxiv.org/abs/2607.11810)|null|
+|**2026-07-13**|**Encoder-Side Neuron Identification and Amplification for Acoustic Perception in Large Audio-Language Models**|Yu-Han Huang et.al.|[2607.11801](http://arxiv.org/abs/2607.11801)|null|
+|**2026-07-13**|**StoryTeller: Training-Free Narrative Grounding for Long-Form Audio Description**|Seung Hyun Hahm et.al.|[2607.11798](http://arxiv.org/abs/2607.11798)|null|
+|**2026-07-13**|**How Temperature Shapes Ideological Discourse in Retrieval-Augmented Generation?**|Elmira Salari et.al.|[2607.11783](http://arxiv.org/abs/2607.11783)|null|
+|**2026-07-13**|**From Expressivity to Sample Complexity: Narrow Teachers for Transformers via C-RASP**|Michael Rizvi-Martel et.al.|[2607.11760](http://arxiv.org/abs/2607.11760)|null|
+|**2026-07-13**|**Playful AI in Professional Email: A Field Experiment on Tone and Recipient Engagement**|Ziv Ben-Zion et.al.|[2607.11749](http://arxiv.org/abs/2607.11749)|null|
+|**2026-07-13**|**MET: Theory-Grounded and Culture-Aware Multilingual Moral Reasoning**|Ayoung Lee et.al.|[2607.11736](http://arxiv.org/abs/2607.11736)|null|
+|**2026-07-13**|**STEP: Career-Path Recommendation via Temporal and Educational Trajectory Modeling**|Iman Johary et.al.|[2607.11722](http://arxiv.org/abs/2607.11722)|null|
+|**2026-07-13**|**JobHop v2: A Large-Scale Career Trajectory Dataset from Unstructured Resumes**|Iman Johary et.al.|[2607.11715](http://arxiv.org/abs/2607.11715)|null|
+|**2026-07-13**|**Production and Perception in LLMs: A Token Probability Approach**|Anna Marklová et.al.|[2607.11703](http://arxiv.org/abs/2607.11703)|null|
+|**2026-07-13**|**Qwen-Music Technical Report**|Jin Xu et.al.|[2607.11699](http://arxiv.org/abs/2607.11699)|null|
+|**2026-07-13**|**Think Through a Bottleneck: Hourglass Reasoning for Rigorous Induction**|Huan Zhu et.al.|[2607.11696](http://arxiv.org/abs/2607.11696)|null|
 |**2026-07-10**|**Scalable Visual Pretraining for Language Intelligence**|Yiming Zhang et.al.|[2607.09657](http://arxiv.org/abs/2607.09657)|null|
 |**2026-07-10**|**Evolution of Accuracy and Visual-Cognitive Errors in a Decade of Vision-Language AI Models**|Shravan Murlidaran et.al.|[2607.09654](http://arxiv.org/abs/2607.09654)|null|
 |**2026-07-10**|**VEXAIoT: Autonomous IoT Vulnerability EXploitation using AI Agents**|Katherine Swinea et.al.|[2607.09653](http://arxiv.org/abs/2607.09653)|null|
@@ -8237,6 +8277,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-13**|**Read It Back: Pretrained MLLMs Are Zero-Shot Reward Models for Text-to-Image Generation**|Runhui Huang et.al.|[2607.11886](http://arxiv.org/abs/2607.11886)|null|
+|**2026-07-13**|**A Minimalist Retargeting-Guided Reinforcement Learning Recipe for Dexterous Manipulation**|Yunhai Feng et.al.|[2607.11874](http://arxiv.org/abs/2607.11874)|null|
+|**2026-07-13**|**Transformer-Guided Swarm Intelligence for Frugal Neural Architecture Search**|Romain Amigon et.al.|[2607.11826](http://arxiv.org/abs/2607.11826)|null|
+|**2026-07-13**|**Active Noise Floor Estimation for Reliability-Optimal POMDPs: A Value-of-Noise-Information Approach**|Hyung-Jin Yoon et.al.|[2607.11822](http://arxiv.org/abs/2607.11822)|null|
+|**2026-07-13**|**Analytical Markov Chain for Spatiotemporal Flux Evolution of the Inner Filter Effect in Fluorescent Media**|Xuhui Yang et.al.|[2607.11815](http://arxiv.org/abs/2607.11815)|null|
+|**2026-07-13**|**Synchronized Three-Dimensional Vocal-Tract Motion for Speech Synchronization via Joint-Embedding Predictive Architecture Alignment**|Sheng Li et.al.|[2607.11772](http://arxiv.org/abs/2607.11772)|null|
+|**2026-07-13**|**Multi-Agent Reinforcement Learning for C-V2X RAT Selection**|Moritz Schaffenroth et.al.|[2607.11744](http://arxiv.org/abs/2607.11744)|null|
+|**2026-07-13**|**Exchange topology and criticality in ferrite and chromium spinels: a unified Monte Carlo analysis**|Keltoum Khallouq et.al.|[2607.11729](http://arxiv.org/abs/2607.11729)|null|
+|**2026-07-13**|**Time-Lag-Aware Deep Reinforcement Learning for Flexible Job-Shop Scheduling in PPVC Module Factories**|Ziheng Zhang et.al.|[2607.11725](http://arxiv.org/abs/2607.11725)|null|
+|**2026-07-13**|**Active Offline-to-Online Reinforcement Learning**|Alper Kamil Bozkurt et.al.|[2607.11720](http://arxiv.org/abs/2607.11720)|null|
+|**2026-07-13**|**One Vote, Several Parliaments: An Empirical Analysis of the Algorithmic Ambiguity of the Italian Electoral Law on the 2022 General Election Data**|Paolo Coppola et.al.|[2607.11676](http://arxiv.org/abs/2607.11676)|null|
+|**2026-07-13**|**Thermal phase transitions in a mixed-spin Ising model on the Lieb lattice: Exact results beyond zero magnetic field**|Jozef Strecka et.al.|[2607.11661](http://arxiv.org/abs/2607.11661)|null|
+|**2026-07-13**|**Markov Chain Monte Carlo with Diffusion Paths**|Han Chen et.al.|[2607.11631](http://arxiv.org/abs/2607.11631)|null|
+|**2026-07-13**|**On the Policy Convergence of Policy Mirror Descent Methods**|Wenye Li et.al.|[2607.11626](http://arxiv.org/abs/2607.11626)|null|
+|**2026-07-13**|**SKooP: Symmetric Koopman Predictions for Faster and More Generalizable Legged Robot Locomotion with Reinforcement Learning**|Evelyn D'Elia et.al.|[2607.11624](http://arxiv.org/abs/2607.11624)|null|
+|**2026-07-13**|**Lesioned Multimodal Language Models Reproduce Aphasic Picture-Naming Patterns**|Yong Yang et.al.|[2607.11621](http://arxiv.org/abs/2607.11621)|null|
+|**2026-07-13**|**Auditing the Risk Claims of Distributional Reinforcement Learning**|Hari Prasad et.al.|[2607.11607](http://arxiv.org/abs/2607.11607)|null|
+|**2026-07-13**|**Copositive Characterizations of Convex Hull Pricing**|Madhusudan Ghosh et.al.|[2607.11590](http://arxiv.org/abs/2607.11590)|null|
+|**2026-07-13**|**Actor as Its Own Critic: Unifying Region Understanding and Localization via CycleGRPO**|Xin Zhang et.al.|[2607.11581](http://arxiv.org/abs/2607.11581)|null|
+|**2026-07-13**|**DiffEEG: A Self-Supervised Denoising Diffusion Model for Learning EEG Generic Representations**|Abdulkader Helwan et.al.|[2607.11578](http://arxiv.org/abs/2607.11578)|null|
 |**2026-07-10**|**Semantic Pareto-DQN: A Multi-Objective Reinforcement Learning Framework for Financial Anomaly Detection**|Cláudio Lúcio do Val Lopes et.al.|[2607.09641](http://arxiv.org/abs/2607.09641)|null|
 |**2026-07-10**|**Beyond the Cube: Overlapping Grid Methods for Debris Collision Risk Assessment**|Yacob Medhin et.al.|[2607.09634](http://arxiv.org/abs/2607.09634)|null|
 |**2026-07-10**|**PAC-ACT: Post-training Actor-Critic for Action Chunking Transformers**|Yujie Pang et.al.|[2607.09590](http://arxiv.org/abs/2607.09590)|null|
