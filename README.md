@@ -21,6 +21,9 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-14**|**Do AI Agents Know When a Task Is Simple? Toward Complexity-Aware Reasoning and Execution**|Junjie Yin et.al.|[2607.13034](http://arxiv.org/abs/2607.13034)|null|
+|**2026-07-14**|**PalmClaw: A Native On-Device Agent Framework for Mobile Phones**|Hongru Cai et.al.|[2607.13027](http://arxiv.org/abs/2607.13027)|null|
+|**2026-07-14**|**Software Supply Chains are Dead: Use-Case-Oriented Regeneration**|Tanmay Singla et.al.|[2607.13021](http://arxiv.org/abs/2607.13021)|null|
 |**2026-07-14**|**Open-KNEAD: Knowledge-grounded Nutrition Estimation via Agentic Decomposition**|Bruce Coburn et.al.|[2607.12911](http://arxiv.org/abs/2607.12911)|null|
 |**2026-07-14**|**Hy-Embodied-VLM-1.0: Efficient Physical-World Agents**|Ziyi Wang et.al.|[2607.12894](http://arxiv.org/abs/2607.12894)|null|
 |**2026-07-14**|**MetaInfer: A Knowledge Only LLM Inference Engine Generator SKILL Toolbox**|Zhenwen Miao et.al.|[2607.12875](http://arxiv.org/abs/2607.12875)|null|
@@ -4232,6 +4235,12 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-14**|**Do AI Agents Know When a Task Is Simple? Toward Complexity-Aware Reasoning and Execution**|Junjie Yin et.al.|[2607.13034](http://arxiv.org/abs/2607.13034)|null|
+|**2026-07-14**|**PalmClaw: A Native On-Device Agent Framework for Mobile Phones**|Hongru Cai et.al.|[2607.13027](http://arxiv.org/abs/2607.13027)|null|
+|**2026-07-14**|**Audio-Native Speech Recognition with a Frozen Discrete-Diffusion Language Model**|Harsha Vardhan Khurdula et.al.|[2607.13013](http://arxiv.org/abs/2607.13013)|null|
+|**2026-07-14**|**Resist and Update: Counterfactual Report Coordinates for Incentive-Compatible LLMs**|Sen Yang et.al.|[2607.12985](http://arxiv.org/abs/2607.12985)|null|
+|**2026-07-14**|**FormalAnalyticGeo: A Neural-Symbolic Based Framework for Multimodal Analytic Geometry Problem Generation**|Ruoran Xu et.al.|[2607.12982](http://arxiv.org/abs/2607.12982)|null|
+|**2026-07-14**|**The Illusion of Robustness: Aggregate Accuracy Hides Prediction Flips under Task-Irrelevant Context**|Yanzhe Zhang et.al.|[2607.12963](http://arxiv.org/abs/2607.12963)|null|
 |**2026-07-14**|**Open-KNEAD: Knowledge-grounded Nutrition Estimation via Agentic Decomposition**|Bruce Coburn et.al.|[2607.12911](http://arxiv.org/abs/2607.12911)|null|
 |**2026-07-14**|**UniMedSeg: Unified In-Context Learning for Multi-Paradigm 2D/3D Medical Image Segmentation**|Yunzhou Li et.al.|[2607.12896](http://arxiv.org/abs/2607.12896)|null|
 |**2026-07-14**|**Hy-Embodied-VLM-1.0: Efficient Physical-World Agents**|Ziyi Wang et.al.|[2607.12894](http://arxiv.org/abs/2607.12894)|null|
@@ -8317,6 +8326,15 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-14**|**DenseReward: Dense Reward Learning via Failure Synthesis for Robotic Manipulation**|Yu Fang et.al.|[2607.13033](http://arxiv.org/abs/2607.13033)|null|
+|**2026-07-14**|**TerraZero: Procedural Driving Simulation for Zero-Demonstration Self-Play at Scale**|Zhouchonghao Wu et.al.|[2607.13028](http://arxiv.org/abs/2607.13028)|null|
+|**2026-07-14**|**Dynamic Resource Allocation for Ensemble Determinization MCTS**|Jakub Kowalski et.al.|[2607.13007](http://arxiv.org/abs/2607.13007)|null|
+|**2026-07-14**|**One Shot, Twenty-One Balls: Existence and Rarity of a Total Clearance in a Single Stroke of Snooker**|Avner Kantor et.al.|[2607.12995](http://arxiv.org/abs/2607.12995)|null|
+|**2026-07-14**|**A Noise-Aware Quantum Algorithm for Credit Valuation Adjustments on Real Quantum Hardware**|Guillem Borràs Espert et.al.|[2607.12990](http://arxiv.org/abs/2607.12990)|null|
+|**2026-07-14**|**RecRec: Latent Interests Recursive Reasoning for Sequential Recommendation**|Wenhao Deng et.al.|[2607.12945](http://arxiv.org/abs/2607.12945)|null|
+|**2026-07-14**|**ExToken: Structured Exploration for Efficient Vision-Language-Action Reinforcement Fine-tuning**|Yilun Kong et.al.|[2607.12931](http://arxiv.org/abs/2607.12931)|null|
+|**2026-07-14**|**Knowledge- and Gradient-Guided Reinforcement Learning for Parametrized Action Markov Decision Processes**|Jonas Ehrhardt et.al.|[2607.12924](http://arxiv.org/abs/2607.12924)|null|
+|**2026-07-14**|**LatentFlow: A General Framework for Conditioning Stochastic Processes**|Louis Sharrock et.al.|[2607.12922](http://arxiv.org/abs/2607.12922)|null|
 |**2026-07-14**|**Accelerated Mixing Time of Randomized Hamiltonian Monte Carlo**|Siddharth Mitra et.al.|[2607.12902](http://arxiv.org/abs/2607.12902)|null|
 |**2026-07-14**|**Unveiling Complex Collective Behaviors from Simple Rewards**|Yize Mi et.al.|[2607.12861](http://arxiv.org/abs/2607.12861)|null|
 |**2026-07-14**|**Verifier-Based Reinforcement Fine-Tuning of Reasoning Models for Thermal Energy Storage Control**|Takumi Shioda et.al.|[2607.12856](http://arxiv.org/abs/2607.12856)|null|
