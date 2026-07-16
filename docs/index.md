@@ -16,6 +16,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-15**|**Early Adoption of Agentic Coding Tools by GitHub Projects**|Maliha Noushin Raida et.al.|[2607.14037](http://arxiv.org/abs/2607.14037)|null|
+|**2026-07-15**|**TRACE: Turn-level Reward Assignment via Credit Estimation for Long-Horizon Agents**|Leitian Tao et.al.|[2607.13988](http://arxiv.org/abs/2607.13988)|null|
+|**2026-07-15**|**Agent Skill Security: Threat Models, Attacks, Defenses, and Evaluation**|Sanket Badhe et.al.|[2607.13987](http://arxiv.org/abs/2607.13987)|null|
+|**2026-07-15**|**NNStar: An end-to-end AI agent for nuclear matter and neutron star physics**|Yao Ma et.al.|[2607.13930](http://arxiv.org/abs/2607.13930)|null|
+|**2026-07-15**|**Experience Memory Graph: One-Shot Error Correction for Agents**|Wenjun Wang et.al.|[2607.13884](http://arxiv.org/abs/2607.13884)|null|
+|**2026-07-15**|**Unleashing Multimodal Large Language Models for Training-free HOI Detection in the Wild**|Ting Lei et.al.|[2607.13881](http://arxiv.org/abs/2607.13881)|null|
+|**2026-07-15**|**SPyCE: Skill-Policy Co-evolution for Multimodal Agents**|Ru Zhang et.al.|[2607.13854](http://arxiv.org/abs/2607.13854)|null|
+|**2026-07-15**|**EgoProceVQA: A Novel Egocentric Procedural Understanding Task with Self-Skill-Exploration Agent**|Junlong Li et.al.|[2607.13792](http://arxiv.org/abs/2607.13792)|null|
+|**2026-07-15**|**How Agents Ask for Permission: User Permissions for AI Agents, from Interfaces to Enforcement**|Alexandra E. Michael et.al.|[2607.13718](http://arxiv.org/abs/2607.13718)|null|
+|**2026-07-15**|**AgentCompass: A Unified Evaluation Infrastructure for Agent Capabilities**|Zichen Ding et.al.|[2607.13705](http://arxiv.org/abs/2607.13705)|null|
+|**2026-07-15**|**Self-Evolving Agent Harnesses via Gated Semantic Quality-Diversity**|Xiaotian Luo et.al.|[2607.13683](http://arxiv.org/abs/2607.13683)|null|
+|**2026-07-15**|**When Bots Join the Team: Bot Adoption and the Institutional Fabric of Open-Source Software Projects**|Yongren Shi et.al.|[2607.13679](http://arxiv.org/abs/2607.13679)|null|
+|**2026-07-15**|**Explaining Reinforcement Learning Agents via Inductive Logic Programming**|Celeste Veronese et.al.|[2607.13655](http://arxiv.org/abs/2607.13655)|null|
+|**2026-07-15**|**Exploratory, Communicative, and Deployable: Vision-Driven Embodied Agents for Open-World Mobile Manipulation**|Boyu Mi et.al.|[2607.13653](http://arxiv.org/abs/2607.13653)|null|
+|**2026-07-15**|**UESF-Bench: Benchmarking and Probing for Unified Embodied Seeking and Following**|Kun Yu et.al.|[2607.13621](http://arxiv.org/abs/2607.13621)|null|
+|**2026-07-15**|**STOCKTAKE: Measuring the Gap Between Perception and Action in LLM Agents with a Fair Oracle**|Sagar Deb et.al.|[2607.13618](http://arxiv.org/abs/2607.13618)|null|
+|**2026-07-15**|**Automatic Ordinary Differential Equations Discovery For Biological Systems Using Large Language Model Powered Agentic System**|David Krongauz et.al.|[2607.13608](http://arxiv.org/abs/2607.13608)|null|
+|**2026-07-15**|**Analogical Deep Research: Retrieving and Integrating Historical Analogies for Foresight Analysis**|Yongqiang Chen et.al.|[2607.13602](http://arxiv.org/abs/2607.13602)|null|
+|**2026-07-15**|**Active Trust Management for Successful Human-Robot Teaming: Moving from a Trust Repair to a Trust Satisficing Perspective**|Nicola Webb et.al.|[2607.13595](http://arxiv.org/abs/2607.13595)|null|
+|**2026-07-15**|**SAFETY SENTRY: Context-Aware Human Intervention via EXECUTE-ASK-REFUSE Routing**|Tianyu Chen et.al.|[2607.13594](http://arxiv.org/abs/2607.13594)|null|
 |**2026-07-14**|**Do AI Agents Know When a Task Is Simple? Toward Complexity-Aware Reasoning and Execution**|Junjie Yin et.al.|[2607.13034](http://arxiv.org/abs/2607.13034)|null|
 |**2026-07-14**|**PalmClaw: A Native On-Device Agent Framework for Mobile Phones**|Hongru Cai et.al.|[2607.13027](http://arxiv.org/abs/2607.13027)|null|
 |**2026-07-14**|**Software Supply Chains are Dead: Use-Case-Oriented Regeneration**|Tanmay Singla et.al.|[2607.13021](http://arxiv.org/abs/2607.13021)|null|
@@ -4228,6 +4248,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-15**|**Building Shor's Algorithm in Lean: An Agentic Formalization of Quantum Attacks on RSA-2048 and P-256**|Lei Zhang et.al.|[2607.14082](http://arxiv.org/abs/2607.14082)|null|
+|**2026-07-15**|**VisualRepair: Dynamic Tool Calling and Region Focusing for Visual Software Issue Repair**|Jingyu Xiao et.al.|[2607.14075](http://arxiv.org/abs/2607.14075)|null|
+|**2026-07-15**|**Deep Interaction: An Efficient Human-AI Interaction Method for Large Reasoning Models**|Hefeng Zhou et.al.|[2607.14049](http://arxiv.org/abs/2607.14049)|null|
+|**2026-07-15**|**LLMs for Qualitative and Mixed-Methods Social Network Analysis**|Moses Boudourides et.al.|[2607.14045](http://arxiv.org/abs/2607.14045)|null|
+|**2026-07-15**|**Agent Skill Security: Threat Models, Attacks, Defenses, and Evaluation**|Sanket Badhe et.al.|[2607.13987](http://arxiv.org/abs/2607.13987)|null|
+|**2026-07-15**|**Screening Is Effective for Visual Recognition**|Shunya Shimomura et.al.|[2607.13983](http://arxiv.org/abs/2607.13983)|null|
+|**2026-07-15**|**Music-to-Dance Generation via Atomic Movements**|Xinhao Cai et.al.|[2607.13978](http://arxiv.org/abs/2607.13978)|null|
+|**2026-07-15**|**Measuring Sentiment News with Transformer-Based Language Models**|Maria Saveria Mavillonio et.al.|[2607.13968](http://arxiv.org/abs/2607.13968)|null|
+|**2026-07-15**|**Pezego-HITL: A policy-grounded large language model architecture for agricultural extension in Ghana**|Shunbao Li et.al.|[2607.13934](http://arxiv.org/abs/2607.13934)|null|
+|**2026-07-15**|**SIVA-RL: Sensitivity-Invariance Visual Alignment for Multimodal Reinforcement Learning**|Cheng Tang et.al.|[2607.13931](http://arxiv.org/abs/2607.13931)|null|
+|**2026-07-15**|**NNStar: An end-to-end AI agent for nuclear matter and neutron star physics**|Yao Ma et.al.|[2607.13930](http://arxiv.org/abs/2607.13930)|null|
+|**2026-07-15**|**S-squared-VLA: Decoupling Semantic and Spatial Streams in Vision-Language-Action Models for Autonomous Driving**|Jianguo Yu et.al.|[2607.13926](http://arxiv.org/abs/2607.13926)|null|
+|**2026-07-15**|**How to Guide LLM Generation: Dual-Surrogate Guided Search for Automated Heuristic Design**|Yuhan Wang et.al.|[2607.13911](http://arxiv.org/abs/2607.13911)|null|
+|**2026-07-15**|**High-Order Question Generation in a Multilingual Educational Context**|Suna-Şeyma Uçar et.al.|[2607.13901](http://arxiv.org/abs/2607.13901)|null|
+|**2026-07-15**|**AIMO Interpretability Challenge**|Michal Štefánik et.al.|[2607.13899](http://arxiv.org/abs/2607.13899)|null|
+|**2026-07-15**|**Fine-Grained Vision-Language Pretraining with Organ-Conditioned Pattern Tokens for CT Understanding**|Guoliang You et.al.|[2607.13892](http://arxiv.org/abs/2607.13892)|null|
+|**2026-07-15**|**Experience Memory Graph: One-Shot Error Correction for Agents**|Wenjun Wang et.al.|[2607.13884](http://arxiv.org/abs/2607.13884)|null|
+|**2026-07-15**|**Unleashing Multimodal Large Language Models for Training-free HOI Detection in the Wild**|Ting Lei et.al.|[2607.13881](http://arxiv.org/abs/2607.13881)|null|
+|**2026-07-15**|**Towards Enhancing 3D Spatial Reasoning in Medical Multimodal Large Language Models**|Zhuoyuan Fu et.al.|[2607.13860](http://arxiv.org/abs/2607.13860)|null|
+|**2026-07-15**|**PROBE: Benchmarking Code Generation in Large Language Models**|Rodrigo Pato Nogueira et.al.|[2607.13820](http://arxiv.org/abs/2607.13820)|null|
 |**2026-07-14**|**Do AI Agents Know When a Task Is Simple? Toward Complexity-Aware Reasoning and Execution**|Junjie Yin et.al.|[2607.13034](http://arxiv.org/abs/2607.13034)|null|
 |**2026-07-14**|**PalmClaw: A Native On-Device Agent Framework for Mobile Phones**|Hongru Cai et.al.|[2607.13027](http://arxiv.org/abs/2607.13027)|null|
 |**2026-07-14**|**Audio-Native Speech Recognition with a Frozen Discrete-Diffusion Language Model**|Harsha Vardhan Khurdula et.al.|[2607.13013](http://arxiv.org/abs/2607.13013)|null|
@@ -8317,6 +8357,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-15**|**Exact Decomposition of Adversarial Dual-Objective Value Functions, with Applications to Optimal Drug Dosing**|Dylan Hirsch et.al.|[2607.14023](http://arxiv.org/abs/2607.14023)|null|
+|**2026-07-15**|**Industrial Dexterity Benchmark: A Hardware-Software Benchmarking Platform for Industrial Dexterous Manipulation**|Honglu He et.al.|[2607.14021](http://arxiv.org/abs/2607.14021)|null|
+|**2026-07-15**|**Lighthouse RL: Sample-Efficient Circuit Optimization via Strategic Reset Points**|Mustafa Emre Gürsoy et.al.|[2607.14008](http://arxiv.org/abs/2607.14008)|null|
+|**2026-07-15**|**Lyapunov Exponent as Physics-Informed Dense Reward: RL Discovery of Stabilization Beyond the Kapitza Pendulum**|Slava Andrejev et.al.|[2607.14001](http://arxiv.org/abs/2607.14001)|null|
+|**2026-07-15**|**TRACE: Turn-level Reward Assignment via Credit Estimation for Long-Horizon Agents**|Leitian Tao et.al.|[2607.13988](http://arxiv.org/abs/2607.13988)|null|
+|**2026-07-15**|**Kaleidoscopic-ray-tracing-based model of the scintillation flash energy deposition in the photomultipliers attached to a strip scintillator**|I. V. Vovchenko et.al.|[2607.13963](http://arxiv.org/abs/2607.13963)|null|
+|**2026-07-15**|**Discriminative Barrier Functions for Safe Adversarial Imitation Learning from Observation**|Anubhav Vishwakarma et.al.|[2607.13938](http://arxiv.org/abs/2607.13938)|null|
+|**2026-07-15**|**SIVA-RL: Sensitivity-Invariance Visual Alignment for Multimodal Reinforcement Learning**|Cheng Tang et.al.|[2607.13931](http://arxiv.org/abs/2607.13931)|null|
+|**2026-07-15**|**Hybrid Time-Frequency Domain Frequency Offset Compensation Under GHz Doppler Shift for LEO Satellite-to-Ground Coherent Free-Space Optical Communication**|Tiankuo Jiao et.al.|[2607.13904](http://arxiv.org/abs/2607.13904)|null|
+|**2026-07-15**|**Genre Bias or Aesthetic Perception? Identifying and Mitigating Shortcut Learning in Music Evaluation**|Yizhou Zhang et.al.|[2607.13903](http://arxiv.org/abs/2607.13903)|null|
+|**2026-07-15**|**Task-Oriented Sensing and Covert Transmissions for Collaborative Multi-AUV Systems**|Xueyao Zhang et.al.|[2607.13880](http://arxiv.org/abs/2607.13880)|null|
+|**2026-07-15**|**SPyCE: Skill-Policy Co-evolution for Multimodal Agents**|Ru Zhang et.al.|[2607.13854](http://arxiv.org/abs/2607.13854)|null|
+|**2026-07-15**|**Learning Robust Execution in Robotic Manipulation with Agentic Reinforcement Learning**|Xiaopeng Zhang et.al.|[2607.13818](http://arxiv.org/abs/2607.13818)|null|
+|**2026-07-15**|**Vision-Based Obstacle Separation for Strawberry Harvesting in Clusters Using Hierarchical Reinforcement Learning**|Teng Li et.al.|[2607.13799](http://arxiv.org/abs/2607.13799)|null|
+|**2026-07-15**|**Bridging Frustration and Non-Hermiticity via COMPASS: An Adaptive Biorthogonal Neural Quantum State Framework**|Lavoisier Wah et.al.|[2607.13790](http://arxiv.org/abs/2607.13790)|null|
+|**2026-07-15**|**jQMC: A JAX-based ab initio quantum Monte Carlo package designed for GPU-accelerated computing**|Kousuke Nakano et.al.|[2607.13781](http://arxiv.org/abs/2607.13781)|null|
+|**2026-07-15**|**Mono-Z Dark Matter Search with Neural Spline Flows Using CMS Run 2015D Open Data**|Hitesh Rasineni et.al.|[2607.13771](http://arxiv.org/abs/2607.13771)|null|
+|**2026-07-15**|**Post-Training Shifts Confidence: A Three-Stage Analysis of How SFT, RL, and OPD Shape Pre-, Intra-, and Post-CoT Calibration**|Shuhao Li et.al.|[2607.13753](http://arxiv.org/abs/2607.13753)|null|
+|**2026-07-15**|**DAGR: State-Conditioned Goal Representations via Difference-Aware Goal Cross-Attention**|Xing Lei et.al.|[2607.13731](http://arxiv.org/abs/2607.13731)|null|
+|**2026-07-15**|**Stoner transitions beyond mean-field in two-dimensional electronic systems: a diagrammatic Monte Carlo study**|Yueh-Chen Lee et.al.|[2607.13675](http://arxiv.org/abs/2607.13675)|null|
 |**2026-07-14**|**DenseReward: Dense Reward Learning via Failure Synthesis for Robotic Manipulation**|Yu Fang et.al.|[2607.13033](http://arxiv.org/abs/2607.13033)|null|
 |**2026-07-14**|**TerraZero: Procedural Driving Simulation for Zero-Demonstration Self-Play at Scale**|Zhouchonghao Wu et.al.|[2607.13028](http://arxiv.org/abs/2607.13028)|null|
 |**2026-07-14**|**Dynamic Resource Allocation for Ensemble Determinization MCTS**|Jakub Kowalski et.al.|[2607.13007](http://arxiv.org/abs/2607.13007)|null|
