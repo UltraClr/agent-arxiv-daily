@@ -21,6 +21,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-16**|**Beyond Success Rate: Cost-Aware Evaluation of Offensive and Defensive Security Agents**|Paul Kassianik et.al.|[2607.15263](http://arxiv.org/abs/2607.15263)|null|
+|**2026-07-16**|**SearchOS-V1: Towards Robust Open-Domain Information-Seeking Agent Collaboration**|Yuyao Zhang et.al.|[2607.15257](http://arxiv.org/abs/2607.15257)|null|
+|**2026-07-16**|**ARMOR++: Agentic Orchestration of a Multi-Domain Primitive Set for Transferable Attacks on Deepfake Detectors**|Christos Korgialas et.al.|[2607.15246](http://arxiv.org/abs/2607.15246)|null|
+|**2026-07-16**|**When Words Are Safe But Actions Kill: Probing Physical Danger Beyond Text Safety in Hidden-State Risk Space**|Weimeng Wang et.al.|[2607.15218](http://arxiv.org/abs/2607.15218)|null|
+|**2026-07-16**|**Plover: Steering GUI Agents through Plan-Centric Interaction**|Madhumitha Venkatesan et.al.|[2607.15193](http://arxiv.org/abs/2607.15193)|null|
+|**2026-07-16**|**Can We Trust Item Response Theory for AI Evaluation?**|Han Jiang et.al.|[2607.15190](http://arxiv.org/abs/2607.15190)|null|
+|**2026-07-16**|**Scaling Behavior Foundation Model for Humanoid Robots**|Weishuai Zeng et.al.|[2607.15163](http://arxiv.org/abs/2607.15163)|null|
+|**2026-07-16**|**Setup Complete, Now You Are Compromised: Weaponizing Setup Instructions Against AI Coding Agents**|Aadesh Bagmar et.al.|[2607.15143](http://arxiv.org/abs/2607.15143)|null|
+|**2026-07-16**|**Digital Pantheon: Simulating and Auditing Coalition Formation with LLM Agents**|Dylan Van Mulders et.al.|[2607.15095](http://arxiv.org/abs/2607.15095)|null|
+|**2026-07-16**|**BrainPilot: Automating Brain Discovery with Agentic Research**|Haoxuan Li et.al.|[2607.15079](http://arxiv.org/abs/2607.15079)|null|
+|**2026-07-16**|**ANet Patu-1: The Value of Connection in the Agent Network**|Mu Yuan et.al.|[2607.15053](http://arxiv.org/abs/2607.15053)|null|
+|**2026-07-16**|**OmniaBench: Benchmarking General AI Agents Across Diverse Scenarios**|Chengyu Shen et.al.|[2607.14989](http://arxiv.org/abs/2607.14989)|null|
+|**2026-07-16**|**LongStraw: Long-Context RL Beyond 2M Tokens under a Fixed GPU Budget**|Changhai Zhou et.al.|[2607.14952](http://arxiv.org/abs/2607.14952)|null|
+|**2026-07-16**|**Human-Robot Interaction in GenAI Architectures via the Agent-Client Protocol**|Jesus Moncada-Ramirez et.al.|[2607.14919](http://arxiv.org/abs/2607.14919)|null|
+|**2026-07-16**|**FirmPilot: Evidence-Guided Multi-Agent Environment Recovery for IoT Firmware Rehosting**|Yanbing Shen et.al.|[2607.14903](http://arxiv.org/abs/2607.14903)|null|
+|**2026-07-16**|**StructureClaw: Traceable LLM Agents and an Executable Benchmark for Structural Engineering Workflows**|Sizhong Qin et.al.|[2607.14896](http://arxiv.org/abs/2607.14896)|null|
+|**2026-07-16**|**Proof-or-Stop: Don't Trust the Agent, Trust the Evidence -- Loop Engineering for Verifiable Evidence-Gated Lifecycle Control**|Jek Huang et.al.|[2607.14890](http://arxiv.org/abs/2607.14890)|null|
+|**2026-07-16**|**CAMB v2: cosmological power spectra for high-precision surveys**|Antony Lewis et.al.|[2607.14854](http://arxiv.org/abs/2607.14854)|null|
+|**2026-07-16**|**Ground-Side Mission Plan Compilation with Policy-as-Code Guardrails for Cloud-Native Satellite Platforms**|Hsiu-Chi Tsai et.al.|[2607.14798](http://arxiv.org/abs/2607.14798)|null|
+|**2026-07-16**|**SEED: Self-Evolving On-Policy Distillation for Agentic Reinforcement Learning**|Jinyang Wu et.al.|[2607.14777](http://arxiv.org/abs/2607.14777)|null|
 |**2026-07-15**|**Early Adoption of Agentic Coding Tools by GitHub Projects**|Maliha Noushin Raida et.al.|[2607.14037](http://arxiv.org/abs/2607.14037)|null|
 |**2026-07-15**|**TRACE: Turn-level Reward Assignment via Credit Estimation for Long-Horizon Agents**|Leitian Tao et.al.|[2607.13988](http://arxiv.org/abs/2607.13988)|null|
 |**2026-07-15**|**Agent Skill Security: Threat Models, Attacks, Defenses, and Evaluation**|Sanket Badhe et.al.|[2607.13987](http://arxiv.org/abs/2607.13987)|null|
@@ -4255,6 +4275,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-16**|**Partition, Prompt, Aggregate: Statistical Self-Consistency in Language Models**|Patrik Wolf et.al.|[2607.15277](http://arxiv.org/abs/2607.15277)|null|
+|**2026-07-16**|**Pretraining Data Can Be Poisoned through Computational Propaganda**|Victoria Graf et.al.|[2607.15267](http://arxiv.org/abs/2607.15267)|null|
+|**2026-07-16**|**Beyond Success Rate: Cost-Aware Evaluation of Offensive and Defensive Security Agents**|Paul Kassianik et.al.|[2607.15263](http://arxiv.org/abs/2607.15263)|null|
+|**2026-07-16**|**SearchOS-V1: Towards Robust Open-Domain Information-Seeking Agent Collaboration**|Yuyao Zhang et.al.|[2607.15257](http://arxiv.org/abs/2607.15257)|null|
+|**2026-07-16**|**HoloGeo: Mitigating Landmark Bias in Geo-localization via Evidence-Driven Reasoning**|Pengcheng Zhou et.al.|[2607.15255](http://arxiv.org/abs/2607.15255)|null|
+|**2026-07-16**|**Bridge Evidence: Static Retrieval Utility Does Not Predict Causal Utility in Multi-Step Agentic Search**|Debayan Mukhopadhyay et.al.|[2607.15253](http://arxiv.org/abs/2607.15253)|null|
+|**2026-07-16**|**ARMOR++: Agentic Orchestration of a Multi-Domain Primitive Set for Transferable Attacks on Deepfake Detectors**|Christos Korgialas et.al.|[2607.15246](http://arxiv.org/abs/2607.15246)|null|
+|**2026-07-16**|**In-Place Tokenizer Expansion for Pre-trained LLMs**|Jimmy T. H. Smith et.al.|[2607.15232](http://arxiv.org/abs/2607.15232)|null|
+|**2026-07-16**|**When Words Are Safe But Actions Kill: Probing Physical Danger Beyond Text Safety in Hidden-State Risk Space**|Weimeng Wang et.al.|[2607.15218](http://arxiv.org/abs/2607.15218)|null|
+|**2026-07-16**|**Symbal: Detecting Systematic Misalignments in Model-Generated Captions**|Maya Varma et.al.|[2607.15216](http://arxiv.org/abs/2607.15216)|null|
+|**2026-07-16**|**Expanding the Lexicon of Ge'ez Based African Languages: A Comparative Study of Amharic and Tigrinya**|Hailay Kidu Teklehaymanot et.al.|[2607.15209](http://arxiv.org/abs/2607.15209)|null|
+|**2026-07-16**|**Self-Evolving Human-Centered Framework for Explainable Depression Symptom Annotation**|Hoang-Loc Cao et.al.|[2607.15202](http://arxiv.org/abs/2607.15202)|null|
+|**2026-07-16**|**Mask-Aware Policy Gradients for Diffusion Language Models**|Haran Raajesh et.al.|[2607.15200](http://arxiv.org/abs/2607.15200)|null|
+|**2026-07-16**|**Benchmarking Multimodal Large Language Models for Scientific Visualization Literacy**|Patrick Phuoc Do et.al.|[2607.15176](http://arxiv.org/abs/2607.15176)|null|
+|**2026-07-16**|**Linear representations of grammaticality in neural language models**|Jane Li et.al.|[2607.15175](http://arxiv.org/abs/2607.15175)|null|
+|**2026-07-16**|**On-Policy Delta Distillation**|Byeongho Heo et.al.|[2607.15161](http://arxiv.org/abs/2607.15161)|null|
+|**2026-07-16**|**Learning in Infinitesimal Non-Compositional Sketches**|Sridhar Mahadevan et.al.|[2607.15107](http://arxiv.org/abs/2607.15107)|null|
+|**2026-07-16**|**Digital Pantheon: Simulating and Auditing Coalition Formation with LLM Agents**|Dylan Van Mulders et.al.|[2607.15095](http://arxiv.org/abs/2607.15095)|null|
+|**2026-07-16**|**Rubrics on Trial: Evolving Rubrics from a Single Query via Synthetic Pairwise Evidence**|Haocheng Yang et.al.|[2607.15092](http://arxiv.org/abs/2607.15092)|null|
+|**2026-07-16**|**DataShield: Uncovering Risky Fine-Tuning Data Across LLMs Through Consensus Subspace Alignment**|Zefeng Wu et.al.|[2607.15081](http://arxiv.org/abs/2607.15081)|null|
 |**2026-07-15**|**Building Shor's Algorithm in Lean: An Agentic Formalization of Quantum Attacks on RSA-2048 and P-256**|Lei Zhang et.al.|[2607.14082](http://arxiv.org/abs/2607.14082)|null|
 |**2026-07-15**|**VisualRepair: Dynamic Tool Calling and Region Focusing for Visual Software Issue Repair**|Jingyu Xiao et.al.|[2607.14075](http://arxiv.org/abs/2607.14075)|null|
 |**2026-07-15**|**Deep Interaction: An Efficient Human-AI Interaction Method for Large Reasoning Models**|Hefeng Zhou et.al.|[2607.14049](http://arxiv.org/abs/2607.14049)|null|
@@ -8366,6 +8406,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-16**|**MeanFlowNFT: Bringing Forward-Process RL to Average-Velocity Generators**|Yushi Huang et.al.|[2607.15273](http://arxiv.org/abs/2607.15273)|null|
+|**2026-07-16**|**Delocalization of bias in unadjusted Hamiltonian Monte Carlo and underdamped Langevin**|Yifan Chen et.al.|[2607.15208](http://arxiv.org/abs/2607.15208)|null|
+|**2026-07-16**|**Mask-Aware Policy Gradients for Diffusion Language Models**|Haran Raajesh et.al.|[2607.15200](http://arxiv.org/abs/2607.15200)|null|
+|**2026-07-16**|**SciPhy Reinforcement Learning for Portfolio Optimization**|Igor Halperin et.al.|[2607.15195](http://arxiv.org/abs/2607.15195)|null|
+|**2026-07-16**|**Can We Trust Item Response Theory for AI Evaluation?**|Han Jiang et.al.|[2607.15190](http://arxiv.org/abs/2607.15190)|null|
+|**2026-07-16**|**On-Policy Delta Distillation**|Byeongho Heo et.al.|[2607.15161](http://arxiv.org/abs/2607.15161)|null|
+|**2026-07-16**|**Concept-Guided Spatial Regularization for World Models in Atari Pong**|Yukuan Lu et.al.|[2607.15142](http://arxiv.org/abs/2607.15142)|null|
+|**2026-07-16**|**Perfectly equidistributed Quasi-Monte Carlo sequences from Artin-Schreier polynomials**|Nicolas Bonneel et.al.|[2607.15141](http://arxiv.org/abs/2607.15141)|null|
+|**2026-07-16**|**Learning in Infinitesimal Non-Compositional Sketches**|Sridhar Mahadevan et.al.|[2607.15107](http://arxiv.org/abs/2607.15107)|null|
+|**2026-07-16**|**Digital Pantheon: Simulating and Auditing Coalition Formation with LLM Agents**|Dylan Van Mulders et.al.|[2607.15095](http://arxiv.org/abs/2607.15095)|null|
+|**2026-07-16**|**Evaluating covariate balance for long time horizon Markov decision processes**|Joshua Spear et.al.|[2607.15080](http://arxiv.org/abs/2607.15080)|null|
+|**2026-07-16**|**Learning the Fermion sign structure in path-integral Monte Carlo**|Jarvist Moore Frost et.al.|[2607.15060](http://arxiv.org/abs/2607.15060)|null|
+|**2026-07-16**|**Robust Optimal Control of Arbitrarily Switched Systems: A Path-Complete Framework**|Léa Ninite et.al.|[2607.15055](http://arxiv.org/abs/2607.15055)|null|
+|**2026-07-16**|**High resolution Lyman-α forest constraints on dark matter-neutrino scattering**|Markus R. Mosbech et.al.|[2607.15020](http://arxiv.org/abs/2607.15020)|null|
+|**2026-07-16**|**Risk-Aware Belief Control Barrier Functions over Random Finite Sets**|Shaohang Han et.al.|[2607.15016](http://arxiv.org/abs/2607.15016)|null|
+|**2026-07-16**|**CosFly-VLA: A Spatially Aware Vision-Language-Action Model for UAV Tracking**|Ruilong Ren et.al.|[2607.15004](http://arxiv.org/abs/2607.15004)|null|
+|**2026-07-16**|**SMC-ES: Automated synthesis of formally verified control policies**|Riccardo Curcio et.al.|[2607.15003](http://arxiv.org/abs/2607.15003)|null|
+|**2026-07-16**|**Achievable-Rate Analysis of MISO Systems with Transmit-Side Multiport Matching Networks**|Wendong Cheng et.al.|[2607.14992](http://arxiv.org/abs/2607.14992)|null|
+|**2026-07-16**|**Multi-Axis Max@K Reinforcement Learning for Representative Diversity in Text-to-Image Generation**|Ku Onoda et.al.|[2607.14962](http://arxiv.org/abs/2607.14962)|null|
+|**2026-07-16**|**Statistical Modelling of Planetary Boundary Layer Height and Its Measurement Uncertainty Using GRUAN Profiles**|Tommaso Locatelli et.al.|[2607.14960](http://arxiv.org/abs/2607.14960)|null|
 |**2026-07-15**|**Exact Decomposition of Adversarial Dual-Objective Value Functions, with Applications to Optimal Drug Dosing**|Dylan Hirsch et.al.|[2607.14023](http://arxiv.org/abs/2607.14023)|null|
 |**2026-07-15**|**Industrial Dexterity Benchmark: A Hardware-Software Benchmarking Platform for Industrial Dexterous Manipulation**|Honglu He et.al.|[2607.14021](http://arxiv.org/abs/2607.14021)|null|
 |**2026-07-15**|**Lighthouse RL: Sample-Efficient Circuit Optimization via Strategic Reset Points**|Mustafa Emre Gürsoy et.al.|[2607.14008](http://arxiv.org/abs/2607.14008)|null|
