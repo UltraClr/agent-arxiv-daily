@@ -23,7 +23,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |**2026-07-17**|**Student Evaluation of Repeated AI Feedback Across a Semester of Writing**|Andres Karjus et.al.|[2607.16115](http://arxiv.org/abs/2607.16115)|null|
 |**2026-07-17**|**LLM-Powered Agentic AI for 5G/6G Networks: A Tutorial and Survey on Architectures, Protocols, and Standardization**|Mazene Ameur et.al.|[2607.16066](http://arxiv.org/abs/2607.16066)|null|
 |**2026-07-17**|**Frontier AI performance across the business disciplines: a case-grounded benchmark of knowledge work and analytical reasoning**|Ajay Patel et.al.|[2607.16057](http://arxiv.org/abs/2607.16057)|null|
-|**2026-07-17**|**SciForge: An AI-Native, Multimodal Workbench for Scientific Discovery**| SciForge Team et.al.|[2607.16038](http://arxiv.org/abs/2607.16038)|null|
+|**2026-07-17**|**SciForge: An AI-Native, Multimodal Workbench for Scientific Discovery**|SciForge Team et.al.|[2607.16038](http://arxiv.org/abs/2607.16038)|null|
 |**2026-07-17**|**DebrisTracer: Reliable Tracking in Hypervelocity Impact Fast Imaging**|Théophane Loloum et.al.|[2607.15986](http://arxiv.org/abs/2607.15986)|null|
 |**2026-07-17**|**Code-Poisoning Property Inference Attacks**|Xukun Luan et.al.|[2607.15970](http://arxiv.org/abs/2607.15970)|null|
 |**2026-07-17**|**DSWorld: A Data Science World Model for Efficient Autonomous Agents**|Zherui Yang et.al.|[2607.15901](http://arxiv.org/abs/2607.15901)|null|
@@ -8558,7 +8558,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |**2026-07-10**|**Action-Factored Multi-Agent Reinforcement Learning for Scalable Quantum Device Tuning**|Edwin De Nicolo et.al.|[2607.09422](http://arxiv.org/abs/2607.09422)|null|
 |**2026-07-10**|**Tests for Increasing Convex Ordering Based on Generalized Tsallis Entropy Measures**|Aritra Saha et.al.|[2607.09418](http://arxiv.org/abs/2607.09418)|null|
 |**2026-07-10**|**Two observables of one wall: how surface relaxivity can bias the diffusion intra-axonal fraction and the myelin water fraction**|Rutger H. J. Fick et.al.|[2607.09401](http://arxiv.org/abs/2607.09401)|null|
-|**2026-07-10**|**Mach-Mind-4-Flash Technical Report**| Foundation Model Team et.al.|[2607.09375](http://arxiv.org/abs/2607.09375)|null|
+|**2026-07-10**|**Mach-Mind-4-Flash Technical Report**|Foundation Model Team et.al.|[2607.09375](http://arxiv.org/abs/2607.09375)|null|
 |**2026-07-10**|**Shortcut Trajectory Planning for Efficient Offline Reinforcement Learning**|Guanquan Wang et.al.|[2607.09336](http://arxiv.org/abs/2607.09336)|null|
 |**2026-07-10**|**Clock-noise subtraction in geometric time-delay interferometry for space-based gravitational-wave parameter estimation**|Rui Luo et.al.|[2607.09335](http://arxiv.org/abs/2607.09335)|null|
 |**2026-07-10**|**Risk-Aware General-Utility Markov Decision Processes**|Pedro P. Santos et.al.|[2607.09298](http://arxiv.org/abs/2607.09298)|null|
