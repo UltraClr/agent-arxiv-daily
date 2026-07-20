@@ -913,7 +913,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 - 2026-05-13, **ScioMind: Cognitively Grounded Multi-Agent Social Simulation with Anchoring-Based Belief Dynamics and Dynamic Profiles**, Yitian Yang et.al., Paper: [http://arxiv.org/abs/2605.13725](http://arxiv.org/abs/2605.13725)
 - 2026-03-31, **SciVisAgentBench: A Benchmark for Evaluating Scientific Data Analysis and Visualization Agents**, Kuangshi Ai et.al., Paper: [http://arxiv.org/abs/2603.29139](http://arxiv.org/abs/2603.29139)
 - 2025-09-12, **SciML Agents: Write the Solver, Not the Solution**, Saarth Gaonkar et.al., Paper: [http://arxiv.org/abs/2509.09936](http://arxiv.org/abs/2509.09936)
-- 2026-07-17, **SciForge: An AI-Native, Multimodal Workbench for Scientific Discovery**, SciForge Team et.al., Paper: [http://arxiv.org/abs/2607.16038](http://arxiv.org/abs/2607.16038)
+- 2026-07-17, **SciForge: An AI-Native, Multimodal Workbench for Scientific Discovery**,  SciForge Team et.al., Paper: [http://arxiv.org/abs/2607.16038](http://arxiv.org/abs/2607.16038)
 - 2026-02-13, **SciAgentGym: Benchmarking Multi-Step Scientific Tool-use in LLM Agents**, Yujiong Shen et.al., Paper: [http://arxiv.org/abs/2602.12984](http://arxiv.org/abs/2602.12984)
 - 2026-03-29, **Sci-Mind: Cognitively-Inspired Adversarial Debate for Autonomous Mathematical Modeling**, Ruiying Sun et.al., Paper: [http://arxiv.org/abs/2603.27584](http://arxiv.org/abs/2603.27584)
 - 2026-01-30, **ScholarPeer: A Context-Aware Multi-Agent Framework for Automated Peer Review**, Palash Goyal et.al., Paper: [http://arxiv.org/abs/2601.22638](http://arxiv.org/abs/2601.22638)
