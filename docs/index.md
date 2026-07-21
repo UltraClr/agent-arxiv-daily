@@ -16,6 +16,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-20**|**SWE-Pruner Pro: The Coder LLM Already Knows What to Prune**|Yuhang Wang et.al.|[2607.18213](http://arxiv.org/abs/2607.18213)|null|
+|**2026-07-20**|**FlashRT: Agent Harness for Guiding Agents to Deploy Real-Time Multimodal Applications**|Krish Agarwal et.al.|[2607.18171](http://arxiv.org/abs/2607.18171)|null|
+|**2026-07-20**|**TRIM: Reducing AI-Generated CodeSlop via Agent Trajectory Minimization**|Alex Mathai et.al.|[2607.18161](http://arxiv.org/abs/2607.18161)|null|
+|**2026-07-20**|**O-VAD: Industrial Video Anomaly Detection through Object-Centric Tracking and Reasoning**|Mei Yuan et.al.|[2607.18142](http://arxiv.org/abs/2607.18142)|null|
+|**2026-07-20**|**AI Agent Communications in AI-Native 6G Network: Status, Challenges and Opportunities**|Qiang Duan et.al.|[2607.18138](http://arxiv.org/abs/2607.18138)|null|
+|**2026-07-20**|**FinSAgent: Corpus-Aligned Multi-Agent RAG Framework for Evidence-Grounded SEC Filing Question Answering**|Jijun Chi et.al.|[2607.18102](http://arxiv.org/abs/2607.18102)|null|
+|**2026-07-20**|**Autoresearch with Coding Agents: Generalizers and Metric-Maximizers on Quran Recitation Data**|Nursultan Askarbekuly et.al.|[2607.18064](http://arxiv.org/abs/2607.18064)|null|
+|**2026-07-20**|**Adaptive Adversaries: A Multi-Turn, Multi-LLM Benchmark for LLM Agent Security**|Devina Jain et.al.|[2607.18063](http://arxiv.org/abs/2607.18063)|null|
+|**2026-07-20**|**Test Coverage Analysis of Agentic Pull Requests**|Atish Kumar Dipongkor et.al.|[2607.18057](http://arxiv.org/abs/2607.18057)|null|
+|**2026-07-20**|**Evidence-in-the-Loop: Trace-Driven Optimization for Customer-Service LLM Agents**|Chunming Wu et.al.|[2607.18039](http://arxiv.org/abs/2607.18039)|null|
+|**2026-07-20**|**Self-State Attacks on Self-Hosted AI Agents: How Far Can OS Defenses Go?**|Yimeng Chen et.al.|[2607.17986](http://arxiv.org/abs/2607.17986)|null|
+|**2026-07-20**|**Harness Engineering for LLM-Driven GPU Kernel Generation**|Yue Shui et.al.|[2607.17979](http://arxiv.org/abs/2607.17979)|null|
+|**2026-07-20**|**RT-SHCUA: Real-Time Self-Hosted Computer-Use Agent for UAV Control**|Di Lu et.al.|[2607.17951](http://arxiv.org/abs/2607.17951)|null|
+|**2026-07-20**|**How Agent Skills Fail under Long Contexts: A White-Box Study in Code Auditing**|Yue Xue et.al.|[2607.17937](http://arxiv.org/abs/2607.17937)|null|
+|**2026-07-20**|**(Over)Reliance on Test Agents in AI-Assisted Software Testing**|Eduard Paul Enoiu et.al.|[2607.17927](http://arxiv.org/abs/2607.17927)|null|
+|**2026-07-20**|**Value-Aware Prediction for Robust Multi-Agent Coordination Under Communication Loss**|Kemal Devrim Kafadar et.al.|[2607.17914](http://arxiv.org/abs/2607.17914)|null|
+|**2026-07-20**|**Stress Testing Concept Erasure with Large Language Model Agents**|Yuyang Xue et.al.|[2607.17890](http://arxiv.org/abs/2607.17890)|null|
+|**2026-07-20**|**Zero Hallucination, by Construction: Hallucination-Aware Layered Oversight for Trustworthy Enterprise AI**|Bogdan Raduta et.al.|[2607.17883](http://arxiv.org/abs/2607.17883)|null|
+|**2026-07-20**|**Exploratory and Assimilating Reflection: Reflective Recall Cycle for Long-term Memory**|Ganesh Senrayan et.al.|[2607.17879](http://arxiv.org/abs/2607.17879)|null|
+|**2026-07-20**|**PGN: Design and Implementation of a Vision-Language Navigation System Based on Pangu Multimodal Foundation Model**|Li Xian et.al.|[2607.17806](http://arxiv.org/abs/2607.17806)|null|
 |**2026-07-17**|**Knowing the Self, Understanding the World: A Dual-Cognition Benchmark for UAV Spatio-temporal Reasoning with MLLMs**|Like Liu et.al.|[2607.16193](http://arxiv.org/abs/2607.16193)|null|
 |**2026-07-17**|**When Does Muon Help Agentic Reinforcement Learning?**|Kai Ruan et.al.|[2607.16169](http://arxiv.org/abs/2607.16169)|null|
 |**2026-07-17**|**When Do Multi-Agent Systems Help? An Information Bottleneck Perspective**|Wendi Yu et.al.|[2607.16133](http://arxiv.org/abs/2607.16133)|null|
@@ -4288,6 +4308,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-20**|**The Many Senses of Visual Similarity: A Text-Prompted Image Perceptual Metric**|Sheng-Yu Wang et.al.|[2607.18237](http://arxiv.org/abs/2607.18237)|null|
+|**2026-07-20**|**Patch Policy: Efficient Embodied Control via Dense Visual Representations**|Gaoyue Zhou et.al.|[2607.18236](http://arxiv.org/abs/2607.18236)|null|
+|**2026-07-20**|**It's Not What You Say, It's How You Say It: Evaluating LLM Responses to Expressions of Belief**|Kevin Du et.al.|[2607.18232](http://arxiv.org/abs/2607.18232)|null|
+|**2026-07-20**|**Simple Domain Generalization for Strong Pixel-Level Image Tampering Detection in Modern VLMs**|Yi Tang et.al.|[2607.18230](http://arxiv.org/abs/2607.18230)|null|
+|**2026-07-20**|**PPL-Factory: Task-Aware and Budget-Aware Data Selection from Language Modeling to Reasoning**|Hang Zhang et.al.|[2607.18199](http://arxiv.org/abs/2607.18199)|null|
+|**2026-07-20**|**OR Else: A Differentiable Trust Region for Policy Optimization**|Chinmay Rane et.al.|[2607.18163](http://arxiv.org/abs/2607.18163)|null|
+|**2026-07-20**|**Testing Retrieval-Augmented Generation Systems with Chunk Coverage**|Jinhan Kim et.al.|[2607.18155](http://arxiv.org/abs/2607.18155)|null|
+|**2026-07-20**|**LLMs and Agentic AI Systems for Smart Grids: A Tutorial on Architectures and Applications**|Daniela Rojas et.al.|[2607.18147](http://arxiv.org/abs/2607.18147)|null|
+|**2026-07-20**|**Do Language Models Dream of Binding Molecules? Benchmarking LLMs under Spatial Constraints**|Thomas MacDougall et.al.|[2607.18144](http://arxiv.org/abs/2607.18144)|null|
+|**2026-07-20**|**Manifold-Constrained Hyper-Connections for Parameter-Efficient Finetuning**|Valentijn Oldenburg et.al.|[2607.18130](http://arxiv.org/abs/2607.18130)|null|
+|**2026-07-20**|**SGA: Plug&Play Geometric Verification for Educational Video Synthesis**|Lopez Jhon et.al.|[2607.18116](http://arxiv.org/abs/2607.18116)|null|
+|**2026-07-20**|**Can We Break LLMs Out of Self-Loops? Fine-Grained Reasoning Control with Activation Steering**|Sheldon Yu et.al.|[2607.18100](http://arxiv.org/abs/2607.18100)|null|
+|**2026-07-20**|**VDAR-Router: Adaptive LLMs Routing via Verbalized Query Difficulty Analysis Retrieval**|Yu-Chien Tang et.al.|[2607.18098](http://arxiv.org/abs/2607.18098)|null|
+|**2026-07-20**|**Judge-dependent safety gains and model-specific helpfulness costs of evidence-sufficiency prompting in clinical LLMs**|Koyar Afrasyab et.al.|[2607.18086](http://arxiv.org/abs/2607.18086)|null|
+|**2026-07-20**|**WorldCupArena: Fine-Grained Evaluation of Language Models and Deep-Research Agents on Football Forecasting**|Zhaokai Wang et.al.|[2607.18084](http://arxiv.org/abs/2607.18084)|null|
+|**2026-07-20**|**SelectInfer: Selective Neuron Loading and Computation for On-Device LLMs**|Huzaifa Shaaban Kabakibo et.al.|[2607.18081](http://arxiv.org/abs/2607.18081)|null|
+|**2026-07-20**|**Human Grounded Evaluation of Large Language Models for Optical Network Automation**|Kiarash Rezaei et.al.|[2607.18068](http://arxiv.org/abs/2607.18068)|null|
+|**2026-07-20**|**Pancasila-Dilemmas: Evaluating Large Language Models on Indonesian Human Value Dilemmas Grounded in Pancasila**| Supryadi et.al.|[2607.18066](http://arxiv.org/abs/2607.18066)|null|
+|**2026-07-20**|**An Early Warning of Emerging Biosecurity Risks in Frontier LLMs**|Zhida He et.al.|[2607.18056](http://arxiv.org/abs/2607.18056)|null|
+|**2026-07-20**|**SEE: Structure-aware Exploring \& Exploiting for Long-horizon GUI Agent Trajectory Synthesis**|Zhuohang Fan et.al.|[2607.18046](http://arxiv.org/abs/2607.18046)|null|
 |**2026-07-17**|**Knowing the Self, Understanding the World: A Dual-Cognition Benchmark for UAV Spatio-temporal Reasoning with MLLMs**|Like Liu et.al.|[2607.16193](http://arxiv.org/abs/2607.16193)|null|
 |**2026-07-17**|**PagedWeight: Efficient MoE LLM Serving with Dynamic Quality-Aware Weight Quantization**|Yuchen Yang et.al.|[2607.16184](http://arxiv.org/abs/2607.16184)|null|
 |**2026-07-17**|**Vision-Language Assistant for Emotional Reactions to Risky Driving**|Harine Choi et.al.|[2607.16181](http://arxiv.org/abs/2607.16181)|null|
@@ -8437,6 +8477,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-20**|**On off-diagonal operators in matrix-weighted spaces**|David Cruz-Uribe et.al.|[2607.18175](http://arxiv.org/abs/2607.18175)|null|
+|**2026-07-20**|**OR Else: A Differentiable Trust Region for Policy Optimization**|Chinmay Rane et.al.|[2607.18163](http://arxiv.org/abs/2607.18163)|null|
+|**2026-07-20**|**Isaac Sim-to-Real: Reinforcement Learning based Locomotion for Quadrupeds**|Jordan Dowdy et.al.|[2607.18135](http://arxiv.org/abs/2607.18135)|null|
+|**2026-07-20**|**LLM-as-a-Coach: Experiential Learning for Non-Verifiable Tasks**|Tianzhu Ye et.al.|[2607.18110](http://arxiv.org/abs/2607.18110)|null|
+|**2026-07-20**|**Importance Sampling and PCA for Finding Failures in Commercial Autonomous Vehicles**|Hailey Warner et.al.|[2607.18106](http://arxiv.org/abs/2607.18106)|null|
+|**2026-07-20**|**Study of ordering in (MoCrTi) $_{100-x}$Al$_x$ refractory high-entropy alloys using machine learning interatomic potential**|Jiyao Zhang et.al.|[2607.18099](http://arxiv.org/abs/2607.18099)|null|
+|**2026-07-20**|**Real-Time Flight Test Maneuver Selection with Monte Carlo Tree Search**|Nicholas E. Bostock et.al.|[2607.18089](http://arxiv.org/abs/2607.18089)|null|
+|**2026-07-20**|**Sparse Evidence Can Suffice: Agentic Evidence Seeking for Multimodal Video Misinformation Detection**|Haochen Zhao et.al.|[2607.18080](http://arxiv.org/abs/2607.18080)|null|
+|**2026-07-20**|**Generalised Bellman recurrence and three dualities in sequential decision-making**|Fernando E. Rosas et.al.|[2607.18077](http://arxiv.org/abs/2607.18077)|null|
+|**2026-07-20**|**Predicting subjective rage and facial expressions in human driving: A Bayesian network approach with beta-distributed nodes**|Zaïra Méndez-Porcar et.al.|[2607.18030](http://arxiv.org/abs/2607.18030)|null|
+|**2026-07-20**|**MADA-RL: Multi-Agent Debate-Aware Reinforcement Learning for Parameter-Efficient Reasoning in Compact Models**|Martino M. L. Pulici et.al.|[2607.18006](http://arxiv.org/abs/2607.18006)|null|
+|**2026-07-20**|**PAMD: Structured Adaptive Distances for Bisimulation Representations in Visual Reinforcement Learning**|Daegyeong Roh et.al.|[2607.18004](http://arxiv.org/abs/2607.18004)|null|
+|**2026-07-20**|**AlphaZeroBeta: Deep Reinforcement Learning for Market-Neutral Portfolios**|Boris Belyakov et.al.|[2607.18001](http://arxiv.org/abs/2607.18001)|null|
+|**2026-07-20**|**Long-time behavior and turnpike properties of linear-quadratic graphon mean field control problems**|Erhan Bayraktar et.al.|[2607.18000](http://arxiv.org/abs/2607.18000)|null|
+|**2026-07-20**|**Gate-tunable giant anomalous Hall effect in magnetic topological insulator bilayer**|Basavaraja G et.al.|[2607.17988](http://arxiv.org/abs/2607.17988)|null|
+|**2026-07-20**|**Information-Based Exploration via Random Features for Reinforcement Learning**|Waris Radji et.al.|[2607.17981](http://arxiv.org/abs/2607.17981)|null|
+|**2026-07-20**|**MEVION: Low-Cost Open-Source Data Collection System for Powerful and High-Speed Dual-Arm Manipulation**|Kento Kawaharazuka et.al.|[2607.17970](http://arxiv.org/abs/2607.17970)|null|
+|**2026-07-20**|**A Geometric Perspective on Stabilizing Value Conflict Resolution**|Saket Reddy et.al.|[2607.17946](http://arxiv.org/abs/2607.17946)|null|
+|**2026-07-20**|**Probabilistic Stellar Age Estimation for Gaia XP Stars with NGBoost**|Xiaokun Hou et.al.|[2607.17932](http://arxiv.org/abs/2607.17932)|null|
+|**2026-07-20**|**Aggregate in the Advantage, Not the Ratio: A Canonical-Form Analysis of Cooperative Multi-Agent Policy Optimization**|Zijian Zhao et.al.|[2607.17924](http://arxiv.org/abs/2607.17924)|null|
 |**2026-07-17**|**Searching Videos as Trees: Self-Correcting Agents for Grounded Long Video QA**|Ce Zhang et.al.|[2607.16189](http://arxiv.org/abs/2607.16189)|null|
 |**2026-07-17**|**Handroid: Bridging Dexterous Hand and Humanoid**|Ruogu Li et.al.|[2607.16187](http://arxiv.org/abs/2607.16187)|null|
 |**2026-07-17**|**Physics-enhanced reinforcement learning for real-time optimal control of dynamical systems**|Matteo Tomasetto et.al.|[2607.16177](http://arxiv.org/abs/2607.16177)|null|
