@@ -16,6 +16,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-21**|**OmniReasoner: Thinking with Long Audio-Video via Native Tool Use**|Yu Chen et.al.|[2607.19339](http://arxiv.org/abs/2607.19339)|null|
+|**2026-07-21**|**CodeRescue: Budget-Calibrated Recovery Routing for Coding Agents**|Qijia He et.al.|[2607.19338](http://arxiv.org/abs/2607.19338)|null|
+|**2026-07-21**|**ResearchArena: Evaluating Sabotage and Monitoring in Automated AI R&D**|Lena Libon et.al.|[2607.19321](http://arxiv.org/abs/2607.19321)|null|
+|**2026-07-21**|**Graph-Based Agentic AI with LangGraph: Workflow Pathways for Long-Running Stateful Business Processes**|Daniel Pearson et.al.|[2607.19297](http://arxiv.org/abs/2607.19297)|null|
+|**2026-07-21**|**BioSecBench-Surveillance: A Verifiable Benchmark for AI Agents in Pathogen Genomic Surveillance**|Harmon Bhasin et.al.|[2607.19262](http://arxiv.org/abs/2607.19262)|null|
+|**2026-07-21**|**FinanceComplexQA: Benchmarking Agentic Reasoning on Industrial-grade Financial Documents**|Xianfu Cheng et.al.|[2607.19238](http://arxiv.org/abs/2607.19238)|null|
+|**2026-07-21**|**HACO: Hedged Agent Computing for Reliable LLM Systems**|Enhan Li et.al.|[2607.19215](http://arxiv.org/abs/2607.19215)|null|
+|**2026-07-21**|**Teleportation Game: Quantum Teleportation in Multi-Agent Systems for Interactive Music**|Eduardo Reck Miranda et.al.|[2607.19212](http://arxiv.org/abs/2607.19212)|null|
+|**2026-07-21**|**Comparative Study of Multi-Agent Actor-Critic Algorithms in Parameterized Action Reinforcement Learning**|Ubayd Ali Bapoo et.al.|[2607.19117](http://arxiv.org/abs/2607.19117)|null|
+|**2026-07-21**|**FilmWorld: Agentic Novel-to-Film Generation through Dynamic Cinematic World Modeling**|Jialong Zuo et.al.|[2607.19038](http://arxiv.org/abs/2607.19038)|null|
+|**2026-07-21**|**CoGoal3D: Collaborative 3D Object Detection with 3D-Aware Fusion and Refinement**|Zhihao Yang et.al.|[2607.19036](http://arxiv.org/abs/2607.19036)|null|
+|**2026-07-21**|**Athena-Brain Technical Report: An Efficient Robot Brain for General Intelligence and Embodied Interactio**|Jialian Li et.al.|[2607.18985](http://arxiv.org/abs/2607.18985)|null|
+|**2026-07-21**|**Skillware: A Software Ontology and Engineering Lifecycle for Persistent Behavioral Artifacts**|Haodi Fan et.al.|[2607.18970](http://arxiv.org/abs/2607.18970)|null|
+|**2026-07-21**|**TraceDev: A Traceability-Driven Multi-agent Framework for Requirement-to-Code Development**|Mingyu Chen et.al.|[2607.18886](http://arxiv.org/abs/2607.18886)|null|
+|**2026-07-21**|**PhoenixRepair: Rethinking Repair Strategy Exploration in Software Agents**|Tianyue Jiang et.al.|[2607.18859](http://arxiv.org/abs/2607.18859)|null|
+|**2026-07-21**|**Cross-Agent Campaign Attribution: Linking Asynchronous Attacks Across LLM Agents**|SangJin Park et.al.|[2607.18826](http://arxiv.org/abs/2607.18826)|null|
+|**2026-07-21**|**AgentTrails: Towards Trust and Reuse for Agentic Tasks**|Eden Wu et.al.|[2607.18816](http://arxiv.org/abs/2607.18816)|null|
+|**2026-07-21**|**AI Tour Meeting: Group Travel Planning by LLM Agents**|Daisuke Kikuta et.al.|[2607.18806](http://arxiv.org/abs/2607.18806)|null|
+|**2026-07-21**|**AgentDebugX: An Open-Source Toolkit for Failure Observability, Attribution, and Recovery in LLM Agents**|Kunlun Zhu et.al.|[2607.18754](http://arxiv.org/abs/2607.18754)|null|
+|**2026-07-21**|**Beyond Text Editing: Algebraic Manipulation of Source Code**|Kevin Pulo et.al.|[2607.18742](http://arxiv.org/abs/2607.18742)|null|
 |**2026-07-20**|**SWE-Pruner Pro: The Coder LLM Already Knows What to Prune**|Yuhang Wang et.al.|[2607.18213](http://arxiv.org/abs/2607.18213)|null|
 |**2026-07-20**|**FlashRT: Agent Harness for Guiding Agents to Deploy Real-Time Multimodal Applications**|Krish Agarwal et.al.|[2607.18171](http://arxiv.org/abs/2607.18171)|null|
 |**2026-07-20**|**TRIM: Reducing AI-Generated CodeSlop via Agent Trajectory Minimization**|Alex Mathai et.al.|[2607.18161](http://arxiv.org/abs/2607.18161)|null|
@@ -4308,6 +4328,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-21**|**Copy Less, Ground More: Overcoming Repetitive Copying in Long-Context Reasoning via Evidence-Aware Reinforcement Learning**|Lizhe Fang et.al.|[2607.19345](http://arxiv.org/abs/2607.19345)|null|
+|**2026-07-21**|**Agents in the Wild: Where Research Meets Deployment**|Grace Hui Yang et.al.|[2607.19336](http://arxiv.org/abs/2607.19336)|null|
+|**2026-07-21**|**ISO: An RLVR-Native Optimization Stack**|Hanqing Zhu et.al.|[2607.19331](http://arxiv.org/abs/2607.19331)|null|
+|**2026-07-21**|**Selective State-Space Adaptation and Retrieval for Language Model Reasoning**|Atahan Dokme et.al.|[2607.19326](http://arxiv.org/abs/2607.19326)|null|
+|**2026-07-21**|**ResearchArena: Evaluating Sabotage and Monitoring in Automated AI R&D**|Lena Libon et.al.|[2607.19321](http://arxiv.org/abs/2607.19321)|null|
+|**2026-07-21**|**Eccentricity-Constrained CNN Training Reveals Adaptive Information Coding Around the Visual Field**|Dylan M. Diaz et.al.|[2607.19316](http://arxiv.org/abs/2607.19316)|null|
+|**2026-07-21**|**Off-Context GRPO: Learning to Reason on Hard Problems using Privileged Information**|Priyank Agrawal et.al.|[2607.19313](http://arxiv.org/abs/2607.19313)|null|
+|**2026-07-21**|**EmbeddedKittens: An Evaluation of Code Embeddings for Scratch**|Benedikt Fein et.al.|[2607.19291](http://arxiv.org/abs/2607.19291)|null|
+|**2026-07-21**|**No Training, Better Flights: Test-Time Scaled VLMs for UAV Navigation**|Feinan Cheng et.al.|[2607.19288](http://arxiv.org/abs/2607.19288)|null|
+|**2026-07-21**|**PathAgentBench: Benchmarking Evidence-Seeking Vision-Language Models on Whole-Slide Pathology Image**|Dankai Liao et.al.|[2607.19261](http://arxiv.org/abs/2607.19261)|null|
+|**2026-07-21**|**Benchmarking Generalization in Financial Statement Fraud Detection: robust evaluation and novel tasks**|Guy Stephane Waffo Dzuyo et.al.|[2607.19259](http://arxiv.org/abs/2607.19259)|null|
+|**2026-07-21**|**Prompt Design at Scale: How Format, Instruction Count, and Context Length Shape Instruction Adherence and Hallucination in Large Language Models**|Netanel Eliav et.al.|[2607.19257](http://arxiv.org/abs/2607.19257)|null|
+|**2026-07-21**|**Sequential Learner Modeling Using Multi-Relational Graph Convolutional Networks**|Rawaa Alatrash et.al.|[2607.19253](http://arxiv.org/abs/2607.19253)|null|
+|**2026-07-21**|**Inference-Time Steering for Cross-Lingual Factual Consistency in LLMs**|Alexander Manev et.al.|[2607.19243](http://arxiv.org/abs/2607.19243)|null|
+|**2026-07-21**|**MeetingToM: Evaluating Multimodal LLMs on Theory-of-Mind Reasoning in Multi-Party Meetings**|Ziyi Wang et.al.|[2607.19235](http://arxiv.org/abs/2607.19235)|null|
+|**2026-07-21**|**The Price of Reasoning: Cost-Quality Tradeoffs in Reinforcement Learning for Neural Machine Translation**|Michael Jungo et.al.|[2607.19226](http://arxiv.org/abs/2607.19226)|null|
+|**2026-07-21**|**AdaFlash: Adaptive Speculative Decoding via On-Policy Distilled Diffusion Drafters**|Yu-Yang Qian et.al.|[2607.19223](http://arxiv.org/abs/2607.19223)|null|
+|**2026-07-21**|**Beyond Score Prediction: LLM-Based Essay Scoring and Feedback Generation via Reinforcement Learning with Rubric Rewards**|Xuefeng Jin et.al.|[2607.19219](http://arxiv.org/abs/2607.19219)|null|
+|**2026-07-21**|**HACO: Hedged Agent Computing for Reliable LLM Systems**|Enhan Li et.al.|[2607.19215](http://arxiv.org/abs/2607.19215)|null|
+|**2026-07-21**|**Do LLMs Ask the Right Questions? Evaluating GPT-Generated Surveys as Instruments for Measuring Social Attitudes**|Tina Behzad et.al.|[2607.19211](http://arxiv.org/abs/2607.19211)|null|
 |**2026-07-20**|**The Many Senses of Visual Similarity: A Text-Prompted Image Perceptual Metric**|Sheng-Yu Wang et.al.|[2607.18237](http://arxiv.org/abs/2607.18237)|null|
 |**2026-07-20**|**Patch Policy: Efficient Embodied Control via Dense Visual Representations**|Gaoyue Zhou et.al.|[2607.18236](http://arxiv.org/abs/2607.18236)|null|
 |**2026-07-20**|**It's Not What You Say, It's How You Say It: Evaluating LLM Responses to Expressions of Belief**|Kevin Du et.al.|[2607.18232](http://arxiv.org/abs/2607.18232)|null|
@@ -8477,6 +8517,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-21**|**Copy Less, Ground More: Overcoming Repetitive Copying in Long-Context Reasoning via Evidence-Aware Reinforcement Learning**|Lizhe Fang et.al.|[2607.19345](http://arxiv.org/abs/2607.19345)|null|
+|**2026-07-21**|**OmniReasoner: Thinking with Long Audio-Video via Native Tool Use**|Yu Chen et.al.|[2607.19339](http://arxiv.org/abs/2607.19339)|null|
+|**2026-07-21**|**ISO: An RLVR-Native Optimization Stack**|Hanqing Zhu et.al.|[2607.19331](http://arxiv.org/abs/2607.19331)|null|
+|**2026-07-21**|**Off-Context GRPO: Learning to Reason on Hard Problems using Privileged Information**|Priyank Agrawal et.al.|[2607.19313](http://arxiv.org/abs/2607.19313)|null|
+|**2026-07-21**|**GARTFIMA Models: A Class of Observation-Driven Models with Tempered Fractional Dynamics**|Guilherme Pumi et.al.|[2607.19311](http://arxiv.org/abs/2607.19311)|null|
+|**2026-07-21**|**Stochastic Multi-Objective Kinodynamic Planning Against Adversaries**|Thomas Marshall Vielmetti et.al.|[2607.19284](http://arxiv.org/abs/2607.19284)|null|
+|**2026-07-21**|**A Reinforcement-Learning-Augmented Liquid-Fueled Reactor Network Model for Predicting Lean Blowout in Gas Turbine Combustors**|Philip John et.al.|[2607.19281](http://arxiv.org/abs/2607.19281)|null|
+|**2026-07-21**|**S3: Stable Subgoal Selection by Constraining Uncertainty of Coarse Dynamics in Hierarchical Reinforcement Learning**|Kshitij Kumar Srivastava et.al.|[2607.19232](http://arxiv.org/abs/2607.19232)|null|
+|**2026-07-21**|**The Price of Reasoning: Cost-Quality Tradeoffs in Reinforcement Learning for Neural Machine Translation**|Michael Jungo et.al.|[2607.19226](http://arxiv.org/abs/2607.19226)|null|
+|**2026-07-21**|**Beyond Score Prediction: LLM-Based Essay Scoring and Feedback Generation via Reinforcement Learning with Rubric Rewards**|Xuefeng Jin et.al.|[2607.19219](http://arxiv.org/abs/2607.19219)|null|
+|**2026-07-21**|**Conservative Query and Adaptive Regularization for Offline RL Under Uncertainty Estimation**|Li-Rong Zhou et.al.|[2607.19199](http://arxiv.org/abs/2607.19199)|null|
+|**2026-07-21**|**ATLAS: A Foundation Neural Sampler for Amorphous Materials**|Mouyang Cheng et.al.|[2607.19198](http://arxiv.org/abs/2607.19198)|null|
+|**2026-07-21**|**Numerical methods for Langevin-type SPDE: an implicit Milstein approach and multilevel Monte Carlo techniques**|Sascha Portaro et.al.|[2607.19188](http://arxiv.org/abs/2607.19188)|null|
+|**2026-07-21**|**Reasoning Before Translation: Enhancing Legal Machine Translation with Structured Reasoning**|Aixiu An et.al.|[2607.19181](http://arxiv.org/abs/2607.19181)|null|
+|**2026-07-21**|**Coherence in Control: Bridging Many-Core Mapping and Routing through Cost Unification**|Guochu Xiong et.al.|[2607.19158](http://arxiv.org/abs/2607.19158)|null|
+|**2026-07-21**|**Parallel Noising in Neural Markov Logic Networks**|Peter Jung et.al.|[2607.19126](http://arxiv.org/abs/2607.19126)|null|
+|**2026-07-21**|**Comparative Study of Multi-Agent Actor-Critic Algorithms in Parameterized Action Reinforcement Learning**|Ubayd Ali Bapoo et.al.|[2607.19117](http://arxiv.org/abs/2607.19117)|null|
+|**2026-07-21**|**Adopting Reinforcement Learning with Verifiable Rewards for Molecular Generation**|Mingxuan Ouyang et.al.|[2607.19044](http://arxiv.org/abs/2607.19044)|null|
+|**2026-07-21**|**Pricing options on illiquid assets using liquid market benchmarks: an application to energy markets**|Federico Aluigi et.al.|[2607.19030](http://arxiv.org/abs/2607.19030)|null|
+|**2026-07-21**|**Bayesian Sequential Quantum Amplitude Estimation for Rare-Event Structural Failure Probability**|Alireza Tabarraei et.al.|[2607.18996](http://arxiv.org/abs/2607.18996)|null|
 |**2026-07-20**|**On off-diagonal operators in matrix-weighted spaces**|David Cruz-Uribe et.al.|[2607.18175](http://arxiv.org/abs/2607.18175)|null|
 |**2026-07-20**|**OR Else: A Differentiable Trust Region for Policy Optimization**|Chinmay Rane et.al.|[2607.18163](http://arxiv.org/abs/2607.18163)|null|
 |**2026-07-20**|**Isaac Sim-to-Real: Reinforcement Learning based Locomotion for Quadrupeds**|Jordan Dowdy et.al.|[2607.18135](http://arxiv.org/abs/2607.18135)|null|
