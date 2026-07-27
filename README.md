@@ -21,6 +21,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-24**|**Skill Self-Play: Pushing the Frontier of LLM Capability with Co-Evolving Skills**|Siyuan Huang et.al.|[2607.22529](http://arxiv.org/abs/2607.22529)|null|
+|**2026-07-24**|**The Regression Tax: Decomposing Why Skills Help and Hurt LLM Agents**|Darshan Tank et.al.|[2607.22520](http://arxiv.org/abs/2607.22520)|null|
+|**2026-07-24**|**CausalForge: A Formally Grounded, Self-Improving Agentic Framework for Automated Research in Causal Inference**|Jiyuan Tan et.al.|[2607.22511](http://arxiv.org/abs/2607.22511)|null|
+|**2026-07-24**|**Where FactsGo Missing: A LayerwiseTaxonomy and Per-Layer Attribution of Information Omissionin Air-Gapped LLM Agent Pipelines**|Santhiya Rajan et.al.|[2607.22448](http://arxiv.org/abs/2607.22448)|null|
+|**2026-07-24**|**Dynamic Capability Scoping for Enterprise AI Agents: A Synthetic Dataset and Three-Source Permission Architecture**|Halil Burak Noyan et.al.|[2607.22445](http://arxiv.org/abs/2607.22445)|null|
+|**2026-07-24**|**A Human-Augmenting Agentic Workflow for Observational Causal Inference**|Winston Chou et.al.|[2607.22443](http://arxiv.org/abs/2607.22443)|null|
+|**2026-07-24**|**Vibe Coding: An Experiment with Test-Driven Development**|Moritz Mock et.al.|[2607.22406](http://arxiv.org/abs/2607.22406)|null|
+|**2026-07-24**|**A Self-Calibrating Agentic AI Framework for Autonomous Edge Resource Allocation**|Fin Gentzen et.al.|[2607.22400](http://arxiv.org/abs/2607.22400)|null|
+|**2026-07-24**|**Agentic Root Cause Analysis through Evidence-Grounded Reasoning**|Amaury Wei et.al.|[2607.22385](http://arxiv.org/abs/2607.22385)|null|
+|**2026-07-24**|**IDEAgent: Agentic Quality-Diversity Search for Research Idea Generation**|Varun Gumma et.al.|[2607.22375](http://arxiv.org/abs/2607.22375)|null|
+|**2026-07-24**|**SMEFT-Pheno-Agent: a natural-language-driven AI agent for machine-learning-assisted Standard Model Effective Field Theory phenomenology**|Yu-Chen Guo et.al.|[2607.22331](http://arxiv.org/abs/2607.22331)|null|
+|**2026-07-24**|**Towards Trustworthy and Cost-Efficient Data Integration: From Naïve RAG to Agentic RAG**|Chuangtao Ma et.al.|[2607.22319](http://arxiv.org/abs/2607.22319)|null|
+|**2026-07-24**|**Agentic CPU-GPU Scheduling for Heterogeneous AI Workloads**|Tianxi Lu et.al.|[2607.22242](http://arxiv.org/abs/2607.22242)|null|
+|**2026-07-24**|**AgentHOI: Multi-Agent Reasoning for Human-Object-Interaction Video Generation via Implicit Representation Alignment**|Ziyao Huang et.al.|[2607.22241](http://arxiv.org/abs/2607.22241)|null|
+|**2026-07-24**|**DeFiScreener: Efficient DeFi Attack Pre-screening in Smart Contracts via Historical Case Matching**|Rui Cao et.al.|[2607.22184](http://arxiv.org/abs/2607.22184)|null|
+|**2026-07-24**|**Learning on the Job: Continual Learning from Deployment Feedback for Frozen-Weights Agents**|Valentin Tablan et.al.|[2607.22157](http://arxiv.org/abs/2607.22157)|null|
+|**2026-07-24**|**Nanbeige4.2-3B: Unlocking Agentic Capabilities in a Compact Mode**|Nanbeige Lab et.al.|[2607.22083](http://arxiv.org/abs/2607.22083)|null|
+|**2026-07-24**|**IDSTune: A Multi-Agent Collaborative Framework for Integrated Database System Tuning**|Yiyan Li et.al.|[2607.22031](http://arxiv.org/abs/2607.22031)|null|
+|**2026-07-24**|**Are Production Cloud Skills Adequately Tested? Measuring and Governing Skill Test Coverage in Practice**|Haotian Si et.al.|[2607.22015](http://arxiv.org/abs/2607.22015)|null|
+|**2026-07-24**|**Zero-Shot Mission-Level Evaluation for Aerial MLLM Agents**|Suman Navaratnarajah et.al.|[2607.22014](http://arxiv.org/abs/2607.22014)|null|
 |**2026-07-23**|**OpenForgeRL: Train Harness-native Agents in Any Environment**|Xiao Yu et.al.|[2607.21557](http://arxiv.org/abs/2607.21557)|null|
 |**2026-07-23**|**Benchmarking Agents for Proving Theorems in Quantum Algorithms and Quantum Information**|Lei Zhang et.al.|[2607.21533](http://arxiv.org/abs/2607.21533)|null|
 |**2026-07-23**|**GS-Agent: Creating 4D Physical Worlds With Generative Simulation**|Hongxin Zhang et.al.|[2607.21522](http://arxiv.org/abs/2607.21522)|null|
@@ -4355,6 +4375,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-24**|**Opaque Epistemic Mediation: How LLM Deployment Configurations Shape the Validation of Pseudo-Science**|Davide Scarso et.al.|[2607.22513](http://arxiv.org/abs/2607.22513)|null|
+|**2026-07-24**|**CausalForge: A Formally Grounded, Self-Improving Agentic Framework for Automated Research in Causal Inference**|Jiyuan Tan et.al.|[2607.22511](http://arxiv.org/abs/2607.22511)|null|
+|**2026-07-24**|**MineValiCoder: Reliable Code Generation with Test Case Quality Mining and Bipartite Graph-Based Mutual Validation**|Zhen Zhao et.al.|[2607.22471](http://arxiv.org/abs/2607.22471)|null|
+|**2026-07-24**|**TRACE-ROUTER: Task-Consistent and Adaptive Online Routing for Agentic AI**|Ritik Raj et.al.|[2607.22465](http://arxiv.org/abs/2607.22465)|null|
+|**2026-07-24**|**Vibe Coding: An Experiment with Test-Driven Development**|Moritz Mock et.al.|[2607.22406](http://arxiv.org/abs/2607.22406)|null|
+|**2026-07-24**|**A Self-Calibrating Agentic AI Framework for Autonomous Edge Resource Allocation**|Fin Gentzen et.al.|[2607.22400](http://arxiv.org/abs/2607.22400)|null|
+|**2026-07-24**|**SceneActBench: Can Agents Act on the 3D Scenes They See?**|Yifei Zhao et.al.|[2607.22393](http://arxiv.org/abs/2607.22393)|null|
+|**2026-07-24**|**HiKV: Hierarchical Importance-Aware KV Cache with Hardware Acceleration for LLM Decoding**|Chao Fang et.al.|[2607.22389](http://arxiv.org/abs/2607.22389)|null|
+|**2026-07-24**|**Agentic Root Cause Analysis through Evidence-Grounded Reasoning**|Amaury Wei et.al.|[2607.22385](http://arxiv.org/abs/2607.22385)|null|
+|**2026-07-24**|**A Factorial Study of Synthetic Data Generation for Low-Resource Machine Translation using Grammar Books**|Varun Ghat Ravikumar et.al.|[2607.22376](http://arxiv.org/abs/2607.22376)|null|
+|**2026-07-24**|**IDEAgent: Agentic Quality-Diversity Search for Research Idea Generation**|Varun Gumma et.al.|[2607.22375](http://arxiv.org/abs/2607.22375)|null|
+|**2026-07-24**|**Teachy Mini: Development and Preliminary Evaluation of a Knowledge-Based Generative Social Robot for Higher Education**|Stephan Vonschallen et.al.|[2607.22345](http://arxiv.org/abs/2607.22345)|null|
+|**2026-07-24**|**Cross-Tokenizer On-Policy Distillation via Byte-Prefix Marginalization**|Hao Wang et.al.|[2607.22334](http://arxiv.org/abs/2607.22334)|null|
+|**2026-07-24**|**Towards Trustworthy and Cost-Efficient Data Integration: From Naïve RAG to Agentic RAG**|Chuangtao Ma et.al.|[2607.22319](http://arxiv.org/abs/2607.22319)|null|
+|**2026-07-24**|**Evolution-Aware MSA Reasoning for Subsampling via Factor Graphs**|Zhangzhi Xiong et.al.|[2607.22314](http://arxiv.org/abs/2607.22314)|null|
+|**2026-07-24**|**Biomedical Machine Translation for Low-Resource Arabic-Script Languages via Cross-Lingual Transfer and LoRA Adapter Merging**|Abdullah Alabdullah et.al.|[2607.22300](http://arxiv.org/abs/2607.22300)|null|
+|**2026-07-24**|**RadSight: Towards Perceptually Reliable Multimodal Radiology Image Understanding**|Jianqin Liu et.al.|[2607.22293](http://arxiv.org/abs/2607.22293)|null|
+|**2026-07-24**|**IFCLoRA: Topology-Aware Rank Allocation for Parameter-Efficient Fine-Tuning**|Wei Zhang et.al.|[2607.22251](http://arxiv.org/abs/2607.22251)|null|
+|**2026-07-24**|**Offline Vision-Language Navigation with Geometric Goal Localization for Outdoor Environments**|Ali Salmasi et.al.|[2607.22226](http://arxiv.org/abs/2607.22226)|null|
+|**2026-07-24**|**Why Large Language Models and Humans Converge and Diverge in Evaluating Creativity**|Pengzhao Lyu et.al.|[2607.22218](http://arxiv.org/abs/2607.22218)|null|
 |**2026-07-23**|**3D-Aware VLMs with Implicit and Explicit Geometries**|Wenhao Li et.al.|[2607.21595](http://arxiv.org/abs/2607.21595)|null|
 |**2026-07-23**|**Inference-Time Scaling of Diffusion Models via Progressive Seed Pruning**|Rogerio Guimaraes et.al.|[2607.21591](http://arxiv.org/abs/2607.21591)|null|
 |**2026-07-23**|**Surprisal Theory is Tautological (without Rational Grounding)**|Ryan Cotterell et.al.|[2607.21574](http://arxiv.org/abs/2607.21574)|null|
@@ -8566,6 +8606,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-24**|**Skill Self-Play: Pushing the Frontier of LLM Capability with Co-Evolving Skills**|Siyuan Huang et.al.|[2607.22529](http://arxiv.org/abs/2607.22529)|null|
+|**2026-07-24**|**Explainable Reinforcement Learning for assisting Air Traffic Controllers**|Anduel Mehmeti et.al.|[2607.22525](http://arxiv.org/abs/2607.22525)|null|
+|**2026-07-24**|**Learning to Prepare Molecular Ground States with Transformer Models**|Alex Koziell-Pipe et.al.|[2607.22468](http://arxiv.org/abs/2607.22468)|null|
+|**2026-07-24**|**Scaling Results for Piecewise Deterministic Monte Carlo : A Survey**|Joris Bierkens et.al.|[2607.22449](http://arxiv.org/abs/2607.22449)|null|
+|**2026-07-24**|**Nonlinear Boosting with Multiple Testing in High-Dimensional Generalised Linear Models with Binary Responses**|Charisios Grivas et.al.|[2607.22440](http://arxiv.org/abs/2607.22440)|null|
+|**2026-07-24**|**Highly indistinguishable photons from a tin-vacancy spin qubit in diamond**|Dennis Herrmann et.al.|[2607.22439](http://arxiv.org/abs/2607.22439)|null|
+|**2026-07-24**|**Conformal Constraint Tightening for Chance-Constrained Motion Planning with Unknown Dynamics**|Shubham Natraj et.al.|[2607.22409](http://arxiv.org/abs/2607.22409)|null|
+|**2026-07-24**|**Active few-shot segmentation by reinforcing data selection**|Chenlan Zhao et.al.|[2607.22371](http://arxiv.org/abs/2607.22371)|null|
+|**2026-07-24**|**A Small-Noise Analysis of Controlled Functional Differential Equations with Gaussian Noise**|David Criens et.al.|[2607.22362](http://arxiv.org/abs/2607.22362)|null|
+|**2026-07-24**|**Integrated Order Dispatching and Routing for Last-Mile Pickup via Deep Reinforcement Learning**|Yida Xu et.al.|[2607.22356](http://arxiv.org/abs/2607.22356)|null|
+|**2026-07-24**|**A Hierarchical Likelihood Model for Non-linear Inverse Problems under Additive and Multiplicative Noise**|Nicolas Goeman et.al.|[2607.22330](http://arxiv.org/abs/2607.22330)|null|
+|**2026-07-24**|**The macroscopic precession model of quasi-periodic oscillations for rotating compact objects**|Orlando Luongo et.al.|[2607.22322](http://arxiv.org/abs/2607.22322)|null|
+|**2026-07-24**|**Learning Bidirectional Causal Interactions with Heteroscedastic Neural Networks**|Masahiro Tanaka et.al.|[2607.22313](http://arxiv.org/abs/2607.22313)|null|
+|**2026-07-24**|**Hidden Truchet Architecture in Zinc $p$ -Hydroxybenzoate**|Hunter J. Windsor et.al.|[2607.22307](http://arxiv.org/abs/2607.22307)|null|
+|**2026-07-24**|**smartcor: Intelligent Correlation Method Selection for Mixed Variable Types**|M Harshvardhan et.al.|[2607.22285](http://arxiv.org/abs/2607.22285)|null|
+|**2026-07-24**|**When Can a Cavity Move a Mott Transition? A Spectral-Density Criterion within Gutzwiller Theory**|Nikhil Vamsodharakan Seshadri et.al.|[2607.22283](http://arxiv.org/abs/2607.22283)|null|
+|**2026-07-24**|**Unbiased Diffusion Monte Carlo for non local operators**|Carlos Rodriguez Perez et.al.|[2607.22273](http://arxiv.org/abs/2607.22273)|null|
+|**2026-07-24**|**General Value Functions for Remaining Useful Life and Failure-Mode Prediction**|Hao Yan et.al.|[2607.22268](http://arxiv.org/abs/2607.22268)|null|
+|**2026-07-24**|**Safe Learning Predictive Control for Ego-World Robotic Systems**|Davide Valenti et.al.|[2607.22225](http://arxiv.org/abs/2607.22225)|null|
+|**2026-07-24**|**LayoutLite: Token-Level Implicit Layout Analysis for Efficient Document OCR**|Xudong Liu et.al.|[2607.22200](http://arxiv.org/abs/2607.22200)|null|
 |**2026-07-23**|**Parallel Tempered Metadynamics for full QCD**|Timo Eichhorn et.al.|[2607.21575](http://arxiv.org/abs/2607.21575)|null|
 |**2026-07-23**|**MIRROR: Learning from the Other View for Multi-Modal Reasoning**|Wen Ye et.al.|[2607.21552](http://arxiv.org/abs/2607.21552)|null|
 |**2026-07-23**|**Bayesian evidence adaptive pursuit to identify neutron sources with scatter-based spectrometers**|David Breitenmoser et.al.|[2607.21543](http://arxiv.org/abs/2607.21543)|null|
