@@ -83,7 +83,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |**2026-07-17**|**Student Evaluation of Repeated AI Feedback Across a Semester of Writing**|Andres Karjus et.al.|[2607.16115](http://arxiv.org/abs/2607.16115)|null|
 |**2026-07-17**|**LLM-Powered Agentic AI for 5G/6G Networks: A Tutorial and Survey on Architectures, Protocols, and Standardization**|Mazene Ameur et.al.|[2607.16066](http://arxiv.org/abs/2607.16066)|null|
 |**2026-07-17**|**Frontier AI performance across the business disciplines: a case-grounded benchmark of knowledge work and analytical reasoning**|Ajay Patel et.al.|[2607.16057](http://arxiv.org/abs/2607.16057)|null|
-|**2026-07-17**|**SciForge: An AI-Native, Multimodal Workbench for Scientific Discovery**| SciForge Team et.al.|[2607.16038](http://arxiv.org/abs/2607.16038)|null|
+|**2026-07-17**|**SciForge: An AI-Native, Multimodal Workbench for Scientific Discovery**|SciForge Team et.al.|[2607.16038](http://arxiv.org/abs/2607.16038)|null|
 |**2026-07-17**|**DebrisTracer: Reliable Tracking in Hypervelocity Impact Fast Imaging**|Théophane Loloum et.al.|[2607.15986](http://arxiv.org/abs/2607.15986)|null|
 |**2026-07-17**|**Code-Poisoning Property Inference Attacks**|Xukun Luan et.al.|[2607.15970](http://arxiv.org/abs/2607.15970)|null|
 |**2026-07-17**|**DSWorld: A Data Science World Model for Efficient Autonomous Agents**|Zherui Yang et.al.|[2607.15901](http://arxiv.org/abs/2607.15901)|null|
@@ -4405,7 +4405,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |**2026-07-20**|**WorldCupArena: Fine-Grained Evaluation of Language Models and Deep-Research Agents on Football Forecasting**|Zhaokai Wang et.al.|[2607.18084](http://arxiv.org/abs/2607.18084)|null|
 |**2026-07-20**|**SelectInfer: Selective Neuron Loading and Computation for On-Device LLMs**|Huzaifa Shaaban Kabakibo et.al.|[2607.18081](http://arxiv.org/abs/2607.18081)|null|
 |**2026-07-20**|**Human Grounded Evaluation of Large Language Models for Optical Network Automation**|Kiarash Rezaei et.al.|[2607.18068](http://arxiv.org/abs/2607.18068)|null|
-|**2026-07-20**|**Pancasila-Dilemmas: Evaluating Large Language Models on Indonesian Human Value Dilemmas Grounded in Pancasila**| Supryadi et.al.|[2607.18066](http://arxiv.org/abs/2607.18066)|null|
+|**2026-07-20**|**Pancasila-Dilemmas: Evaluating Large Language Models on Indonesian Human Value Dilemmas Grounded in Pancasila**|Supryadi et.al.|[2607.18066](http://arxiv.org/abs/2607.18066)|null|
 |**2026-07-20**|**An Early Warning of Emerging Biosecurity Risks in Frontier LLMs**|Zhida He et.al.|[2607.18056](http://arxiv.org/abs/2607.18056)|null|
 |**2026-07-20**|**SEE: Structure-aware Exploring \& Exploiting for Long-horizon GUI Agent Trajectory Synthesis**|Zhuohang Fan et.al.|[2607.18046](http://arxiv.org/abs/2607.18046)|null|
 |**2026-07-17**|**Knowing the Self, Understanding the World: A Dual-Cognition Benchmark for UAV Spatio-temporal Reasoning with MLLMs**|Like Liu et.al.|[2607.16193](http://arxiv.org/abs/2607.16193)|null|
