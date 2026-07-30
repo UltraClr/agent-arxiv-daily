@@ -16,6 +16,10 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-29**|**Can AI agents conduct open-ended AI research? Early evidence from two case studies**|Peter Kirgis et.al.|[2607.27191](http://arxiv.org/abs/2607.27191)|null|
+|**2026-07-29**|**Partner Capability Estimation for Task-Agnostic Adaptation in Ad-Hoc Teamwork**|Peter Tisnikar et.al.|[2607.27177](http://arxiv.org/abs/2607.27177)|null|
+|**2026-07-29**|**OmegaUse-OfficeVal: Benchmarking LLM Agents on Long-Horizon Office-Suite Tasks with Economic Grounding**|Jingbo Zhou et.al.|[2607.27155](http://arxiv.org/abs/2607.27155)|null|
+|**2026-07-29**|**MindForge: Teaching Small Language Models Whole-Life-Cycle Software Engineering via Source-Free Program Synthesis**|Yihao Chen et.al.|[2607.27146](http://arxiv.org/abs/2607.27146)|null|
 |**2026-07-29**|**Scores Are Not Decisions: Cost-Aware Stopping for Tool Acquisition in LLM Agents**|Yicheng Feng et.al.|[2607.27083](http://arxiv.org/abs/2607.27083)|null|
 |**2026-07-29**|**Constraining the shape of dark matter haloes using only starlight II. Tests of the technique with objects of known gravitational potential**|Jorge Sanchez Almeida et.al.|[2607.27001](http://arxiv.org/abs/2607.27001)|null|
 |**2026-07-29**|**AgentSnare: Learning to Delay, Divert, and Defuse Autonomous Penetration Agents**|Ruoyu Wang et.al.|[2607.26998](http://arxiv.org/abs/2607.26998)|null|
@@ -4448,6 +4452,16 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-29**|**TurboVLA: Real-Time Vision-Language-Action Model at 32 Hz on an RTX 4090 with <1 GB VRAM**|Hengyi Xie et.al.|[2607.27205](http://arxiv.org/abs/2607.27205)|null|
+|**2026-07-29**|**GraphQAG: A Knowledge-Graph-Guided Visual Analytics Framework for Question-Answer Pairs Generation**|Yize Li et.al.|[2607.27182](http://arxiv.org/abs/2607.27182)|null|
+|**2026-07-29**|**HumanCLAW: Can Vision-Language Models Act Through a Body?**|Siyao Li et.al.|[2607.27180](http://arxiv.org/abs/2607.27180)|null|
+|**2026-07-29**|**Improving Item Discoverability in e-Commerce Search via Related Intent Generation**|Ji Xin et.al.|[2607.27172](http://arxiv.org/abs/2607.27172)|null|
+|**2026-07-29**|**OmegaUse-OfficeVal: Benchmarking LLM Agents on Long-Horizon Office-Suite Tasks with Economic Grounding**|Jingbo Zhou et.al.|[2607.27155](http://arxiv.org/abs/2607.27155)|null|
+|**2026-07-29**|**MindForge: Teaching Small Language Models Whole-Life-Cycle Software Engineering via Source-Free Program Synthesis**|Yihao Chen et.al.|[2607.27146](http://arxiv.org/abs/2607.27146)|null|
+|**2026-07-29**|**Explainable and Resource-Efficient Spatial Reasoning in Multimodal LLMs for Decision-Critical Applications**|Piyush Jain et.al.|[2607.27145](http://arxiv.org/abs/2607.27145)|null|
+|**2026-07-29**|**Linguistic Monoculture in LLM-Assisted Language Use**|Suhas Thejaswi et.al.|[2607.27134](http://arxiv.org/abs/2607.27134)|null|
+|**2026-07-29**|**AgentMap: Joint Equivalence and Subsumption Discovery for Ontology Matching**|Yiping Song et.al.|[2607.27130](http://arxiv.org/abs/2607.27130)|null|
+|**2026-07-29**|**Towards Grounded GI Endoscopy VQA via Multi-Task Learning on Small VLMs**|Itbaan Safwan et.al.|[2607.27122](http://arxiv.org/abs/2607.27122)|null|
 |**2026-07-29**|**Veritas++: Value-aware On-Policy Distillation for Perception-Enhanced AIGI Detection**|Hao Tan et.al.|[2607.27113](http://arxiv.org/abs/2607.27113)|null|
 |**2026-07-29**|**MMAC: A Massive Multi-dimensional Benchmark for Audio Captioning**|Weijie Wu et.al.|[2607.27109](http://arxiv.org/abs/2607.27109)|null|
 |**2026-07-29**|**Can Large Language Models Represent Urban Publics? Behavioral Replication and Population Mismatch in an Affordable-Housing Experiment**|Yuxuan Cai et.al.|[2607.27100](http://arxiv.org/abs/2607.27100)|null|
@@ -8757,6 +8771,9 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-29**|**Do You Really Need to Pretrain Q-Functions for Online RL Fine-Tuning?**|Perry Dong et.al.|[2607.27203](http://arxiv.org/abs/2607.27203)|null|
+|**2026-07-29**|**Improved Methods for Determining Quantum Error Correcting Code Performance and Fault Tolerance**|Michael Mullan et.al.|[2607.27153](http://arxiv.org/abs/2607.27153)|null|
+|**2026-07-29**|**Minimal Markovization via Stable Quotients in Holonomy-Cover Decision Processes**|Zuyuan Zhang et.al.|[2607.27132](http://arxiv.org/abs/2607.27132)|null|
 |**2026-07-29**|**Formation of $\mathrm{L}1_2$-ordered $γ'$-$\mathrm{Ni}_3\mathrm{Al}$ precipitates in ternary Cu-Ni-Al alloys modelled using an ab initio concentration wave theory and atomistic simulations**|Christopher D. Woodgate et.al.|[2607.27108](http://arxiv.org/abs/2607.27108)|null|
 |**2026-07-29**|**Equilibrium Training of Energy-Based Models with Parallel Trajectory Tempering**|Nicolas Béreux et.al.|[2607.27077](http://arxiv.org/abs/2607.27077)|null|
 |**2026-07-29**|**Correlated Chance Sampling for Monte Carlo Counterfactual Regret Minimization**|Boning Li et.al.|[2607.27035](http://arxiv.org/abs/2607.27035)|null|
