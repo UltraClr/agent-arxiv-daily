@@ -82,7 +82,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |**2026-07-28**|**SkillGate: Cost Efficient Runtime Malicious Skill File Detection in Coding Agents**|Rui Yang et.al.|[2607.25619](http://arxiv.org/abs/2607.25619)|null|
 |**2026-07-27**|**Data Pyramid for Embodied Manipulation**|Yifan Ye et.al.|[2607.24744](http://arxiv.org/abs/2607.24744)|null|
 |**2026-07-27**|**ClinFusion: A Vision-Centric Multimodal LLM System for Holistic Medical Understanding**|Hangjie Yuan et.al.|[2607.24743](http://arxiv.org/abs/2607.24743)|null|
-|**2026-07-27**|**Kimi K3: Open Frontier Intelligence**| Kimi Team et.al.|[2607.24653](http://arxiv.org/abs/2607.24653)|null|
+|**2026-07-27**|**Kimi K3: Open Frontier Intelligence**|Kimi Team et.al.|[2607.24653](http://arxiv.org/abs/2607.24653)|null|
 |**2026-07-27**|**Agentic Permissions Policy Algebra for Taint Confinement in LLM Agents**|Arseny Kravchenko et.al.|[2607.24625](http://arxiv.org/abs/2607.24625)|null|
 |**2026-07-27**|**Looping Is Not Reliability: State-Bound Evidence and Typed Revision Contracts for Agentic Code Repair**|Xueping Gao et.al.|[2607.24604](http://arxiv.org/abs/2607.24604)|null|
 |**2026-07-27**|**SIREN: Towards End-to-End Extreme-Weather Early Warning with Experience-Grounded LLM Agents**|Hang Ni et.al.|[2607.24588](http://arxiv.org/abs/2607.24588)|null|
@@ -4550,7 +4550,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |**2026-07-27**|**Beyond Scale and Generation: Understanding Language Model-based Entity Matching**|Zeyu Zhang et.al.|[2607.24688](http://arxiv.org/abs/2607.24688)|null|
 |**2026-07-27**|**Eviction as Estimation: A Fixed-Lag Smoothing View of Test-Time Memory, and When Measuring Beats Accumulating**|Maruthi Vemula et.al.|[2607.24667](http://arxiv.org/abs/2607.24667)|null|
 |**2026-07-27**|**MMOE: Modernizing Diffusion Transformers with Efficient Expert Design**|Yanhao Jia et.al.|[2607.24665](http://arxiv.org/abs/2607.24665)|null|
-|**2026-07-27**|**Kimi K3: Open Frontier Intelligence**| Kimi Team et.al.|[2607.24653](http://arxiv.org/abs/2607.24653)|null|
+|**2026-07-27**|**Kimi K3: Open Frontier Intelligence**|Kimi Team et.al.|[2607.24653](http://arxiv.org/abs/2607.24653)|null|
 |**2026-07-27**|**Evidence Attribution in Visual Document Understanding without Coordinates or Region Labels**|Zhuchenyang Liu et.al.|[2607.24651](http://arxiv.org/abs/2607.24651)|null|
 |**2026-07-27**|**Reason-Mediated Behavioral Models for Auditing LLM Social Simulators**|Atharva Pandey et.al.|[2607.24649](http://arxiv.org/abs/2607.24649)|null|
 |**2026-07-27**|**LaRec: Unleashing LLM-based Latent Reasoning for Generative Recommendation**|Yu Xia et.al.|[2607.24617](http://arxiv.org/abs/2607.24617)|null|
@@ -4562,7 +4562,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |**2026-07-27**|**From Data to Device: ELMOD An Efficient German-First 2.7B Language Model for Mobile Inference**|Darina Gold et.al.|[2607.24585](http://arxiv.org/abs/2607.24585)|null|
 |**2026-07-27**|**CADER: Confidence-Aware Dynamic Evidence Reasoning for Long-Video Understanding**|Jinlong Yang et.al.|[2607.24582](http://arxiv.org/abs/2607.24582)|null|
 |**2026-07-27**|**LLM-SoccerArena: Benchmarking LLMs on Real-World Predictions in Sports**|Jonas Schröder et.al.|[2607.24573](http://arxiv.org/abs/2607.24573)|null|
-|**2026-07-26**|**Zing: Social Mind for LLMs**| Zing Team et.al.|[2607.23740](http://arxiv.org/abs/2607.23740)|null|
+|**2026-07-26**|**Zing: Social Mind for LLMs**|Zing Team et.al.|[2607.23740](http://arxiv.org/abs/2607.23740)|null|
 |**2026-07-26**|**Separating Clicks from Baits: Using Large Language Models to Detect Misleading YouTube Thumbnails**|Wajiha Naveed et.al.|[2607.23739](http://arxiv.org/abs/2607.23739)|null|
 |**2026-07-26**|**E-Bench: Benchmarking Multi-Step Tool-Use Agents in Real-World Product Scenarios**|Weihuang Zheng et.al.|[2607.23722](http://arxiv.org/abs/2607.23722)|null|
 |**2026-07-26**|**Formally Verified Synthesizable Floating-Point Data Types in ARCH HDL**|Shuqing Zhao et.al.|[2607.23715](http://arxiv.org/abs/2607.23715)|null|
@@ -8864,7 +8864,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |**2026-07-28**|**Reinforcement Learning for Code Optimization**|Pierre Chambon et.al.|[2607.25970](http://arxiv.org/abs/2607.25970)|null|
 |**2026-07-28**|**Interactive Reward Agent: GUI Task Evaluation via Environment-State Verification**|Chenrui Shi et.al.|[2607.25904](http://arxiv.org/abs/2607.25904)|null|
 |**2026-07-28**|**RecoReward: Recommender-Guided Multimodal Description Generation for Recommendation**|Guohong Mu et.al.|[2607.25901](http://arxiv.org/abs/2607.25901)|null|
-|**2026-07-28**|**The calibration of large-radius jets using the Run 2 dataset with the ATLAS detector**| ATLAS Collaboration et.al.|[2607.25893](http://arxiv.org/abs/2607.25893)|null|
+|**2026-07-28**|**The calibration of large-radius jets using the Run 2 dataset with the ATLAS detector**|ATLAS Collaboration et.al.|[2607.25893](http://arxiv.org/abs/2607.25893)|null|
 |**2026-07-28**|**Scaling universal Fermi network toward ground states: A diffusion-Monte-Carlo assessment**|Yu-Sheng Li et.al.|[2607.25872](http://arxiv.org/abs/2607.25872)|null|
 |**2026-07-28**|**Laser power transmission in space: Plasma-based power cell**|Li Lin et.al.|[2607.25843](http://arxiv.org/abs/2607.25843)|null|
 |**2026-07-28**|**General Relativistic Entropic Acceleration at the perturbation level: a CLASS implementation and first Boltzmann-code constraints**|Simone D'Onofrio et.al.|[2607.25841](http://arxiv.org/abs/2607.25841)|null|
@@ -8876,7 +8876,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |**2026-07-28**|**A systematic evaluation of machine learning classifiers for event-by-event background rejection in LAFOV PET scanners**|Konrad Klimaszewski et.al.|[2607.25732](http://arxiv.org/abs/2607.25732)|null|
 |**2026-07-27**|**Sign-optimized Quantum Monte Carlo**|Julius S. Herz et.al.|[2607.24679](http://arxiv.org/abs/2607.24679)|null|
 |**2026-07-27**|**Explainable Reinforcement Learning via Physics-Aware Policy Distillation**|Shaker Al-Tamari et.al.|[2607.24672](http://arxiv.org/abs/2607.24672)|null|
-|**2026-07-27**|**Kimi K3: Open Frontier Intelligence**| Kimi Team et.al.|[2607.24653](http://arxiv.org/abs/2607.24653)|null|
+|**2026-07-27**|**Kimi K3: Open Frontier Intelligence**|Kimi Team et.al.|[2607.24653](http://arxiv.org/abs/2607.24653)|null|
 |**2026-07-27**|**Next-to-leading order FsQED corrections to radiative pion pair production**|Carlo M. Carloni Calame et.al.|[2607.24642](http://arxiv.org/abs/2607.24642)|null|
 |**2026-07-27**|**Emergence of the halo in $^{11}$ Li from full nuclear many-body dynamics**|Yilong Yang et.al.|[2607.24636](http://arxiv.org/abs/2607.24636)|null|
 |**2026-07-27**|**Recommended Second Virial Coefficients for Nitrogen and Oxygen**|Robert Hellmann et.al.|[2607.24634](http://arxiv.org/abs/2607.24634)|null|
@@ -8895,7 +8895,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |**2026-07-27**|**CONSISTRE: A Unified Consistency-Aware Framework for Document-Level Relation Extraction with Large Language Models**|Mingxuan Sun et.al.|[2607.24312](http://arxiv.org/abs/2607.24312)|null|
 |**2026-07-27**|**Learning Adaptive Multi-Task Guidance, Navigation, and Control via Hypernetworks**|Ricard Marsal I Castan et.al.|[2607.24292](http://arxiv.org/abs/2607.24292)|null|
 |**2026-07-26**|**Robust estimation of the autocorrelation function via forward ratios**|A. Montañés et.al.|[2607.23744](http://arxiv.org/abs/2607.23744)|null|
-|**2026-07-26**|**Zing: Social Mind for LLMs**| Zing Team et.al.|[2607.23740](http://arxiv.org/abs/2607.23740)|null|
+|**2026-07-26**|**Zing: Social Mind for LLMs**|Zing Team et.al.|[2607.23740](http://arxiv.org/abs/2607.23740)|null|
 |**2026-07-26**|**TRUAV: Distributed Multi-Agent Reinforcement Learning for Trajectory Planning and Routing Enhancement in UAV-Aided IoT-Enabled VANETs**|Muhammad Umar Farooq Qaisar et.al.|[2607.23734](http://arxiv.org/abs/2607.23734)|null|
 |**2026-07-26**|**Hierarchical Soft Actor-Critic for Sparse-Reward Long-Horizon Reinforcement Learning**|Zahra Abdalla Elashaal et.al.|[2607.23726](http://arxiv.org/abs/2607.23726)|null|
 |**2026-07-26**|**Offline-Online Curriculum RL for Multimodal Reasoning**|Wendi Deng et.al.|[2607.23700](http://arxiv.org/abs/2607.23700)|null|
