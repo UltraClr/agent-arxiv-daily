@@ -21,6 +21,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-31**|**TokTier: Exact Stateful Tokenization for Agentic LLM Serving**|Zhenyu Zhang et.al.|[2607.29678](http://arxiv.org/abs/2607.29678)|null|
+|**2026-07-31**|**ExtractBench: A Benchmark for Schema-Guided Enterprise Document Extraction**|Boyang Zhang et.al.|[2607.29677](http://arxiv.org/abs/2607.29677)|null|
+|**2026-07-31**|**Reusing Past Repairs Through Hierarchical Trajectory Abstraction for Coding Agents**|Yisen Xu et.al.|[2607.29658](http://arxiv.org/abs/2607.29658)|null|
+|**2026-07-31**|**AgentHPOBench: A Benchmark For Evaluating LLM Agents as Sequential Hyperparameter Optimizers**|Tianyu Huai et.al.|[2607.29626](http://arxiv.org/abs/2607.29626)|null|
+|**2026-07-31**|**Educating the Agentic Engineer: Curricula, Collaboration, and Continuous Learning in the AI Era**|Mamdouh Alenezi et.al.|[2607.29610](http://arxiv.org/abs/2607.29610)|null|
+|**2026-07-31**|**From Code Review to Code Critique: Intent, Drift, and Spotlight for AI-Generated Diffs at Scale**|Chandra Maddila et.al.|[2607.29516](http://arxiv.org/abs/2607.29516)|null|
+|**2026-07-31**|**Know It, Act on It: Investigating Memory Utilization in LLM Personalization**|Zhaoxin Feng et.al.|[2607.29433](http://arxiv.org/abs/2607.29433)|null|
+|**2026-07-31**|**Beyond Component Testing: Validating Agentic AI Systems**|Fabio Orazio Mirto et.al.|[2607.29405](http://arxiv.org/abs/2607.29405)|null|
+|**2026-07-31**|**Zero-Mem: Zero-Token Memory Operations for LLM Agents**|Yilin Xiao et.al.|[2607.29377](http://arxiv.org/abs/2607.29377)|null|
+|**2026-07-31**|**SeekBrain: An Autonomous Multi-Agent System for Accelerating Neuroscience Discovery**|Jiamin Wu et.al.|[2607.29347](http://arxiv.org/abs/2607.29347)|null|
+|**2026-07-31**|**Tool Specifications Matter: Uncovering and Mitigating Safety Risks in AI Agents**|Minghui Pan et.al.|[2607.29254](http://arxiv.org/abs/2607.29254)|null|
+|**2026-07-31**|**Data Turnstile: A Scalable Open Framework for Function-Calling Data Generation**|Goutham Ramakrishnan et.al.|[2607.29250](http://arxiv.org/abs/2607.29250)|null|
+|**2026-07-31**|**Don't Mix Rewards, Mix Policies: Policy Decomposition and Optimization for Multi-Reward RL**|Ruiming Liang et.al.|[2607.29246](http://arxiv.org/abs/2607.29246)|null|
+|**2026-07-31**|**CAGE: Certified Authorization under Typed-Return Uncertainty for Tool-Using Agents**|Blaise Delattre et.al.|[2607.29190](http://arxiv.org/abs/2607.29190)|null|
+|**2026-07-31**|**Execution-First Synthetic Tool-Use Trace Generation for LLM Agents**|Hafsa Ouajdi et.al.|[2607.29175](http://arxiv.org/abs/2607.29175)|null|
+|**2026-07-31**|**Memory Provenance Laundering in LLM Agents: A Non-Amplification Firewall for Persistent Memory**|Jinghan Xu et.al.|[2607.29167](http://arxiv.org/abs/2607.29167)|null|
+|**2026-07-31**|**Rethinking AI Cloud Infrastructure for Agentic Serving Systems with the Aries Experimentation Framework**|Leonid Kondrashov et.al.|[2607.29069](http://arxiv.org/abs/2607.29069)|null|
+|**2026-07-31**|**TransMem: Transforming Hidden States into Memory for Large Language Models**|Haodong Lei et.al.|[2607.29032](http://arxiv.org/abs/2607.29032)|null|
+|**2026-07-31**|**EasyBCI Agent: Towards Universal Neural Data Preprocessing for Brain-Computer Interfaces**|Yu Zhu et.al.|[2607.29007](http://arxiv.org/abs/2607.29007)|null|
+|**2026-07-31**|**Scaling Scientific Discovery Environments for Turn-Level Agentic RL**|Yucheng Xu et.al.|[2607.28990](http://arxiv.org/abs/2607.28990)|null|
 |**2026-07-30**|**AskChem: Claim-Centered Infrastructure for Chemistry Literature Synthesis**|Bing Yan et.al.|[2607.28618](http://arxiv.org/abs/2607.28618)|null|
 |**2026-07-30**|**Beacon: Knowing When and How to Perform Agentic Visual Reasoning**|Qixun Wang et.al.|[2607.28595](http://arxiv.org/abs/2607.28595)|null|
 |**2026-07-30**|**Change2Task: From Repository Changes to Executable Coding Agent Tasks and Environments**|Haomin Qi et.al.|[2607.28591](http://arxiv.org/abs/2607.28591)|null|
@@ -4479,6 +4499,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-31**|**CodeShrink: Adaptive Visual Compression for Efficient Multimodal Code Understanding**|Wenxin Tang et.al.|[2607.29637](http://arxiv.org/abs/2607.29637)|null|
+|**2026-07-31**|**When Does On-Policy Interaction Help? Representational Tradeoffs in Value-Based Imitation Learning**|Luca Viano et.al.|[2607.29617](http://arxiv.org/abs/2607.29617)|null|
+|**2026-07-31**|**CWEEP: A Lexical Static Analysis Framework for CWE Early Prevention**|Bryan Kwan et.al.|[2607.29604](http://arxiv.org/abs/2607.29604)|null|
+|**2026-07-31**|**FriendBench: Benchmarking Dyadic Familiarity Inference in Humans and Multimodal Large Language Models**|Jeffrey M. Girard et.al.|[2607.29602](http://arxiv.org/abs/2607.29602)|null|
+|**2026-07-31**|**The Parts Are Greater Than the Sum: Automated Task Sequencing for Efficient Training of Multi-Policy LLMs**|Jiajia Tang et.al.|[2607.29601](http://arxiv.org/abs/2607.29601)|null|
+|**2026-07-31**|**Sycophancy Undermines Epistemic Vigilance in Cooperative Vision-Language Tasks**|Rupak Sarkar et.al.|[2607.29585](http://arxiv.org/abs/2607.29585)|null|
+|**2026-07-31**|**DungeonBench: A Benchmark for Rules-Rich Tactical Reasoning in Dungeons & Dragons Combat**|Ismayil Ismayilov et.al.|[2607.29577](http://arxiv.org/abs/2607.29577)|null|
+|**2026-07-31**|**SLIM: Saturation-Aware Lightweight Performance Modeling for LLM Serving**|Pol G. Recasens et.al.|[2607.29575](http://arxiv.org/abs/2607.29575)|null|
+|**2026-07-31**|**MOT-SR: Multi-Objective Tool-Augmented Scientific Equation Discovery with Large Language Models**|Boxiao Wang et.al.|[2607.29561](http://arxiv.org/abs/2607.29561)|null|
+|**2026-07-31**|**AMTFV: Agentic Mathematical Tool-Flow Verification for LLM Self-Correction**|Rui Zou et.al.|[2607.29549](http://arxiv.org/abs/2607.29549)|null|
+|**2026-07-31**|**MoRoute: Dynamic Routing for In-Context Multimodal Video Generation**|Chong Gao et.al.|[2607.29545](http://arxiv.org/abs/2607.29545)|null|
+|**2026-07-31**|**ARB: A Matched Authorship-Rewriting Benchmark Dataset for AI-Text Detector Evaluation**|Gaetano Perrone et.al.|[2607.29539](http://arxiv.org/abs/2607.29539)|null|
+|**2026-07-31**|**Evidence-Type Competition: When Can Interventional Data Teach Language Models Causal Direction?**|Xining Xun et.al.|[2607.29484](http://arxiv.org/abs/2607.29484)|null|
+|**2026-07-31**|**Weight-Space Mixture-of-Experts for Implicit Neural Representation Classification**|Stanislaw Janik et.al.|[2607.29463](http://arxiv.org/abs/2607.29463)|null|
+|**2026-07-31**|**MoPET: Parameter-Efficient Mixture-of-Experts for Unified Medical Image Classification**|Sebastian Doerrich et.al.|[2607.29462](http://arxiv.org/abs/2607.29462)|null|
+|**2026-07-31**|**QR-Structured Thermal Triggers for Targeted Semantic Attacks on Infrared Vision-Language Models**|Xiang Chen et.al.|[2607.29445](http://arxiv.org/abs/2607.29445)|null|
+|**2026-07-31**|**Know It, Act on It: Investigating Memory Utilization in LLM Personalization**|Zhaoxin Feng et.al.|[2607.29433](http://arxiv.org/abs/2607.29433)|null|
+|**2026-07-31**|**ModelEquivBench: Certifying Multi-Relational Evaluation of LLM-Generated Optimization Models**|Penglin Zhu et.al.|[2607.29431](http://arxiv.org/abs/2607.29431)|null|
+|**2026-07-31**|**Role-Break in Attention Heads: Understanding and Detecting Hallucinations in VLMs**|Mingyu Wang et.al.|[2607.29412](http://arxiv.org/abs/2607.29412)|null|
+|**2026-07-31**|**Bridging the Question-Answer Gap in Retrieval-Augmented Generation: Hypothetical Prompt Embeddings**|Domen Vake et.al.|[2607.29402](http://arxiv.org/abs/2607.29402)|null|
 |**2026-07-30**|**ReToken: One Token to Improve Vision-Language Models for Visual Retrieval**|Yao Xiao et.al.|[2607.28627](http://arxiv.org/abs/2607.28627)|null|
 |**2026-07-30**|**AISPA: User-Centric System Prompt Auditing for Large Language Model Applications**|Xiangning Lin et.al.|[2607.28617](http://arxiv.org/abs/2607.28617)|null|
 |**2026-07-30**|**Chimera: Designing and Chinchilla-Scaling Hybrid Visual Diffusion Transformers**|Chongjian Ge et.al.|[2607.28611](http://arxiv.org/abs/2607.28611)|null|
@@ -8820,6 +8860,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-31**|**An optimal quadratic estimator for window-free cosmic shear power spectra**|Taisei Terawaki et.al.|[2607.29652](http://arxiv.org/abs/2607.29652)|null|
+|**2026-07-31**|**CodeShrink: Adaptive Visual Compression for Efficient Multimodal Code Understanding**|Wenxin Tang et.al.|[2607.29637](http://arxiv.org/abs/2607.29637)|null|
+|**2026-07-31**|**RayViT: Ray-Conditioned Visual Representations for Viewpoint-Robust Imitation Learning**|Qian Wang et.al.|[2607.29622](http://arxiv.org/abs/2607.29622)|null|
+|**2026-07-31**|**When Does On-Policy Interaction Help? Representational Tradeoffs in Value-Based Imitation Learning**|Luca Viano et.al.|[2607.29617](http://arxiv.org/abs/2607.29617)|null|
+|**2026-07-31**|**WCM: A World Critic Model for Vision-Language-Action Reinforcement Learning**|Senyu Fei et.al.|[2607.29613](http://arxiv.org/abs/2607.29613)|null|
+|**2026-07-31**|**Recursive rounding of sample size estimation for multi-fidelity Monte Carlo**|Jiaxing Liang et.al.|[2607.29607](http://arxiv.org/abs/2607.29607)|null|
+|**2026-07-31**|**Convergence and Regret of the Policy Gradient for Multi-Armed Bandits in Diffusion Environment**|Yanwei Jia et.al.|[2607.29593](http://arxiv.org/abs/2607.29593)|null|
+|**2026-07-31**|**Spindrift: Learning quantum degeneracy from thermal purity in restricted path integral Monte Carlo**|Jarvist Moore Frost et.al.|[2607.29590](http://arxiv.org/abs/2607.29590)|null|
+|**2026-07-31**|**DungeonBench: A Benchmark for Rules-Rich Tactical Reasoning in Dungeons & Dragons Combat**|Ismayil Ismayilov et.al.|[2607.29577](http://arxiv.org/abs/2607.29577)|null|
+|**2026-07-31**|**LEMUR: Learning to Align with Multi-Objective Reinforcement Learning from Preference Feedback**|Manith Adikari et.al.|[2607.29559](http://arxiv.org/abs/2607.29559)|null|
+|**2026-07-31**|**STAGE: STyle-controllable Action GEneration for personalized autonomous driving**|Zihao Liu et.al.|[2607.29517](http://arxiv.org/abs/2607.29517)|null|
+|**2026-07-31**|**DreamQAS: Learning a Decision-Useful World Model for VQE-Efficient Quantum Architecture Search**|Jiayang Niu et.al.|[2607.29491](http://arxiv.org/abs/2607.29491)|null|
+|**2026-07-31**|**Discovery Sensitivity for a Counting Experiment with Background Uncertainty**|Enzo Canonero et.al.|[2607.29436](http://arxiv.org/abs/2607.29436)|null|
+|**2026-07-31**|**Explore Beyond the Boundary Using Entropic Information**|Bumgeun Park et.al.|[2607.29419](http://arxiv.org/abs/2607.29419)|null|
+|**2026-07-31**|**OnlineCache: Learning Dynamic Caching Policies with Error Correction for Efficient Diffusion Inference**|Zhikang Xie et.al.|[2607.29398](http://arxiv.org/abs/2607.29398)|null|
+|**2026-07-31**|**pylhe: A Lightweight Python interface to Les Houches Event files**|Alexander Puck Neuwirth et.al.|[2607.29352](http://arxiv.org/abs/2607.29352)|null|
+|**2026-07-31**|**BWM: A Low-Cost High-Fidelity World Simulator for Robot Learning**| BWM Team et.al.|[2607.29302](http://arxiv.org/abs/2607.29302)|null|
+|**2026-07-31**|**Sample Efficient Hierarchical Reinforcement Learning via Best Policy Identification**|Anders Jonsson et.al.|[2607.29294](http://arxiv.org/abs/2607.29294)|null|
+|**2026-07-31**|**Translation with Thought: Difficulty-Adaptive Reasoning via Reinforcement Learning for Multi-Domain Machine Translation**|Yongshi Ye et.al.|[2607.29287](http://arxiv.org/abs/2607.29287)|null|
+|**2026-07-31**|**TRACT: Temporally Routed Action Chunks with Chronological Phase Authority for Contact-Rich Manipulation**|Jiahao Liu et.al.|[2607.29285](http://arxiv.org/abs/2607.29285)|null|
 |**2026-07-30**|**ACE-Data-0: Human-Centric Ambient Capture as Embodied Data Engine**|Yukang Cao et.al.|[2607.28625](http://arxiv.org/abs/2607.28625)|null|
 |**2026-07-30**|**OSReward: Instituting Standardized Evaluation for Cross-Platform Computer-Use Reward Models**|Qiushi Sun et.al.|[2607.28609](http://arxiv.org/abs/2607.28609)|null|
 |**2026-07-30**|**Beacon: Knowing When and How to Perform Agentic Visual Reasoning**|Qixun Wang et.al.|[2607.28595](http://arxiv.org/abs/2607.28595)|null|
