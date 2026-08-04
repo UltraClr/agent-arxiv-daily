@@ -21,6 +21,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-03**|**ACEM: A Cost Estimation Model for Agentic Software Engineering**|Mohammad El-Ramly et.al.|[2608.02582](http://arxiv.org/abs/2608.02582)|null|
+|**2026-08-03**|**RoMeRL: Balancing Feedback Coverage and the Memory-Reward Trap in Self-Evolving Agent Memory via Reduced-Order Utility States**|Yi Yang et.al.|[2608.02508](http://arxiv.org/abs/2608.02508)|null|
+|**2026-08-03**|**SWE-Touch: Benchmarking Coding Agents When Users Touch the Code**|Yuqiao Tan et.al.|[2608.02499](http://arxiv.org/abs/2608.02499)|null|
+|**2026-08-03**|**Real-Time Detection and Repair of LLM Agent Failures**|Sunny Dubey et.al.|[2608.02464](http://arxiv.org/abs/2608.02464)|null|
+|**2026-08-03**|**ParEvalLayer: When Partial LLM-Agent Evaluations Support a Decision**|Wei-Jung Huang et.al.|[2608.02444](http://arxiv.org/abs/2608.02444)|null|
+|**2026-08-03**|**Agentic Commerce World: An Auditable and Verifiable Environment for Vibe Commerce**|Shicheng Fan et.al.|[2608.02441](http://arxiv.org/abs/2608.02441)|null|
+|**2026-08-03**|**Agentic Incident Response through Digital Twin-Enhanced Multiscale Planning**|Yiran Gao et.al.|[2608.02422](http://arxiv.org/abs/2608.02422)|null|
+|**2026-08-03**|**Analyzing GPU Performance in Virtualized Environments: A~Case Study**|Adel Belkhiri et.al.|[2608.02414](http://arxiv.org/abs/2608.02414)|null|
+|**2026-08-03**|**Cooperative Coevolution for Resource-Constrained Agentic LLM Post-Training**|Zhiyuan Wang et.al.|[2608.02391](http://arxiv.org/abs/2608.02391)|null|
+|**2026-08-03**|**PredAct-Bench: Benchmarking Tool-Augmented Dialogue under Controlled Tool Noise**|Abdulrahman AlRabah et.al.|[2608.02372](http://arxiv.org/abs/2608.02372)|null|
+|**2026-08-03**|**ScrambleToolBench: Agents Search Exhaustively Even When Their Own Map Points to the Next Step**|Vernon Toh et.al.|[2608.02358](http://arxiv.org/abs/2608.02358)|null|
+|**2026-08-03**|**SkillTrace: Traversing a Query-Skill Graph for Composable LLM Agents**|Yue Yao et.al.|[2608.02356](http://arxiv.org/abs/2608.02356)|null|
+|**2026-08-03**|**Global Optimization and Inference-Time Region Grafting for Agentic Workflows**|Donghyeok Koh et.al.|[2608.02353](http://arxiv.org/abs/2608.02353)|null|
+|**2026-08-03**|**Qwen-CUA: Native Computer Use for (almost) Everything**|Dunjie Lu et.al.|[2608.02352](http://arxiv.org/abs/2608.02352)|null|
+|**2026-08-03**|**Can AI Agents Simulate A/B Test Outcomes? A Validation Framework for Agentic Experimentation**|Stefan Hut et.al.|[2608.02345](http://arxiv.org/abs/2608.02345)|null|
+|**2026-08-03**|**Trajectories That Segment Themselves: Agent-Declared Boundaries as a Training Unit**|Jingxi Wei et.al.|[2608.02302](http://arxiv.org/abs/2608.02302)|null|
+|**2026-08-03**|**MechGeo: Autoformalizing and Proving Euclidean Geometry in Lean 4**|Hao Shen et.al.|[2608.02295](http://arxiv.org/abs/2608.02295)|null|
+|**2026-08-03**|**Shared Prefixes, Better Credit: Adaptive Routing for Multi-Agent Reasoning**|Yiqing Liu et.al.|[2608.02291](http://arxiv.org/abs/2608.02291)|null|
+|**2026-08-03**|**Homebot: A Personal AI Agent for Conversational Home Assistance and Automation**|Shengyuan Ye et.al.|[2608.02254](http://arxiv.org/abs/2608.02254)|null|
+|**2026-08-03**|**PosterMELD: Multi-Agent Paper-to-Poster Generation for Controllable Design Diversity with Editable Print-Ready Outputs**|Haojie Hu et.al.|[2608.02218](http://arxiv.org/abs/2608.02218)|null|
 |**2026-08-02**|**Control Under Compression: Reliability Frontiers for Tool-Using Agents**|Yinghan Hou et.al.|[2608.01056](http://arxiv.org/abs/2608.01056)|null|
 |**2026-08-02**|**Don't Offer What Can't Be Done: Deterministic Executability Gating for LLM Skill Selection at Scale**|Ortal Ashkenazi et.al.|[2608.01050](http://arxiv.org/abs/2608.01050)|null|
 |**2026-08-02**|**What Could the Agent See at 19:05? Generating Temporal Enterprise Scenarios from Real Research and Replaying Them to Evaluate Agents**|Tezan Sahu et.al.|[2608.01042](http://arxiv.org/abs/2608.01042)|null|
@@ -4519,6 +4539,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-03**|**AURORA-LM: Autoencoding Unified Representation for Continuous-Latent Diffusion Language Modeling**|Jiajun Liang et.al.|[2608.02602](http://arxiv.org/abs/2608.02602)|null|
+|**2026-08-03**|**Bridging Artificial Intelligence and Power Systems Education Using a Hands-On Executable Framework**|Junjie Yin et.al.|[2608.02599](http://arxiv.org/abs/2608.02599)|null|
+|**2026-08-03**|**onepot-Bench 0: towards lab-aware in silico chemistry benchmarks**|Brandon Wang et.al.|[2608.02595](http://arxiv.org/abs/2608.02595)|null|
+|**2026-08-03**|**GradCuit: Credit-Assigned Gradient Flow Enables Robust and Interpretable Test-Time Latent Reasoning**|Zhaoxin Yu et.al.|[2608.02585](http://arxiv.org/abs/2608.02585)|null|
+|**2026-08-03**|**ACEM: A Cost Estimation Model for Agentic Software Engineering**|Mohammad El-Ramly et.al.|[2608.02582](http://arxiv.org/abs/2608.02582)|null|
+|**2026-08-03**|**Pairwise-Independent Dithering for Single-Stage Hadamard Quantization**|Honghao Lin et.al.|[2608.02564](http://arxiv.org/abs/2608.02564)|null|
+|**2026-08-03**|**Structured Memory for Edge Language Models: Persistent Context and Corpus Retrieval via O(1) SSM State Injection**|Anusha Madan Gopal et.al.|[2608.02560](http://arxiv.org/abs/2608.02560)|null|
+|**2026-08-03**|**MedPRESS: A Multi-turn Benchmark for Patient-Pressure-Induced Medical Sycophancy in LLMs**|Saman Sarker Joy et.al.|[2608.02520](http://arxiv.org/abs/2608.02520)|null|
+|**2026-08-03**|**Long-term Measurements: Towards a Longitudinal Understanding of Human-AI Interactions**|Nicole Mitchell et.al.|[2608.02491](http://arxiv.org/abs/2608.02491)|null|
+|**2026-08-03**|**CTRAG: An In-Context Retrieval-based Framework for Automated Compliance Checking using LLMs**|Muhammad Roman et.al.|[2608.02472](http://arxiv.org/abs/2608.02472)|null|
+|**2026-08-03**|**Grounding Agentic VLMs with Dedicated Segmentation for Fine-Grained Vehicle Damage Assessment**|Vishwajeet Shivaji Hogale et.al.|[2608.02470](http://arxiv.org/abs/2608.02470)|null|
+|**2026-08-03**|**MoRAL: Sensor-Grounded BEV Reasoning for Compact VLMs toward Edge-Oriented Autonomous Driving**|Ambarish Govindarajulu Kaliamurthi et.al.|[2608.02449](http://arxiv.org/abs/2608.02449)|null|
+|**2026-08-03**|**Advancing Relevance Measurement with Vision-Language Models for Web-Scale Search**|Han Wang et.al.|[2608.02446](http://arxiv.org/abs/2608.02446)|null|
+|**2026-08-03**|**Right Answer, Wrong Method: Shortcut Hacking Misleads the Evaluation of LLM Reasoning on Frontier Science Benchmarks**|Xuan Ren et.al.|[2608.02442](http://arxiv.org/abs/2608.02442)|null|
+|**2026-08-03**|**Agentic Incident Response through Digital Twin-Enhanced Multiscale Planning**|Yiran Gao et.al.|[2608.02422](http://arxiv.org/abs/2608.02422)|null|
+|**2026-08-03**|**WIP: Chat-Debugging: Large Language Model as a Hardware Debugging Assistant**|Andrew Ash et.al.|[2608.02420](http://arxiv.org/abs/2608.02420)|null|
+|**2026-08-03**|**Training-Free versus Training-Based Intent Classification in LLMs: Accuracy, Robustness, and Failure Modes**|Nan Chen et.al.|[2608.02415](http://arxiv.org/abs/2608.02415)|null|
+|**2026-08-03**|**Why Large Language Models Fail at Tabular Prediction**|Marta Garnelo et.al.|[2608.02412](http://arxiv.org/abs/2608.02412)|null|
+|**2026-08-03**|**MonitrLLM: A Community-Centered Evaluation Infrastructure for Large Language Models**|Victor Ojewale et.al.|[2608.02409](http://arxiv.org/abs/2608.02409)|null|
+|**2026-08-03**|**Antares: Foundation Models for Agentic Vulnerability Localization**|Supriti Vijay et.al.|[2608.02407](http://arxiv.org/abs/2608.02407)|null|
 |**2026-08-02**|**ReACT-CLIP: Response-Aware Test-Time Defense for Vision--Language Models**|Hashmat Shadab Malik et.al.|[2608.01067](http://arxiv.org/abs/2608.01067)|null|
 |**2026-08-02**|**One Query, Many Scales: Sparse Mixture-of-Experts for Efficient Hierarchical Cross-View Geo-Localization**|Ruijie Fan et.al.|[2608.01060](http://arxiv.org/abs/2608.01060)|null|
 |**2026-08-02**|**Control Under Compression: Reliability Frontiers for Tool-Using Agents**|Yinghan Hou et.al.|[2608.01056](http://arxiv.org/abs/2608.01056)|null|
@@ -8900,6 +8940,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-03**|**Bridging Artificial Intelligence and Power Systems Education Using a Hands-On Executable Framework**|Junjie Yin et.al.|[2608.02599](http://arxiv.org/abs/2608.02599)|null|
+|**2026-08-03**|**CCAT: Optical Design of the 410 GHz Prime-Cam Module**|Tilak M. Patel et.al.|[2608.02579](http://arxiv.org/abs/2608.02579)|null|
+|**2026-08-03**|**Analytic Planning under Uncertainty with Moment Closure**|Shishir Sharma et.al.|[2608.02519](http://arxiv.org/abs/2608.02519)|null|
+|**2026-08-03**|**RoMeRL: Balancing Feedback Coverage and the Memory-Reward Trap in Self-Evolving Agent Memory via Reduced-Order Utility States**|Yi Yang et.al.|[2608.02508](http://arxiv.org/abs/2608.02508)|null|
+|**2026-08-03**|**FCC precision requests: challenges for Monte Carlos and phenomenology tools**|Z. Was et.al.|[2608.02476](http://arxiv.org/abs/2608.02476)|null|
+|**2026-08-03**|**Infinite Trace Objectives with Finite Trace Techniques: Translating LTL to LTLf+**|Christoph Weinhuber et.al.|[2608.02454](http://arxiv.org/abs/2608.02454)|null|
+|**2026-08-03**|**Foundations of Reinforcement Learning and Control:Connections and New Perspectives**|Claire Vernade et.al.|[2608.02433](http://arxiv.org/abs/2608.02433)|null|
+|**2026-08-03**|**Agentic Incident Response through Digital Twin-Enhanced Multiscale Planning**|Yiran Gao et.al.|[2608.02422](http://arxiv.org/abs/2608.02422)|null|
+|**2026-08-03**|**Antares: Foundation Models for Agentic Vulnerability Localization**|Supriti Vijay et.al.|[2608.02407](http://arxiv.org/abs/2608.02407)|null|
+|**2026-08-03**|**Cooperative Coevolution for Resource-Constrained Agentic LLM Post-Training**|Zhiyuan Wang et.al.|[2608.02391](http://arxiv.org/abs/2608.02391)|null|
+|**2026-08-03**|**Chess on Ice: Curling Tactical Decision-Making via Backward Induction and Deep Reinforcement Learning**|Patrick Oberlin et.al.|[2608.02379](http://arxiv.org/abs/2608.02379)|null|
+|**2026-08-03**|**Qwen-CUA: Native Computer Use for (almost) Everything**|Dunjie Lu et.al.|[2608.02352](http://arxiv.org/abs/2608.02352)|null|
+|**2026-08-03**|**Hard Constraints, Smooth Gradients: Learning Feasible Inventory Policies via Differentiable Projection**|Patrick Helm et.al.|[2608.02343](http://arxiv.org/abs/2608.02343)|null|
+|**2026-08-03**|**Diffusion Policy with Behavioral Advantage Correction for Offline Reinforcement Learning**|Botao Dong et.al.|[2608.02332](http://arxiv.org/abs/2608.02332)|null|
+|**2026-08-03**|**Learnable yet not simulable: a quantum resource theory of learning models**|Xinbiao Wang et.al.|[2608.02325](http://arxiv.org/abs/2608.02325)|null|
+|**2026-08-03**|**BRiG-AFA: Bellman Risk-to-Go Learning for Non-Myopic Active Feature Acquisition**|Jiaorong Feng et.al.|[2608.02305](http://arxiv.org/abs/2608.02305)|null|
+|**2026-08-03**|**Harness-R1: Learning to Edit Executable Runtime Harnesses from Agent Failure Trajectories**|Shuai Shao et.al.|[2608.02276](http://arxiv.org/abs/2608.02276)|null|
+|**2026-08-03**|**Valley-controlled chiral magnetism in transition metal dichalcogenide monolayers**|Igor S. Krivenko et.al.|[2608.02260](http://arxiv.org/abs/2608.02260)|null|
+|**2026-08-03**|**Phase-Drift Limits and Adaptive Quadrature Readout in Programmable Photonic Processors**|Gökhan Elmas et.al.|[2608.02249](http://arxiv.org/abs/2608.02249)|null|
+|**2026-08-03**|**VC-Tooler: Learning Compositional and Adaptive Visual Tool Use**|Yizheng Wu et.al.|[2608.02217](http://arxiv.org/abs/2608.02217)|null|
 |**2026-08-02**|**adabay: an R package for rapid evaluation and calibration of Bayesian group sequential designs across common endpoint types**|Zhangyi He et.al.|[2608.01068](http://arxiv.org/abs/2608.01068)|null|
 |**2026-08-02**|**Credit the Right Box: Marginal Contribution Assignment for Structured Visual Perception**|Xinheng Han et.al.|[2608.01055](http://arxiv.org/abs/2608.01055)|null|
 |**2026-08-02**|**Cloud-ScPO: Hidden-State Geometry for Semi-Supervised Preference Optimization in LLM Reasoning**|Yuzhou Liu et.al.|[2608.01014](http://arxiv.org/abs/2608.01014)|null|
