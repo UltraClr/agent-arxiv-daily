@@ -21,6 +21,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-06**|**The Bitter Lesson of Tool Calling**|Ishan Patel et.al.|[2608.06370](http://arxiv.org/abs/2608.06370)|null|
+|**2026-08-06**|**AV-AIVAT: 74x Cheaper Agent Evaluation with Certified Anytime-Valid Stopping in Imperfect-Information Games**|Boning Li et.al.|[2608.06362](http://arxiv.org/abs/2608.06362)|null|
+|**2026-08-06**|**Resourced Authority A Mechanism-Design Model for Participatory Governance of Deployed AI Agents**|Praphul Chandra et.al.|[2608.06353](http://arxiv.org/abs/2608.06353)|null|
+|**2026-08-06**|**TRAJDEBUG: Tracing Error Lifecycle to Identify Critical Failures in Long-Horizon Agent Trajectories**|Yunjia Qi et.al.|[2608.06346](http://arxiv.org/abs/2608.06346)|null|
+|**2026-08-06**|**Benchmarking and Enhancing LLMs for Rule-Intensive Review of National Standard Documents**|Tao Wang et.al.|[2608.06312](http://arxiv.org/abs/2608.06312)|null|
+|**2026-08-06**|**QuanTiMedAI: Quantum-Enhanced Time-Series Model guided by Agentic AI for Cardiac Arrest Mortality Prediction**|Mutasim Fuad Sarker et.al.|[2608.06294](http://arxiv.org/abs/2608.06294)|null|
+|**2026-08-06**|**The Illusion of Visual Tool-Use: A Causal Audit of Thinking with Images**|Zhiheng Wang et.al.|[2608.06270](http://arxiv.org/abs/2608.06270)|null|
+|**2026-08-06**|**Improving the Realism of Synthetic Clinical Benchmarks Under Utility Constraints**|Omid Bazgir et.al.|[2608.06265](http://arxiv.org/abs/2608.06265)|null|
+|**2026-08-06**|**EnvACE: Internalizing Environment Dynamics via World Rehearsal for Agentic Reinforcement Learning**|Zishan Xu et.al.|[2608.06197](http://arxiv.org/abs/2608.06197)|null|
+|**2026-08-06**|**Routing Is Least Learnable Where It Is Most Valuable: Bounds on Representation Routing for Web Agents**|Jiaming Wei et.al.|[2608.06171](http://arxiv.org/abs/2608.06171)|null|
+|**2026-08-06**|**iARCS: Iterative Agentic RL for Controllable 3D Scene Generation**|Saugat Adhikari et.al.|[2608.06161](http://arxiv.org/abs/2608.06161)|null|
+|**2026-08-06**|**Learning Globally Reusable Skills for Coding Agents**|Chen Yang et.al.|[2608.06153](http://arxiv.org/abs/2608.06153)|null|
+|**2026-08-06**|**Hardware Keystores for AI Agent Signing Workflows: A Zero-Trust MCP Enforcement Architecture**|Leo Sambrook et.al.|[2608.06130](http://arxiv.org/abs/2608.06130)|null|
+|**2026-08-06**|**From Siloed Algorithms to Compliance-First Agentic Platforms: A Multi-Layered Architecture for Hospital AI Systems**|Manideep Dhar et.al.|[2608.06112](http://arxiv.org/abs/2608.06112)|null|
+|**2026-08-06**|**When History Lies: Evaluating and Improving Tool Use under Misleading Multi-Turn Histories**|Xiaoqing Wu et.al.|[2608.06057](http://arxiv.org/abs/2608.06057)|null|
+|**2026-08-06**|**ASGE-RR: Agentic Service Graph Embedding with Revisable Reservations for Dynamic AI-Agent Calls**|Trond Vatten et.al.|[2608.06033](http://arxiv.org/abs/2608.06033)|null|
+|**2026-08-06**|**From Economic Agents to Agentic Economies: A Systems Blueprint for Economic World Models**|Jiale Han et.al.|[2608.06020](http://arxiv.org/abs/2608.06020)|null|
+|**2026-08-06**|**Beyond Flat Policies: Hierarchical Post-Training for Embodied Agents in Robotic Manipulation**|He Kong et.al.|[2608.05999](http://arxiv.org/abs/2608.05999)|null|
+|**2026-08-06**|**OPERA: Operator-residual feedback for reliable autonomous optical experiments with language-model agents**|Ning Xu et.al.|[2608.05990](http://arxiv.org/abs/2608.05990)|null|
+|**2026-08-06**|**AgentExecutor: Partial Code Execution via Agentic Context Generation**|Junkai Chen et.al.|[2608.05959](http://arxiv.org/abs/2608.05959)|null|
 |**2026-08-05**|**OctoLong: Mid-Training On Cross-Repository Code Contexts Enhances Long-Context Modeling**|Indraneil Paul et.al.|[2608.05141](http://arxiv.org/abs/2608.05141)|null|
 |**2026-08-05**|**Spoken Function Calling: A New Perspective on Spoken Language Understanding for Large Audio Language Models**|Yuezhang Peng et.al.|[2608.05126](http://arxiv.org/abs/2608.05126)|null|
 |**2026-08-05**|**Agent Against Agent: An Agentic System for Automatic Prompt Injection Red Teaming**|Yanting Wang et.al.|[2608.05108](http://arxiv.org/abs/2608.05108)|null|
@@ -4591,6 +4611,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-06**|**Learning When to Trust via Selective Context Preference Optimization**|Xian Sun et.al.|[2608.06377](http://arxiv.org/abs/2608.06377)|null|
+|**2026-08-06**|**DyPES-VLA: Learning Shared Dynamics Priors and Embodiment-Specific Control for Cross-Embodiment Manipulation**|Junfeng Li et.al.|[2608.06374](http://arxiv.org/abs/2608.06374)|null|
+|**2026-08-06**|**The Bitter Lesson of Tool Calling**|Ishan Patel et.al.|[2608.06370](http://arxiv.org/abs/2608.06370)|null|
+|**2026-08-06**|**Tracing the Heart: An Evidence-Linked Pipeline for Heart-Failure Feature Engineering**|Soorya Ram Shimgekar et.al.|[2608.06366](http://arxiv.org/abs/2608.06366)|null|
+|**2026-08-06**|**The Low Frequency Trap: Video Language Models Fail at Simple Event Bookkeeping**|Sarvesh Baskar et.al.|[2608.06361](http://arxiv.org/abs/2608.06361)|null|
+|**2026-08-06**|**RP-OPSD: Reasoning-Pivot-Guided On-Policy Self-Distillation for Multilingual Reasoning Transfer**|Xinye Wang et.al.|[2608.06347](http://arxiv.org/abs/2608.06347)|null|
+|**2026-08-06**|**Benchmarking and Enhancing LLMs for Rule-Intensive Review of National Standard Documents**|Tao Wang et.al.|[2608.06312](http://arxiv.org/abs/2608.06312)|null|
+|**2026-08-06**|**On-Policy Self-Distillation without Any Supervision**|Yijiang Li et.al.|[2608.06296](http://arxiv.org/abs/2608.06296)|null|
+|**2026-08-06**|**QuanTiMedAI: Quantum-Enhanced Time-Series Model guided by Agentic AI for Cardiac Arrest Mortality Prediction**|Mutasim Fuad Sarker et.al.|[2608.06294](http://arxiv.org/abs/2608.06294)|null|
+|**2026-08-06**|**NeSy-RAG: Neuro-Symbolic RAG for Explainable Question Answering**|Jonas Gann et.al.|[2608.06292](http://arxiv.org/abs/2608.06292)|null|
+|**2026-08-06**|**Automatic Translation of Unstructured Requirements into Linear Temporal Logic through Large Language Models**|Alexandra Newcomb et.al.|[2608.06287](http://arxiv.org/abs/2608.06287)|null|
+|**2026-08-06**|**MetaboLLM: a metabolomics-specialized large language model for biochemical knowledge integration and predictive metabolite graph construction**|Dohyun Ku et.al.|[2608.06253](http://arxiv.org/abs/2608.06253)|null|
+|**2026-08-06**|**A Six-Dimensional Taxonomy of Post-Training Adaptation Techniques with Applications in AI Governance**|Fardin Afdideh et.al.|[2608.06246](http://arxiv.org/abs/2608.06246)|null|
+|**2026-08-06**|**DASH: Divergence-Adaptive Supervision Horizons for On-Policy Self-Distillation of Reasoning Models**|ZhiYan Hou et.al.|[2608.06243](http://arxiv.org/abs/2608.06243)|null|
+|**2026-08-06**|**TS-RAG: Retrieval Augmented Generation for Time Series Forecasting**|Yixiong Xiao et.al.|[2608.06223](http://arxiv.org/abs/2608.06223)|null|
+|**2026-08-06**|**What Current AI Benchmarks Leave Unmeasured: Modality, Search, Citations, and Implications (for Safety Evaluations)**|Ro Encarnación et.al.|[2608.06202](http://arxiv.org/abs/2608.06202)|null|
+|**2026-08-06**|**Using LLMs to Detect Growth in Computational Thinking in Introductory Physics**|Sean Savage et.al.|[2608.06200](http://arxiv.org/abs/2608.06200)|null|
+|**2026-08-06**|**EnvACE: Internalizing Environment Dynamics via World Rehearsal for Agentic Reinforcement Learning**|Zishan Xu et.al.|[2608.06197](http://arxiv.org/abs/2608.06197)|null|
+|**2026-08-06**|**Routing LLM Inference to the Cleanest Grid in Real Time**|Aleks Bernhard et.al.|[2608.06188](http://arxiv.org/abs/2608.06188)|null|
+|**2026-08-06**|**SAGA: Score-Weighted Adaptive Generation Alignment for Low-Resource Nordic Language Models**|Hoda Fakharzadehjahromy et.al.|[2608.06179](http://arxiv.org/abs/2608.06179)|null|
 |**2026-08-05**|**Argus: A General-Purpose Agentic Runtime for Long-Horizon Reasoning**|Boxiu Li et.al.|[2608.05144](http://arxiv.org/abs/2608.05144)|null|
 |**2026-08-05**|**OctoLong: Mid-Training On Cross-Repository Code Contexts Enhances Long-Context Modeling**|Indraneil Paul et.al.|[2608.05141](http://arxiv.org/abs/2608.05141)|null|
 |**2026-08-05**|**Teaching Nemotron Greek: Mining a Corpus, Adapting Retrieval, and Grounding Generation for Modern Greek across Specialist Domains**|Ayoub Kirouane et.al.|[2608.05138](http://arxiv.org/abs/2608.05138)|null|
@@ -9052,6 +9092,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-06**|**$ω$ -0: A Latent Predictive World Action Model for Concurrent Humanoid Loco-Manipulation**|Zhe Li et.al.|[2608.06375](http://arxiv.org/abs/2608.06375)|null|
+|**2026-08-06**|**RRC: Unlocking Generative Reward Models in LLM Reinforcement Learning via Ranking-Based Reward Construction**|Chenglong Wang et.al.|[2608.06310](http://arxiv.org/abs/2608.06310)|null|
+|**2026-08-06**|**Stochastic Dynamics on Persistence Diagram Space via Reinforcement Learning**|Farzana Nasrin et.al.|[2608.06276](http://arxiv.org/abs/2608.06276)|null|
+|**2026-08-06**|**DASH: Divergence-Adaptive Supervision Horizons for On-Policy Self-Distillation of Reasoning Models**|ZhiYan Hou et.al.|[2608.06243](http://arxiv.org/abs/2608.06243)|null|
+|**2026-08-06**|**Optimal Designs in Multicomponent Stress Strength Reliability for the Unit Generalized Rayleigh Distribution**|Rajat Das et.al.|[2608.06214](http://arxiv.org/abs/2608.06214)|null|
+|**2026-08-06**|**VIDP: Variable Impedance Diffusion Policy for Compliant Robot Manipulation from Diverse Demonstrations**|Hisham Khalil et.al.|[2608.06210](http://arxiv.org/abs/2608.06210)|null|
+|**2026-08-06**|**EnvACE: Internalizing Environment Dynamics via World Rehearsal for Agentic Reinforcement Learning**|Zishan Xu et.al.|[2608.06197](http://arxiv.org/abs/2608.06197)|null|
+|**2026-08-06**|**MicroEvo: Knowledge-Guided LLM Sampling for Efficient Microarchitecture Design Space Exploration**|Jia Xiong et.al.|[2608.06183](http://arxiv.org/abs/2608.06183)|null|
+|**2026-08-06**|**iARCS: Iterative Agentic RL for Controllable 3D Scene Generation**|Saugat Adhikari et.al.|[2608.06161](http://arxiv.org/abs/2608.06161)|null|
+|**2026-08-06**|**Quantum Amplitude Estimation for Travel Time Estimation in Stochastic Vehicle Routing Problems**|Xingyue Wang et.al.|[2608.06145](http://arxiv.org/abs/2608.06145)|null|
+|**2026-08-06**|**Large-Market Discipline in Combinatorial Double Auctions: No Assembly, Bundle Selection, and Complementarities**|Konstantinos E. Zachariadis et.al.|[2608.06134](http://arxiv.org/abs/2608.06134)|null|
+|**2026-08-06**|**Contextual Information Policy Optimization for Search Agents**|Xingyu Guo et.al.|[2608.06128](http://arxiv.org/abs/2608.06128)|null|
+|**2026-08-06**|**Sample-Adaptive Latent Rewards for Uncertainty-Guided Diffusion Post-Training**|Rui Li et.al.|[2608.06125](http://arxiv.org/abs/2608.06125)|null|
+|**2026-08-06**|**Does Latent Context Help? A Controlled Evaluation of Inverse Reinforcement Learning in Arctic Shipping**|Vaishnav Vaidheeswaran et.al.|[2608.06105](http://arxiv.org/abs/2608.06105)|null|
+|**2026-08-06**|**Learning from Failures: Retrieval-Centric CoT via Hard Negatives for Unified Multimodal Retrieval**|Zelong Sun et.al.|[2608.06060](http://arxiv.org/abs/2608.06060)|null|
+|**2026-08-06**|**Criteria for Feasible Monte Carlo Stochastic Simulations of Bosonic Markovian Open Quantum Dynamics**|Toma Yoneya et.al.|[2608.06056](http://arxiv.org/abs/2608.06056)|null|
+|**2026-08-06**|**Hybrid-Adaptive Thread Tuning to Mitigate Simulation Execution Bottlenecks in High-Performance Reinforcement Learning Inference**|Jiming Su et.al.|[2608.06025](http://arxiv.org/abs/2608.06025)|null|
+|**2026-08-06**|**ProDVI: Programmatic Dynamics Priors for Value Network Initialization**|Xinwei Liu et.al.|[2608.06015](http://arxiv.org/abs/2608.06015)|null|
+|**2026-08-06**|**OneEmo: A Unified Multimodal Reasoning Model for Emotion Perception, Understanding, and Interaction**|Jiahao Huang et.al.|[2608.06013](http://arxiv.org/abs/2608.06013)|null|
+|**2026-08-06**|**Beyond Flat Policies: Hierarchical Post-Training for Embodied Agents in Robotic Manipulation**|He Kong et.al.|[2608.05999](http://arxiv.org/abs/2608.05999)|null|
 |**2026-08-05**|**Argus: A General-Purpose Agentic Runtime for Long-Horizon Reasoning**|Boxiu Li et.al.|[2608.05144](http://arxiv.org/abs/2608.05144)|null|
 |**2026-08-05**|**Reward Structure Shapes the Interaction Between Episodic Exploration and Neural Memory in Reinforcement Learning**|Jai Malegaonkar et.al.|[2608.05111](http://arxiv.org/abs/2608.05111)|null|
 |**2026-08-05**|**Agent Against Agent: An Agentic System for Automatic Prompt Injection Red Teaming**|Yanting Wang et.al.|[2608.05108](http://arxiv.org/abs/2608.05108)|null|
