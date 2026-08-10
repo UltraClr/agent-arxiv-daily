@@ -4635,7 +4635,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |**2026-08-05**|**OctoLong: Mid-Training On Cross-Repository Code Contexts Enhances Long-Context Modeling**|Indraneil Paul et.al.|[2608.05141](http://arxiv.org/abs/2608.05141)|null|
 |**2026-08-05**|**Teaching Nemotron Greek: Mining a Corpus, Adapting Retrieval, and Grounding Generation for Modern Greek across Specialist Domains**|Ayoub Kirouane et.al.|[2608.05138](http://arxiv.org/abs/2608.05138)|null|
 |**2026-08-05**|**SmartMage: Dynamic Modality Orchestration for 3D Scene Understanding**|Yue Zhang et.al.|[2608.05137](http://arxiv.org/abs/2608.05137)|null|
-|**2026-08-05**|**OPD-V: Visual On-Policy Self-Distillation with Modality Balance**| Aniri et.al.|[2608.05131](http://arxiv.org/abs/2608.05131)|null|
+|**2026-08-05**|**OPD-V: Visual On-Policy Self-Distillation with Modality Balance**|Aniri et.al.|[2608.05131](http://arxiv.org/abs/2608.05131)|null|
 |**2026-08-05**|**Spoken Function Calling: A New Perspective on Spoken Language Understanding for Large Audio Language Models**|Yuezhang Peng et.al.|[2608.05126](http://arxiv.org/abs/2608.05126)|null|
 |**2026-08-05**|**Chained Recursive Language Models for Multi-Iteration Reasoning**|Purbesh Mitra et.al.|[2608.05124](http://arxiv.org/abs/2608.05124)|null|
 |**2026-08-05**|**DASyR-LLM: Domain-Aware Symbolic Regression with LLMs for Kinetic Model Discovery**|Roberto Aliaga Medina et.al.|[2608.05120](http://arxiv.org/abs/2608.05120)|null|
@@ -9224,7 +9224,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |**2026-07-31**|**Explore Beyond the Boundary Using Entropic Information**|Bumgeun Park et.al.|[2607.29419](http://arxiv.org/abs/2607.29419)|null|
 |**2026-07-31**|**OnlineCache: Learning Dynamic Caching Policies with Error Correction for Efficient Diffusion Inference**|Zhikang Xie et.al.|[2607.29398](http://arxiv.org/abs/2607.29398)|null|
 |**2026-07-31**|**pylhe: A Lightweight Python interface to Les Houches Event files**|Alexander Puck Neuwirth et.al.|[2607.29352](http://arxiv.org/abs/2607.29352)|null|
-|**2026-07-31**|**BWM: A Low-Cost High-Fidelity World Simulator for Robot Learning**| BWM Team et.al.|[2607.29302](http://arxiv.org/abs/2607.29302)|null|
+|**2026-07-31**|**BWM: A Low-Cost High-Fidelity World Simulator for Robot Learning**|BWM Team et.al.|[2607.29302](http://arxiv.org/abs/2607.29302)|null|
 |**2026-07-31**|**Sample Efficient Hierarchical Reinforcement Learning via Best Policy Identification**|Anders Jonsson et.al.|[2607.29294](http://arxiv.org/abs/2607.29294)|null|
 |**2026-07-31**|**Translation with Thought: Difficulty-Adaptive Reasoning via Reinforcement Learning for Multi-Domain Machine Translation**|Yongshi Ye et.al.|[2607.29287](http://arxiv.org/abs/2607.29287)|null|
 |**2026-07-31**|**TRACT: Temporally Routed Action Chunks with Chronological Phase Authority for Contact-Rich Manipulation**|Jiahao Liu et.al.|[2607.29285](http://arxiv.org/abs/2607.29285)|null|
