@@ -9123,6 +9123,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-10**|**Realization Variance of Gravitational Wave Background Anisotropies from Shot Noise for Pulsar Timing Arrays**|Meng-Xiang Lin et.al.|[2608.09929](http://arxiv.org/abs/2608.09929)|null|
+|**2026-08-10**|**Consilience for Verifier-Free Test-Time Scaling**|Lecheng Kong et.al.|[2608.09898](http://arxiv.org/abs/2608.09898)|null|
+|**2026-08-10**|**The Earth Moves, But So Does the Bias: Systematic Upward Bias of the Wasserstein (Earth Mover's) Distance and Permutation-Based Null Calibration**|Ho Ting et.al.|[2608.09863](http://arxiv.org/abs/2608.09863)|null|
+|**2026-08-10**|**RynnValue: Scaling Robotic Value Foundation Models with Temporal Distance**|Dongchi Huang et.al.|[2608.09853](http://arxiv.org/abs/2608.09853)|null|
+|**2026-08-10**|**Mismatch Matters: On-Policy Distillation Beyond Token Agreement**|Zichao Yu et.al.|[2608.09836](http://arxiv.org/abs/2608.09836)|null|
+|**2026-08-10**|**Distill Skills into Weights, Not Prompts: Abstract Skills as Privileged Signals for On-Policy Self-Distillation**|Yubo Jiang et.al.|[2608.09826](http://arxiv.org/abs/2608.09826)|null|
+|**2026-08-10**|**Parameter Exploration for RLVR via Variational Learning**|Vatsal Venkatkrishna et.al.|[2608.09805](http://arxiv.org/abs/2608.09805)|null|
+|**2026-08-10**|**A Singular Control Problem for Data Center Electricity Cost Minimization**|Rene Carmona et.al.|[2608.09794](http://arxiv.org/abs/2608.09794)|null|
+|**2026-08-10**|**Efficient Real-World Online Reinforcement Learning for Robot Manipulation via Centralized Training and Critic Decomposition**|Changhao Li et.al.|[2608.09762](http://arxiv.org/abs/2608.09762)|null|
+|**2026-08-10**|**SR-OPSD: Self-Referenced On-Policy Self-Distillation**|Zhuo Sun et.al.|[2608.09745](http://arxiv.org/abs/2608.09745)|null|
+|**2026-08-10**|**Model Discovery Agent: LLM-assisted Bayesian experiment design for data-efficient discovery of mechanistic world models**|Kevin Murphy et.al.|[2608.09696](http://arxiv.org/abs/2608.09696)|null|
+|**2026-08-10**|**Satellite Trajectory Optimization via Proximal Policy Optimization for Space Debris Avoidance**|Logan Luna et.al.|[2608.09628](http://arxiv.org/abs/2608.09628)|null|
+|**2026-08-10**|**Adaptive Sequential Test Planning for Multi-Mechanism Reliability Qualification via Bayesian Monte Carlo Tree Search**|Youssef A. Elhagrasy et.al.|[2608.09622](http://arxiv.org/abs/2608.09622)|null|
+|**2026-08-10**|**Bayesian Symbolic Regression with Entropic Reinforcement Learning**|Oussama Boussif et.al.|[2608.09617](http://arxiv.org/abs/2608.09617)|null|
+|**2026-08-10**|**FactorDrive: Adaptive Multi-Step Reasoning Driven by Planning-Critical Factors for End-to-End Autonomous Driving**|Guolei Huang et.al.|[2608.09591](http://arxiv.org/abs/2608.09591)|null|
+|**2026-08-10**|**AudioMap: Cloze-and-Choice Reinforcement Learning for Time-Aware Dense Audio Captioning**|Yan Rong et.al.|[2608.09559](http://arxiv.org/abs/2608.09559)|null|
+|**2026-08-10**|**Bidirectional Context Self-Distillation for Reinforcement Learning of Skill-Based LLM Agents**|Tianjun Pan et.al.|[2608.09555](http://arxiv.org/abs/2608.09555)|null|
+|**2026-08-10**|**Learning Preference Adaptation for Large Language Model Personalization via Verbal Reinforcement Learning**|Yuting Liu et.al.|[2608.09507](http://arxiv.org/abs/2608.09507)|null|
+|**2026-08-10**|**Autoregressive Projective Quantum Monte Carlo: From a Hermitian to a Non-Hermitian Perspective**|Lavoisier Wah et.al.|[2608.09496](http://arxiv.org/abs/2608.09496)|null|
+|**2026-08-10**|**Walk-on-Spheres Monte Carlo and deep neural network approximations of elliptic PDEs with drift and killing**|Konrad Kleinberg et.al.|[2608.09494](http://arxiv.org/abs/2608.09494)|null|
 |**2026-08-07**|**SimWAM: A Simple World Action Model for End-to-End Autonomous Driving**|Zongchuang Zhao et.al.|[2608.07468](http://arxiv.org/abs/2608.07468)|null|
 |**2026-08-07**|**CreativeInstruct: Scalably Teaching LLMs to Balance Quality, Creativity, and Diversity**|Ananya Sahu et.al.|[2608.07460](http://arxiv.org/abs/2608.07460)|null|
 |**2026-08-07**|**Fisher-R1: Training LLM Agents for Reliable Hypothesis Testing**|Jiacheng Miao et.al.|[2608.07437](http://arxiv.org/abs/2608.07437)|null|
