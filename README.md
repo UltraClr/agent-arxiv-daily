@@ -21,6 +21,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-14**|**Validating LLM-Modernized Scientific Software Through Differential Fault Injection**|Evan Coleman et.al.|[2608.14527](http://arxiv.org/abs/2608.14527)|null|
+|**2026-08-14**|**Participatory Moral AI Is Not Neutral: The Invisible Hand of Developers**|Taenyun Kim et.al.|[2608.14522](http://arxiv.org/abs/2608.14522)|null|
+|**2026-08-14**|**Rollplex: Cross-Phase GPU Spatial Sharing for Vision Language Model Post-Training**|Hanfeng Lu et.al.|[2608.14498](http://arxiv.org/abs/2608.14498)|null|
+|**2026-08-14**|**Twin: Playing an Unknown Game with a Test-Time Digital Twin**|Alexy Skoutnev et.al.|[2608.14490](http://arxiv.org/abs/2608.14490)|null|
+|**2026-08-14**|**SheetCompass: Hierarchical Relation Graphs for Agentic Spreadsheet Reasoning**|Panjing He et.al.|[2608.14452](http://arxiv.org/abs/2608.14452)|null|
+|**2026-08-14**|**Wyvern: An Agentic Framework for Generating Grounded Multimodal Reports**|Beatrice Alessandra Motetti et.al.|[2608.14446](http://arxiv.org/abs/2608.14446)|null|
+|**2026-08-14**|**The Past and Future of AI Scientists**|Ross D. King et.al.|[2608.14407](http://arxiv.org/abs/2608.14407)|null|
+|**2026-08-14**|**AgentRewind: Recoverable Execution for Long-Horizon LLM Agents**|Yu Zhuang et.al.|[2608.14380](http://arxiv.org/abs/2608.14380)|null|
+|**2026-08-14**|**Wrong but Useful: Trajectory Value Beyond Answer Correctness in Multi-Agent Messages**|Chih-Hsuan Yang et.al.|[2608.14375](http://arxiv.org/abs/2608.14375)|null|
+|**2026-08-14**|**ScienceFlow: A long-horizon agent for ML research, scientific discovery and beyond**|Mingming Zhao et.al.|[2608.14354](http://arxiv.org/abs/2608.14354)|null|
+|**2026-08-14**|**ATLAS: Discovering Agent Strategies through LLM-Guided Abstraction and Automata Learning**|Ignacio D. Lopez-Miguel et.al.|[2608.14352](http://arxiv.org/abs/2608.14352)|null|
+|**2026-08-14**|**Clearing the Fog: Towards Installing and Refining Proactive Exploration Capabilities in LLM Agents**|Zhizhao Guan et.al.|[2608.14339](http://arxiv.org/abs/2608.14339)|null|
+|**2026-08-14**|**Multi-Agent Reinforcement Learning for Joint Handover Management and Power Allocation in Multi-Orbit Satellite Networks**|Yassine Afif et.al.|[2608.14335](http://arxiv.org/abs/2608.14335)|null|
+|**2026-08-14**|**Envs-FORGE: Frontier-Optimized Reward-Grounded Environment Synthesis for Agent RL**|Xiaojun Wu et.al.|[2608.14312](http://arxiv.org/abs/2608.14312)|null|
+|**2026-08-14**|**TimeSage-EV: A Live Benchmark for Agentic Time Series Analysis in Evolving Environments**|Qingren Yao et.al.|[2608.14270](http://arxiv.org/abs/2608.14270)|null|
+|**2026-08-14**|**Polaris : Multi Agentic System for Conversational Enterprise Analytics**|Varuni H K et.al.|[2608.14246](http://arxiv.org/abs/2608.14246)|null|
+|**2026-08-14**|**Act2Intention: A Benchmark For Developing Active Mobile Agents Through Inferring User Intention from GUI Actions**|Xiaokai Yan et.al.|[2608.14132](http://arxiv.org/abs/2608.14132)|null|
+|**2026-08-14**|**LegacyWorld: Atomicity-Aware Evaluation of GUI Agents for Legacy Workflows**|Thilo Reintjes et.al.|[2608.14131](http://arxiv.org/abs/2608.14131)|null|
+|**2026-08-14**|**A Graph-Based Reinforcement Learning Framework for Structured Drift Diagnosis and Recovery in Autonomous LLM Agents**|Ismail El Hamraoui et.al.|[2608.14109](http://arxiv.org/abs/2608.14109)|null|
+|**2026-08-14**|**AppLooper: An Agentic Application Engineering Loop for Accountable Release with Virtual-User Feedback**|Zihong He et.al.|[2608.14093](http://arxiv.org/abs/2608.14093)|null|
 |**2026-08-13**|**AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design**|Yaxin Luo et.al.|[2608.13560](http://arxiv.org/abs/2608.13560)|null|
 |**2026-08-13**|**OmniScientist: An Omni-Modal Omni-Discipline AI Scientist**|Bobo Li et.al.|[2608.13558](http://arxiv.org/abs/2608.13558)|null|
 |**2026-08-13**|**QuoteBench: How Matched Scores Can Hide Command-Path Failures**|Shangao Li et.al.|[2608.13547](http://arxiv.org/abs/2608.13547)|null|
@@ -4691,6 +4711,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-14**|**Finding Vulnerabilities via LLM-Augmented Semantics-Aware Type-Checking**|Ruizhe Wang et.al.|[2608.14533](http://arxiv.org/abs/2608.14533)|null|
+|**2026-08-14**|**Handover of In-Context Learning State Across Session Boundaries**|Masahiro Kato et.al.|[2608.14528](http://arxiv.org/abs/2608.14528)|null|
+|**2026-08-14**|**Validating LLM-Modernized Scientific Software Through Differential Fault Injection**|Evan Coleman et.al.|[2608.14527](http://arxiv.org/abs/2608.14527)|null|
+|**2026-08-14**|**Split the Labor: Separating Evidence Interpretation from Decision Aggregation**|Zhelun Wu et.al.|[2608.14509](http://arxiv.org/abs/2608.14509)|null|
+|**2026-08-14**|**Rollplex: Cross-Phase GPU Spatial Sharing for Vision Language Model Post-Training**|Hanfeng Lu et.al.|[2608.14498](http://arxiv.org/abs/2608.14498)|null|
+|**2026-08-14**|**You Only Pass Once: Answering and Abstaining Together in a Single Forward Pass of a Frozen Language Model**|Ziyang Luo et.al.|[2608.14465](http://arxiv.org/abs/2608.14465)|null|
+|**2026-08-14**|**SheetCompass: Hierarchical Relation Graphs for Agentic Spreadsheet Reasoning**|Panjing He et.al.|[2608.14452](http://arxiv.org/abs/2608.14452)|null|
+|**2026-08-14**|**More Correct Mass, Worse Answers: Why Power Sampling Can Fail and How to Fix It**|Haohui Yang et.al.|[2608.14420](http://arxiv.org/abs/2608.14420)|null|
+|**2026-08-14**|**STINER: Automated Extraction of Strategic Cyber Threat Intelligence from X**|Yasir Ech-Chammakhy et.al.|[2608.14418](http://arxiv.org/abs/2608.14418)|null|
+|**2026-08-14**|**Whose doctor does the AI recommend? An algorithm audit of reputation and demographic signals in large language model-assisted physician choice**|Syeda Anshrah Gillani et.al.|[2608.14399](http://arxiv.org/abs/2608.14399)|null|
+|**2026-08-14**|**LLMs Don't Pay for the Jump**|Paras Balani et.al.|[2608.14397](http://arxiv.org/abs/2608.14397)|null|
+|**2026-08-14**|**Tripwire: Triggering Aligned Refusal via Statistically Certified Safety Neurons**|Wei Zhao et.al.|[2608.14392](http://arxiv.org/abs/2608.14392)|null|
+|**2026-08-14**|**DeaMoE: Efficient MoE Structure for Fast Small-Batch Decoding**|Zewen Jin et.al.|[2608.14385](http://arxiv.org/abs/2608.14385)|null|
+|**2026-08-14**|**A Survey of Large Models in Sports**|Yichen Xu et.al.|[2608.14377](http://arxiv.org/abs/2608.14377)|null|
+|**2026-08-14**|**CoRun: Padding is Simple and Efficient for Deterministic LLM Inference**|Shiju Zhao et.al.|[2608.14376](http://arxiv.org/abs/2608.14376)|null|
+|**2026-08-14**|**A Hybrid LLM-Based Framework for Automated Security Annotation Generation in Business Process Models**|Md Kamrul Islam et.al.|[2608.14370](http://arxiv.org/abs/2608.14370)|null|
+|**2026-08-14**|**Local and Global Regimes of Geometric Complexity in Language Model Representations**|Arwa Osman et.al.|[2608.14361](http://arxiv.org/abs/2608.14361)|null|
+|**2026-08-14**|**ATLAS: Discovering Agent Strategies through LLM-Guided Abstraction and Automata Learning**|Ignacio D. Lopez-Miguel et.al.|[2608.14352](http://arxiv.org/abs/2608.14352)|null|
+|**2026-08-14**|**Beyond Capacity: Scalable MoE LLM Inference via High-Bandwidth Flash with Direct GPU and HBM Paths**|Seeyeon Kim et.al.|[2608.14333](http://arxiv.org/abs/2608.14333)|null|
+|**2026-08-14**|**AnchorBench: A Multi-Pathway Benchmark for the Anchoring Effect in LLMs**|Yiderigun Borjigin et.al.|[2608.14320](http://arxiv.org/abs/2608.14320)|null|
 |**2026-08-13**|**LittleLearner: Language Models Under Pedagogically Controlled Knowledge Exposure**|Fanfei Li et.al.|[2608.13545](http://arxiv.org/abs/2608.13545)|null|
 |**2026-08-13**|**SAEVerbalizer: Generating Explanations for Sparse Autoencoder Features via Representation Verbalization**|Weihan Meng et.al.|[2608.13538](http://arxiv.org/abs/2608.13538)|null|
 |**2026-08-13**|**DARTree: Speculative Diffusion Decoding with Autoregressive Draft Trees**|Tianyi Li et.al.|[2608.13524](http://arxiv.org/abs/2608.13524)|null|
@@ -9252,6 +9292,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-14**|**Cosmic Ray Diffusion and the Origin of Very High Energy Gamma-Ray Emission in Young Massive Stellar Clusters**|Lucas Barreto-Mota et.al.|[2608.14547](http://arxiv.org/abs/2608.14547)|null|
+|**2026-08-14**|**Rollplex: Cross-Phase GPU Spatial Sharing for Vision Language Model Post-Training**|Hanfeng Lu et.al.|[2608.14498](http://arxiv.org/abs/2608.14498)|null|
+|**2026-08-14**|**A Fixed Universal Determinant is Variationally Complete for Continuum Fermions**|Giuseppe Carleo et.al.|[2608.14476](http://arxiv.org/abs/2608.14476)|null|
+|**2026-08-14**|**Designing Reinforcement Learning for Diffusion Models: A Unified Path-Space View**|Yixian Xu et.al.|[2608.14430](http://arxiv.org/abs/2608.14430)|null|
+|**2026-08-14**|**Uncertainty-Aware Jacobi Set Computation**|Daniel Klötzl et.al.|[2608.14409](http://arxiv.org/abs/2608.14409)|null|
+|**2026-08-14**|**Offline Deep Q* Estimation with Diffusion Models**|Xiaohong Chen et.al.|[2608.14401](http://arxiv.org/abs/2608.14401)|null|
+|**2026-08-14**|**Submodular Policy Learning for Distributed Task Allocation in Open Multi-Agent Systems**|Jing Liu et.al.|[2608.14390](http://arxiv.org/abs/2608.14390)|null|
+|**2026-08-14**|**Linearised quantum signal processing**|Marek Arsenault et.al.|[2608.14387](http://arxiv.org/abs/2608.14387)|null|
+|**2026-08-14**|**CoRun: Padding is Simple and Efficient for Deterministic LLM Inference**|Shiju Zhao et.al.|[2608.14376](http://arxiv.org/abs/2608.14376)|null|
+|**2026-08-14**|**Multi-Agent Reinforcement Learning for Joint Handover Management and Power Allocation in Multi-Orbit Satellite Networks**|Yassine Afif et.al.|[2608.14335](http://arxiv.org/abs/2608.14335)|null|
+|**2026-08-14**|**CORAL: Curriculum-Optimized Reward Adaptation for LiDAR-Based Goal-Directed Urban Driving**|Anisa Saleem et.al.|[2608.14332](http://arxiv.org/abs/2608.14332)|null|
+|**2026-08-14**|**Quantum Multi-Armed Bandits and Linear Bandits: Lower Bounds and Algorithms**|Maoli Liu et.al.|[2608.14319](http://arxiv.org/abs/2608.14319)|null|
+|**2026-08-14**|**Envs-FORGE: Frontier-Optimized Reward-Grounded Environment Synthesis for Agent RL**|Xiaojun Wu et.al.|[2608.14312](http://arxiv.org/abs/2608.14312)|null|
+|**2026-08-14**|**PRM-as-a-Judge 1.5: A Toolkit for Robot Process Assessment**|Yuyang Liu et.al.|[2608.14284](http://arxiv.org/abs/2608.14284)|null|
+|**2026-08-14**|**MathForm: Scaling Mathematical Autoformalization with Knowledge Retrieval and Verification-Guided Refinement**|Lushi Pu et.al.|[2608.14221](http://arxiv.org/abs/2608.14221)|null|
+|**2026-08-14**|**APTER: Adaptive Post-Training with Expert-Grounded Rubrics**|Xukai Wang et.al.|[2608.14212](http://arxiv.org/abs/2608.14212)|null|
+|**2026-08-14**|**Probing the Single Production of First-Generation Singlet Vector-like Leptons at Future $e^+e^-$ Colliders**|Yao-Bei Liu et.al.|[2608.14195](http://arxiv.org/abs/2608.14195)|null|
+|**2026-08-14**|**Removing Temporal Note Redundancy Improves Multimodal Reinforcement Learning for Medicine**|Chenran Weng et.al.|[2608.14157](http://arxiv.org/abs/2608.14157)|null|
+|**2026-08-14**|**Deep Reinforcement Learning solution for pickup and delivery routing problems with time window and capacity constraints**|Andrew Soroka et.al.|[2608.14156](http://arxiv.org/abs/2608.14156)|null|
+|**2026-08-14**|**AgilePE: Autonomous UAV Pursuit-Evasion via Self-Play Reinforcement Learning**|Wenhao Tang et.al.|[2608.14135](http://arxiv.org/abs/2608.14135)|null|
 |**2026-08-13**|**Intern-S2-Preview: Scientific Agentic Foundation Model**|Lei Bai et.al.|[2608.13505](http://arxiv.org/abs/2608.13505)|null|
 |**2026-08-13**|**Landau theory and exchange instabilities in Mn $_5$Si$_3$ : A case against altermagnetism**|K. D. Belashchenko et.al.|[2608.13483](http://arxiv.org/abs/2608.13483)|null|
 |**2026-08-13**|**Imaginary-time correlations in time-sliced stochastic series expansion**|Ryan Flynn et.al.|[2608.13477](http://arxiv.org/abs/2608.13477)|null|
