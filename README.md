@@ -21,6 +21,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-19**|**SPADE: Self-Play in Adaptive Synthetic Executable Environments**|Bo Liu et.al.|[2608.19197](http://arxiv.org/abs/2608.19197)|null|
+|**2026-08-19**|**Beyond the Transcript: Detecting Covert Co ordination in Latent Multi-Agent Communication**|Ramneet Kaur et.al.|[2608.19161](http://arxiv.org/abs/2608.19161)|null|
+|**2026-08-19**|**Quantum circuit optimization using deep reinforcement learning: Applications across multiple gate sets**|Khoa Dang Tao et.al.|[2608.19103](http://arxiv.org/abs/2608.19103)|null|
+|**2026-08-19**|**What is Missing from AI Post-Training AI: An Empirical Analysis**|Joy Jia Yin Lim et.al.|[2608.19072](http://arxiv.org/abs/2608.19072)|null|
+|**2026-08-19**|**Adaptive Memory and Reflection Multi-Agent System for Medical Question Answering**|Pradeep Murugesan et.al.|[2608.19029](http://arxiv.org/abs/2608.19029)|null|
+|**2026-08-19**|**DentAgent: Evidence-Centric Multi-Agent Coordination for Multimodal Dental Reasoning**|Zijie Meng et.al.|[2608.18878](http://arxiv.org/abs/2608.18878)|null|
+|**2026-08-19**|**CauSec: Unboxing the Causal Drivers of Static Vulnerability Analysis Performance**|Md Akram Khan et.al.|[2608.18876](http://arxiv.org/abs/2608.18876)|null|
+|**2026-08-19**|**SkillGate: Training In-Policy Skill Selection in Long-Horizon Agents**|Qingyao Li et.al.|[2608.18852](http://arxiv.org/abs/2608.18852)|null|
+|**2026-08-19**|**Beyond Placement and Articulation: Usage-Driven Code Scenes for Embodied Interaction**|Zijian Xiao et.al.|[2608.18840](http://arxiv.org/abs/2608.18840)|null|
+|**2026-08-19**|**A Multi-Agent Platform for Automated Enterprise Analytics and Insight Generation**|Manoj N M et.al.|[2608.18740](http://arxiv.org/abs/2608.18740)|null|
+|**2026-08-19**|**CL4D: Contrastive Language-4D Pretraining for Vision-Language Reasoning in Dynamic Scenes**|Kumal Hewagamage et.al.|[2608.18734](http://arxiv.org/abs/2608.18734)|null|
+|**2026-08-19**|**DocClaw: A Unified Agentic System for Intelligent Document Processing**|Siqi Xiang et.al.|[2608.18685](http://arxiv.org/abs/2608.18685)|null|
+|**2026-08-19**|**RTPO: Reverse-Turn Policy Optimization for Stabilizing Agentic RL Training**|Yugu Li et.al.|[2608.18682](http://arxiv.org/abs/2608.18682)|null|
+|**2026-08-19**|**Code Health in LLM-Based Test Generation: Effectiveness and Token Efficiency**|Freya Wirdemann et.al.|[2608.18645](http://arxiv.org/abs/2608.18645)|null|
+|**2026-08-19**|**PILOT Technical Report**|Jiuning Lin et.al.|[2608.18637](http://arxiv.org/abs/2608.18637)|null|
+|**2026-08-19**|**CTIFoundry: An Agent-Native Corpus Scaffold for Cyber Threat Intelligence**|Yutong Cheng et.al.|[2608.18613](http://arxiv.org/abs/2608.18613)|null|
+|**2026-08-19**|**AppEval: A Unified Benchmark for LLM-Based Mobile Application Repair in ArkTS, Swift, and Kotlin**|Bang Xie et.al.|[2608.18588](http://arxiv.org/abs/2608.18588)|null|
+|**2026-08-19**|**PATE-Forensics: Perception-as-Tool for Explainable Deepfake Forensics with General-Purpose MLLMs**|Yaqi Li et.al.|[2608.18573](http://arxiv.org/abs/2608.18573)|null|
+|**2026-08-19**|**CentaurBench: Benchmarking LLM Capabilities on Augmenting vs. Automating Real-World Work Tasks**|Pattaraphon Kenny Wongchamcharoen et.al.|[2608.18554](http://arxiv.org/abs/2608.18554)|null|
+|**2026-08-19**|**Measuring Proof Burden in Public Bounty Listings: A RentAHuman Case Study**|Iman YeckehZaare et.al.|[2608.18547](http://arxiv.org/abs/2608.18547)|null|
 |**2026-08-18**|**Delegation Asymmetry in Agentic Recommender Systems: Measuring Two-Sided Receptivity in Online Dating**|Daria Leshchikova et.al.|[2608.18058](http://arxiv.org/abs/2608.18058)|null|
 |**2026-08-18**|**StagedWorkspace: A Versioned Workspace for Knowledge-Work Agents**|Yining Hua et.al.|[2608.18050](http://arxiv.org/abs/2608.18050)|null|
 |**2026-08-18**|**Deep Academic Survey: Stateful Agentic Closed-Loop Paradigm for Academic Survey Automation**|Zhikai Xu et.al.|[2608.18034](http://arxiv.org/abs/2608.18034)|null|
@@ -4751,6 +4771,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-19**|**Beyond the Transcript: Detecting Covert Co ordination in Latent Multi-Agent Communication**|Ramneet Kaur et.al.|[2608.19161](http://arxiv.org/abs/2608.19161)|null|
+|**2026-08-19**|**Grouping the Stochastic Machine: Precision, Not Capability, as the Frontier Metric for AI Systems**|George Andrikopoulos et.al.|[2608.19140](http://arxiv.org/abs/2608.19140)|null|
+|**2026-08-19**|**Comment-level Topic Drift Analysis in the Reddit Corpus**|Steven Morse et.al.|[2608.19133](http://arxiv.org/abs/2608.19133)|null|
+|**2026-08-19**|**JANUS: A Multi-modal Foundation Neural Sampler for Disordered Materials**|Denis Blessing et.al.|[2608.19116](http://arxiv.org/abs/2608.19116)|null|
+|**2026-08-19**|**ReWEIGH the Evidence: Calibrating Token-Level Ordinal Visual Evidence to Mitigate Hallucinations in Large Vision-Language Models**|Jihae Jeong et.al.|[2608.19075](http://arxiv.org/abs/2608.19075)|null|
+|**2026-08-19**|**What is Missing from AI Post-Training AI: An Empirical Analysis**|Joy Jia Yin Lim et.al.|[2608.19072](http://arxiv.org/abs/2608.19072)|null|
+|**2026-08-19**|**Self-prompting and cross-model consensus enable reproducible data extraction from scientific literature with large language models**|Valentin Romanov et.al.|[2608.19025](http://arxiv.org/abs/2608.19025)|null|
+|**2026-08-19**|**From Threat Intelligence to Detection: Knowledge-driven Enrichment and Template-based Rule Grounding for Automated Sigma Rule Generation**|Sepehr Ghaffarzadegan et.al.|[2608.19011](http://arxiv.org/abs/2608.19011)|null|
+|**2026-08-19**|**Grading the Graders: Verification Autonomy Levels (L0-L5) for LLM Reasoning**|Yajie Yin et.al.|[2608.19009](http://arxiv.org/abs/2608.19009)|null|
+|**2026-08-19**|**Mise-en-Scène: Implicit Layout Emergence in Diffusion Transformers for Human-AI Design Co-Creation**|Zipeng Xu et.al.|[2608.19000](http://arxiv.org/abs/2608.19000)|null|
+|**2026-08-19**|**TractorBeam: Personalized AI Sensemaking Support via Collaborative Machine Annotation**|Sireesh Gururaja et.al.|[2608.18994](http://arxiv.org/abs/2608.18994)|null|
+|**2026-08-19**|**ForeSightGuide: An Anticipatory Framework toward Accurate and Low-Redundancy Guidance for the Visually Impaired**|Zhiyuan Wang et.al.|[2608.18993](http://arxiv.org/abs/2608.18993)|null|
+|**2026-08-19**|**Uncertainty-Aware Art-Historical Dating with Vision-Language Models**|Stefanie Schneider et.al.|[2608.18984](http://arxiv.org/abs/2608.18984)|null|
+|**2026-08-19**|**rEDMRec: Distilling Large Language Model Reasoning into an Editable Experience Memory for Recommendation**|Minh Hoang Nguyen et.al.|[2608.18952](http://arxiv.org/abs/2608.18952)|null|
+|**2026-08-19**|**Training Chemical Plausibility-Aware Large Language Models for Single-Step Retrosynthesis**|Bogdan Zagribelnyy et.al.|[2608.18940](http://arxiv.org/abs/2608.18940)|null|
+|**2026-08-19**|**Breaking the weakest link to evade vision language models**|Ilan Zini et.al.|[2608.18938](http://arxiv.org/abs/2608.18938)|null|
+|**2026-08-19**|**MedUAG: Unified Understanding and Generation for Medical Multimodal Models**|Zijie Meng et.al.|[2608.18937](http://arxiv.org/abs/2608.18937)|null|
+|**2026-08-19**|**Graphical Design of Interpretable Architectures**|Pietro Barbiero et.al.|[2608.18936](http://arxiv.org/abs/2608.18936)|null|
+|**2026-08-19**|**SkillForge: Self-Distilling Agents for Project-Specific Issue Resolution**|Silin Chen et.al.|[2608.18933](http://arxiv.org/abs/2608.18933)|null|
+|**2026-08-19**|**Test-Time Scaling in the Wild: Why Exploitation, Not Exploration, Is the Bottleneck**|Davide Romano et.al.|[2608.18931](http://arxiv.org/abs/2608.18931)|null|
 |**2026-08-18**|**Multi-Agent AI System for Radiology Report Structuring and Quality Assurance with Independent Radiologist Evaluation**|Iryna Hartsock et.al.|[2608.18072](http://arxiv.org/abs/2608.18072)|null|
 |**2026-08-18**|**TokEval: A Tokenizer Evaluation Suite**|Clara Meister et.al.|[2608.18062](http://arxiv.org/abs/2608.18062)|null|
 |**2026-08-18**|**Language Has Two Parameters: Narrative-Induced Semantic Plasticity and Phase-Sensitive Interpretation**|Hollis Robbins et.al.|[2608.18041](http://arxiv.org/abs/2608.18041)|null|
@@ -9372,6 +9412,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-19**|**ADEPT: Accelerating Dexterity via Pre-Training and Post-Training using Reinforcement Learning**|Jayjun Lee et.al.|[2608.19182](http://arxiv.org/abs/2608.19182)|null|
+|**2026-08-19**|**Continuous-Time Reinforcement Learning for Controlled Hawkes Jump-Diffusions**|Tomasz R. Bielecki et.al.|[2608.19151](http://arxiv.org/abs/2608.19151)|null|
+|**2026-08-19**|**Network-Scale Road Disruption from Liquefaction in Cascadia Subduction Zone Earthquakes**|M. D. Sanger et.al.|[2608.19143](http://arxiv.org/abs/2608.19143)|null|
+|**2026-08-19**|**PGFS++: Molecular Property Improvement under Synthesis and Diversity Constraints**|Boqiao Zhang et.al.|[2608.19121](http://arxiv.org/abs/2608.19121)|null|
+|**2026-08-19**|**JANUS: A Multi-modal Foundation Neural Sampler for Disordered Materials**|Denis Blessing et.al.|[2608.19116](http://arxiv.org/abs/2608.19116)|null|
+|**2026-08-19**|**Quantum circuit optimization using deep reinforcement learning: Applications across multiple gate sets**|Khoa Dang Tao et.al.|[2608.19103](http://arxiv.org/abs/2608.19103)|null|
+|**2026-08-19**|**Open-MOPD: Diagnosing and Fixing Capability Imbalance in Multi-Teacher On-Policy Distillation**|Huan-ang Gao et.al.|[2608.19098](http://arxiv.org/abs/2608.19098)|null|
+|**2026-08-19**|**The Radioactive Background of the JUNO Calibration System**|Rui Li et.al.|[2608.19051](http://arxiv.org/abs/2608.19051)|null|
+|**2026-08-19**|**Multi-Agent Off-Policy Deep Reinforcement Learning for Smart Campus Coverage**|Omar Rady et.al.|[2608.19049](http://arxiv.org/abs/2608.19049)|null|
+|**2026-08-19**|**Sign-problem-resilient singular-value probe in determinant quantum Monte Carlo**|Wen Chen et.al.|[2608.19028](http://arxiv.org/abs/2608.19028)|null|
+|**2026-08-19**|**AlphaClifford: Efficient Clifford Synthesis and Transpilation with Model-based RL**|Daniele Lizzio Bosco et.al.|[2608.18946](http://arxiv.org/abs/2608.18946)|null|
+|**2026-08-19**|**Test-Time Scaling in the Wild: Why Exploitation, Not Exploration, Is the Bottleneck**|Davide Romano et.al.|[2608.18931](http://arxiv.org/abs/2608.18931)|null|
+|**2026-08-19**|**Training-Free Inference-Time Self-Reflection and Cost-Bounded Early Stopping for Large Language Models**|Wei Yu et.al.|[2608.18884](http://arxiv.org/abs/2608.18884)|null|
+|**2026-08-19**|**Falcon Perception-HD: High Density Perception via Reinforcement Learning**|Sofian Chaybouti et.al.|[2608.18881](http://arxiv.org/abs/2608.18881)|null|
+|**2026-08-19**|**Think-to-Personalize: Unifying Reasoning and Retrieval for User-Centric Personalized Dense Retrieval**|Angqing Jiang et.al.|[2608.18855](http://arxiv.org/abs/2608.18855)|null|
+|**2026-08-19**|**MLREF: Efficient Module Reuse for Reward Design in Reinforcement Learning via Large Language Models**|Chenglin Liu et.al.|[2608.18827](http://arxiv.org/abs/2608.18827)|null|
+|**2026-08-19**|**Dream2Reward: Transition-Alignment Reward Models from Positive Demonstrations for Robotic Manipulation**|Haoyu Zhang et.al.|[2608.18787](http://arxiv.org/abs/2608.18787)|null|
+|**2026-08-19**|**Size-Mass Relation Shows Its Colours: Contrasting Physical Imprints of Galaxy Evolution in Rest-Frame UV and Optical**|Angelo George et.al.|[2608.18776](http://arxiv.org/abs/2608.18776)|null|
+|**2026-08-19**|**To Go Far, Go Together: Diverse Preferences Induce a Curriculum for Reward Optimization**|Taehyung Kim et.al.|[2608.18770](http://arxiv.org/abs/2608.18770)|null|
+|**2026-08-19**|**Robust Modeling of Extremes in the Presence of Inliers with Enhanced Tail Estimation**|Shivshankar Nila et.al.|[2608.18735](http://arxiv.org/abs/2608.18735)|null|
 |**2026-08-18**|**The concentration game: Bayesian updating, regret, and information**|Akshay Balsubramani et.al.|[2608.18061](http://arxiv.org/abs/2608.18061)|null|
 |**2026-08-18**|**Extending and Unifying the Fundamental Tasks of Hamilton-Jacobi Reachability Analysis**|Dylan Hirsch et.al.|[2608.18060](http://arxiv.org/abs/2608.18060)|null|
 |**2026-08-18**|**Runs Above Expected (RAE) and Wicket Effect (WE): A Context-adjusted and Unified Impact Metric for Twenty20 Cricket**|Rhitankar Bandyopadhyay et.al.|[2608.18020](http://arxiv.org/abs/2608.18020)|null|
