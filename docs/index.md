@@ -16,6 +16,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-21**|**AI with Authority, from Application to Silicon**|Jason Hickey et.al.|[2608.21356](http://arxiv.org/abs/2608.21356)|null|
+|**2026-08-21**|**Asymmetric Capacity Allocation in Self-Refinement Pipelines**|Zhuoyi Yang et.al.|[2608.21345](http://arxiv.org/abs/2608.21345)|null|
+|**2026-08-21**|**Invisible Agents, Uninformed Patients: Towards Responsible Deployment Of Autonomous AI Diagnostic Agents In Sub-Saharan Africa**|Percy Brown et.al.|[2608.21326](http://arxiv.org/abs/2608.21326)|null|
+|**2026-08-21**|**AI-to-AI Code Reviews of GitHub Pull Requests**|Niruthiha Selvanayagam et.al.|[2608.21311](http://arxiv.org/abs/2608.21311)|null|
+|**2026-08-21**|**Beyond Fault Localization: A Trajectory-Level Study of LLM Agents for Microservice Root Cause Analysis**|Qisheng Lu et.al.|[2608.21310](http://arxiv.org/abs/2608.21310)|null|
+|**2026-08-21**|**Benchmarking Patent Drafting from Inventor-Style Disclosures**|Lekang Jiang et.al.|[2608.21249](http://arxiv.org/abs/2608.21249)|null|
+|**2026-08-21**|**Just Noticeable Difference Modeling for Token Compression in Vision-Language-Action Models**|Zhuoyuan Li et.al.|[2608.21247](http://arxiv.org/abs/2608.21247)|null|
+|**2026-08-21**|**AID-Guard: Stateful Authorization for Delegated Agent Effects**|Yingzhe Tong et.al.|[2608.21159](http://arxiv.org/abs/2608.21159)|null|
+|**2026-08-21**|**Graph Engineering in the Era of LLM Agents: From Individual Intelligence to System Intelligence**|Yuyuan Feng et.al.|[2608.21156](http://arxiv.org/abs/2608.21156)|null|
+|**2026-08-21**|**TraceGrant: A Contract-Governed Security Framework for the Task-Effect Lifecycle of Networked LLM Agents**|Bohao Liao et.al.|[2608.21126](http://arxiv.org/abs/2608.21126)|null|
+|**2026-08-21**|**ClawSentry: A Progressive Multi-Tier Security Monitor for Safeguarding Autonomous LLM Agents**|Kai Wang et.al.|[2608.21101](http://arxiv.org/abs/2608.21101)|null|
+|**2026-08-21**|**Don't Solve, Just Compare: Tiny Advisors for Runtime Intervention in LLM Agents**|Yanze Jiang et.al.|[2608.21027](http://arxiv.org/abs/2608.21027)|null|
+|**2026-08-21**|**Belief Without Behavior: Measuring the Translation of Theory of Mind into Coordinated Social Action in Vision-Language Models**|Tonglin Yan et.al.|[2608.20975](http://arxiv.org/abs/2608.20975)|null|
+|**2026-08-21**|**ForeDreamer: A Self-Evolving Dual-Agent Memory Architecture for Future Event Prediction**|Linhao Zhong et.al.|[2608.20920](http://arxiv.org/abs/2608.20920)|null|
+|**2026-08-21**|**Tree-of-Concerns: Hierarchical Multi-Agent Debate for Unstated-Limitation Extraction in Scientific Critique**|Sahil Mishra et.al.|[2608.20777](http://arxiv.org/abs/2608.20777)|null|
+|**2026-08-21**|**Calibrating Criterion Revision in LLM Agents: Failure Modes and a Trace-Anchored Protocol**|Guodong Xu et.al.|[2608.20729](http://arxiv.org/abs/2608.20729)|null|
+|**2026-08-21**|**ArtiMo: Agent-Driven Articulated Mesh Animation**|Chunyu Zou et.al.|[2608.20699](http://arxiv.org/abs/2608.20699)|null|
+|**2026-08-21**|**VortexChat: An agentic framework for autonomous multi-objective integrated photonic design**|Faqian Chong et.al.|[2608.20688](http://arxiv.org/abs/2608.20688)|null|
+|**2026-08-21**|**The Claws in Plain Sight: Unauthorized Context Disclosure through LLM Agent Tool Calls**|Ben Dong et.al.|[2608.20658](http://arxiv.org/abs/2608.20658)|null|
+|**2026-08-21**|**ARQ: Agentic CodeQL Query Refinement for C/C++ Vulnerability Detection**|Chunyi Wang et.al.|[2608.20637](http://arxiv.org/abs/2608.20637)|null|
 |**2026-08-20**|**An Agentic Approach for Active Data Collection, Travel Behavior Modeling, and Weather-Sensitive Demand Prediction**|Narges Ahmadi et.al.|[2608.20320](http://arxiv.org/abs/2608.20320)|null|
 |**2026-08-20**|**AI4AI-Bench: Benchmarking LLM Agents in Algorithmic Design for Recursive Self-Improvement**|Yizhe Chi et.al.|[2608.20318](http://arxiv.org/abs/2608.20318)|null|
 |**2026-08-20**|**MidTool: Mid-training Data Synthesis for Agentic Tool Use**|Fengqing Jiang et.al.|[2608.20314](http://arxiv.org/abs/2608.20314)|null|
@@ -4784,6 +4804,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-21**|**OmniAssistBench: Assistant-style Interaction Benchmark for Omni-LLMs**|Xianyun Sun et.al.|[2608.21360](http://arxiv.org/abs/2608.21360)|null|
+|**2026-08-21**|**VIALS: A Benchmark for Visual Interpretation of Artifacts in the Life Sciences**|Elaine Lau et.al.|[2608.21357](http://arxiv.org/abs/2608.21357)|null|
+|**2026-08-21**|**ViTacPhys: Physical Property-Aware Grasping from Human Visual-Tactile Demonstrations**|Yiwen Liu et.al.|[2608.21355](http://arxiv.org/abs/2608.21355)|null|
+|**2026-08-21**|**Asymmetric Capacity Allocation in Self-Refinement Pipelines**|Zhuoyi Yang et.al.|[2608.21345](http://arxiv.org/abs/2608.21345)|null|
+|**2026-08-21**|**Move by Move: Measuring and Steering How LLMs Conduct Psychotherapy**|Afonso Baldo et.al.|[2608.21325](http://arxiv.org/abs/2608.21325)|null|
+|**2026-08-21**|**Prompt-Model Interaction Reaches the Fixed Points: A deterministic, task-free structural readout -- and the factorizations of it that failed**|Nicolás Vera Zúñiga et.al.|[2608.21315](http://arxiv.org/abs/2608.21315)|null|
+|**2026-08-21**|**Rethinking Expressivity and Efficiency in Test-Time Training**|Zeyun Zhong et.al.|[2608.21308](http://arxiv.org/abs/2608.21308)|null|
+|**2026-08-21**|**Re $^3$ Cap: Retrieval-Guided Refinement for Image Captioning Enhancement via Reinforcement Learning**|Haonan Jia et.al.|[2608.21305](http://arxiv.org/abs/2608.21305)|null|
+|**2026-08-21**|**Human-AI Collaboration in Requirements Engineering: Evidence of the Negative Effect of LLMs on Requirements Inspection**|Giovanna Broccia et.al.|[2608.21298](http://arxiv.org/abs/2608.21298)|null|
+|**2026-08-21**|**Level-k Distinguishable Mechanisms for Evaluating Bounded Rationality in LLMs**|Binchi Zhang et.al.|[2608.21296](http://arxiv.org/abs/2608.21296)|null|
+|**2026-08-21**|**CLEAR: Continuous Latent Adapter Routing for Utility-Preserving LLM Safety Alignment**|Chengxiao Wang et.al.|[2608.21278](http://arxiv.org/abs/2608.21278)|null|
+|**2026-08-21**|**ConceptTS: LLM-Guided Concept Bottlenecks for Interpretable Multivariate Time-Series Forecasting**|Yichen Jiang et.al.|[2608.21277](http://arxiv.org/abs/2608.21277)|null|
+|**2026-08-21**|**Memory Augmentation Unlocks Efficient Chain-of-Thought Reasoning**|Simeng Zhang et.al.|[2608.21265](http://arxiv.org/abs/2608.21265)|null|
+|**2026-08-21**|**Benchmarking Patent Drafting from Inventor-Style Disclosures**|Lekang Jiang et.al.|[2608.21249](http://arxiv.org/abs/2608.21249)|null|
+|**2026-08-21**|**Just Noticeable Difference Modeling for Token Compression in Vision-Language-Action Models**|Zhuoyuan Li et.al.|[2608.21247](http://arxiv.org/abs/2608.21247)|null|
+|**2026-08-21**|**A VLM Answer Is Not an Anomaly Score: Rank Compression in Training-Free Video Anomaly Detection**|Inpyo Song et.al.|[2608.21244](http://arxiv.org/abs/2608.21244)|null|
+|**2026-08-21**|**Affective Context Amplifies Sycophancy in LLM Responses**|Jiayi Li et.al.|[2608.21242](http://arxiv.org/abs/2608.21242)|null|
+|**2026-08-21**|**SPICE: Speculative Prefetching with Low-Rank Expert Surrogates and Heterogeneous Orchestration for MoE Inference Acceleration**|Yongxiang Lyu et.al.|[2608.21240](http://arxiv.org/abs/2608.21240)|null|
+|**2026-08-21**|**Indexing Long Documents for LLM-Based Analysis**|Donna Pham et.al.|[2608.21237](http://arxiv.org/abs/2608.21237)|null|
+|**2026-08-21**|**RARE: Decoupling Representation Steering from Expert Routing in Mixture-of-Experts Language Models**|Zhibo Zhang et.al.|[2608.21236](http://arxiv.org/abs/2608.21236)|null|
 |**2026-08-20**|**ConceptGuard: Benchmarking Context-Sensitive Unlearning in Large Language Models**|Sahil Kale et.al.|[2608.20338](http://arxiv.org/abs/2608.20338)|null|
 |**2026-08-20**|**Swift-Image: Exploring the Performance Frontier of Compact Unified Image Generation Models**|Taihang Hu et.al.|[2608.20334](http://arxiv.org/abs/2608.20334)|null|
 |**2026-08-20**|**An Agentic Approach for Active Data Collection, Travel Behavior Modeling, and Weather-Sensitive Demand Prediction**|Narges Ahmadi et.al.|[2608.20320](http://arxiv.org/abs/2608.20320)|null|
@@ -9443,6 +9483,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-21**|**Efficient Event Generation for High-Multiplicity LHC Processes: An End-to-End GPU Workflow with Normalizing Flows**|Enrico Bothmann et.al.|[2608.21338](http://arxiv.org/abs/2608.21338)|null|
+|**2026-08-21**|**Maxwell's Demon in Markov Chain Monte Carlo: Cooling Information Flow and Entropy Balance**|Masayuki Ohzeki et.al.|[2608.21337](http://arxiv.org/abs/2608.21337)|null|
+|**2026-08-21**|**Ultralow-Field Triplon Condensation in a Spin-Ladder Magnet**|Ankit Labh et.al.|[2608.21316](http://arxiv.org/abs/2608.21316)|null|
+|**2026-08-21**|**Re $^3$ Cap: Retrieval-Guided Refinement for Image Captioning Enhancement via Reinforcement Learning**|Haonan Jia et.al.|[2608.21305](http://arxiv.org/abs/2608.21305)|null|
+|**2026-08-21**|**AUSO: Action-Level Unified Skill Optimization from Internalization to Utilization**|Huizu Lin et.al.|[2608.21292](http://arxiv.org/abs/2608.21292)|null|
+|**2026-08-21**|**Neural quantum states in condensed matter: advances, best practices, and prospects**|Jonas B. Rigo et.al.|[2608.21291](http://arxiv.org/abs/2608.21291)|null|
+|**2026-08-21**|**Beyond Imitation: Self-Improving Robot Policies via Off-Policy Q-Planning**|Varun Giridhar et.al.|[2608.21204](http://arxiv.org/abs/2608.21204)|null|
+|**2026-08-21**|**SRL-MPC: Shape-Aware Reinforcement Learned Model Predictive Control**|Ruihua Han et.al.|[2608.21175](http://arxiv.org/abs/2608.21175)|null|
+|**2026-08-21**|**A Fourier Neural Operator for Accelerated Discretization-Invariant Solutions of the Radiative Transfer Equation**|Daniel Carne et.al.|[2608.21173](http://arxiv.org/abs/2608.21173)|null|
+|**2026-08-21**|**Distributed synthesis of arbitrary graph states in quantum networks via rank-two GF(2) reduction**|Xiaoyi Zheng et.al.|[2608.21166](http://arxiv.org/abs/2608.21166)|null|
+|**2026-08-21**|**Teaching is a Process: The TOSS Framework for Modeling Human Teaching Decisions in Human-Interactive Robot Learning**|Bernhard Hilpert et.al.|[2608.21083](http://arxiv.org/abs/2608.21083)|null|
+|**2026-08-21**|**$Z^2$ -ACT: End-to-End Verifiable Agentic Intent Control for Open 6G RAN**|Sunder Ali Khowaja et.al.|[2608.21049](http://arxiv.org/abs/2608.21049)|null|
+|**2026-08-21**|**Neural-Primitive: An Efficient End-to-end Local Planner with Primitive-based Imitation Learning for Autonomous Flight**|Zhitao Liu et.al.|[2608.20948](http://arxiv.org/abs/2608.20948)|null|
+|**2026-08-21**|**Artificial spin ice systems on single edge length tilings**|Ellie Weightman et.al.|[2608.20928](http://arxiv.org/abs/2608.20928)|null|
+|**2026-08-21**|**Spatial function-on-function quantile regression**|Eylul Fidan et.al.|[2608.20919](http://arxiv.org/abs/2608.20919)|null|
+|**2026-08-21**|**Multi-Objective Deep Reinforcement Learning for Secure and Stable Power System Operation**|Ioannis Papadopoulos et.al.|[2608.20914](http://arxiv.org/abs/2608.20914)|null|
+|**2026-08-21**|**Decoupling Policy Extraction for Offline Reinforcement Learning**|Xuyao Lin et.al.|[2608.20909](http://arxiv.org/abs/2608.20909)|null|
+|**2026-08-21**|**Reinforcement learning for vertical position control on the EXL-50U spherical tokamak**|Lei Xing et.al.|[2608.20901](http://arxiv.org/abs/2608.20901)|null|
+|**2026-08-21**|**Sharing the Control Authority Between Deep Reinforcement Learning and Model Predictive Control: Application to Multi-Class Transportation Networks**|Giray Onur et.al.|[2608.20858](http://arxiv.org/abs/2608.20858)|null|
+|**2026-08-21**|**Demonstration-Guided Humanoid Stand-Up on an Emulated Deformable Surface**|Aniruddh Kushwah et.al.|[2608.20852](http://arxiv.org/abs/2608.20852)|null|
 |**2026-08-20**|**Swift-Image: Exploring the Performance Frontier of Compact Unified Image Generation Models**|Taihang Hu et.al.|[2608.20334](http://arxiv.org/abs/2608.20334)|null|
 |**2026-08-20**|**G-CARL: Grounded Checklist-Aligned Reward Learning for Patient-Oriented Medical Report Interpretation**|Shiao Xie et.al.|[2608.20331](http://arxiv.org/abs/2608.20331)|null|
 |**2026-08-20**|**MidTool: Mid-training Data Synthesis for Agentic Tool Use**|Fengqing Jiang et.al.|[2608.20314](http://arxiv.org/abs/2608.20314)|null|
