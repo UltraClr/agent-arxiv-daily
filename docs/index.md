@@ -16,6 +16,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-25**|**SPO++: Stream-Aligned Policy Optimization for Asynchronous Agentic RL**|Kai Ruan et.al.|[2608.24870](http://arxiv.org/abs/2608.24870)|null|
+|**2026-08-25**|**BrowserForge: Scaling Web Episode via Parallel Browser Sandboxes**|Fei Tang et.al.|[2608.24848](http://arxiv.org/abs/2608.24848)|null|
+|**2026-08-25**|**SkillForge: Evolving Verifiable Skills for Reinforcement Learning Agents**|Shidong Yang et.al.|[2608.24747](http://arxiv.org/abs/2608.24747)|null|
+|**2026-08-25**|**Meta $^n$ : Recursive Self-Improvement through Emergent Depth**|Zae Myung Kim et.al.|[2608.24735](http://arxiv.org/abs/2608.24735)|null|
+|**2026-08-25**|**Simthesizer: An Agent-Driven Simulation Framework for LLM Serving Systems**|Wonung Kim et.al.|[2608.24650](http://arxiv.org/abs/2608.24650)|null|
+|**2026-08-25**|**A Literate Programming Environment for Human and Machine Agents**|Adam T. Burke et.al.|[2608.24644](http://arxiv.org/abs/2608.24644)|null|
+|**2026-08-25**|**IAPO: Influence-Aware Policy Optimization for Credit Assignment in Multi-Turn Service Agents**|Bo Ren et.al.|[2608.24588](http://arxiv.org/abs/2608.24588)|null|
+|**2026-08-25**|**Joint Optimization of Tool Creation and Use for Large Language Model Agents**|Zhi Rui Tam et.al.|[2608.24571](http://arxiv.org/abs/2608.24571)|null|
+|**2026-08-25**|**EviDx: Evidence-Aware Active Diagnosis with Scaffolded LLM Agents**|Lihang Zeng et.al.|[2608.24570](http://arxiv.org/abs/2608.24570)|null|
+|**2026-08-25**|**When "Must" Becomes "Maybe": Constraint Weakening in LLM Agent Workflows**|Yiheng Sun et.al.|[2608.24569](http://arxiv.org/abs/2608.24569)|null|
+|**2026-08-25**|**StrokeGuard: A Multi-Agent Guided System for Prehospital Stroke Assessment**|Wentao Yang et.al.|[2608.24555](http://arxiv.org/abs/2608.24555)|null|
+|**2026-08-25**|**PeakBench: Benchmarking Resource-Aware Tool Invocation in LLM Agents**|Zhi-Kai Chen et.al.|[2608.24509](http://arxiv.org/abs/2608.24509)|null|
+|**2026-08-25**|**From State to Action: OODA-Tool for Reliable Multi-Turn Tool Use**|Rongfeng Guo et.al.|[2608.24368](http://arxiv.org/abs/2608.24368)|null|
+|**2026-08-25**|**Adaptive Influence Graphs for Failure Attribution in Multi-Agent Systems**|Yarden Bakish et.al.|[2608.24361](http://arxiv.org/abs/2608.24361)|null|
+|**2026-08-25**|**The Handoff Tax: Continuing Non-Native Trajectories in LLM Agents**|Roy Ganz et.al.|[2608.24358](http://arxiv.org/abs/2608.24358)|null|
+|**2026-08-25**|**ReproAgent: Contract-Guided Paper-to-Code Reproduction**|Xue Hu et.al.|[2608.24291](http://arxiv.org/abs/2608.24291)|null|
+|**2026-08-25**|**Observability and Fault Injection for LLM-Based Multi-Agent Systems in Software Engineering**|Zahra Seyedghorban et.al.|[2608.24271](http://arxiv.org/abs/2608.24271)|null|
+|**2026-08-25**|**SA-Bench: Evaluating Semantic Alignment in LLM-Based Paper Reproduction**|Xue Hu et.al.|[2608.24252](http://arxiv.org/abs/2608.24252)|null|
+|**2026-08-25**|**DeepRepoQA: Code Repository Question Answering with Deep Agent Exploration**|Weihan Peng et.al.|[2608.24221](http://arxiv.org/abs/2608.24221)|null|
+|**2026-08-25**|**Paritok-4B: Intent-Conditioned Context Compression for Coding Agents**|Jiayu Shi et.al.|[2608.24188](http://arxiv.org/abs/2608.24188)|null|
 |**2026-08-24**|**SWE Refactor Bench: Can Coding Agents Complete a Long-Horizon, Whole-Repository Stack Migration?**|Deyao Hong et.al.|[2608.23564](http://arxiv.org/abs/2608.23564)|null|
 |**2026-08-24**|**Prime Agent: A Self-Improving RLM Harness**|Seth Karten et.al.|[2608.23552](http://arxiv.org/abs/2608.23552)|null|
 |**2026-08-24**|**The Interaction Tax: When Communication Erases Diversity in Multi-Agent Teams**|Summer Eunhyung Ann et.al.|[2608.23541](http://arxiv.org/abs/2608.23541)|null|
@@ -4824,6 +4844,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-25**|**Prompt Structure Redistributes, Not Reduces: An Empirical Analysis of Security-Weaknesses in LLM-Generated Python Code**|Maitreyee Das Urmi et.al.|[2608.24857](http://arxiv.org/abs/2608.24857)|null|
+|**2026-08-25**|**BrowserForge: Scaling Web Episode via Parallel Browser Sandboxes**|Fei Tang et.al.|[2608.24848](http://arxiv.org/abs/2608.24848)|null|
+|**2026-08-25**|**Reading Is Not Using: Retrieval, Judgment, and the Design of AI Financial Research Workflows**|Miao Liu et.al.|[2608.24842](http://arxiv.org/abs/2608.24842)|null|
+|**2026-08-25**|**A Dual-Dimensional LLM Framework for Automated Item Incidental Content Similarity Analysis in Large-Scale Assessments**|Jing Huang et.al.|[2608.24825](http://arxiv.org/abs/2608.24825)|null|
+|**2026-08-25**|**Constrained Entity Selection under Partial Knowledge for LLM-Based Knowledge Graph QA**|Emanuel Kitzelmann et.al.|[2608.24824](http://arxiv.org/abs/2608.24824)|null|
+|**2026-08-25**|**Effective Learning Rate Governs Loss Dynamics in Language Model Pretraining**|Zihan Liu et.al.|[2608.24814](http://arxiv.org/abs/2608.24814)|null|
+|**2026-08-25**|**Right Diagnoses, Decorative Reasoning:A Perturbation Audit of Medical Chain-of-Thought**|Mengzhu Xu et.al.|[2608.24790](http://arxiv.org/abs/2608.24790)|null|
+|**2026-08-25**|**MoE-based Feature Adapter for Prompt-free Binary Coronary Artery Segmentation in X-ray Angiography**|Lin Xi et.al.|[2608.24783](http://arxiv.org/abs/2608.24783)|null|
+|**2026-08-25**|**Evidence Blindness in Direct Corpus Interaction: Persistent Navigation with AtlasNav**|Hongyu Guo et.al.|[2608.24764](http://arxiv.org/abs/2608.24764)|null|
+|**2026-08-25**|**MoTE: Mixture of Task Experts for Multi-Task Video Understanding**|Muhammad Asad Ali et.al.|[2608.24763](http://arxiv.org/abs/2608.24763)|null|
+|**2026-08-25**|**From Natural Language Requirements to Graphical User Interfaces: Automated Prototyping and Verification with Pretrained Language Models**|Kristian Kolthoff et.al.|[2608.24749](http://arxiv.org/abs/2608.24749)|null|
+|**2026-08-25**|**SkillForge: Evolving Verifiable Skills for Reinforcement Learning Agents**|Shidong Yang et.al.|[2608.24747](http://arxiv.org/abs/2608.24747)|null|
+|**2026-08-25**|**Learning to Prefer Reliably: Error-Augmented Emotion Preference Optimization with Calibrated Fusion**|Zilong Huang et.al.|[2608.24730](http://arxiv.org/abs/2608.24730)|null|
+|**2026-08-25**|**On-policy Distillation with Verifiable Reward**|Wenze Lin et.al.|[2608.24696](http://arxiv.org/abs/2608.24696)|null|
+|**2026-08-25**|**The Invisible Editorial Layer: Formalizing Undisclosed Inference-Time Steering, Probability Placement, and the Attribution Problem in Deployed Language Models**|Augusto Camargo et.al.|[2608.24662](http://arxiv.org/abs/2608.24662)|null|
+|**2026-08-25**|**Parason: Revealing Subtask and Trial Parallelism in LLM Reasoning**|Zhengyang Zhang et.al.|[2608.24658](http://arxiv.org/abs/2608.24658)|null|
+|**2026-08-25**|**A Literate Programming Environment for Human and Machine Agents**|Adam T. Burke et.al.|[2608.24644](http://arxiv.org/abs/2608.24644)|null|
+|**2026-08-25**|**Aging of Prompt Engineering Techniques Across LLM Versions**|Anastasiia Rudyk et.al.|[2608.24641](http://arxiv.org/abs/2608.24641)|null|
+|**2026-08-25**|**Thermal Tuning Overhead in Wafer-Scale Optical Interconnects for LLM MoE Training: A Cross-Layer Analysis and Ferroelectric-Based Mitigation**|Seongwon Yoon et.al.|[2608.24637](http://arxiv.org/abs/2608.24637)|null|
+|**2026-08-25**|**Beyond Semantic Accuracy: Consequence-Aware Evaluation for Safety-Critical Language Understanding**|Yujing Chang et.al.|[2608.24621](http://arxiv.org/abs/2608.24621)|null|
 |**2026-08-24**|**How to Train a Critic Stably and Efficiently**|Penghui Qi et.al.|[2608.23566](http://arxiv.org/abs/2608.23566)|null|
 |**2026-08-24**|**EG-ARSA: An Expert-Grounded Open Model for Visual Road Safety Auditing in Low-Resource Settings**|Md Thamed Bin Zaman Chowdhury et.al.|[2608.23563](http://arxiv.org/abs/2608.23563)|null|
 |**2026-08-24**|**Prime Agent: A Self-Improving RLM Harness**|Seth Karten et.al.|[2608.23552](http://arxiv.org/abs/2608.23552)|null|
@@ -9523,6 +9563,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-25**|**SPO++: Stream-Aligned Policy Optimization for Asynchronous Agentic RL**|Kai Ruan et.al.|[2608.24870](http://arxiv.org/abs/2608.24870)|null|
+|**2026-08-25**|**Improving Cross-Problem Vehicle Routing with Locally Augmented Preferences and Representation Disentanglement**|Arthur Corrêa et.al.|[2608.24859](http://arxiv.org/abs/2608.24859)|null|
+|**2026-08-25**|**Bellman Calibration for Marginalized Importance Weighting in Offline Reinforcement Learning**|Lars van der Laan et.al.|[2608.24858](http://arxiv.org/abs/2608.24858)|null|
+|**2026-08-25**|**Learning Whom to Trust : Decision-Generated Credibility in Social Learning**|Gabriel Bontemps et.al.|[2608.24851](http://arxiv.org/abs/2608.24851)|null|
+|**2026-08-25**|**Sparse domination implies convex body domination**|Aapo Laukkarinen et.al.|[2608.24802](http://arxiv.org/abs/2608.24802)|null|
+|**2026-08-25**|**CAFE: Self-Improving Search Agents Need Co-Evolving Feedback**|Boyang Liu et.al.|[2608.24794](http://arxiv.org/abs/2608.24794)|null|
+|**2026-08-25**|**Score-Based Ideal Observer Approximation via Denoising Score Matching for Signal-Known-Exactly Detection Tasks**|Weimin Zhou et.al.|[2608.24768](http://arxiv.org/abs/2608.24768)|null|
+|**2026-08-25**|**SkillForge: Evolving Verifiable Skills for Reinforcement Learning Agents**|Shidong Yang et.al.|[2608.24747](http://arxiv.org/abs/2608.24747)|null|
+|**2026-08-25**|**Learning to Prefer Reliably: Error-Augmented Emotion Preference Optimization with Calibrated Fusion**|Zilong Huang et.al.|[2608.24730](http://arxiv.org/abs/2608.24730)|null|
+|**2026-08-25**|**On-policy Distillation with Verifiable Reward**|Wenze Lin et.al.|[2608.24696](http://arxiv.org/abs/2608.24696)|null|
+|**2026-08-25**|**Testing $f(Q)$ Gravity with DESI DR2 and Strong-Lensing Time Delays**|Darshan Kumar et.al.|[2608.24676](http://arxiv.org/abs/2608.24676)|null|
+|**2026-08-25**|**EviGraph: Towards Verifiable Evidence Construction for Information-Seeking Agents**|Jiashun Chen et.al.|[2608.24667](http://arxiv.org/abs/2608.24667)|null|
+|**2026-08-25**|**On-Policy Self-Distillation in Diffusion Models**|Wei Zhou et.al.|[2608.24646](http://arxiv.org/abs/2608.24646)|null|
+|**2026-08-25**|**EVEREST:Endogenous Vision-Language Reinforcement Reasoning Exploration for Urban Socio-Semantic Segmentation**|Qixiu Li et.al.|[2608.24640](http://arxiv.org/abs/2608.24640)|null|
+|**2026-08-25**|**IAPO: Influence-Aware Policy Optimization for Credit Assignment in Multi-Turn Service Agents**|Bo Ren et.al.|[2608.24588](http://arxiv.org/abs/2608.24588)|null|
+|**2026-08-25**|**Joint Optimization of Tool Creation and Use for Large Language Model Agents**|Zhi Rui Tam et.al.|[2608.24571](http://arxiv.org/abs/2608.24571)|null|
+|**2026-08-25**|**RoG-DAgger: Rollout-Guided Post-Training for End-to-End Driving**|Liangyu Zhong et.al.|[2608.24525](http://arxiv.org/abs/2608.24525)|null|
+|**2026-08-25**|**Assessing the Credibility of Gamma-Ray QPO Candidates in 41 TeV-Selected Blazars**|Wen-Xin Yang et.al.|[2608.24522](http://arxiv.org/abs/2608.24522)|null|
+|**2026-08-25**|**NeuralParker: A Reinforcement Learning Planner for Irregular Parking Environments**|Zihan Wang et.al.|[2608.24485](http://arxiv.org/abs/2608.24485)|null|
+|**2026-08-25**|**WarpSAC: Towards the Pinnacle of Scalable Off-policy RL by Rethinking Exploration and Exploitation**|Zihao Wu et.al.|[2608.24479](http://arxiv.org/abs/2608.24479)|null|
 |**2026-08-24**|**How to Train a Critic Stably and Efficiently**|Penghui Qi et.al.|[2608.23566](http://arxiv.org/abs/2608.23566)|null|
 |**2026-08-24**|**Testing selection on observables in parametric models with refreshment samples**|Grigory Franguridi et.al.|[2608.23508](http://arxiv.org/abs/2608.23508)|null|
 |**2026-08-24**|**Dynamical Love numbers of analogue rotating black and white holes**|Satadal Datta et.al.|[2608.23496](http://arxiv.org/abs/2608.23496)|null|
