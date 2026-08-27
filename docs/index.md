@@ -16,6 +16,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-26**|**Agentic Autoresearch for Cell-Edge Power Control: Radically Redefining the Researcher's Role**|Ahmad Khan et.al.|[2608.26093](http://arxiv.org/abs/2608.26093)|null|
+|**2026-08-26**|**SwarmWorld: Stigmergic technological evolution in societies of language-model agents**|Subhadeep Pal et.al.|[2608.26081](http://arxiv.org/abs/2608.26081)|null|
+|**2026-08-26**|**VISA: Agentic Self-Evolving Data Synthesis for Multimodal Instruction Following**|Min Zeng et.al.|[2608.26013](http://arxiv.org/abs/2608.26013)|null|
+|**2026-08-26**|**A Self-Evolving Multi-Agent Framework Defense against LLM Jailbreak Attacks**|Tongyan Hu et.al.|[2608.26008](http://arxiv.org/abs/2608.26008)|null|
+|**2026-08-26**|**AsymSpec: Context-Asymmetric Speculative Decoding for Agentic LLMs**|Sheng Liang et.al.|[2608.26004](http://arxiv.org/abs/2608.26004)|null|
+|**2026-08-26**|**ProgRouter: Online Progress-Guided Orchestration for Multi-Agent LLM Workflows under Quality-Cost Tradeoffs**|Songyuan Li et.al.|[2608.25992](http://arxiv.org/abs/2608.25992)|null|
+|**2026-08-26**|**Spatial-Knowledge-Graph-Grounded LLM Agents for Neighborhood Livability Evaluation**|Haiyan Hao et.al.|[2608.25952](http://arxiv.org/abs/2608.25952)|null|
+|**2026-08-26**|**Candidate supply and answer selection shape the value of LLM judging in multi-agent systems**|Jia-Hao Ji et.al.|[2608.25937](http://arxiv.org/abs/2608.25937)|null|
+|**2026-08-26**|**AI Agentic Selective Laser Sintering Process Optimization**|Peter Pak et.al.|[2608.25928](http://arxiv.org/abs/2608.25928)|null|
+|**2026-08-26**|**Code World Model: Coding Agent as World Brain**|Yiwen Chen et.al.|[2608.25927](http://arxiv.org/abs/2608.25927)|null|
+|**2026-08-26**|**Answer Is Cheap, Show Me the Evidence! Augmenting Automated Vulnerability Assessment with Evidence**|Shengyi Pan et.al.|[2608.25905](http://arxiv.org/abs/2608.25905)|null|
+|**2026-08-26**|**SkillShield: Prompt-Space Security Skills for LLM Coding Agents**|Xiaodong Wu et.al.|[2608.25817](http://arxiv.org/abs/2608.25817)|null|
+|**2026-08-26**|**LocalLSTC: A Long Short-Term Control Architecture for Locally Deployed GUI Agents**|Weiming Li et.al.|[2608.25777](http://arxiv.org/abs/2608.25777)|null|
+|**2026-08-26**|**EVOMAL: Self-Poisoning in Self-Evolving Coding Agents**|Xiaodong Wu et.al.|[2608.25776](http://arxiv.org/abs/2608.25776)|null|
+|**2026-08-26**|**Large Language Model Few-Shot Prompting with Dilemma Training Outperforms Human Surrogates in Predicting Patient Preferences**|Natasha Ureyang et.al.|[2608.25771](http://arxiv.org/abs/2608.25771)|null|
+|**2026-08-26**|**HypoForge: A Self-Improving Multi-Agent Framework for Automated Hypothesis Generation and Testing via Scientific Skill Learning**|Ziqing Qian et.al.|[2608.25770](http://arxiv.org/abs/2608.25770)|null|
+|**2026-08-26**|**Reassembling Distributed Risk: Trajectory-Conditioned Action Generation for Multi-Turn Agent Safety**|Yanbo Dai et.al.|[2608.25711](http://arxiv.org/abs/2608.25711)|null|
+|**2026-08-26**|**AI Slop and Hallucinations in Vulnerability Assessment: A Survey on Reasoning Failures and Trustworthy Mitigation**|Junchen Ding et.al.|[2608.25667](http://arxiv.org/abs/2608.25667)|null|
+|**2026-08-26**|**Beyond Scaling: Self-Evolving LLM Agents for Hardware Kernel Optimization via an Experience-Driven Workflow and Experience Graph Memory**|Siyuan Chen et.al.|[2608.25570](http://arxiv.org/abs/2608.25570)|null|
+|**2026-08-26**|**AdaVDR: Adaptive Tool Use and Reflection for Video Deep Research**|Xintong Zhang et.al.|[2608.25559](http://arxiv.org/abs/2608.25559)|null|
 |**2026-08-25**|**SPO++: Stream-Aligned Policy Optimization for Asynchronous Agentic RL**|Kai Ruan et.al.|[2608.24870](http://arxiv.org/abs/2608.24870)|null|
 |**2026-08-25**|**BrowserForge: Scaling Web Episode via Parallel Browser Sandboxes**|Fei Tang et.al.|[2608.24848](http://arxiv.org/abs/2608.24848)|null|
 |**2026-08-25**|**SkillForge: Evolving Verifiable Skills for Reinforcement Learning Agents**|Shidong Yang et.al.|[2608.24747](http://arxiv.org/abs/2608.24747)|null|
@@ -4844,6 +4864,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-26**|**Zero-WAM: In-Context World-Action Modeling from Human Videos for Open-Ended Task Generalization**|Jiaming Zhou et.al.|[2608.26103](http://arxiv.org/abs/2608.26103)|null|
+|**2026-08-26**|**TraceML: An Empirical Analysis of Human-Agent Planning in Machine Learning Development**|Jiarui Yan et.al.|[2608.26086](http://arxiv.org/abs/2608.26086)|null|
+|**2026-08-26**|**SwarmWorld: Stigmergic technological evolution in societies of language-model agents**|Subhadeep Pal et.al.|[2608.26081](http://arxiv.org/abs/2608.26081)|null|
+|**2026-08-26**|**Prefix Sliding for efficient test-time scaling**|Niklas Muennighoff et.al.|[2608.26070](http://arxiv.org/abs/2608.26070)|null|
+|**2026-08-26**|**RTLGuard: A Lightweight Teacher-Student Defense for Poisoned RTL Code Generation Models**|Mahshid Rezakhani et.al.|[2608.26049](http://arxiv.org/abs/2608.26049)|null|
+|**2026-08-26**|**Robust CurveMoE: Multi-Norm Adversarial Defense for Mixture-of-Experts Models via Mode Connectivity**|Xu Zhang et.al.|[2608.26043](http://arxiv.org/abs/2608.26043)|null|
+|**2026-08-26**|**Vulnerable Code Search: Transferable Attack for Code Language Models**|Kaicheng Wang et.al.|[2608.26031](http://arxiv.org/abs/2608.26031)|null|
+|**2026-08-26**|**Bayesian Optimization for Self-Driving Materials Laboratories: From Algorithms to Physics-Informed Workflows**|Yuki K. Wakabayashi et.al.|[2608.26016](http://arxiv.org/abs/2608.26016)|null|
+|**2026-08-26**|**VISA: Agentic Self-Evolving Data Synthesis for Multimodal Instruction Following**|Min Zeng et.al.|[2608.26013](http://arxiv.org/abs/2608.26013)|null|
+|**2026-08-26**|**A Self-Evolving Multi-Agent Framework Defense against LLM Jailbreak Attacks**|Tongyan Hu et.al.|[2608.26008](http://arxiv.org/abs/2608.26008)|null|
+|**2026-08-26**|**VoiceMem: Streaming Dual-Brain Memory for Real-Time Interaction**|Zhifei Xie et.al.|[2608.26005](http://arxiv.org/abs/2608.26005)|null|
+|**2026-08-26**|**Distinct dynamics of conceptual and referential disruptions in human reading and large language model processing**|Rui He et.al.|[2608.25999](http://arxiv.org/abs/2608.25999)|null|
+|**2026-08-26**|**ProgRouter: Online Progress-Guided Orchestration for Multi-Agent LLM Workflows under Quality-Cost Tradeoffs**|Songyuan Li et.al.|[2608.25992](http://arxiv.org/abs/2608.25992)|null|
+|**2026-08-26**|**Spectral Allocation: Why Muon Outperforms Adam, and How to Improve Muon**|Xiaodong Wu et.al.|[2608.25990](http://arxiv.org/abs/2608.25990)|null|
+|**2026-08-26**|**Multi-Granularity Context-Enhanced RAG over Multimodal Knowledge Graphs**|Zongyu Wu et.al.|[2608.25986](http://arxiv.org/abs/2608.25986)|null|
+|**2026-08-26**|**When Personality Meets Quantization: A Layer-wise MBTI Analysis of Quantized LLMs**|Yao Fu et.al.|[2608.25977](http://arxiv.org/abs/2608.25977)|null|
+|**2026-08-26**|**SciMIF: Understanding Multimodal Instruction Following in Scientific Domains**|Ye Shen et.al.|[2608.25973](http://arxiv.org/abs/2608.25973)|null|
+|**2026-08-26**|**Spatial-Knowledge-Graph-Grounded LLM Agents for Neighborhood Livability Evaluation**|Haiyan Hao et.al.|[2608.25952](http://arxiv.org/abs/2608.25952)|null|
+|**2026-08-26**|**Unveiling Spectral Mechanisms in Training-Free LLM Text Detection**|Haitong Luo et.al.|[2608.25944](http://arxiv.org/abs/2608.25944)|null|
+|**2026-08-26**|**When Pruning Meets Interpretability: Preserving Sparse Autoencoder Robustness in LLMs**|Suchit Gupte et.al.|[2608.25941](http://arxiv.org/abs/2608.25941)|null|
 |**2026-08-25**|**Prompt Structure Redistributes, Not Reduces: An Empirical Analysis of Security-Weaknesses in LLM-Generated Python Code**|Maitreyee Das Urmi et.al.|[2608.24857](http://arxiv.org/abs/2608.24857)|null|
 |**2026-08-25**|**BrowserForge: Scaling Web Episode via Parallel Browser Sandboxes**|Fei Tang et.al.|[2608.24848](http://arxiv.org/abs/2608.24848)|null|
 |**2026-08-25**|**Reading Is Not Using: Retrieval, Judgment, and the Design of AI Financial Research Workflows**|Miao Liu et.al.|[2608.24842](http://arxiv.org/abs/2608.24842)|null|
@@ -9563,6 +9603,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-26**|**VBVR-Pro: A Scalable and Verifiable Suite for Native Visual Reasoning**|Junxiang Xu et.al.|[2608.26105](http://arxiv.org/abs/2608.26105)|null|
+|**2026-08-26**|**Anatomy of an extensive air shower: building an optimal radio emission calculation**|Juan Ammerman-Yebra et.al.|[2608.26077](http://arxiv.org/abs/2608.26077)|null|
+|**2026-08-26**|**Prefix Sliding for efficient test-time scaling**|Niklas Muennighoff et.al.|[2608.26070](http://arxiv.org/abs/2608.26070)|null|
+|**2026-08-26**|**$R^3$ : Training Robots to Reason in Natural Language via Reinforcement Learning**|Lehong Wu et.al.|[2608.26053](http://arxiv.org/abs/2608.26053)|null|
+|**2026-08-26**|**VISA: Agentic Self-Evolving Data Synthesis for Multimodal Instruction Following**|Min Zeng et.al.|[2608.26013](http://arxiv.org/abs/2608.26013)|null|
+|**2026-08-26**|**Imitation Learning for Connection-Tableau Construction**|Fredrik Rømming et.al.|[2608.26009](http://arxiv.org/abs/2608.26009)|null|
+|**2026-08-26**|**A Weighting Method for Incorporating Mass Resolution Effects in Amplitude Analysis**|Benhou Xiang et.al.|[2608.25969](http://arxiv.org/abs/2608.25969)|null|
+|**2026-08-26**|**Optimized Multilevel Sampling Methods under Resource Constraints**|Niklas Baumgarten et.al.|[2608.25958](http://arxiv.org/abs/2608.25958)|null|
+|**2026-08-26**|**One Symptom, Three Levers: A Critical Review of On-Policy Self-Distillation**|Justin Robert et.al.|[2608.25936](http://arxiv.org/abs/2608.25936)|null|
+|**2026-08-26**|**Continually learning neural-operator surrogate for three-dimensional airborne electromagnetic Bayesian inversion**|Jaehong Chung et.al.|[2608.25932](http://arxiv.org/abs/2608.25932)|null|
+|**2026-08-26**|**Random Invariance Testing on Quadratic Form Statistics with Application to Autocorrelation**|Amitakshar Biswas et.al.|[2608.25918](http://arxiv.org/abs/2608.25918)|null|
+|**2026-08-26**|**Answer Is Cheap, Show Me the Evidence! Augmenting Automated Vulnerability Assessment with Evidence**|Shengyi Pan et.al.|[2608.25905](http://arxiv.org/abs/2608.25905)|null|
+|**2026-08-26**|**VISTA: Visually Inferred Spatial ConTact Attention for Contact-Rich Manipulation**|Jiayi Chen et.al.|[2608.25872](http://arxiv.org/abs/2608.25872)|null|
+|**2026-08-26**|**Cooperative Multi-Agent Reinforcement Learning for Adaptive Aggregation in Semi-Supervised Federated Learning with non-IID Data**|Rene Glitza et.al.|[2608.25794](http://arxiv.org/abs/2608.25794)|null|
+|**2026-08-26**|**Sequential Stability of the Value Function and the Solution Mapping in Berge's Maximum Theorem via Variational Convergence**|John Cotrina et.al.|[2608.25789](http://arxiv.org/abs/2608.25789)|null|
+|**2026-08-26**|**TailSFT: Filtered Fine-Tuning Improves Post-Training Performance**|Sadhika Malladi et.al.|[2608.25756](http://arxiv.org/abs/2608.25756)|null|
+|**2026-08-26**|**Muonium dynamics as a probe for depth-resolved properties of 4H-SiC**|Maria Mendes Martins et.al.|[2608.25702](http://arxiv.org/abs/2608.25702)|null|
+|**2026-08-26**|**AutoVerifier: Residual-Guided Non-Parametric Optimization for Reference-Based Answer Verification**|Zebei Zhao et.al.|[2608.25637](http://arxiv.org/abs/2608.25637)|null|
+|**2026-08-26**|**DCEO: Direct Causal Effect Optimization for Long-Term User Value Modeling in E-commerce Search**|Junzhao Zhang et.al.|[2608.25635](http://arxiv.org/abs/2608.25635)|null|
+|**2026-08-26**|**Advantage-Driven Explicit Memory for Social Navigation**|Yeonsoo Park et.al.|[2608.25610](http://arxiv.org/abs/2608.25610)|null|
 |**2026-08-25**|**SPO++: Stream-Aligned Policy Optimization for Asynchronous Agentic RL**|Kai Ruan et.al.|[2608.24870](http://arxiv.org/abs/2608.24870)|null|
 |**2026-08-25**|**Improving Cross-Problem Vehicle Routing with Locally Augmented Preferences and Representation Disentanglement**|Arthur Corrêa et.al.|[2608.24859](http://arxiv.org/abs/2608.24859)|null|
 |**2026-08-25**|**Bellman Calibration for Marginalized Importance Weighting in Offline Reinforcement Learning**|Lars van der Laan et.al.|[2608.24858](http://arxiv.org/abs/2608.24858)|null|
