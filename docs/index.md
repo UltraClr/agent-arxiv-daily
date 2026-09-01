@@ -16,6 +16,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-31**|**Token-Efficient Data Reasoning Agents via Adaptive Structuring of Unstructured Data**|Milad Rezaei Hajidehi et.al.|[2608.31082](http://arxiv.org/abs/2608.31082)|null|
+|**2026-08-31**|**Measure Before You Manage: Evaluating Agent Working Memory in Coding Agents**|Le Chen et.al.|[2608.31057](http://arxiv.org/abs/2608.31057)|null|
+|**2026-08-31**|**Agentic Quantitative Trading: A Survey of Workflows, Systems, and Evaluation**|Fengrui Hua et.al.|[2608.31041](http://arxiv.org/abs/2608.31041)|null|
+|**2026-08-31**|**MNIST-PRO: MNIST is Back as a Partially Observable World for AI Agents**|Vernon Toh et.al.|[2608.31022](http://arxiv.org/abs/2608.31022)|null|
+|**2026-08-31**|**From Prompt to Prototype: Towards a Frontier LLM Driven RF Engineering Workflow**|Markus Heinrichs et.al.|[2608.31006](http://arxiv.org/abs/2608.31006)|null|
+|**2026-08-31**|**A Human-in-the-Loop Autonomous Agent for Industry Time Series Forecasting**|Xiaoyu Tao et.al.|[2608.30976](http://arxiv.org/abs/2608.30976)|null|
+|**2026-08-31**|**The Hermon Moment: AI Self-Transcendence and Its Human Narration**|Alexei Grinbaum et.al.|[2608.30971](http://arxiv.org/abs/2608.30971)|null|
+|**2026-08-31**|**One Policy Is Enough: Single-Agent Reinforcement Learning Outperforms Tree Search for Chemistry Tool Learning**|Armin Dariani et.al.|[2608.30952](http://arxiv.org/abs/2608.30952)|null|
+|**2026-08-31**|**Detecting AI Impostors: How Do Middle Schoolers Identify LLM Agents in a Live Collaborative Setting?**|Dan Schumacher et.al.|[2608.30948](http://arxiv.org/abs/2608.30948)|null|
+|**2026-08-31**|**Evidence, Logic, and Compliance: Multi-Agent Structured Graph Reasoning with Expert Arbitration for Medical Referral**|Qi Peng et.al.|[2608.30938](http://arxiv.org/abs/2608.30938)|null|
+|**2026-08-31**|**Beacon: LLM Multi-Agent Driven Hardware Design Space Exploration for Heterogeneous Multi-Chiplet Deep Learning Accelerators**|Boyu Li et.al.|[2608.30932](http://arxiv.org/abs/2608.30932)|null|
+|**2026-08-31**|**TRIPPULSE: Multi-Agent Travel Planning with Review-Grounded Reasoning**|Priyanshu Karmakar et.al.|[2608.30924](http://arxiv.org/abs/2608.30924)|null|
+|**2026-08-31**|**Adaptive KV Retention for LLM Agents at Human-Approval Timescales**|Minseo Choi et.al.|[2608.30830](http://arxiv.org/abs/2608.30830)|null|
+|**2026-08-31**|**PRACTICE: From Experience to Expertise in Self-Evolving Embodied Agents**|Ziyi Bai et.al.|[2608.30760](http://arxiv.org/abs/2608.30760)|null|
+|**2026-08-31**|**E-Commerce Bench: Evaluating LLM Agents on Long-Horizon Autonomous Business Operation**|Wei Fan et.al.|[2608.30730](http://arxiv.org/abs/2608.30730)|null|
+|**2026-08-31**|**BAITBENCH: Measuring Agent Reward Hacking with Optional Shortcuts Planted in ML Tasks**|Pradyumna Shyama Prasad et.al.|[2608.30724](http://arxiv.org/abs/2608.30724)|null|
+|**2026-08-31**|**VisLens: Single-Pass Interpretable Visual Search for Multimodal LLMs**|Jingyi He et.al.|[2608.30705](http://arxiv.org/abs/2608.30705)|null|
+|**2026-08-31**|**TUE-Detector: A Tool-Using Expert MLLM-Based Detector for AI-Generated Videos**|Yichen Wu et.al.|[2608.30704](http://arxiv.org/abs/2608.30704)|null|
+|**2026-08-31**|**A Phased Workflow for Operating LLM-Based Coding Agents**|Ante Kapetanovic et.al.|[2608.30701](http://arxiv.org/abs/2608.30701)|null|
+|**2026-08-31**|**Beyond the Payload: How User Invocation Shapes Coding Agent Vulnerability to Repository Poisoning**|Fukang Zhu et.al.|[2608.30686](http://arxiv.org/abs/2608.30686)|null|
 |**2026-08-31**|**LLM-based Hardware Development with Hierarchical IRs and End-to-End Multi-Agent Workflow**|Chenyang Yin et.al.|[2608.30659](http://arxiv.org/abs/2608.30659)|null|
 |**2026-08-31**|**Geometry of Divergence: Tracking Hidden-State Trajectories for Adaptive Multi-Turn Reasoning**|Jie Liang et.al.|[2608.30650](http://arxiv.org/abs/2608.30650)|null|
 |**2026-08-31**|**Practical Implementation Report on Introducing Spec-Driven Development Using AI Agents in Software Development PBL**|Hidetake Tanaka et.al.|[2608.30572](http://arxiv.org/abs/2608.30572)|null|
@@ -4924,6 +4944,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-31**|**Agentic research is oxymoronic**|Natalie B. Hogg et.al.|[2608.31161](http://arxiv.org/abs/2608.31161)|null|
+|**2026-08-31**|**Sharp Approximation Rates for Neural Networks with Affine Latent Parameterizations**|Shijun Zhang et.al.|[2608.31157](http://arxiv.org/abs/2608.31157)|null|
+|**2026-08-31**|**OntoAligner-Ensemble: Voting-Based Fusion across Heterogeneous Ontology Alignment Techniques**|Hamed Babaei Giglou et.al.|[2608.31137](http://arxiv.org/abs/2608.31137)|null|
+|**2026-08-31**|**DIASENTINEL: An Auditable Multi-Agent System for Guideline-Grounded Diabetes Risk Screening**|Yung Wei Shueh et.al.|[2608.31128](http://arxiv.org/abs/2608.31128)|null|
+|**2026-08-31**|**When Does Bigger Help? A Controlled Study of LLM Scale for Ontology Learning**|Hamed Babaei Giglou et.al.|[2608.31118](http://arxiv.org/abs/2608.31118)|null|
+|**2026-08-31**|**InsightToast: Proactive Information Retrieval & Glanceable Visualization in the Side Channel of Data-Rich Meetings**|Mohammad Abolnejadian et.al.|[2608.31115](http://arxiv.org/abs/2608.31115)|null|
+|**2026-08-31**|**Stress-Testing Efficient Responsible-AI Evaluation: When Compute Savings Change Benchmark Conclusions**|Ahmed El Kady et.al.|[2608.31108](http://arxiv.org/abs/2608.31108)|null|
+|**2026-08-31**|**BLOOM-WILT: Logit Tilting for Behaviour Elicitation in Automated LLM Auditing**|Adrians Skapars et.al.|[2608.31105](http://arxiv.org/abs/2608.31105)|null|
+|**2026-08-31**|**S3Gym: Can LLMs Turn Self-Testing and Self-Judging into Self-Improvement?**|Jiajun Shi et.al.|[2608.31100](http://arxiv.org/abs/2608.31100)|null|
+|**2026-08-31**|**Sycophantic Agreement Transfers with Neutral Data via Contrastive Preference Optimization**|Camila Blank et.al.|[2608.31079](http://arxiv.org/abs/2608.31079)|null|
+|**2026-08-31**|**Reconciling Process Supervision with Outcome-Based Credit in Agentic Policy Optimization**|Jingxiao Yang et.al.|[2608.31077](http://arxiv.org/abs/2608.31077)|null|
+|**2026-08-31**|**A Model with No Head and Many Thoughts**|Nikita Koriagin et.al.|[2608.31069](http://arxiv.org/abs/2608.31069)|null|
+|**2026-08-31**|**Wrong Prediction, Right Answer: Recovering Evidence from Collapsed LLM Sequence Scores**|Qiyao Yan et.al.|[2608.31068](http://arxiv.org/abs/2608.31068)|null|
+|**2026-08-31**|**Every Token Leaves a Ripple in the Stream of Thought: Eliciting Model-Internal Token Saliency for Chain-of-Thought Compression**|Tianyi Zhao et.al.|[2608.31066](http://arxiv.org/abs/2608.31066)|null|
+|**2026-08-31**|**When Does Predictor-Based RL Align with Human Perception? A Study of Subjective Rewards in Codec-Based Speech Language Models**|Joonyong Park et.al.|[2608.31035](http://arxiv.org/abs/2608.31035)|null|
+|**2026-08-31**|**Evidence-Bounded Mental Health Reasoning from Heterogeneous Speech Protocols**|Chengyuan Gao et.al.|[2608.31014](http://arxiv.org/abs/2608.31014)|null|
+|**2026-08-31**|**TSPFN: A Temporal Tabular Foundation Model for Physiological Time Series Classification**|Jérémie Stym-Popper et.al.|[2608.31013](http://arxiv.org/abs/2608.31013)|null|
+|**2026-08-31**|**From Prompt to Prototype: Towards a Frontier LLM Driven RF Engineering Workflow**|Markus Heinrichs et.al.|[2608.31006](http://arxiv.org/abs/2608.31006)|null|
+|**2026-08-31**|**Multi-View Reflective Surface Inspection via Semantic-Saliency Cross-Verification**|Van-Giang Nguyen et.al.|[2608.30997](http://arxiv.org/abs/2608.30997)|null|
+|**2026-08-31**|**Stick to What You Know: A Study of Knowledge-Aligned Supervised Fine-Tuning**|Arthur Becker et.al.|[2608.30987](http://arxiv.org/abs/2608.30987)|null|
 |**2026-08-31**|**MURANO: Design, Run, and Reproduce Mechanistic Interpretability Experiments as Composable Pipelines**|Alireza Bayat Makou et.al.|[2608.30662](http://arxiv.org/abs/2608.30662)|null|
 |**2026-08-31**|**SwarmBench: Can Large Language Models Act as Agent Swarm Orchestrators?**|Jinshan Gao et.al.|[2608.30661](http://arxiv.org/abs/2608.30661)|null|
 |**2026-08-31**|**LLM-based Hardware Development with Hierarchical IRs and End-to-End Multi-Agent Workflow**|Chenyang Yin et.al.|[2608.30659](http://arxiv.org/abs/2608.30659)|null|
@@ -9723,6 +9763,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-31**|**PaperGym: Rubric-Centered Evolution for Research-Plan Generation**|Yuhan Wang et.al.|[2608.31119](http://arxiv.org/abs/2608.31119)|null|
+|**2026-08-31**|**Static-Field Shielding of Bosonic Molecules: Evaporation to Degeneracy and Self-Bound Droplets**|Jongheum Jung et.al.|[2608.31116](http://arxiv.org/abs/2608.31116)|null|
+|**2026-08-31**|**DreamX-Creator: Democratizing Native Audio-Video Generation at 2K Resolution**|Jiashu Zhu et.al.|[2608.31106](http://arxiv.org/abs/2608.31106)|null|
+|**2026-08-31**|**Reconciling Process Supervision with Outcome-Based Credit in Agentic Policy Optimization**|Jingxiao Yang et.al.|[2608.31077](http://arxiv.org/abs/2608.31077)|null|
+|**2026-08-31**|**Scaling Large Reasoning Models beyond Human Supervision: A Path toward Superintelligence**|Zhiqin Yang et.al.|[2608.31075](http://arxiv.org/abs/2608.31075)|null|
+|**2026-08-31**|**Does On-Policy Distillation Really Distill? From Noisy Teacher to Self-Improvement**|Yi Ding et.al.|[2608.31046](http://arxiv.org/abs/2608.31046)|null|
+|**2026-08-31**|**Normalized Low-Rank Adaptation**|Jiale Kang et.al.|[2608.31036](http://arxiv.org/abs/2608.31036)|null|
+|**2026-08-31**|**When Does Predictor-Based RL Align with Human Perception? A Study of Subjective Rewards in Codec-Based Speech Language Models**|Joonyong Park et.al.|[2608.31035](http://arxiv.org/abs/2608.31035)|null|
+|**2026-08-31**|**Semantic-Aware Sub-Band Allocation for Terahertz Communications**|Fatima Ismail et.al.|[2608.30984](http://arxiv.org/abs/2608.30984)|null|
+|**2026-08-31**|**Autonomously Acquiring Robot Manipulation Skills with Language-Driven Quality-Diversity**|Émiland Garrabé et.al.|[2608.30983](http://arxiv.org/abs/2608.30983)|null|
+|**2026-08-31**|**Evaluating and Improving LLM Self-Modeling**|Siqi Zeng et.al.|[2608.30980](http://arxiv.org/abs/2608.30980)|null|
+|**2026-08-31**|**One Policy Is Enough: Single-Agent Reinforcement Learning Outperforms Tree Search for Chemistry Tool Learning**|Armin Dariani et.al.|[2608.30952](http://arxiv.org/abs/2608.30952)|null|
+|**2026-08-31**|**Compensation in continuous symmetric trilayered planar ferrimagnet**|Olivia Mallick et.al.|[2608.30941](http://arxiv.org/abs/2608.30941)|null|
+|**2026-08-31**|**LightNav-0: Eliciting VLM Spatial Intelligence for Generalist Embodied Navigation**|Shaoan Wang et.al.|[2608.30935](http://arxiv.org/abs/2608.30935)|null|
+|**2026-08-31**|**Beacon: LLM Multi-Agent Driven Hardware Design Space Exploration for Heterogeneous Multi-Chiplet Deep Learning Accelerators**|Boyu Li et.al.|[2608.30932](http://arxiv.org/abs/2608.30932)|null|
+|**2026-08-31**|**S3C-LLM: Skill-Code Guided Agentic Language Models for Spectrum-to-Structure Elucidation**|Xuanle Zhao et.al.|[2608.30910](http://arxiv.org/abs/2608.30910)|null|
+|**2026-08-31**|**Scalable Statistical Inference in Stochastic Gradient Descent**|Rahul Singh et.al.|[2608.30845](http://arxiv.org/abs/2608.30845)|null|
+|**2026-08-31**|**HSRM: Hidden-State Reward Models for Test-Time Verification**|Xianzhi Li et.al.|[2608.30841](http://arxiv.org/abs/2608.30841)|null|
+|**2026-08-31**|**Uncertainty-Aware End-to-End AI Weather Forecasting: Disentangling Observation and Model Contributions**|Rodrigo Almeida et.al.|[2608.30795](http://arxiv.org/abs/2608.30795)|null|
+|**2026-08-31**|**Learning to infer and manipulate through distributed whole-arm interaction in a soft robot**|Chuhan Zhang et.al.|[2608.30773](http://arxiv.org/abs/2608.30773)|null|
 |**2026-08-31**|**Three Steps at a Time: Learning Representations from Action Sequences in Contrastive RL**|Michal Korniak et.al.|[2608.30640](http://arxiv.org/abs/2608.30640)|null|
 |**2026-08-31**|**Test-time Reinforcement Learning in Imperfect Information Games**|Ondrej Kubicek et.al.|[2608.30635](http://arxiv.org/abs/2608.30635)|null|
 |**2026-08-31**|**On the Riemann Boundary Value Problem for Poly- and Meta-hyperanalytic Function Spaces over d-summable Curves**|Yan Dai et.al.|[2608.30634](http://arxiv.org/abs/2608.30634)|null|
