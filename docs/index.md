@@ -16,6 +16,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-02**|**Discriminative World Models for Web Agents**|Kelvin Li et.al.|[2609.02885](http://arxiv.org/abs/2609.02885)|null|
+|**2026-09-02**|**EarlyEval: Cheaper Agent Evaluation via Early Outcome Prediction**|Yuling Shi et.al.|[2609.02783](http://arxiv.org/abs/2609.02783)|null|
+|**2026-09-02**|**Repo-To-Skill: Distilling GitHub Repositories Into AI4AI Skills**|Jianlyu Chen et.al.|[2609.02749](http://arxiv.org/abs/2609.02749)|null|
+|**2026-09-02**|**BuildOcc: A Large Language Model Occupant Agent Platform for Building Energy Research**|Wooyoung Jung et.al.|[2609.02729](http://arxiv.org/abs/2609.02729)|null|
+|**2026-09-02**|**ACLE-MCP: Attested Capability Leases for Execution-Time Trust in Remote LLM Tool Use**|Zhiyang Ding et.al.|[2609.02690](http://arxiv.org/abs/2609.02690)|null|
+|**2026-09-02**|**HINT: Human-Intent Inception for Long-Horizon Robot Manipulation**|Mingyu Mei et.al.|[2609.02653](http://arxiv.org/abs/2609.02653)|null|
+|**2026-09-02**|**Loom: Weaving Diagnostic Strands into Free-Text Consensus via Embedding-Space Reweighting**|Ron Begleiter et.al.|[2609.02649](http://arxiv.org/abs/2609.02649)|null|
+|**2026-09-02**|**PrimSynth: An Agentic Approach to Discover, Validate, and Synthesize Exploit Primitives for Linux Kernel Vulnerabilities**|Pengfei Wang et.al.|[2609.02647](http://arxiv.org/abs/2609.02647)|null|
+|**2026-09-02**|**Competitive Market Behavior of LLMs**|Pawel Struski et.al.|[2609.02580](http://arxiv.org/abs/2609.02580)|null|
+|**2026-09-02**|**A Finger on the Scale: Covert Policy Steering through Agentic Skills**|Jiarui Li et.al.|[2609.02564](http://arxiv.org/abs/2609.02564)|null|
+|**2026-09-02**|**Coverage, Not Targeting: A Structural Regime in Multi-Turn Agent Credit Assignment**|Chenyu Zhou et.al.|[2609.02417](http://arxiv.org/abs/2609.02417)|null|
+|**2026-09-02**|**Semantics-Guided Automatic Tensorization for Multiobjective Evolutionary Algorithms: A Multi-Agent Framework**|Zhenyu Liang et.al.|[2609.02387](http://arxiv.org/abs/2609.02387)|null|
+|**2026-09-02**|**Diagnosing with Insights: Structured Analysis of Agent Failures via Behavioral Abstractions**|Jiayi Bi et.al.|[2609.02371](http://arxiv.org/abs/2609.02371)|null|
+|**2026-09-02**|**LookStep: Efficient Vision-Language Navigation with Linguistic Foresight and Event Driven Memory**|Kun-Yang Yu et.al.|[2609.02350](http://arxiv.org/abs/2609.02350)|null|
+|**2026-09-02**|**SCX Router: Streaming Zero-Shot Model Selection with a Decoder-KV Classifier and a Real-World Task Ontology**|Ihor Stepanov et.al.|[2609.02292](http://arxiv.org/abs/2609.02292)|null|
+|**2026-09-02**|**PaperCompiler: Faithful Paper-to-Code Generation via Repository-Level Specification Compilation**|Yunhao Liu et.al.|[2609.02272](http://arxiv.org/abs/2609.02272)|null|
+|**2026-09-02**|**CAPTURE: Disentangling Preference Drift from Memory Poisoning in Personalized LLM Agents**|S M Asif Hossain et.al.|[2609.02265](http://arxiv.org/abs/2609.02265)|null|
+|**2026-09-02**|**PhoenixNest-Video: Evidence-Grounded Multimodal Agent Framework for Automated Video Interview Assessment**|Fan Yuxuan et.al.|[2609.02231](http://arxiv.org/abs/2609.02231)|null|
+|**2026-09-02**|**SkillGLoW: Procedural-Family Skill Consolidation for Self-Improving Agents on Long-Horizon Task Streams**|Ao Yan et.al.|[2609.02217](http://arxiv.org/abs/2609.02217)|null|
+|**2026-09-02**|**Agentic Settlement Protocol: An Application Profile for Refundable, Delayed-Fulfilment Agent Commerce on Stablecoin Rails**| Behnam et.al.|[2609.02208](http://arxiv.org/abs/2609.02208)|null|
 |**2026-09-01**|**Mechanism Design for Alignment and Control**|Dirk Bergemann et.al.|[2609.01595](http://arxiv.org/abs/2609.01595)|null|
 |**2026-09-01**|**Designing Proactive Thought Partners for Writing**|Chao Zhang et.al.|[2609.01588](http://arxiv.org/abs/2609.01588)|null|
 |**2026-09-01**|**From Production Traffic to Post-Training: Building a Self-Hosted LLM That Covers the Corporate Request Mix**|Olga Tsymboi et.al.|[2609.01572](http://arxiv.org/abs/2609.01572)|null|
@@ -4964,6 +4984,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-02**|**User Feedback Provides a Unique Signal that LLMs Can not Detect**|Shachar Don-Yehiya et.al.|[2609.02859](http://arxiv.org/abs/2609.02859)|null|
+|**2026-09-02**|**The Implications of Linguistic Illegibility for LLM Security**|James Mickens et.al.|[2609.02852](http://arxiv.org/abs/2609.02852)|null|
+|**2026-09-02**|**Post-Training Language Models for Gold-Medal Performance in Coding Competitions**|Aleksander Ficek et.al.|[2609.02849](http://arxiv.org/abs/2609.02849)|null|
+|**2026-09-02**|**UE5M3 FP4 Block Scaling for Stable Language Model Pretraining**|Robert Hu et.al.|[2609.02846](http://arxiv.org/abs/2609.02846)|null|
+|**2026-09-02**|**Cliff: Learning Process Rewards from the First Mistake**|Peixuan Han et.al.|[2609.02817](http://arxiv.org/abs/2609.02817)|null|
+|**2026-09-02**|**Large Language Models (LLMs) for Telecom Root Cause Analysis (RCA): A Structured Reasoning Framework for Evidence-Grounded Diagnosis**|Hao Zhou et.al.|[2609.02805](http://arxiv.org/abs/2609.02805)|null|
+|**2026-09-02**|**Dutch Books for Language Models**|Isaiah Andrews et.al.|[2609.02797](http://arxiv.org/abs/2609.02797)|null|
+|**2026-09-02**|**DiscoSign: Discourse-Aware Text to Sign Language Gloss Translation**|Vasileios Baltatzis et.al.|[2609.02796](http://arxiv.org/abs/2609.02796)|null|
+|**2026-09-02**|**ShikumiMiner: Mining Recurring Implementation Patterns in AI Codebases**|Afsana Tasnim et.al.|[2609.02789](http://arxiv.org/abs/2609.02789)|null|
+|**2026-09-02**|**ShallowStream: Index Shallow then Answer Deep for Streaming Video Understanding**|Jitai Hao et.al.|[2609.02780](http://arxiv.org/abs/2609.02780)|null|
+|**2026-09-02**|**Do Tabular Foundation Models Know Physics? Contamination, Units, and the Deterministic Limit**|Wassim Tenachi et.al.|[2609.02766](http://arxiv.org/abs/2609.02766)|null|
+|**2026-09-02**|**Untangling the Mechanisms of Misleading Context in Medical Question Answering**|Robin Linzmayer et.al.|[2609.02754](http://arxiv.org/abs/2609.02754)|null|
+|**2026-09-02**|**Language Models Can Control Their Own Attention**|Namgyu Ho et.al.|[2609.02737](http://arxiv.org/abs/2609.02737)|null|
+|**2026-09-02**|**RVSD: Retrieval Vision Sparse Decoding for Mitigating Visual Hallucinations in Large Vision-Language Models**|Canjie Liu et.al.|[2609.02731](http://arxiv.org/abs/2609.02731)|null|
+|**2026-09-02**|**CORAL: An LLM-Native Harness for Production Recommender Systems**|Muhammad Rafay Azhar et.al.|[2609.02730](http://arxiv.org/abs/2609.02730)|null|
+|**2026-09-02**|**BuildOcc: A Large Language Model Occupant Agent Platform for Building Energy Research**|Wooyoung Jung et.al.|[2609.02729](http://arxiv.org/abs/2609.02729)|null|
+|**2026-09-02**|**Large Language Model-Driven Context-Aware Eco-Feedback Generation and Evaluation**|Wooyoung Jung et.al.|[2609.02719](http://arxiv.org/abs/2609.02719)|null|
+|**2026-09-02**|**Door-in-the-Face Requests and Refusal Behaviour in Large Language Models**|Til Jordan et.al.|[2609.02707](http://arxiv.org/abs/2609.02707)|null|
+|**2026-09-02**|**ACLE-MCP: Attested Capability Leases for Execution-Time Trust in Remote LLM Tool Use**|Zhiyang Ding et.al.|[2609.02690](http://arxiv.org/abs/2609.02690)|null|
+|**2026-09-02**|**DKL: Decoupled Knowledge Learning for Instruction-Tuned Language Models**|Kushagra Bhushan et.al.|[2609.02685](http://arxiv.org/abs/2609.02685)|null|
 |**2026-09-01**|**CordisBench: Can Language Models Reason About Component Lifecycles in Dynamic Agent Harnesses?**|Damien Sileo et.al.|[2609.01600](http://arxiv.org/abs/2609.01600)|null|
 |**2026-09-01**|**The Rise of Verbal Reinforcement Learning**|Kshitij Tayal et.al.|[2609.01597](http://arxiv.org/abs/2609.01597)|null|
 |**2026-09-01**|**The Structure of Quantization Damage in LLMs: Why the Next Bit Should Be Spent Globally**|Jundong Hu et.al.|[2609.01587](http://arxiv.org/abs/2609.01587)|null|
@@ -9803,6 +9843,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-02**|**Discriminative World Models for Web Agents**|Kelvin Li et.al.|[2609.02885](http://arxiv.org/abs/2609.02885)|null|
+|**2026-09-02**|**Post-Training Language Models for Gold-Medal Performance in Coding Competitions**|Aleksander Ficek et.al.|[2609.02849](http://arxiv.org/abs/2609.02849)|null|
+|**2026-09-02**|**Model-level synthetic-flux control of hyperchaos order and matched-resource sensing in dissipative optomechanics**|Stella Rolande Mbokop Tchounda et.al.|[2609.02827](http://arxiv.org/abs/2609.02827)|null|
+|**2026-09-02**|**Cliff: Learning Process Rewards from the First Mistake**|Peixuan Han et.al.|[2609.02817](http://arxiv.org/abs/2609.02817)|null|
+|**2026-09-02**|**GDB-Reward: From Evaluation Metrics to Training Rewards for Graphic Design**|Adrienne Deganutti et.al.|[2609.02813](http://arxiv.org/abs/2609.02813)|null|
+|**2026-09-02**|**Eliciting ESG Preferences for Reinforcement Learning-Based Portfolio Optimization**|Giovanni Dispoto et.al.|[2609.02677](http://arxiv.org/abs/2609.02677)|null|
+|**2026-09-02**|**Minimal Radial Sub-Gamma Envelopes for Infinitely Divisible Random Vectors**|Yichuan Chen et.al.|[2609.02595](http://arxiv.org/abs/2609.02595)|null|
+|**2026-09-02**|**Online Reinforcement Learning in the Met Office Unified Model through Distributed Model-Agent Coupling**|Pritthijit Nath et.al.|[2609.02566](http://arxiv.org/abs/2609.02566)|null|
+|**2026-09-02**|**Learn from Whoever Is Right: Answer-Verified Multi-Teacher Distillation for Multi-Domain LLMs**|Xixiang He et.al.|[2609.02548](http://arxiv.org/abs/2609.02548)|null|
+|**2026-09-02**|**A Comparative Study of Graph Representations for GNN-Based Power Grid Control in L2RPN**|Adrian Degenkolb et.al.|[2609.02538](http://arxiv.org/abs/2609.02538)|null|
+|**2026-09-02**|**Engineering of Non-Hermitian Trajectories and Phase Structure in an Open Bose-Hubbard Model via Rate Operator Transformations**|Jaakko Luomala et.al.|[2609.02490](http://arxiv.org/abs/2609.02490)|null|
+|**2026-09-02**|**Before the Script, Set the Stage: How Worldview Simulation Amplifies Psychologically Grounded Persuasion in Multi-Turn Jailbreaking**|Siyu Chen et.al.|[2609.02414](http://arxiv.org/abs/2609.02414)|null|
+|**2026-09-02**|**Leveraging Time-Causal State Variable Aggregation for Real-Time Schedule of Massive Air Conditioners**|Jingguan Liu et.al.|[2609.02410](http://arxiv.org/abs/2609.02410)|null|
+|**2026-09-02**|**NE-R1: Enhancing Named Entity Recognition Model via Reinforcement Learning**|Meixuan Chen et.al.|[2609.02366](http://arxiv.org/abs/2609.02366)|null|
+|**2026-09-02**|**APEx: Distillation of Agent Procedural Experience for Adaptive Deep Research Question Answering**|Jie Ding et.al.|[2609.02253](http://arxiv.org/abs/2609.02253)|null|
+|**2026-09-02**|**DiffuSearch: How Hybrid Trajectory Planning Benefits from Aligned Objectives in Diffusion and Action Space**|Steffen Hagedorn et.al.|[2609.02252](http://arxiv.org/abs/2609.02252)|null|
+|**2026-09-02**|**RideSkill: A Hierarchical Algorithm for Generalized Ride Sharing with LLM-Driven Automatic Evolution**|Zijian Zhao et.al.|[2609.02250](http://arxiv.org/abs/2609.02250)|null|
+|**2026-09-02**|**Recursive Value Learning for Long-Horizon Offline Goal-Conditioned RL**|Hyeonseong Jeon et.al.|[2609.02237](http://arxiv.org/abs/2609.02237)|null|
+|**2026-09-02**|**PGPO: Potential-Guided Policy Optimization for Multi-Turn Agentic Tasks**|Yuyao Zheng et.al.|[2609.02236](http://arxiv.org/abs/2609.02236)|null|
+|**2026-09-02**|**Scientific performances of the XGIS instrument on-board THESEUS**|E. Arrigoni et.al.|[2609.02235](http://arxiv.org/abs/2609.02235)|null|
 |**2026-09-01**|**The Rise of Verbal Reinforcement Learning**|Kshitij Tayal et.al.|[2609.01597](http://arxiv.org/abs/2609.01597)|null|
 |**2026-09-01**|**Facet-0: A Robotic Foundation Model for Contact-Rich Precise Manipulation**|Haoyuan Deng et.al.|[2609.01596](http://arxiv.org/abs/2609.01596)|null|
 |**2026-09-01**|**Mechanism Design for Alignment and Control**|Dirk Bergemann et.al.|[2609.01595](http://arxiv.org/abs/2609.01595)|null|
