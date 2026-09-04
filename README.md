@@ -21,6 +21,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-03**|**A Case Study on Emergent Cheating and Whistleblowing in Autonomous Research Swarms**|Davide Paglieri et.al.|[2609.04170](http://arxiv.org/abs/2609.04170)|null|
+|**2026-09-03**|**SWE-Gate: Passing Functional Tests Is Not Enough for Software Engineering Agents**|Xin He et.al.|[2609.04167](http://arxiv.org/abs/2609.04167)|null|
+|**2026-09-03**|**SENTINEL-RL: Offloading Topological Reasoning from LLM Agents in the Security Operations Center**|Uday Vallabhaneni et.al.|[2609.04159](http://arxiv.org/abs/2609.04159)|null|
+|**2026-09-03**|**Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments**|Jie Wu et.al.|[2609.04148](http://arxiv.org/abs/2609.04148)|null|
+|**2026-09-03**|**Efficient Test-Time Adaptation through Human-AI Interaction**|Zora Zhiruo Wang et.al.|[2609.04141](http://arxiv.org/abs/2609.04141)|null|
+|**2026-09-03**|**The Natural Language Interaction Protocol and Standard for AI Agents**|Luyi Xing et.al.|[2609.04135](http://arxiv.org/abs/2609.04135)|null|
+|**2026-09-03**|**PatchBench: Evaluating AI Agents for Vulnerability Patching**|Chihao Shen et.al.|[2609.04075](http://arxiv.org/abs/2609.04075)|null|
+|**2026-09-03**|**Extending concurrent separation logic to the hardware level to verify the xv6 OS kernel on RISC-V with AI agents**|M. Frans Kaashoek et.al.|[2609.04043](http://arxiv.org/abs/2609.04043)|null|
+|**2026-09-03**|**Editable Visual Design**|Junyan Ye et.al.|[2609.04034](http://arxiv.org/abs/2609.04034)|null|
+|**2026-09-03**|**A Black Box for Agentic Processes: Blockchain-Anchored Evidence for AI Agent Communication, Human Oversight, and GRC Audits**|Arslan Brömme et.al.|[2609.04017](http://arxiv.org/abs/2609.04017)|null|
+|**2026-09-03**|**Hierarchical automation of scanning probe microscopy through agentic orchestration and algorithmic control**|Boris N. Slautin et.al.|[2609.04015](http://arxiv.org/abs/2609.04015)|null|
+|**2026-09-03**|**Unlocking Lossless Speedups in LLMs via Discrete Diffusion**|Subham Sekhar Sahoo et.al.|[2609.04010](http://arxiv.org/abs/2609.04010)|null|
+|**2026-09-03**|**Shifting from Injection to Interaction: Rethinking Web Security in the Age of LLMs and Beyond**|Nivedita Singh et.al.|[2609.03999](http://arxiv.org/abs/2609.03999)|null|
+|**2026-09-03**|**FiMI Banking: A Sovereign Model for Indian Retail Banking**| NPCI AI Research Team et.al.|[2609.03960](http://arxiv.org/abs/2609.03960)|null|
+|**2026-09-03**|**Speak for Me: Giving LLMs the Situational Awareness to Participate in a Meeting**|Muneeb Khan et.al.|[2609.03923](http://arxiv.org/abs/2609.03923)|null|
+|**2026-09-03**|**Value-Preserving Architectures for Agentic AI Systems**|Alessandro Pesare et.al.|[2609.03920](http://arxiv.org/abs/2609.03920)|null|
+|**2026-09-03**|**A Blind Trust, the Bloody Thrust: When Attacker-Controlled Hook Updates Steer AI Agent Harnesses towards Malicious Behaviors**|Pengxun Li et.al.|[2609.03884](http://arxiv.org/abs/2609.03884)|null|
+|**2026-09-03**|**Bioinfoysis Technical Report**|Qingyang Shao et.al.|[2609.03871](http://arxiv.org/abs/2609.03871)|null|
+|**2026-09-03**|**Adapting to Evolving Requirements: Agentic AI for Retail Supply Chain Operations**|Lei Zheng et.al.|[2609.03860](http://arxiv.org/abs/2609.03860)|null|
+|**2026-09-03**|**Semantic Bayesian World Models**|Tommaso Soru et.al.|[2609.03834](http://arxiv.org/abs/2609.03834)|null|
 |**2026-09-02**|**Discriminative World Models for Web Agents**|Kelvin Li et.al.|[2609.02885](http://arxiv.org/abs/2609.02885)|null|
 |**2026-09-02**|**EarlyEval: Cheaper Agent Evaluation via Early Outcome Prediction**|Yuling Shi et.al.|[2609.02783](http://arxiv.org/abs/2609.02783)|null|
 |**2026-09-02**|**Repo-To-Skill: Distilling GitHub Repositories Into AI4AI Skills**|Jianlyu Chen et.al.|[2609.02749](http://arxiv.org/abs/2609.02749)|null|
@@ -4991,6 +5011,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-03**|**Principia: Relational Physics Tests for Video Models**|Varun Varma Thozhiyoor et.al.|[2609.04200](http://arxiv.org/abs/2609.04200)|null|
+|**2026-09-03**|**Clean Engineering, Unstable Measurement: A Preregistered Reliability Failure of Black-Box LLM Observers on Shared Endpoints**|Haoyaun Zhu et.al.|[2609.04198](http://arxiv.org/abs/2609.04198)|null|
+|**2026-09-03**|**Legibility is Not Interpretability: Comparing Judged and Actual Importance in Chain-Of-Thought Reasoning**|Kevin Du et.al.|[2609.04194](http://arxiv.org/abs/2609.04194)|null|
+|**2026-09-03**|**Knowledge Acquisition During Pre-training? Large Language Models Learn Better With Auxiliary Views**|Joseph Lee et.al.|[2609.04180](http://arxiv.org/abs/2609.04180)|null|
+|**2026-09-03**|**Rethinking On-Policy Distillation of Large Language Models II: One Training Example**|Zixuan Fu et.al.|[2609.04172](http://arxiv.org/abs/2609.04172)|null|
+|**2026-09-03**|**From Deceptive Outputs to Deceptive Mechanisms: A Causal Framework for Language-Model Deception Research**|Yakov Pyotr Shkolnikov et.al.|[2609.04166](http://arxiv.org/abs/2609.04166)|null|
+|**2026-09-03**|**SENTINEL-RL: Offloading Topological Reasoning from LLM Agents in the Security Operations Center**|Uday Vallabhaneni et.al.|[2609.04159](http://arxiv.org/abs/2609.04159)|null|
+|**2026-09-03**|**Beyond Retrieval: Progressive Latent Memory Evolution for Streaming Video Understanding**|Hongyu Qu et.al.|[2609.04131](http://arxiv.org/abs/2609.04131)|null|
+|**2026-09-03**|**Epistemic Warrant for LLM Recommendations: Characterizing the Basis for Reliance When Ground Truth Is Unavailable**|Shai Vardi et.al.|[2609.04127](http://arxiv.org/abs/2609.04127)|null|
+|**2026-09-03**|**Compressing Streaming Neural Audio Encoders via Latent-Space Distillation**|Prasanth Yadla et.al.|[2609.04102](http://arxiv.org/abs/2609.04102)|null|
+|**2026-09-03**|**Continuous Actions from Discrete Minds: Latent-Aligned Planning for End-to-End Autonomous Driving**|Ruoyu Yao et.al.|[2609.04070](http://arxiv.org/abs/2609.04070)|null|
+|**2026-09-03**|**When Models Edit Too Much: On the Fidelity of Minimal Code Edits**|Tongyao Zhu et.al.|[2609.04061](http://arxiv.org/abs/2609.04061)|null|
+|**2026-09-03**|**AI-Assisted Design of a Post-Quantum Cryptographic Accelerator: A Deployed-Silicon Case Study**|Jungmin Park et.al.|[2609.04058](http://arxiv.org/abs/2609.04058)|null|
+|**2026-09-03**|**LabelMate: An LLM-Driven Framework for Refined Issue Report Labeling**|Liam Johnston et.al.|[2609.04055](http://arxiv.org/abs/2609.04055)|null|
+|**2026-09-03**|**The Dice Roll Method: A Standardized Protocol for Repeated-Query Auditing of Large Language Model Brand Recommendations**|Dmitrij Żatuchin et.al.|[2609.04047](http://arxiv.org/abs/2609.04047)|null|
+|**2026-09-03**|**IRWOZ 2.0: A Large Language Model-driven Dialogue Dataset for Industrial Robot Conversations**|Chen Li et.al.|[2609.04030](http://arxiv.org/abs/2609.04030)|null|
+|**2026-09-03**|**Instruction Duplication as an Inference-Time Control Primitive**|Victor Lavrenko et.al.|[2609.04024](http://arxiv.org/abs/2609.04024)|null|
+|**2026-09-03**|**Representational alignment yields generalizable safety in language models**|Lingyu Li et.al.|[2609.04022](http://arxiv.org/abs/2609.04022)|null|
+|**2026-09-03**|**FLY-EVAL++: An Evidence-Driven Evaluation Protocol for Safety-Constrained Flight Prediction with Large Language Models**|Yalun Wu et.al.|[2609.04021](http://arxiv.org/abs/2609.04021)|null|
+|**2026-09-03**|**InSituMeasure: Probing Situated Measurement Grounding in Industrial Scenes with Multimodal Large Language Models**|Chao Shen et.al.|[2609.04014](http://arxiv.org/abs/2609.04014)|null|
 |**2026-09-02**|**User Feedback Provides a Unique Signal that LLMs Can not Detect**|Shachar Don-Yehiya et.al.|[2609.02859](http://arxiv.org/abs/2609.02859)|null|
 |**2026-09-02**|**The Implications of Linguistic Illegibility for LLM Security**|James Mickens et.al.|[2609.02852](http://arxiv.org/abs/2609.02852)|null|
 |**2026-09-02**|**Post-Training Language Models for Gold-Medal Performance in Coding Competitions**|Aleksander Ficek et.al.|[2609.02849](http://arxiv.org/abs/2609.02849)|null|
@@ -9852,6 +9892,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-03**|**Legibility is Not Interpretability: Comparing Judged and Actual Importance in Chain-Of-Thought Reasoning**|Kevin Du et.al.|[2609.04194](http://arxiv.org/abs/2609.04194)|null|
+|**2026-09-03**|**A Computationally Feasible Framework for Causal Probabilistic Explanation**|Rafal Urbaniak et.al.|[2609.04177](http://arxiv.org/abs/2609.04177)|null|
+|**2026-09-03**|**A Low-Cost, Open Platform for End-to-End Autonomous Driving on a Miniature Ackermann Vehicle**|Gustavo Claudio Karl Couto et.al.|[2609.04147](http://arxiv.org/abs/2609.04147)|null|
+|**2026-09-03**|**HyperDet Wavefunction: A Phase-Agnostic Ansatz for Strongly Correlated Systems**|Xiaodong Hu et.al.|[2609.04146](http://arxiv.org/abs/2609.04146)|null|
+|**2026-09-03**|**Sequential Beats Joint: On the Interplay between On-Policy Distillation and RLVR**|Boyan Li et.al.|[2609.04108](http://arxiv.org/abs/2609.04108)|null|
+|**2026-09-03**|**Zero sum two-player differential game under three regimes**|Brahim El Asri et.al.|[2609.04100](http://arxiv.org/abs/2609.04100)|null|
+|**2026-09-03**|**DRACO: Fine-Grained Credit Assignment with Dynamic Rubrics for Long-Horizon Agent Training**|Shubham Gandhi et.al.|[2609.04094](http://arxiv.org/abs/2609.04094)|null|
+|**2026-09-03**|**Monitoring antiproton numbers with a CMOS detector in a dense-track environment**|C. Regenfus et.al.|[2609.04078](http://arxiv.org/abs/2609.04078)|null|
+|**2026-09-03**|**Subspace Inference Enables Efficient Active Reward Learning from Preferences**|Yutai Zhou et.al.|[2609.04066](http://arxiv.org/abs/2609.04066)|null|
+|**2026-09-03**|**Spurious Advantage Hidden in GRPO**|Jiamian Wang et.al.|[2609.04063](http://arxiv.org/abs/2609.04063)|null|
+|**2026-09-03**|**When Models Edit Too Much: On the Fidelity of Minimal Code Edits**|Tongyao Zhu et.al.|[2609.04061](http://arxiv.org/abs/2609.04061)|null|
+|**2026-09-03**|**Mechanistic Framework for Multicomponent Nanoparticle Assembly: Predicting RNA-lipid and PEI-DNA nanoparticle assembly**|Turash Haque Pial et.al.|[2609.04029](http://arxiv.org/abs/2609.04029)|null|
+|**2026-09-03**|**RobustSeiz: An Open-Source Framework for Benchmarking the Robustness of EEG Seizure Detection Models**|Mohammad Mohammadi et.al.|[2609.04007](http://arxiv.org/abs/2609.04007)|null|
+|**2026-09-03**|**The Dually Flat Geometry of Planning as Inference**|Nikola Milosevic et.al.|[2609.04005](http://arxiv.org/abs/2609.04005)|null|
+|**2026-09-03**|**FiMI Banking: A Sovereign Model for Indian Retail Banking**| NPCI AI Research Team et.al.|[2609.03960](http://arxiv.org/abs/2609.03960)|null|
+|**2026-09-03**|**Two-Stage Reinforcement Learning for Sound and Adversarial Test Generation in Code LLMs**|Jiacheng Xu et.al.|[2609.03955](http://arxiv.org/abs/2609.03955)|null|
+|**2026-09-03**|**WorldReward: Reward Modeling for Camera-Conditioned World Models**|Yibin Wang et.al.|[2609.03952](http://arxiv.org/abs/2609.03952)|null|
+|**2026-09-03**|**Revisiting Topological Graphs for Macro Action based Closed-loop Reinforcement Learning of Vision Language Navigation in Continuous Environment**|Shuhao Ye et.al.|[2609.03906](http://arxiv.org/abs/2609.03906)|null|
+|**2026-09-03**|**Extremal Families for Matchings in Permutations**|Mengyu Cao et.al.|[2609.03904](http://arxiv.org/abs/2609.03904)|null|
+|**2026-09-03**|**Universal Driven Critical Dynamics of Entanglement Entropy**|Chang-Yu Shen et.al.|[2609.03854](http://arxiv.org/abs/2609.03854)|null|
 |**2026-09-02**|**Discriminative World Models for Web Agents**|Kelvin Li et.al.|[2609.02885](http://arxiv.org/abs/2609.02885)|null|
 |**2026-09-02**|**Post-Training Language Models for Gold-Medal Performance in Coding Competitions**|Aleksander Ficek et.al.|[2609.02849](http://arxiv.org/abs/2609.02849)|null|
 |**2026-09-02**|**Model-level synthetic-flux control of hyperchaos order and matched-resource sensing in dissipative optomechanics**|Stella Rolande Mbokop Tchounda et.al.|[2609.02827](http://arxiv.org/abs/2609.02827)|null|
