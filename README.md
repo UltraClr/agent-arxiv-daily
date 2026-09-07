@@ -34,7 +34,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |**2026-09-03**|**Hierarchical automation of scanning probe microscopy through agentic orchestration and algorithmic control**|Boris N. Slautin et.al.|[2609.04015](http://arxiv.org/abs/2609.04015)|null|
 |**2026-09-03**|**Unlocking Lossless Speedups in LLMs via Discrete Diffusion**|Subham Sekhar Sahoo et.al.|[2609.04010](http://arxiv.org/abs/2609.04010)|null|
 |**2026-09-03**|**Shifting from Injection to Interaction: Rethinking Web Security in the Age of LLMs and Beyond**|Nivedita Singh et.al.|[2609.03999](http://arxiv.org/abs/2609.03999)|null|
-|**2026-09-03**|**FiMI Banking: A Sovereign Model for Indian Retail Banking**| NPCI AI Research Team et.al.|[2609.03960](http://arxiv.org/abs/2609.03960)|null|
+|**2026-09-03**|**FiMI Banking: A Sovereign Model for Indian Retail Banking**|NPCI AI Research Team et.al.|[2609.03960](http://arxiv.org/abs/2609.03960)|null|
 |**2026-09-03**|**Speak for Me: Giving LLMs the Situational Awareness to Participate in a Meeting**|Muneeb Khan et.al.|[2609.03923](http://arxiv.org/abs/2609.03923)|null|
 |**2026-09-03**|**Value-Preserving Architectures for Agentic AI Systems**|Alessandro Pesare et.al.|[2609.03920](http://arxiv.org/abs/2609.03920)|null|
 |**2026-09-03**|**A Blind Trust, the Bloody Thrust: When Attacker-Controlled Hook Updates Steer AI Agent Harnesses towards Malicious Behaviors**|Pengxun Li et.al.|[2609.03884](http://arxiv.org/abs/2609.03884)|null|
@@ -60,7 +60,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |**2026-09-02**|**CAPTURE: Disentangling Preference Drift from Memory Poisoning in Personalized LLM Agents**|S M Asif Hossain et.al.|[2609.02265](http://arxiv.org/abs/2609.02265)|null|
 |**2026-09-02**|**PhoenixNest-Video: Evidence-Grounded Multimodal Agent Framework for Automated Video Interview Assessment**|Fan Yuxuan et.al.|[2609.02231](http://arxiv.org/abs/2609.02231)|null|
 |**2026-09-02**|**SkillGLoW: Procedural-Family Skill Consolidation for Self-Improving Agents on Long-Horizon Task Streams**|Ao Yan et.al.|[2609.02217](http://arxiv.org/abs/2609.02217)|null|
-|**2026-09-02**|**Agentic Settlement Protocol: An Application Profile for Refundable, Delayed-Fulfilment Agent Commerce on Stablecoin Rails**| Behnam et.al.|[2609.02208](http://arxiv.org/abs/2609.02208)|null|
+|**2026-09-02**|**Agentic Settlement Protocol: An Application Profile for Refundable, Delayed-Fulfilment Agent Commerce on Stablecoin Rails**|Behnam et.al.|[2609.02208](http://arxiv.org/abs/2609.02208)|null|
 |**2026-09-01**|**Mechanism Design for Alignment and Control**|Dirk Bergemann et.al.|[2609.01595](http://arxiv.org/abs/2609.01595)|null|
 |**2026-09-01**|**Designing Proactive Thought Partners for Writing**|Chao Zhang et.al.|[2609.01588](http://arxiv.org/abs/2609.01588)|null|
 |**2026-09-01**|**From Production Traffic to Post-Training: Building a Self-Hosted LLM That Covers the Corporate Request Mix**|Olga Tsymboi et.al.|[2609.01572](http://arxiv.org/abs/2609.01572)|null|
@@ -9906,7 +9906,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |**2026-09-03**|**Mechanistic Framework for Multicomponent Nanoparticle Assembly: Predicting RNA-lipid and PEI-DNA nanoparticle assembly**|Turash Haque Pial et.al.|[2609.04029](http://arxiv.org/abs/2609.04029)|null|
 |**2026-09-03**|**RobustSeiz: An Open-Source Framework for Benchmarking the Robustness of EEG Seizure Detection Models**|Mohammad Mohammadi et.al.|[2609.04007](http://arxiv.org/abs/2609.04007)|null|
 |**2026-09-03**|**The Dually Flat Geometry of Planning as Inference**|Nikola Milosevic et.al.|[2609.04005](http://arxiv.org/abs/2609.04005)|null|
-|**2026-09-03**|**FiMI Banking: A Sovereign Model for Indian Retail Banking**| NPCI AI Research Team et.al.|[2609.03960](http://arxiv.org/abs/2609.03960)|null|
+|**2026-09-03**|**FiMI Banking: A Sovereign Model for Indian Retail Banking**|NPCI AI Research Team et.al.|[2609.03960](http://arxiv.org/abs/2609.03960)|null|
 |**2026-09-03**|**Two-Stage Reinforcement Learning for Sound and Adversarial Test Generation in Code LLMs**|Jiacheng Xu et.al.|[2609.03955](http://arxiv.org/abs/2609.03955)|null|
 |**2026-09-03**|**WorldReward: Reward Modeling for Camera-Conditioned World Models**|Yibin Wang et.al.|[2609.03952](http://arxiv.org/abs/2609.03952)|null|
 |**2026-09-03**|**Revisiting Topological Graphs for Macro Action based Closed-loop Reinforcement Learning of Vision Language Navigation in Continuous Environment**|Shuhao Ye et.al.|[2609.03906](http://arxiv.org/abs/2609.03906)|null|
