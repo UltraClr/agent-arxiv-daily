@@ -21,6 +21,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-08**|**ReCite: Agentic Reasoning for Faithful Citation**|Yuyang Huang et.al.|[2609.09156](http://arxiv.org/abs/2609.09156)|null|
+|**2026-09-08**|**Procedural Graphs: Self-Evolving Execution Structures for LLM Agents**|Yuxing Lu et.al.|[2609.09153](http://arxiv.org/abs/2609.09153)|null|
+|**2026-09-08**|**Copying explains the collective behavior of AI agents in the wild**|Giordano De Marzo et.al.|[2609.09150](http://arxiv.org/abs/2609.09150)|null|
+|**2026-09-08**|**ExecCritic: Learn to Test, Test to Improve for Coding Agents**|Leitian Tao et.al.|[2609.09133](http://arxiv.org/abs/2609.09133)|null|
+|**2026-09-08**|**MeClear: Cooperative Game-Theoretic Attribution and Risk-Aware Memory Clearance for Long-Horizon LLM Agents**|Boyu Yang et.al.|[2609.09115](http://arxiv.org/abs/2609.09115)|null|
+|**2026-09-08**|**SAEScientist-Bench: Can AI Agents Conduct Autonomous SAE Interpretability Research?**|Yuqiao Tan et.al.|[2609.09113](http://arxiv.org/abs/2609.09113)|null|
+|**2026-09-08**|**PrivEscalate: Measuring and Augmenting the Threat of LLM-Automated Linux Privilege Escalation**|Yixuan Liu et.al.|[2609.09087](http://arxiv.org/abs/2609.09087)|null|
+|**2026-09-08**|**ToolLoop: Closed-Loop Tool-Use Data Synthesis via Decomposed Generation and Dynamic Self-Feedback**|Min Zeng et.al.|[2609.09072](http://arxiv.org/abs/2609.09072)|null|
+|**2026-09-08**|**Time-Varying Data as Sheaves: an Invitation to Narratives**|Wilmer Leal et.al.|[2609.09056](http://arxiv.org/abs/2609.09056)|null|
+|**2026-09-08**|**PlannerForge: LLM Agents for Scenario-Based Testing of Motion Planners in Autonomous Driving**|Yuan Gao et.al.|[2609.08965](http://arxiv.org/abs/2609.08965)|null|
+|**2026-09-08**|**Experience Funnel: A State-Policy Alternating Loop for Self-Evolving Agents**|Wenbo Gao et.al.|[2609.08919](http://arxiv.org/abs/2609.08919)|null|
+|**2026-09-08**|**Closing the Consistency Gap: Self-Evolving Agents That Learn to Stay on Course**|Evelyn Duesterwald et.al.|[2609.08832](http://arxiv.org/abs/2609.08832)|null|
+|**2026-09-08**|**A Controlled Comparison of Manual and Teleoperated Intraocular Instrument Motion for an Input Device**|Korab Hoxha et.al.|[2609.08770](http://arxiv.org/abs/2609.08770)|null|
+|**2026-09-08**|**MorphoOrgaAgent: A Foundation-Model-Based Multi-Agent System for Autonomous Organoid Analysis**|Hanyi Zhang et.al.|[2609.08696](http://arxiv.org/abs/2609.08696)|null|
+|**2026-09-08**|**Graph-Based Personalized Memory for LLM Agents: Representation, Evolution, Retrieval, and Evaluation**|Dac Duy Anh Nguyen et.al.|[2609.08599](http://arxiv.org/abs/2609.08599)|null|
+|**2026-09-08**|**A Three-Tier Persona Vector for Controllable User Simulation in Agentic Evaluation**|Rahul Khedar et.al.|[2609.08592](http://arxiv.org/abs/2609.08592)|null|
+|**2026-09-08**|**The Unreliable Progress Bar: Can LLM Agents Reliably Report Task Progress Throughout Execution?**|Boyang Wang et.al.|[2609.08589](http://arxiv.org/abs/2609.08589)|null|
+|**2026-09-08**|**BIO-MEMART: Biometric-Aware KV Cache Memory for Multi-User LLM Agents**|Yanhong Qian et.al.|[2609.08566](http://arxiv.org/abs/2609.08566)|null|
+|**2026-09-08**|**PLC-Bin2Src: Retrieving Corresponding Structured Text Source Files for PLC Binaries**|Ang Jia et.al.|[2609.08563](http://arxiv.org/abs/2609.08563)|null|
+|**2026-09-08**|**Personalizing LLM Agent Memory Using Biometrics**|Yanhong Qian et.al.|[2609.08558](http://arxiv.org/abs/2609.08558)|null|
 |**2026-09-04**|**Multi-Step Tool-Calling over Korean Open Public APIs: A Benchmark and a Data-Synthesis Recipe**|Dain Kim et.al.|[2609.05395](http://arxiv.org/abs/2609.05395)|null|
 |**2026-09-04**|**Necessary or Sufficient? Evaluating LLM Explanations With Behavioural Evidence**|Urja Pawar et.al.|[2609.05385](http://arxiv.org/abs/2609.05385)|null|
 |**2026-09-04**|**Design Docs Are All You Need: An AI-native Machine-Learning Performance Tool**|Samuel Kushnir et.al.|[2609.05364](http://arxiv.org/abs/2609.05364)|null|
@@ -5031,6 +5051,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-08**|**Procedural Graphs: Self-Evolving Execution Structures for LLM Agents**|Yuxing Lu et.al.|[2609.09153](http://arxiv.org/abs/2609.09153)|null|
+|**2026-09-08**|**Canonical Color as a Lens into Concept Decodability in Vision Encoders and VLMs**|Xiaofu Chen et.al.|[2609.09124](http://arxiv.org/abs/2609.09124)|null|
+|**2026-09-08**|**MeClear: Cooperative Game-Theoretic Attribution and Risk-Aware Memory Clearance for Long-Horizon LLM Agents**|Boyu Yang et.al.|[2609.09115](http://arxiv.org/abs/2609.09115)|null|
+|**2026-09-08**|**Measuring LLM Sycophancy under Sustained Multi-Turn Pressure**|Leyuan Tang et.al.|[2609.09090](http://arxiv.org/abs/2609.09090)|null|
+|**2026-09-08**|**PrivEscalate: Measuring and Augmenting the Threat of LLM-Automated Linux Privilege Escalation**|Yixuan Liu et.al.|[2609.09087](http://arxiv.org/abs/2609.09087)|null|
+|**2026-09-08**|**It's Not RoPE that Creates Sinks: The Role of Self-Concentration and Value-Non-Mixing in Attention**|Raito Kiya et.al.|[2609.09085](http://arxiv.org/abs/2609.09085)|null|
+|**2026-09-08**|**GoDeep: Annotation-Free Open-Vocabulary 3D Scene Understanding via Language-Space Lifting**|Thodoris Betsas et.al.|[2609.09082](http://arxiv.org/abs/2609.09082)|null|
+|**2026-09-08**|**ToolLoop: Closed-Loop Tool-Use Data Synthesis via Decomposed Generation and Dynamic Self-Feedback**|Min Zeng et.al.|[2609.09072](http://arxiv.org/abs/2609.09072)|null|
+|**2026-09-08**|**Performance of Clinical AI System and Physicians and Frontier Language Models in primary care diagnostics**|Andy Nkansah et.al.|[2609.09070](http://arxiv.org/abs/2609.09070)|null|
+|**2026-09-08**|**PlayTrain: An Efficient Reinforcement Learning Framework for LLM-Generated Adaptable JavaScript Games**|Ryan Truong et.al.|[2609.09059](http://arxiv.org/abs/2609.09059)|null|
+|**2026-09-08**|**Training-Free Task Vectors for LLM Behavioral Control**|Gabriel J. Perin et.al.|[2609.09054](http://arxiv.org/abs/2609.09054)|null|
+|**2026-09-08**|**The Audit Decides the Verdict: Instrument Effects Rival Demographic Bias in LLM Decision Audits**|Siddharth Vohra et.al.|[2609.09048](http://arxiv.org/abs/2609.09048)|null|
+|**2026-09-08**|**Do Reasoning Representations Help Humans Evaluate LLM Outputs?**|Jaewoo Lim et.al.|[2609.09038](http://arxiv.org/abs/2609.09038)|null|
+|**2026-09-08**|**Answer-Distribution Trajectories: A Stochastic-Dynamics View of LLM Reasoning**|Mar Gonzàlez I Català et.al.|[2609.09030](http://arxiv.org/abs/2609.09030)|null|
+|**2026-09-08**|**Evaluation of Contextual Understanding in Large Language Models**|Subavarshana Arumugam et.al.|[2609.09004](http://arxiv.org/abs/2609.09004)|null|
+|**2026-09-08**|**Factorized and Vectorized Execution: Optimizing Analytical and Semantic Queries over Relations**|Sunny Yasser et.al.|[2609.09002](http://arxiv.org/abs/2609.09002)|null|
+|**2026-09-08**|**Transformers as In-Context Samplers: From Closed-Form Diffusion to Estimation-Free Sampling**|Arman Adibi et.al.|[2609.08981](http://arxiv.org/abs/2609.08981)|null|
+|**2026-09-08**|**Good Pretraining, Bad SFT: Checkpoint Quality Across the Training Stack**|Sohir Maskey et.al.|[2609.08966](http://arxiv.org/abs/2609.08966)|null|
+|**2026-09-08**|**PlannerForge: LLM Agents for Scenario-Based Testing of Motion Planners in Autonomous Driving**|Yuan Gao et.al.|[2609.08965](http://arxiv.org/abs/2609.08965)|null|
+|**2026-09-08**|**SQLMorph: Query Mutation and Fine-Grained Metrics for Text-to-SQL Evaluation**|Mohammadhossein Malekpour et.al.|[2609.08950](http://arxiv.org/abs/2609.08950)|null|
 |**2026-09-04**|**Same Trajectory, Contradictory Rewards (ROBORMBENCH): Paraphrase Fragility in Vision Language Reward Models**|Wonje Jeung et.al.|[2609.05401](http://arxiv.org/abs/2609.05401)|null|
 |**2026-09-04**|**Think-Verify-Revise: Neuro-Symbolic Visual Reasoning with Vision-Language Models and Dynamic Logic Tensor Networks**|Homayoun Afshari et.al.|[2609.05388](http://arxiv.org/abs/2609.05388)|null|
 |**2026-09-04**|**Molecular Déjà Vu: Digit-Level Retrieval of Published Values in Frontier Language Models**|Matthias Busch et.al.|[2609.05381](http://arxiv.org/abs/2609.05381)|null|
@@ -9932,6 +9972,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-08**|**A Data-Driven Framework for Identifying and Prioritizing RPA Opportunities in Healthcare Processes**|Maria Alejandra Gomez et.al.|[2609.09137](http://arxiv.org/abs/2609.09137)|null|
+|**2026-09-08**|**Entropy-Regularized Rank-Masked Policy Optimization for Test-Time Reinforcement Learning in Code Generation**|Jiacheng Xu et.al.|[2609.09135](http://arxiv.org/abs/2609.09135)|null|
+|**2026-09-08**|**ExecCritic: Learn to Test, Test to Improve for Coding Agents**|Leitian Tao et.al.|[2609.09133](http://arxiv.org/abs/2609.09133)|null|
+|**2026-09-08**|**The Surprising Effectiveness of Approximate Value Iteration in Self-Play**|Raphael Boige et.al.|[2609.09094](http://arxiv.org/abs/2609.09094)|null|
+|**2026-09-08**|**ThinkPrior: Zero-Rollout Difficulty Priors for Cold-Start Prompt Selection in RLVR**|Tommy Sha et.al.|[2609.09075](http://arxiv.org/abs/2609.09075)|null|
+|**2026-09-08**|**Effects of Interaction Range on Fluid Multicriticality: A Computational Study of an Interconverting Lattice Model**|Thomas J. Longo et.al.|[2609.09074](http://arxiv.org/abs/2609.09074)|null|
+|**2026-09-08**|**The Path Integral Monte Carlo Sign Problem Is Not Always NP-Hard: Harmonic Fermions Can Be Solved in Quadratic Time**|Aarif Chaudhary et.al.|[2609.09071](http://arxiv.org/abs/2609.09071)|null|
+|**2026-09-08**|**Efficient Quantile-Resolved Hosting Capacity Assessment on Nodal Level for Low-Voltage Grids**|Maximilian Köhler et.al.|[2609.09060](http://arxiv.org/abs/2609.09060)|null|
+|**2026-09-08**|**PlayTrain: An Efficient Reinforcement Learning Framework for LLM-Generated Adaptable JavaScript Games**|Ryan Truong et.al.|[2609.09059](http://arxiv.org/abs/2609.09059)|null|
+|**2026-09-08**|**Selection Rules for Species Coexistence in a Hierarchical May-Leonard Model**|Rakesh Samanta et.al.|[2609.09027](http://arxiv.org/abs/2609.09027)|null|
+|**2026-09-08**|**On the sample complexity of the active subspace method**|Fabio Nobile et.al.|[2609.08940](http://arxiv.org/abs/2609.08940)|null|
+|**2026-09-08**|**AuK Technical Report: An Open-Source Foundational Model for Speech Generation and Editing**|Ziyang Ma et.al.|[2609.08936](http://arxiv.org/abs/2609.08936)|null|
+|**2026-09-08**|**Probing the Inert Scalar Sector of the Inert Doublet Model via Vector-Boson Fusion at a Muon Collider**|Abdesslam Arhrib et.al.|[2609.08918](http://arxiv.org/abs/2609.08918)|null|
+|**2026-09-08**|**Strong Polarization Signatures from Magnetically Stabilized Luminous Thin Accretion Disks**|P. Chris Fragile et.al.|[2609.08895](http://arxiv.org/abs/2609.08895)|null|
+|**2026-09-08**|**On Weighted Mathai-Haubold Entropy Measures**|Oindrali Das et.al.|[2609.08889](http://arxiv.org/abs/2609.08889)|null|
+|**2026-09-08**|**Equilibria for Time-inconsistent Regular-singular Control Problems**|Yuting Jia et.al.|[2609.08877](http://arxiv.org/abs/2609.08877)|null|
+|**2026-09-08**|**CAST: Alternating State-Value Targets and Expanded Policy Gradients for Model-Based Reinforcement Learning**|Pietro Noah Crestaz et.al.|[2609.08853](http://arxiv.org/abs/2609.08853)|null|
+|**2026-09-08**|**Asynchronous Model Predictive Control Under Model Mismatch: Stability and Performance Guarantees**|Changrui Liu et.al.|[2609.08836](http://arxiv.org/abs/2609.08836)|null|
+|**2026-09-08**|**Graph-Based Safe Reinforcement Learning for Multi-Agent Systems with Time-Varying Topology**|Xiao Sizhe et.al.|[2609.08802](http://arxiv.org/abs/2609.08802)|null|
+|**2026-09-08**|**Eliciting Weak-to-Strong Generalization with On-Policy Reverse Distillation**|Youngrok Park et.al.|[2609.08798](http://arxiv.org/abs/2609.08798)|null|
 |**2026-09-04**|**Beyond Scalar Flexibility: From Eligible AI Workloads to Dependable Load Relief**|Meiyi Li et.al.|[2609.05406](http://arxiv.org/abs/2609.05406)|null|
 |**2026-09-04**|**Same Trajectory, Contradictory Rewards (ROBORMBENCH): Paraphrase Fragility in Vision Language Reward Models**|Wonje Jeung et.al.|[2609.05401](http://arxiv.org/abs/2609.05401)|null|
 |**2026-09-04**|**Sharp exponential integrability of conjugate functions**|David Norrbo et.al.|[2609.05348](http://arxiv.org/abs/2609.05348)|null|
