@@ -16,6 +16,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-10**|**Caption-once, Frames-on-Demand: Visual-Need Routing for Budget-Aware Agentic Long Video Understanding**|Weitong Cai et.al.|[2609.11899](http://arxiv.org/abs/2609.11899)|null|
+|**2026-09-10**|**Explainability Assistant: A Conversational XAI Interface for Interpreting Energy Consumption Models**|Rodion Krjutškov et.al.|[2609.11860](http://arxiv.org/abs/2609.11860)|null|
+|**2026-09-10**|**Signing the Transaction but Not the Decision: Whisper Attacks and a Binding Defense for AP2**|Yedidel Louck et.al.|[2609.11757](http://arxiv.org/abs/2609.11757)|null|
+|**2026-09-10**|**Reproducibility in the Age of Agentic AI: Context Engineering at the Timescale of a Codebase**|Lorena A. Barba et.al.|[2609.11728](http://arxiv.org/abs/2609.11728)|null|
+|**2026-09-10**|**When Agents Disagree: Bayesian Backward Reasoning as a Label-Free Anchor for Multi-Agent Collective Decision-Making**|Ken Chen et.al.|[2609.11709](http://arxiv.org/abs/2609.11709)|null|
+|**2026-09-10**|**COBRA-Skills: Contextual Bandit-Guided Evolution for Agent Skill Optimization**|Pingchen Lu et.al.|[2609.11682](http://arxiv.org/abs/2609.11682)|null|
+|**2026-09-10**|**Ecdysis: Efficient and Effective Training of Runtime Harnesses for LLM Agents**|Ruiqing Yue et.al.|[2609.11677](http://arxiv.org/abs/2609.11677)|null|
+|**2026-09-10**|**Autonomy, Social Norms, and Alignment: Towards a Developmental Framework for Autonomous Artificial Agents**|Marica Notte et.al.|[2609.11660](http://arxiv.org/abs/2609.11660)|null|
+|**2026-09-10**|**Making Alternative Data Work: Context-Augmented LLMs for Financial Forecasting**|Jihoon Kwon et.al.|[2609.11607](http://arxiv.org/abs/2609.11607)|null|
+|**2026-09-10**|**From Intent to Execution Grant: An Execution-Boundary Conformance Profile for High-Risk AI Actions**|Mengting Wu et.al.|[2609.11596](http://arxiv.org/abs/2609.11596)|null|
+|**2026-09-10**|**Ethics Training Agents: Facilitating Group-Based Ethics Education with Role-Playing and Discussion for Ethical Reflection and Exploration**|Youngseok Seo et.al.|[2609.11529](http://arxiv.org/abs/2609.11529)|null|
+|**2026-09-10**|**Recursive Code World Models: Building Complex Worlds through Recursive Scene Programs**|Zhiqi Li et.al.|[2609.11499](http://arxiv.org/abs/2609.11499)|null|
+|**2026-09-10**|**From Document Silos to Process Intelligence: A Multi-Layer Knowledge Graph for CMC Process Development**|Reza Amirmoshiri et.al.|[2609.11493](http://arxiv.org/abs/2609.11493)|null|
+|**2026-09-10**|**The Convention Gap: Towards Measuring Implicit Communication in Cooperative AI Evaluation**|Makoto Fukushima et.al.|[2609.11489](http://arxiv.org/abs/2609.11489)|null|
+|**2026-09-10**|**Mr.LHDR: A Benchmark for Multimodal Real-World Long-Horizon Deep Research Agents**|Minghao Guo et.al.|[2609.11318](http://arxiv.org/abs/2609.11318)|null|
+|**2026-09-10**|**Memory Compression for High-Fanout Agent Sandboxes**|Mengming Li et.al.|[2609.11294](http://arxiv.org/abs/2609.11294)|null|
+|**2026-09-10**|**A Voice-Interactive Multi-Agent System for Smart Operating Rooms: Architecture Design and Key Technologies**|Tianxiang Zhou et.al.|[2609.11231](http://arxiv.org/abs/2609.11231)|null|
+|**2026-09-10**|**Harness Robotic OS: A Unified Embodied-Agent Runtime for Closed-Loop Quadruped Inspection**|Yaoyuan Yan et.al.|[2609.11225](http://arxiv.org/abs/2609.11225)|null|
+|**2026-09-10**|**SemVerBench: Benchmarking LLM Comprehension of Version-Constraint Resolution Semantics**|Qibai Chen et.al.|[2609.11180](http://arxiv.org/abs/2609.11180)|null|
+|**2026-09-10**|**Autonomous Chemical Mechanistic Discovery through Agentic Reasoning and Validation**|Dong Li et.al.|[2609.11147](http://arxiv.org/abs/2609.11147)|null|
 |**2026-09-09**|**IdeaAMBIG: Benchmarking Implementation-Critical Gaps in Research-Idea Specifications**|Yiling Ma et.al.|[2609.10539](http://arxiv.org/abs/2609.10539)|null|
 |**2026-09-09**|**Avatar: Toward Autonomous End-to-End Orchestration of Scientific Workflows using LLMs**|Suman Raj et.al.|[2609.10509](http://arxiv.org/abs/2609.10509)|null|
 |**2026-09-09**|**Glyph: A Multi-Strategy Agentic System for Column Description and Sensitivity-Ontology Tagging of Enterprise Data Catalogs**|Kostia Kudriavtsev et.al.|[2609.10430](http://arxiv.org/abs/2609.10430)|null|
@@ -5064,6 +5084,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-10**|**Data Scarcity and Model Sparsity: Mixtures-of-Experts Overfit More to Repeated Data**|Atindra Jha et.al.|[2609.11917](http://arxiv.org/abs/2609.11917)|null|
+|**2026-09-10**|**Can Edge-Deployable Vision-Language Models Identify Species?**|William Zhou et.al.|[2609.11916](http://arxiv.org/abs/2609.11916)|null|
+|**2026-09-10**|**Nuha-Speech: Building General-Purpose Arabic Speech-LLMs**|Yingzhi Wang et.al.|[2609.11892](http://arxiv.org/abs/2609.11892)|null|
+|**2026-09-10**|**Domain-Specific Hallucination Detection in Large Language Models**|Varun Teja Chundru et.al.|[2609.11878](http://arxiv.org/abs/2609.11878)|null|
+|**2026-09-10**|**Augustinian BabyLM: What Ostensive Definition Can and Cannot Teach a Small Language Model**|Lisa Bylinina et.al.|[2609.11870](http://arxiv.org/abs/2609.11870)|null|
+|**2026-09-10**|**RetroThinker: Enabling Retrospective Thinking in Speech LLMs**|Yi-Jen Shih et.al.|[2609.11864](http://arxiv.org/abs/2609.11864)|null|
+|**2026-09-10**|**Explainability Assistant: A Conversational XAI Interface for Interpreting Energy Consumption Models**|Rodion Krjutškov et.al.|[2609.11860](http://arxiv.org/abs/2609.11860)|null|
+|**2026-09-10**|**From Parameters to Answers: How LLMs Retrieve and Use Their Internal Knowledge**|Wenkang Wei et.al.|[2609.11859](http://arxiv.org/abs/2609.11859)|null|
+|**2026-09-10**|**BlueSTAR: Tiered Agentic Architecture for Autonomous Cyber Defense**|Simona Boboila et.al.|[2609.11852](http://arxiv.org/abs/2609.11852)|null|
+|**2026-09-10**|**Atlas: Efficient Verifiable Semantic Search**|Nikolay Avramov et.al.|[2609.11841](http://arxiv.org/abs/2609.11841)|null|
+|**2026-09-10**|**SpecGuard: Inference-Time Backdoor Detection For Free**|Rui Wen et.al.|[2609.11799](http://arxiv.org/abs/2609.11799)|null|
+|**2026-09-10**|**Dynamic language model representations for multi-objective reaction optimisation**|Joshua W. Sin et.al.|[2609.11790](http://arxiv.org/abs/2609.11790)|null|
+|**2026-09-10**|**Beyond Word Error Rate: A Switch Aware Evaluation of ASR and Audio Language Models on English Yoruba Code-Switched Speech**|Chibuzor Okocha et.al.|[2609.11786](http://arxiv.org/abs/2609.11786)|null|
+|**2026-09-10**|**The widening evaluation gap in medical large language model research 2023 to 2026**|Raad Bin Tareaf et.al.|[2609.11770](http://arxiv.org/abs/2609.11770)|null|
+|**2026-09-10**|**Recognizing Is Not Reversing: A Controlled Inversion Test of Fact-Preserving News Framing**|Yi Liu et.al.|[2609.11769](http://arxiv.org/abs/2609.11769)|null|
+|**2026-09-10**|**Component-Aware Differential Privacy for Federated Multilingual Speech-LLMs**|Jordi Luque et.al.|[2609.11762](http://arxiv.org/abs/2609.11762)|null|
+|**2026-09-10**|**RAG-Safety-Bench: Reliable Evaluation of Retrieval-Augmented LLM Safety**|Adithiyan Rajan Indira Saravanan et.al.|[2609.11758](http://arxiv.org/abs/2609.11758)|null|
+|**2026-09-10**|**SIRF: A Spec-Internalized Risk Foundation Model for Industrial Content Risk Control**|Suwan Wu et.al.|[2609.11752](http://arxiv.org/abs/2609.11752)|null|
+|**2026-09-10**|**From Good Starts to Optimal Inference: Generalized Latent Factor Models with Missingness and Implicit Regularization**|Chengzhu Huang et.al.|[2609.11740](http://arxiv.org/abs/2609.11740)|null|
+|**2026-09-10**|**LOCUS: Task-Aware Low-Rank Post-Training for Token-Efficient Language Generation**|Dongfang Zhao et.al.|[2609.11739](http://arxiv.org/abs/2609.11739)|null|
 |**2026-09-09**|**Towards Tackling Application Logic Flaws through Autonomous Formal-Logic Modeling and Automated Reasoning**|Yiwei Fang et.al.|[2609.10537](http://arxiv.org/abs/2609.10537)|null|
 |**2026-09-09**|**Show-Harness: Just a VLM Agent Can Play Robots**|Yanzhe Chen et.al.|[2609.10522](http://arxiv.org/abs/2609.10522)|null|
 |**2026-09-09**|**Private communication via zero-private-capacity quantum channels**|Chengkai Zhu et.al.|[2609.10520](http://arxiv.org/abs/2609.10520)|null|
@@ -10003,6 +10043,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-10**|**SenseNova-U1.5: Towards Native Unified Visual Intelligence**|Haiwen Diao et.al.|[2609.11929](http://arxiv.org/abs/2609.11929)|null|
+|**2026-09-10**|**MindTopo: Can Foundation Models Reason in Topological Space?**|Yunfei Ge et.al.|[2609.11900](http://arxiv.org/abs/2609.11900)|null|
+|**2026-09-10**|**3D Point Splatting for mmWave Radar Novel View Synthesis**|Adnan Armouti et.al.|[2609.11894](http://arxiv.org/abs/2609.11894)|null|
+|**2026-09-10**|**Domain-Specific Hallucination Detection in Large Language Models**|Varun Teja Chundru et.al.|[2609.11878](http://arxiv.org/abs/2609.11878)|null|
+|**2026-09-10**|**Constrained Deep Inventory Management Using Forward-Backward SDEs**|Keunwoo Lim et.al.|[2609.11817](http://arxiv.org/abs/2609.11817)|null|
+|**2026-09-10**|**Predefined-Time Resilient Integral Reinforcement Learning for Input-Constrained Unknown Nonlinear Systems Under FDI Attacks and Disturbances: A Fully Data-Driven Approach**|Tien Dat Vu et.al.|[2609.11815](http://arxiv.org/abs/2609.11815)|null|
+|**2026-09-10**|**Near-Optimal Reinforcement Learning with Multi-Step Transition Lookahead**|Corentin Pla et.al.|[2609.11807](http://arxiv.org/abs/2609.11807)|null|
+|**2026-09-10**|**Rapid Learning of Dexterous In-Hand Pen Writing through Real-Time Jacobian Estimation**|Kai Stewart et.al.|[2609.11775](http://arxiv.org/abs/2609.11775)|null|
+|**2026-09-10**|**SEED-UMI: Sharing the Exoskeleton between human and robot for onE-to-one Dexterous demonstration**|Tengbo Yu et.al.|[2609.11753](http://arxiv.org/abs/2609.11753)|null|
+|**2026-09-10**|**Reflex-Informed Neuromuscular Reinforcement Learning for Muscle-Driven Locomotion**|Jian Zhou et.al.|[2609.11733](http://arxiv.org/abs/2609.11733)|null|
+|**2026-09-10**|**Negative Self-Distillation: Learning to Reason by Avoiding Flaws**|Rongcan Pei et.al.|[2609.11699](http://arxiv.org/abs/2609.11699)|null|
+|**2026-09-10**|**Bayesian Superiority in On/Off analysis**|Gleb Babenov et.al.|[2609.11683](http://arxiv.org/abs/2609.11683)|null|
+|**2026-09-10**|**Distributed Optimization of Modular Production Systems using Model-based Reinforcement Learning with Inverse Models**|Andreas Schwung et.al.|[2609.11615](http://arxiv.org/abs/2609.11615)|null|
+|**2026-09-10**|**Deep Learning of Robust Market Making under Regime-Switching Order Flow**|Felipe Moret et.al.|[2609.11614](http://arxiv.org/abs/2609.11614)|null|
+|**2026-09-10**|**Multi-Threshold Sampling: Signal Space, Sampling Operators, and Crossing-Time Distributions**|Ao Qiu et.al.|[2609.11610](http://arxiv.org/abs/2609.11610)|null|
+|**2026-09-10**|**Kinetic modeling of molecular beam formation in a cryogenic buffer-gas cell**|Ekkehard Steinmacher et.al.|[2609.11544](http://arxiv.org/abs/2609.11544)|null|
+|**2026-09-10**|**Post-Training Zero-Shot TTS for Fine-Grained Emotion and Duration Control via Natural Language**|Lianru Gao et.al.|[2609.11523](http://arxiv.org/abs/2609.11523)|null|
+|**2026-09-10**|**Harnessing Intrinsic Subject-Aware Attention for Controllable Multi-Subject Video Generation**|Niange Yu et.al.|[2609.11507](http://arxiv.org/abs/2609.11507)|null|
+|**2026-09-10**|**Tracing Warm Gas through C IV Radiative Transfer**|Jin Lim et.al.|[2609.11487](http://arxiv.org/abs/2609.11487)|null|
+|**2026-09-10**|**Work as a function of protocol duration for the efficient erasure of an underdamped memory: isothermal to adiabatic transition**|Nicolas Barros et.al.|[2609.11473](http://arxiv.org/abs/2609.11473)|null|
 |**2026-09-09**|**Optimal Intermediate Hamiltonians for Non-Equilibrium Free Energy Calculations: A Numerical Study of Markov Models**|David Beyer et.al.|[2609.10519](http://arxiv.org/abs/2609.10519)|null|
 |**2026-09-09**|**Faster Quantum Monte Carlo Simulation by Random Compilation**|John M. Martyn et.al.|[2609.10486](http://arxiv.org/abs/2609.10486)|null|
 |**2026-09-09**|**Compact totally separated types**|Martín Hötzel Escardó et.al.|[2609.10447](http://arxiv.org/abs/2609.10447)|null|
