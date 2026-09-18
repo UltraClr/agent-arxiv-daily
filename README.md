@@ -1,5 +1,5 @@
 # Agent Research Papers
-### Automatically Updated on 2026.09.17
+### Automatically Updated on 2026.09.18
 Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Autonomous Agent`,`LLM Agent`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,6 +21,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-17**|**Coding Agents with an Obstacle-Aware Harness for Safe Robot Manipulation**|Bingxin Xu et.al.|[2609.20822](http://arxiv.org/abs/2609.20822)|null|
+|**2026-09-17**|**Quantifying Overclaiming Propensity in Frontier LLM Agents**|Nolan Smyth et.al.|[2609.20812](http://arxiv.org/abs/2609.20812)|null|
+|**2026-09-17**|**An Empirical Study of Harness Design for Coding Agents**|Run-Ze Fan et.al.|[2609.20804](http://arxiv.org/abs/2609.20804)|null|
+|**2026-09-17**|**Chronicle: Cut-Point Replay for Regression Testing of LLM Agents**|Tisha Chawla et.al.|[2609.20625](http://arxiv.org/abs/2609.20625)|null|
+|**2026-09-17**|**Language-model groups overstate consensus when replaying human deliberation on a reasoning task**|Tengfei Shao et.al.|[2609.20543](http://arxiv.org/abs/2609.20543)|null|
+|**2026-09-17**|**SoL-Pi: Recursively Scaling Auto-Research Loops for Efficient Agent Harness**|Haozhe Liu et.al.|[2609.20519](http://arxiv.org/abs/2609.20519)|null|
+|**2026-09-17**|**How Do Agent Harnesses Create Value? Planning Information and Release Control in Stateful LLM Agents**|Yukun Zhang et.al.|[2609.20474](http://arxiv.org/abs/2609.20474)|null|
+|**2026-09-17**|**Spotlights: Discovering Improvement Opportunities in Software Repositories**|Udi Barzelay et.al.|[2609.20446](http://arxiv.org/abs/2609.20446)|null|
+|**2026-09-17**|**Welfare-Opaque Income: Taxation under AI-Agent Delegation**|Yukun Zhang et.al.|[2609.20425](http://arxiv.org/abs/2609.20425)|null|
+|**2026-09-17**|**Navi-Agent: Unlocalized Monocular Navigation Agent**|Wenyuan Xie et.al.|[2609.20388](http://arxiv.org/abs/2609.20388)|null|
+|**2026-09-17**|**A Qualitative Model for Reasoning about Path and Support**|Abhishek Jaiswal et.al.|[2609.20349](http://arxiv.org/abs/2609.20349)|null|
+|**2026-09-17**|**RoboFind: Multi-Agent Personalized Object Search for People Who Are Blind or Have Low Vision**|Ruiping Liu et.al.|[2609.20330](http://arxiv.org/abs/2609.20330)|null|
+|**2026-09-17**|**A Scalable Trust Discovery Architecture for the Internet of Agents**|Song Zhang et.al.|[2609.20095](http://arxiv.org/abs/2609.20095)|null|
+|**2026-09-17**|**UnifiedPlayers: Enhance Tool-Integrated Reasoning in Agentic Reinforcement Learning**|Wenjie Liao et.al.|[2609.20089](http://arxiv.org/abs/2609.20089)|null|
+|**2026-09-17**|**MATCH: Model-Aware Tool Learning with Curriculum Scheduling and Hierarchically Gated Rewards**|Shihao Liu et.al.|[2609.20082](http://arxiv.org/abs/2609.20082)|null|
+|**2026-09-17**|**The Missing Complement: State-Conditioned Minimal Sufficient Evidence for Coding Agents**|Zhexi Feng et.al.|[2609.20050](http://arxiv.org/abs/2609.20050)|null|
+|**2026-09-17**|**IRIS-HEP 2026 Statistical Ecosystem Blueprint White Paper**|Matthew Feickert et.al.|[2609.19992](http://arxiv.org/abs/2609.19992)|null|
+|**2026-09-17**|**Not All AI Agents Are Equal: Characterizing Resource and Performance Dynamics**|Wonmi Choi et.al.|[2609.19947](http://arxiv.org/abs/2609.19947)|null|
+|**2026-09-17**|**MaSCoD: A Multi-Agent Framework for Structural-Context-Guided Candidate Causal Graph Generation**|Yudai Nakada et.al.|[2609.19944](http://arxiv.org/abs/2609.19944)|null|
+|**2026-09-17**|**Learning and Transferring Closed-Loop Robot Software**|So Kuroki et.al.|[2609.19906](http://arxiv.org/abs/2609.19906)|null|
 |**2026-09-16**|**AgentLSD: Evaluating AI Security Agents Under Adversarial Task Contamination**|Matteo Golinelli et.al.|[2609.19140](http://arxiv.org/abs/2609.19140)|null|
 |**2026-09-16**|**In-Context Robot Learning with VLM Agents**|Dongzhou Cheng et.al.|[2609.19138](http://arxiv.org/abs/2609.19138)|null|
 |**2026-09-16**|**Flag Game: A Toy Model for Mechanistic Swarm Interpretability**|Elizabeth Pavlova et.al.|[2609.19124](http://arxiv.org/abs/2609.19124)|null|
@@ -5125,12 +5145,32 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |**2024-01-30**|**A mechanism for discovering semantic relationships among agent communication protocols**|Idoia Berges et.al.|[2401.16216](http://arxiv.org/abs/2401.16216)|null|
 |**2024-01-23**|**Semantic Web Technology for Agent Communication Protocols**|Idoia Berges et.al.|[2401.11841](http://arxiv.org/abs/2401.11841)|null|
 
-<p align=right>(<a href=#updated-on-20260917>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260918>back to top</a>)</p>
 
 ## Large Language Models
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-17**|**Coding Agents with an Obstacle-Aware Harness for Safe Robot Manipulation**|Bingxin Xu et.al.|[2609.20822](http://arxiv.org/abs/2609.20822)|null|
+|**2026-09-17**|**Paint-Anything: Unified Any-Color Control for Image Generation and Editing**|Ji Xie et.al.|[2609.20816](http://arxiv.org/abs/2609.20816)|null|
+|**2026-09-17**|**Score Centering Stabilizes Off-policy Reinforcement Learning**|Martin Marek et.al.|[2609.20807](http://arxiv.org/abs/2609.20807)|null|
+|**2026-09-17**|**StageGuard: Learning Stage Transitions for Long-Horizon Robot Tasks via Agentic Distillation**|Jinbang Huang et.al.|[2609.20791](http://arxiv.org/abs/2609.20791)|null|
+|**2026-09-17**|**Harm Laundering in GPT Models: Evidence That Gender Discrimination Is Transformed Rather Than Reduced Across Safety-Trained Generations**|Sarah Wyer et.al.|[2609.20779](http://arxiv.org/abs/2609.20779)|null|
+|**2026-09-17**|**Large Language Models as Falsifiers for Cyber-Physical Systems**|Ali ArjomandBigdeli et.al.|[2609.20752](http://arxiv.org/abs/2609.20752)|null|
+|**2026-09-17**|**dQwen3.5: Hybrid-Attention Diffusion Language Models**|Anton Xue et.al.|[2609.20751](http://arxiv.org/abs/2609.20751)|null|
+|**2026-09-17**|**Video DeltaNet: A Video-Native Hybrid Attention for Livestream Video Generation**|Haocheng Xi et.al.|[2609.20744](http://arxiv.org/abs/2609.20744)|null|
+|**2026-09-17**|**On-Demand Attention: Language Models Know When to Recall**|Haibo Feng et.al.|[2609.20734](http://arxiv.org/abs/2609.20734)|null|
+|**2026-09-17**|**Summarization Bias: The Directional Collapse of Objective Projection into Told-Mode Labels in Large Language Models --- A Conceptual Framework and Registered Test Protocol**|Levent Bulut et.al.|[2609.20712](http://arxiv.org/abs/2609.20712)|null|
+|**2026-09-17**|**HerHealthEval: Evaluating Multilingual and Register-Sensitive Understanding of Women's Health Communication**|Hassan Saeed Hassan Albattra et.al.|[2609.20684](http://arxiv.org/abs/2609.20684)|null|
+|**2026-09-17**|**Molecular Geometry Understanding Has Unintendedly Emerged in Frontier Large Language Models**|Gregorii A. Semakin et.al.|[2609.20666](http://arxiv.org/abs/2609.20666)|null|
+|**2026-09-17**|**Chronicle: Cut-Point Replay for Regression Testing of LLM Agents**|Tisha Chawla et.al.|[2609.20625](http://arxiv.org/abs/2609.20625)|null|
+|**2026-09-17**|**A Simulation Platform for AUV Fault Recovery: Exploring LLM-Based Diagnostic Strategies**|Khalid Halba et.al.|[2609.20620](http://arxiv.org/abs/2609.20620)|null|
+|**2026-09-17**|**What Does Privileged Information Add to On-Policy Self-Distillation?**|XiuYu Zhang et.al.|[2609.20612](http://arxiv.org/abs/2609.20612)|null|
+|**2026-09-17**|**WiC is Not WSD: A Study on LLMs and Lexical Ambiguity Resolution**|Yi Zhou et.al.|[2609.20593](http://arxiv.org/abs/2609.20593)|null|
+|**2026-09-17**|**SAFARI: An Industrial Benchmark for LLM-Assisted Hazard Analysis and Risk Assessment**|Chenxi Wu et.al.|[2609.20584](http://arxiv.org/abs/2609.20584)|null|
+|**2026-09-17**|**DocAttriBench: Benchmarking Answer Grounding in Document Visual Question Answering**|Luca De Grandis et.al.|[2609.20574](http://arxiv.org/abs/2609.20574)|null|
+|**2026-09-17**|**Steering the Compass: Aligning Dynamic Psychological Counseling Conversations with Cognitive Behavioral Therapy Strategies**|Zimu Wang et.al.|[2609.20565](http://arxiv.org/abs/2609.20565)|null|
+|**2026-09-17**|**Reasoning Quality Matters: Combating Reasoning Collapse in LLM-based Embedding Learning**|Zihan Gong et.al.|[2609.20563](http://arxiv.org/abs/2609.20563)|null|
 |**2026-09-16**|**Objective vs. Search: Decomposing What Makes a Good Tokeniser**|Ahmetcan Yavuz et.al.|[2609.19145](http://arxiv.org/abs/2609.19145)|null|
 |**2026-09-16**|**A Zeroth-Order Paradigm for LLM Preference Alignment**|Peter Chen et.al.|[2609.19144](http://arxiv.org/abs/2609.19144)|null|
 |**2026-09-16**|**PANORAMA: Panoptic Grounded Captioning via Mask Proposal Selection**|Sara Pieri et.al.|[2609.19143](http://arxiv.org/abs/2609.19143)|null|
@@ -10126,12 +10166,32 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |**2023-09-06**|**Making Large Language Models Better Reasoners with Alignment**|Peiyi Wang et.al.|[2309.02144](http://arxiv.org/abs/2309.02144)|null|
 |**2023-06-27**|**Low-Rank Prune-And-Factorize for Language Model Compression**|Siyu Ren et.al.|[2306.14152](http://arxiv.org/abs/2306.14152)|null|
 
-<p align=right>(<a href=#updated-on-20260917>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260918>back to top</a>)</p>
 
 ## Reinforcement Learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-17**|**Score Centering Stabilizes Off-policy Reinforcement Learning**|Martin Marek et.al.|[2609.20807](http://arxiv.org/abs/2609.20807)|null|
+|**2026-09-17**|**PosteriorBench: From Point Estimates to Posterior Matching in Evaluating Generative Inverse Solvers**|Jiachen Yao et.al.|[2609.20794](http://arxiv.org/abs/2609.20794)|null|
+|**2026-09-17**|**RetireOPD: Self-Retiring On-Policy Distillation for Agentic Reinforcement Learning**|Yan Yu et.al.|[2609.20784](http://arxiv.org/abs/2609.20784)|null|
+|**2026-09-17**|**OPTED: On-Policy Fine-Tuning for End-to-End Driving using a Render-Free Teacher**|Damiano Da Col et.al.|[2609.20756](http://arxiv.org/abs/2609.20756)|null|
+|**2026-09-17**|**MILER: Semantic Mid-Level Representation for Sim-to-Real Reinforcement Learning in Unstructured Autonomous Driving**|Thomas Steinecker et.al.|[2609.20747](http://arxiv.org/abs/2609.20747)|null|
+|**2026-09-17**|**Don't Mask the Environment: Observation Supervision Changes How Agents Explore Under RL**|Juzheng Zhang et.al.|[2609.20715](http://arxiv.org/abs/2609.20715)|null|
+|**2026-09-17**|**A Unified Framework for Wasserstein Convergence of ULMC Methods beyond Log-Concavity: Old and New**|Wanjie Lyu et.al.|[2609.20713](http://arxiv.org/abs/2609.20713)|null|
+|**2026-09-17**|**Summarization Bias: The Directional Collapse of Objective Projection into Told-Mode Labels in Large Language Models --- A Conceptual Framework and Registered Test Protocol**|Levent Bulut et.al.|[2609.20712](http://arxiv.org/abs/2609.20712)|null|
+|**2026-09-17**|**Stable Movement for Nondual Lipschitz Convex Optimization: Efficiency and Nearly Optimal Oracle Rates**|David Martínez-Rubio et.al.|[2609.20701](http://arxiv.org/abs/2609.20701)|null|
+|**2026-09-17**|**PAA: The Probabilistic Allen Algebra: A Generative and Complete Probabilistic Extension of Allen's Interval Relations**|Julian Eggert et.al.|[2609.20634](http://arxiv.org/abs/2609.20634)|null|
+|**2026-09-17**|**UniPolicy: Unified Objective-Specific Policies for Generative Search Advertising**|Kun Yao et.al.|[2609.20630](http://arxiv.org/abs/2609.20630)|null|
+|**2026-09-17**|**RTK-Vision PPO for Autonomous Micro UAV Recovery on an Airborne Carrier**|Aashish Sahu et.al.|[2609.20629](http://arxiv.org/abs/2609.20629)|null|
+|**2026-09-17**|**Accelerating Visual Policy Learning with Sampling-Based Model Predictive Control**|Yilang Liu et.al.|[2609.20575](http://arxiv.org/abs/2609.20575)|null|
+|**2026-09-17**|**Reasoning Quality Matters: Combating Reasoning Collapse in LLM-based Embedding Learning**|Zihan Gong et.al.|[2609.20563](http://arxiv.org/abs/2609.20563)|null|
+|**2026-09-17**|**Learning Slope-Adaptive Whole-Body Locomotion for Humanoid Robots in Roofing Construction**|Songyang Liu et.al.|[2609.20558](http://arxiv.org/abs/2609.20558)|null|
+|**2026-09-17**|**Mitigating Retaliatory Algorithmic Collusion in Repeated Games**|Karthik Sivachandran et.al.|[2609.20548](http://arxiv.org/abs/2609.20548)|null|
+|**2026-09-17**|**Unconstrained compact lattice QED $_{2+1}$ coupled to phonons: Gauss sectors, orthogonal semimetal, and deconfined criticality**|João C. Inácio et.al.|[2609.20502](http://arxiv.org/abs/2609.20502)|null|
+|**2026-09-17**|**Visual Sim-to-Real Learning for Robotic Insertion under Geometric Variations: Application to Rebar Installation**|Tao Sun et.al.|[2609.20477](http://arxiv.org/abs/2609.20477)|null|
+|**2026-09-17**|**A Mathematical Model of Motivated Emotional Mind - Cognitive Embodied System**|Wiesław L. Galus et.al.|[2609.20437](http://arxiv.org/abs/2609.20437)|null|
+|**2026-09-17**|**The Bias of Nonlinear Two-Time-scale Stochastic Approximation under Constant Step-Sizes**|Djamel Rassem Lamouri et.al.|[2609.20409](http://arxiv.org/abs/2609.20409)|null|
 |**2026-09-16**|**PointZero: 3D Point Track Completion for Learning Transferable 3D Dynamics**|Bardienus P. Duisterhof et.al.|[2609.19142](http://arxiv.org/abs/2609.19142)|null|
 |**2026-09-16**|**ScienceIDE: Turning World's Scientific Codebase into Agent Learnable Environments**|Hejia Geng et.al.|[2609.19134](http://arxiv.org/abs/2609.19134)|null|
 |**2026-09-16**|**RLLBC-Lib: An Educational Code Library for Reinforcement Learning and Learning-Based Control**|Bernd Frauenknecht et.al.|[2609.19074](http://arxiv.org/abs/2609.19074)|null|
@@ -15044,7 +15104,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |**2019-11-14**|**Accelerating Training in Pommerman with Imitation and Reinforcement Learning**|Hardik Meisheri et.al.|[1911.04947](http://arxiv.org/abs/1911.04947)|null|
 |**2018-11-20**|**Modelling the Dynamic Joint Policy of Teammates with Attention Multi-agent DDPG**|Hangyu Mao et.al.|[1811.07029](http://arxiv.org/abs/1811.07029)|null|
 
-<p align=right>(<a href=#updated-on-20260917>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260918>back to top</a>)</p>
 
 Notes: 
 
