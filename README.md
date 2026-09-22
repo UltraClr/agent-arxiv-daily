@@ -1,5 +1,5 @@
 # Agent Research Papers
-### Automatically Updated on 2026.09.21
+### Automatically Updated on 2026.09.22
 Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Autonomous Agent`,`LLM Agent`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,6 +21,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-21**|**Beyond Predictable Paths: Redefining AI Security Incident Reporting for Agents**|Anastasia Pustozerova et.al.|[2609.24515](http://arxiv.org/abs/2609.24515)|null|
+|**2026-09-21**|**ActGov: Governing LLM Agent Actions via Policy-Constrained Validation**|Kaiyuan Zhang et.al.|[2609.24446](http://arxiv.org/abs/2609.24446)|null|
+|**2026-09-21**|**Dissecting Agentic Forensics: The Role of Triage, Prompting, and Evidence Arbitration in Open-World Fake Image Detection**|Xianlong Li et.al.|[2609.24359](http://arxiv.org/abs/2609.24359)|null|
+|**2026-09-21**|**Few-Shot Demonstrations Elicit the Use of In-Context World Representations in LLMs**|Kohsei Matsutani et.al.|[2609.24352](http://arxiv.org/abs/2609.24352)|null|
+|**2026-09-21**|**A Lean and Spec-Driven AI-Assisted Software Development Lifecycle for Applied AI Education: The AI-SDLC Approach**|Andreas Martin et.al.|[2609.24348](http://arxiv.org/abs/2609.24348)|null|
+|**2026-09-21**|**TTSE: A Two-Track Online Self-Evolution Framework**|Ruimin Pei et.al.|[2609.24289](http://arxiv.org/abs/2609.24289)|null|
+|**2026-09-21**|**Canonical Procedural Actions: An Auditable Annotation Protocol for Tool-Use Agent Traces**|Songqi Li et.al.|[2609.24264](http://arxiv.org/abs/2609.24264)|null|
+|**2026-09-21**|**MemCalib: Benchmarking and Optimizing Memory Use in LLM Agents**|Ruike Cao et.al.|[2609.24259](http://arxiv.org/abs/2609.24259)|null|
+|**2026-09-21**|**The Work Behind Delegation: A Framework for Supervising AI Coding Agents**|Yeon Su Park et.al.|[2609.24234](http://arxiv.org/abs/2609.24234)|null|
+|**2026-09-21**|**A Topological Representation with Object-Path Graphs for Open-Vocabulary Instance Navigation**|Linwei Zheng et.al.|[2609.24189](http://arxiv.org/abs/2609.24189)|null|
+|**2026-09-21**|**APEXA: Execution-Integrity Enforcement for Multi-Agent LLM Automation of Synchrotron Data Reduction**|Pawan K. Tripathi et.al.|[2609.24165](http://arxiv.org/abs/2609.24165)|null|
+|**2026-09-21**|**MCP-GRANITE Benchmark: GRANularity Interface TEsting for MCP-Based LLM Agents**|Demetris Paschalides et.al.|[2609.24161](http://arxiv.org/abs/2609.24161)|null|
+|**2026-09-21**|**MimicAgent: Quadruped Skills via Prompt-to-Trajectory Generation**|Lucky Kant Nayak et.al.|[2609.24145](http://arxiv.org/abs/2609.24145)|null|
+|**2026-09-21**|**Luck Is Not Skill: When Do Paired Rollouts Help Group-Relative RL of LLM Agents?**|Nazmus Sakib et.al.|[2609.24144](http://arxiv.org/abs/2609.24144)|null|
+|**2026-09-21**|**Self-Healing Harness for Runtime Oversight of Agent Self-Modification**|Sina Tayebati et.al.|[2609.24130](http://arxiv.org/abs/2609.24130)|null|
+|**2026-09-21**|**EDGEGEN: Improving Tool-Calling Agents Beyond Happy Paths with Synthetic Edge Case Generation**|Harshavardhan Abichandani et.al.|[2609.24115](http://arxiv.org/abs/2609.24115)|null|
+|**2026-09-21**|**A Task-Oriented Multi-Agent Framework for Complex Wearable Health Analysis**|Kunpeng Yang et.al.|[2609.24107](http://arxiv.org/abs/2609.24107)|null|
+|**2026-09-21**|**A $^2$ Safe: Counterfactual Evidence-Aligned Adaptive Agent Collaboration for Safe and Effective Visual Question Answering**|Quanxing Xu et.al.|[2609.24098](http://arxiv.org/abs/2609.24098)|null|
+|**2026-09-21**|**LeaseGuard: Incumbent-Preserving Admission Control for Privileged LLM Agents**|Junru Zhu et.al.|[2609.24077](http://arxiv.org/abs/2609.24077)|null|
+|**2026-09-21**|**Synthesizing Reactive Character Behaviors for Continuous Games via Programmatic Policy Search**|Maxim Gumin et.al.|[2609.24025](http://arxiv.org/abs/2609.24025)|null|
 |**2026-09-18**|**MintAct: A Unified Visual Agent for Digital Environments**|Mingfei Gao et.al.|[2609.22083](http://arxiv.org/abs/2609.22083)|null|
 |**2026-09-18**|**APort Vault: Benchmarking AI Agent Payment Authorization with the Open Agent Passport**|Uchi Uchibeke et.al.|[2609.22076](http://arxiv.org/abs/2609.22076)|null|
 |**2026-09-18**|**CodeMidas: Scaling Agentic Coding RL Environments from Code Itself**|Bowen Ye et.al.|[2609.22068](http://arxiv.org/abs/2609.22068)|null|
@@ -5165,12 +5185,32 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |**2024-01-30**|**A mechanism for discovering semantic relationships among agent communication protocols**|Idoia Berges et.al.|[2401.16216](http://arxiv.org/abs/2401.16216)|null|
 |**2024-01-23**|**Semantic Web Technology for Agent Communication Protocols**|Idoia Berges et.al.|[2401.11841](http://arxiv.org/abs/2401.11841)|null|
 
-<p align=right>(<a href=#updated-on-20260921>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260922>back to top</a>)</p>
 
 ## Large Language Models
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-21**|**State-Aware Fuzzing of JavaScript Engines with LLM-Guided Instrumentation**|Wai Kin Wong et.al.|[2609.24550](http://arxiv.org/abs/2609.24550)|null|
+|**2026-09-21**|**Prompting Against Persona Drift: Comparing Intervention Timing and Content in LLM-Simulated Conversations**|Nicolas Leins et.al.|[2609.24532](http://arxiv.org/abs/2609.24532)|null|
+|**2026-09-21**|**ME-VLM:A Unified VLM for Embodied Cognition and Agent Coordination**|Foundation Model et.al.|[2609.24526](http://arxiv.org/abs/2609.24526)|null|
+|**2026-09-21**|**LLJ Cards: Best practices for the Use of LLMs as Judges**|Khaoula Chehbouni et.al.|[2609.24516](http://arxiv.org/abs/2609.24516)|null|
+|**2026-09-21**|**AgentSTAR: Agentic Shape Tracking and Reconstruction from Monocular Videos**|Kirill Mazur et.al.|[2609.24487](http://arxiv.org/abs/2609.24487)|null|
+|**2026-09-21**|**VPRune: Efficient Training-free Pre-LLM Visual Token Pruning**|Guangchuan Lv et.al.|[2609.24485](http://arxiv.org/abs/2609.24485)|null|
+|**2026-09-21**|**Fathom-Vaidya: Advancing Medical Reasoning with Rubric-Based Rewards**|Kalash Shah et.al.|[2609.24480](http://arxiv.org/abs/2609.24480)|null|
+|**2026-09-21**|**Spatial Action Review: A Visual Analytics Dashboard for Auditing Language-to-Action Hand-offs in Electron Microscopy**|Samia Mohinta et.al.|[2609.24470](http://arxiv.org/abs/2609.24470)|null|
+|**2026-09-21**|**A Temporal Knowledge Graph for Music Festival Lineup Forecasting**|Julia Gastinger et.al.|[2609.24467](http://arxiv.org/abs/2609.24467)|null|
+|**2026-09-21**|**RAILS: Retrieval-Augmented Incremental LLM Clustering at Scale**|Armin Oliya et.al.|[2609.24464](http://arxiv.org/abs/2609.24464)|null|
+|**2026-09-21**|**MECAIL: Communication-Aware Incremental Learning for Object Detection with 14.6 KB Spatiotemporal Experts**|Matthias Neuwirth-Trapp et.al.|[2609.24455](http://arxiv.org/abs/2609.24455)|null|
+|**2026-09-21**|**Do LiDAR Language Models Really Understand Spatio-temporal Relationships?**|Runyi Yang et.al.|[2609.24452](http://arxiv.org/abs/2609.24452)|null|
+|**2026-09-21**|**ActGov: Governing LLM Agent Actions via Policy-Constrained Validation**|Kaiyuan Zhang et.al.|[2609.24446](http://arxiv.org/abs/2609.24446)|null|
+|**2026-09-21**|**ARM: Attention with Routed-Memory for Learnable Sparse Control**|Qiuhao Zeng et.al.|[2609.24417](http://arxiv.org/abs/2609.24417)|null|
+|**2026-09-21**|**DeCo: Efficient Decouple-to-Couple Learning for Multi-Task Visual Grounding**|Xiaoqiang Lu et.al.|[2609.24409](http://arxiv.org/abs/2609.24409)|null|
+|**2026-09-21**|**Artificial Structure Function Search: Preserving Artificial Functional Connectivity for Structured Pruning**|Mindula Illeperuma et.al.|[2609.24401](http://arxiv.org/abs/2609.24401)|null|
+|**2026-09-21**|**URA-NER: A Unified Retrieval-Augmented Framework with Retrieval Alignment and Uncertainty Reduction for Low-Resource NER**|Jingyu Wang et.al.|[2609.24372](http://arxiv.org/abs/2609.24372)|null|
+|**2026-09-21**|**DeceptionAnalyser: A Web-Based AI Tool for Performing Structured Deception Analysis with Argumentation Schemes and LLMs**|Stefan Sarkadi et.al.|[2609.24369](http://arxiv.org/abs/2609.24369)|null|
+|**2026-09-21**|**VLM-in-Sandbox: Visual Workspaces for Agentic Visual Reasoning**|Hexiong Yang et.al.|[2609.24362](http://arxiv.org/abs/2609.24362)|null|
+|**2026-09-21**|**Dissecting Agentic Forensics: The Role of Triage, Prompting, and Evidence Arbitration in Open-World Fake Image Detection**|Xianlong Li et.al.|[2609.24359](http://arxiv.org/abs/2609.24359)|null|
 |**2026-09-18**|**MintAct: A Unified Visual Agent for Digital Environments**|Mingfei Gao et.al.|[2609.22083](http://arxiv.org/abs/2609.22083)|null|
 |**2026-09-18**|**An Interpretable Memory Decision Controller for LLM Agents Based on Three-Signal Complementarity: Decoupling Confidence and Consistency**|Yiming Zhang et.al.|[2609.22043](http://arxiv.org/abs/2609.22043)|null|
 |**2026-09-18**|**Beyond Reactive Assistance: PV-Care Using Low-Density EEG and AI to Provide Proactive, Context-Aware Help for MCI**|Simon L Liu et.al.|[2609.22024](http://arxiv.org/abs/2609.22024)|null|
@@ -10206,12 +10246,32 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |**2023-09-06**|**Making Large Language Models Better Reasoners with Alignment**|Peiyi Wang et.al.|[2309.02144](http://arxiv.org/abs/2309.02144)|null|
 |**2023-06-27**|**Low-Rank Prune-And-Factorize for Language Model Compression**|Siyu Ren et.al.|[2306.14152](http://arxiv.org/abs/2306.14152)|null|
 
-<p align=right>(<a href=#updated-on-20260921>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260922>back to top</a>)</p>
 
 ## Reinforcement Learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-21**|**Smoothness as a Constraint for Stable Humanoid Locomotion**|Utsav Panchal et.al.|[2609.24552](http://arxiv.org/abs/2609.24552)|null|
+|**2026-09-21**|**ME-VLM:A Unified VLM for Embodied Cognition and Agent Coordination**|Foundation Model et.al.|[2609.24526](http://arxiv.org/abs/2609.24526)|null|
+|**2026-09-21**|**InsertAnything: Generalizable Contact-Rich Precision Insertion from Simulation to Reality**|Zhenghua Ma et.al.|[2609.24511](http://arxiv.org/abs/2609.24511)|null|
+|**2026-09-21**|**Payoffs and perception mediate environmental feedback in an N-player trust game with Q-learning**|Ruqiang Guo et.al.|[2609.24493](http://arxiv.org/abs/2609.24493)|null|
+|**2026-09-21**|**Lifted Bellman Linear Programming for Offline Reinforcement Learning**|Hyukjun Yang et.al.|[2609.24489](http://arxiv.org/abs/2609.24489)|null|
+|**2026-09-21**|**Fathom-Vaidya: Advancing Medical Reasoning with Rubric-Based Rewards**|Kalash Shah et.al.|[2609.24480](http://arxiv.org/abs/2609.24480)|null|
+|**2026-09-21**|**Conduit: An Experience Data Plane for Distributed Reinforcement Learning**|Sitong Zhang et.al.|[2609.24456](http://arxiv.org/abs/2609.24456)|null|
+|**2026-09-21**|**Performance-Preserving Online Adaptation in Social Navigation via Diffusion Steering**|Haruto Nagahisa et.al.|[2609.24317](http://arxiv.org/abs/2609.24317)|null|
+|**2026-09-21**|**TTSE: A Two-Track Online Self-Evolution Framework**|Ruimin Pei et.al.|[2609.24289](http://arxiv.org/abs/2609.24289)|null|
+|**2026-09-21**|**Reinforcement Learning Inspired Black-box Adversarial Attacks for Computer Vision**|Florian Krone et.al.|[2609.24249](http://arxiv.org/abs/2609.24249)|null|
+|**2026-09-21**|**Taming CoT Obfuscation in VLMs: From Mechanistic Evidence to Activation Enforcement**|Xutao Mao et.al.|[2609.24243](http://arxiv.org/abs/2609.24243)|null|
+|**2026-09-21**|**Audio-based UAV Localization with Adaptive Temporal Correspondence via Reinforcement Learning**|Haoxiang Lei et.al.|[2609.24218](http://arxiv.org/abs/2609.24218)|null|
+|**2026-09-21**|**ChartJudgeBench: Evaluating LMM Judges for Chart-to-Code Generation**|Lijian Wu et.al.|[2609.24210](http://arxiv.org/abs/2609.24210)|null|
+|**2026-09-21**|**High-Rate Quasi-Dyadic Quantum LDPC Codes**|Alessio Baldelli et.al.|[2609.24201](http://arxiv.org/abs/2609.24201)|null|
+|**2026-09-21**|**When Residualization Helps an Audit: Format Effects, Slice Gains, and Their Limits**|Daein Weon et.al.|[2609.24194](http://arxiv.org/abs/2609.24194)|null|
+|**2026-09-21**|**CREDO: Variance-Guided Rubric Evolution for Replay-Corrected Credit Assignment**|Xuchun Hu et.al.|[2609.24174](http://arxiv.org/abs/2609.24174)|null|
+|**2026-09-21**|**Zero-Knowledge Remote Adversarial Attack against Wi-Fi-based Human Activity Recognition for Privacy Protection**|Byungjun Kim et.al.|[2609.24173](http://arxiv.org/abs/2609.24173)|null|
+|**2026-09-21**|**Listen, Critique, and Refine: RL-Based Self-Refinement for Instruction-Following Speech Synthesis**|Chee-En Yu et.al.|[2609.24163](http://arxiv.org/abs/2609.24163)|null|
+|**2026-09-21**|**Acceptance-Aware Draft Model Training for Speculative Decoding**|Tianhua Xia et.al.|[2609.24150](http://arxiv.org/abs/2609.24150)|null|
+|**2026-09-21**|**MimicAgent: Quadruped Skills via Prompt-to-Trajectory Generation**|Lucky Kant Nayak et.al.|[2609.24145](http://arxiv.org/abs/2609.24145)|null|
 |**2026-09-18**|**SeeQ: Training Generalist Value Functions for Long-Horizon Robotic Manipulation**|Saksham Singh et.al.|[2609.22085](http://arxiv.org/abs/2609.22085)|null|
 |**2026-09-18**|**MintAct: A Unified Visual Agent for Digital Environments**|Mingfei Gao et.al.|[2609.22083](http://arxiv.org/abs/2609.22083)|null|
 |**2026-09-18**|**The AGN Channel in 3D: Scattering Belts and the Importance of Eccentricity in the Black Hole Population**|Connar Rowan et.al.|[2609.22074](http://arxiv.org/abs/2609.22074)|null|
@@ -15164,7 +15224,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |**2019-11-14**|**Accelerating Training in Pommerman with Imitation and Reinforcement Learning**|Hardik Meisheri et.al.|[1911.04947](http://arxiv.org/abs/1911.04947)|null|
 |**2018-11-20**|**Modelling the Dynamic Joint Policy of Teammates with Attention Multi-agent DDPG**|Hangyu Mao et.al.|[1811.07029](http://arxiv.org/abs/1811.07029)|null|
 
-<p align=right>(<a href=#updated-on-20260921>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260922>back to top</a>)</p>
 
 Notes: 
 
