@@ -16,6 +16,21 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-21**|**VideoGen-Agent: Reinforcing Video Generation Agents**|Binxu Li et.al.|[2609.24997](http://arxiv.org/abs/2609.24997)|null|
+|**2026-09-21**|**Feedback Coding Enables Inference-Time Covert Agentic Communication**|Sidong Guo et.al.|[2609.24994](http://arxiv.org/abs/2609.24994)|null|
+|**2026-09-21**|**Who Does What in AI Auditing? Designing Human-AI Collaboration for Auditing Generative AI**|Eunkyu Park et.al.|[2609.24986](http://arxiv.org/abs/2609.24986)|null|
+|**2026-09-21**|**Critical-State RL: Diagnosing Trainable States for Multi-Turn Tool Use**|Zixiang Chen et.al.|[2609.24985](http://arxiv.org/abs/2609.24985)|null|
+|**2026-09-21**|**Harness-Zero: Harness Distillation via Agent-as-Harness**|Haoran Ye et.al.|[2609.24974](http://arxiv.org/abs/2609.24974)|null|
+|**2026-09-21**|**RRSI: Regularized Recursive Self-Improvement of Agent Harnesses**|Peng Xia et.al.|[2609.24972](http://arxiv.org/abs/2609.24972)|null|
+|**2026-09-21**|**Emergent Collusion in Long-Horizon LLM Agent Interaction**|Xinrui Shi et.al.|[2609.24967](http://arxiv.org/abs/2609.24967)|null|
+|**2026-09-21**|**Trajectory-Aware Benchmark Subset Selection for Cost-Efficient Software Engineering Agent Regression Testing**|Mahmoud Ayyad et.al.|[2609.24928](http://arxiv.org/abs/2609.24928)|null|
+|**2026-09-21**|**Et Tu, Brute? Economic Misalignment in Personal AI Agents**|Aman Priyanshu et.al.|[2609.24927](http://arxiv.org/abs/2609.24927)|null|
+|**2026-09-21**|**SocioVerse2: A Longitudinal Dynamic Social Simulation Framework under a Human-AI Co-evolutionary Paradigm**|Xinnong Zhang et.al.|[2609.24911](http://arxiv.org/abs/2609.24911)|null|
+|**2026-09-21**|**GRUET: Quantifying Uncertainty of Agentic Reasoning-and-Acting Processes**|Shuang Liang et.al.|[2609.24831](http://arxiv.org/abs/2609.24831)|null|
+|**2026-09-21**|**MSI-Bench: Evaluating Multi-Speaker Voice Interaction for Collaborative AI Agents**|Chenxu Xiong et.al.|[2609.24812](http://arxiv.org/abs/2609.24812)|null|
+|**2026-09-21**|**Epi-Logic: A Conceptual Framework for Epistemic Runtime Control, Schema Validity Checking, and Controlled Accommodation in Autonomous AI Agents**|Boris Wetzk et.al.|[2609.24755](http://arxiv.org/abs/2609.24755)|null|
+|**2026-09-21**|**DUMA-Bench: A Dual-Control Multi-Agent Benchmark for Evaluating LLM Agent Security**|Ivan Aleksandrov et.al.|[2609.24662](http://arxiv.org/abs/2609.24662)|null|
+|**2026-09-21**|**Augmented Hypothesis Testing with Persona-Based LLM Simulations**|Ziyad Benomar et.al.|[2609.24629](http://arxiv.org/abs/2609.24629)|null|
 |**2026-09-21**|**Beyond Predictable Paths: Redefining AI Security Incident Reporting for Agents**|Anastasia Pustozerova et.al.|[2609.24515](http://arxiv.org/abs/2609.24515)|null|
 |**2026-09-21**|**ActGov: Governing LLM Agent Actions via Policy-Constrained Validation**|Kaiyuan Zhang et.al.|[2609.24446](http://arxiv.org/abs/2609.24446)|null|
 |**2026-09-21**|**Dissecting Agentic Forensics: The Role of Triage, Prompting, and Evidence Arbitration in Open-World Fake Image Detection**|Xianlong Li et.al.|[2609.24359](http://arxiv.org/abs/2609.24359)|null|
@@ -5184,6 +5199,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-21**|**MIGU: Multimodal Instruction Grounding under Uncertainty for Manipulation Planning**|Mingke Lu et.al.|[2609.24995](http://arxiv.org/abs/2609.24995)|null|
+|**2026-09-21**|**Feedback Coding Enables Inference-Time Covert Agentic Communication**|Sidong Guo et.al.|[2609.24994](http://arxiv.org/abs/2609.24994)|null|
+|**2026-09-21**|**LoRA-generating hypernetworks for efficient on-device LLM generative personalization**|Sean Augenstein et.al.|[2609.24979](http://arxiv.org/abs/2609.24979)|null|
+|**2026-09-21**|**Rare Event Estimation via Iterative Unalignment**|Hanming Yang et.al.|[2609.24969](http://arxiv.org/abs/2609.24969)|null|
+|**2026-09-21**|**SLICEChat: Progressive In-Encoder Token Pruning for Whole-Slide Pathology Language Models**|Ali Kerem Bozkurt et.al.|[2609.24894](http://arxiv.org/abs/2609.24894)|null|
+|**2026-09-21**|**The Copy Ceiling: An Input-Exposure Control for Ontology-Grounded Generation over Curated Corpora**|John J. O'Hare et.al.|[2609.24885](http://arxiv.org/abs/2609.24885)|null|
+|**2026-09-21**|**Pinocchio: Fast Uncertainty Estimates for Black-Box Language Models**|Kevin David Hayes et.al.|[2609.24881](http://arxiv.org/abs/2609.24881)|null|
+|**2026-09-21**|**SPHQuant: Efficient extreme low bit weight quantization for Vision-Language Models**|Kewei Zhang et.al.|[2609.24875](http://arxiv.org/abs/2609.24875)|null|
+|**2026-09-21**|**Extracting Arguments, Not Just Classifying Them: Instruction-Tuned LLMs for Generative Component Detection**|Sofiane Elguendouze et.al.|[2609.24855](http://arxiv.org/abs/2609.24855)|null|
+|**2026-09-21**|**GRUET: Quantifying Uncertainty of Agentic Reasoning-and-Acting Processes**|Shuang Liang et.al.|[2609.24831](http://arxiv.org/abs/2609.24831)|null|
+|**2026-09-21**|**The Answer-Basin Representation Hypothesis: We Are Not Probing or Steering Concepts**|Manjiang Yu et.al.|[2609.24821](http://arxiv.org/abs/2609.24821)|null|
+|**2026-09-21**|**INTCORT: Training-Free Spatial Reasoning Enhancement for Vision-Language Models via Input Transformations and Confidence Routing**|Haoran Sun et.al.|[2609.24813](http://arxiv.org/abs/2609.24813)|null|
+|**2026-09-21**|**Decoding Guardrails: XAI-Guided Perturbation Analysis of Prompt Injection Detection**|Fernando Outeda et.al.|[2609.24801](http://arxiv.org/abs/2609.24801)|null|
+|**2026-09-21**|**When Quantization Preserves Accuracy but Not Evidence: Explanation-Aware Post-Training Quantization for Medical LLMs**|Yeji Kim et.al.|[2609.24799](http://arxiv.org/abs/2609.24799)|null|
+|**2026-09-21**|**Complex KDA: Understanding and Enhancing the Expressivity of Kimi Delta Attention**|Julien Siems et.al.|[2609.24797](http://arxiv.org/abs/2609.24797)|null|
+|**2026-09-21**|**Toward a foundation model for forest point clouds**|Yuanwen Yue et.al.|[2609.24787](http://arxiv.org/abs/2609.24787)|null|
+|**2026-09-21**|**PrismGPT: Proxy-Guided Learning for Region-Aware Photo Editing with Self-Synthesized Reasoning**|Ke Zhao et.al.|[2609.24768](http://arxiv.org/abs/2609.24768)|null|
+|**2026-09-21**|**Construting Reverse Thinking: Developing Large Language Models' Reverse Thingking Ability**|Xin Liu et.al.|[2609.24760](http://arxiv.org/abs/2609.24760)|null|
+|**2026-09-21**|**LLM-based Conversational AI Knowledge Assistant for MyBuddy Humanoid Robot**|Hanxiao Chen et.al.|[2609.24742](http://arxiv.org/abs/2609.24742)|null|
+|**2026-09-21**|**Reasoning Topology Matters: A Controlled Study of LLM-Based Cybersecurity Analysis**|Jiling Zhou et.al.|[2609.24710](http://arxiv.org/abs/2609.24710)|null|
 |**2026-09-21**|**State-Aware Fuzzing of JavaScript Engines with LLM-Guided Instrumentation**|Wai Kin Wong et.al.|[2609.24550](http://arxiv.org/abs/2609.24550)|null|
 |**2026-09-21**|**Prompting Against Persona Drift: Comparing Intervention Timing and Content in LLM-Simulated Conversations**|Nicolas Leins et.al.|[2609.24532](http://arxiv.org/abs/2609.24532)|null|
 |**2026-09-21**|**ME-VLM:A Unified VLM for Embodied Cognition and Agent Coordination**|Foundation Model et.al.|[2609.24526](http://arxiv.org/abs/2609.24526)|null|
@@ -10243,6 +10278,20 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-21**|**VideoGen-Agent: Reinforcing Video Generation Agents**|Binxu Li et.al.|[2609.24997](http://arxiv.org/abs/2609.24997)|null|
+|**2026-09-21**|**Tangled $τ$ : Planck CMB Constraints on Flash Reionization**|Param Upadhyay et.al.|[2609.24989](http://arxiv.org/abs/2609.24989)|null|
+|**2026-09-21**|**Rare Event Estimation via Iterative Unalignment**|Hanming Yang et.al.|[2609.24969](http://arxiv.org/abs/2609.24969)|null|
+|**2026-09-21**|**Selective Inference for CART with Binary Outcomes**|Tomoshige Nakamura et.al.|[2609.24949](http://arxiv.org/abs/2609.24949)|null|
+|**2026-09-21**|**Improved Lower Bounds on the Capacity of the Binary Deletion Channel via a Learning Approach to Run-Length Inputs**|Hassan Khodaiemehr et.al.|[2609.24908](http://arxiv.org/abs/2609.24908)|null|
+|**2026-09-21**|**Visuomotor Robotic Pruning in Planar Orchards Using Hybrid Reinforcement Learning**|Abhinav Jain et.al.|[2609.24906](http://arxiv.org/abs/2609.24906)|null|
+|**2026-09-21**|**Steerable and Reactive Grasping Through Modular Design with a Three-Point Interface**|Andrew Nguyen et.al.|[2609.24896](http://arxiv.org/abs/2609.24896)|null|
+|**2026-09-21**|**Orbit Reduction and Learned Run Distributions for Finite-Blocklength Binary Deletion Channels**|Hassan Khodaiemehr et.al.|[2609.24889](http://arxiv.org/abs/2609.24889)|null|
+|**2026-09-21**|**A State-Space Framework for trivial and Topological Metamaterial Stochastic Analysis**|Luiz Henrique Marra da Silva Ribeiro et.al.|[2609.24808](http://arxiv.org/abs/2609.24808)|null|
+|**2026-09-21**|**CycleSpeech: Reciprocal Alignment for Instruction-Controlled Speech Synthesis and Paralinguistic Understanding**|Huan Liao et.al.|[2609.24771](http://arxiv.org/abs/2609.24771)|null|
+|**2026-09-21**|**Reinforcement Learning in Operational Research: A Technical Review and Practical Roadmap**|Yahan Lu et.al.|[2609.24750](http://arxiv.org/abs/2609.24750)|null|
+|**2026-09-21**|**Offline Reinforcement Learning for Distribution-Grid Protection**|Julian Oelhaf et.al.|[2609.24703](http://arxiv.org/abs/2609.24703)|null|
+|**2026-09-21**|**Adaptive sliding mode formation control for space interferometer missions**|Mauro Mancini et.al.|[2609.24693](http://arxiv.org/abs/2609.24693)|null|
+|**2026-09-21**|**Filtering and Smoothing with Score-Driven Models**|Giuseppe Buccheri et.al.|[2609.24571](http://arxiv.org/abs/2609.24571)|null|
 |**2026-09-21**|**Smoothness as a Constraint for Stable Humanoid Locomotion**|Utsav Panchal et.al.|[2609.24552](http://arxiv.org/abs/2609.24552)|null|
 |**2026-09-21**|**ME-VLM:A Unified VLM for Embodied Cognition and Agent Coordination**|Foundation Model et.al.|[2609.24526](http://arxiv.org/abs/2609.24526)|null|
 |**2026-09-21**|**InsertAnything: Generalizable Contact-Rich Precision Insertion from Simulation to Reality**|Zhenghua Ma et.al.|[2609.24511](http://arxiv.org/abs/2609.24511)|null|
