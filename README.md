@@ -1,5 +1,5 @@
 # Agent Research Papers
-### Automatically Updated on 2026.09.23
+### Automatically Updated on 2026.09.24
 Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Autonomous Agent`,`LLM Agent`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,6 +21,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-23**|**Agent-Editing World Model: Rethinking World Modeling for LLM Agents**|Shuang Sun et.al.|[2609.28416](http://arxiv.org/abs/2609.28416)|null|
+|**2026-09-23**|**Shutdown Sabotage Propensities in Multi-Agent Systems**|Amelie Knecht et.al.|[2609.28274](http://arxiv.org/abs/2609.28274)|null|
+|**2026-09-23**|**Controlling Collectives of AI Agents in Reasoning Space with Spatial Transformers**|Frederic Vatnsdal et.al.|[2609.28247](http://arxiv.org/abs/2609.28247)|null|
+|**2026-09-23**|**PASTABench: Proactive Assessment of Sequential Trajectories for Agent Safety**|Jiapeng Sun et.al.|[2609.28197](http://arxiv.org/abs/2609.28197)|null|
+|**2026-09-23**|**AstraLOD3: Zero-shot multimodal agentic reconstruction of LOD3 building models**|Bryan G. Pantoja-Rosero et.al.|[2609.28061](http://arxiv.org/abs/2609.28061)|null|
+|**2026-09-23**|**Prompt, Probe, Train, or Annotate? Single-camera sports video understanding in amateur settings**|Sai Varun Kodathala et.al.|[2609.28049](http://arxiv.org/abs/2609.28049)|null|
+|**2026-09-23**|**Photonics-GCCE: group collaborative-competitive evolution multi-agent framework for universal and autonomous optical design**|Weijie Xu et.al.|[2609.28045](http://arxiv.org/abs/2609.28045)|null|
+|**2026-09-23**|**Learning from Failures: Heterogeneous Graph Memory for Small Language Model Tool-Using Agents**|Jiaxing Li et.al.|[2609.28003](http://arxiv.org/abs/2609.28003)|null|
+|**2026-09-23**|**Compliant with Local Controls, Collectively Discriminatory. A Governance Architecture for Multi-Agent AI in Regulated Finance**|Jose Manuel de la Chica Rodriguez et.al.|[2609.27994](http://arxiv.org/abs/2609.27994)|null|
+|**2026-09-23**|**The KV Cache Working Set: Online Capacity Planning for LLM Inference Systems**|Luchang Li et.al.|[2609.27746](http://arxiv.org/abs/2609.27746)|null|
+|**2026-09-23**|**GA-Agent: Large Language Models as Hyperparameter Optimizers for Evolutionary Controller Synthesis**|Mohammad Narimani et.al.|[2609.27725](http://arxiv.org/abs/2609.27725)|null|
+|**2026-09-23**|**Compliant AI Infrastructure for Regulated Finance: A tiered multi-agent framework with DLT audit trails for financial operations in DACH**|Walter Kurz et.al.|[2609.27632](http://arxiv.org/abs/2609.27632)|null|
+|**2026-09-23**|**State-Grounded Conditioning: Wrapping User-Facing LLM Agents Where Direction Depends on Live State**|Qi Liu et.al.|[2609.27606](http://arxiv.org/abs/2609.27606)|null|
+|**2026-09-23**|**Unity Insight: A Production Code--Asset Index for LLM Coding Agents in Unity Projects**|Shenhua Gu et.al.|[2609.27585](http://arxiv.org/abs/2609.27585)|null|
+|**2026-09-23**|**FDE-Bench: Evaluating LLM Agents for Deployment Environment Configuration**|Weihang Ding et.al.|[2609.27571](http://arxiv.org/abs/2609.27571)|null|
+|**2026-09-23**|**Control-Token Injection Suppresses Chain-of-Thought and Defeats Reasoning-Based Oversight in Tool-Using Agents**|Muhammad Usama et.al.|[2609.27542](http://arxiv.org/abs/2609.27542)|null|
+|**2026-09-23**|**WhatWorkedBench: Benchmarking Experimental Understanding in AI Agents**|Jingjie Ning et.al.|[2609.27490](http://arxiv.org/abs/2609.27490)|null|
+|**2026-09-23**|**Issuer-Sovereign Agentic Payments**|Dishant Sharma et.al.|[2609.27452](http://arxiv.org/abs/2609.27452)|null|
+|**2026-09-23**|**EVAGE: Autonomous MEV Generation and Adaptation via Multi-Agent Harness**|Yan Wen et.al.|[2609.27424](http://arxiv.org/abs/2609.27424)|null|
+|**2026-09-23**|**Guides That Cause Actions: An Offline Study of Guide-Action Mutual Reinforcement in Multimodal Web Agents**|Chengguang Gan et.al.|[2609.27353](http://arxiv.org/abs/2609.27353)|null|
 |**2026-09-22**|**HARMONY: Hierarchical Agentic Reasoning for MONocular Image-to-Scene Synthesis**|Shufan Sun et.al.|[2609.26793](http://arxiv.org/abs/2609.26793)|null|
 |**2026-09-22**|**CliffCompaction: Cost-Efficient Compaction for Long-Horizon Coding Agents**|Trang Nguyen et.al.|[2609.26779](http://arxiv.org/abs/2609.26779)|null|
 |**2026-09-22**|**Grow the Harness, Not the Context: From Strategy-Free Scaffolds to Reusable Specialist Agents**|Laizhen Li et.al.|[2609.26760](http://arxiv.org/abs/2609.26760)|null|
@@ -5220,12 +5240,32 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |**2024-01-30**|**A mechanism for discovering semantic relationships among agent communication protocols**|Idoia Berges et.al.|[2401.16216](http://arxiv.org/abs/2401.16216)|null|
 |**2024-01-23**|**Semantic Web Technology for Agent Communication Protocols**|Idoia Berges et.al.|[2401.11841](http://arxiv.org/abs/2401.11841)|null|
 
-<p align=right>(<a href=#updated-on-20260923>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260924>back to top</a>)</p>
 
 ## Large Language Models
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-23**|**StudentBench: AI and human tutoring yield equivalent GRE learning gains**|Curtis Northcutt et.al.|[2609.28470](http://arxiv.org/abs/2609.28470)|null|
+|**2026-09-23**|**Can LLMs Reason About Runtime Behavior? A Repository-Level Dynamic Benchmark**|Hamed Taherkhani et.al.|[2609.28449](http://arxiv.org/abs/2609.28449)|null|
+|**2026-09-23**|**A Spectral Proof of Khachiyan's Ellipsoid Conjecture**|Zhou Longfei et.al.|[2609.28447](http://arxiv.org/abs/2609.28447)|null|
+|**2026-09-23**|**Order-Invariant Answers, Order-Sensitive Representations in Mathematical Reasoning**|Zhixu Silvia Tao et.al.|[2609.28442](http://arxiv.org/abs/2609.28442)|null|
+|**2026-09-23**|**Agent-Editing World Model: Rethinking World Modeling for LLM Agents**|Shuang Sun et.al.|[2609.28416](http://arxiv.org/abs/2609.28416)|null|
+|**2026-09-23**|**Memory Attention**|Jiale Kang et.al.|[2609.28399](http://arxiv.org/abs/2609.28399)|null|
+|**2026-09-23**|**Fine-Tuning LLMs for Translation: General Forgetting Mitigation Does Not Preserve MT-Specific Instruction Following**|Niklas Scholz et.al.|[2609.28395](http://arxiv.org/abs/2609.28395)|null|
+|**2026-09-23**|**Motif-Vocab: StatisticallyCalibrated Transcription-Factor-Identity Tokenization forGenomic Language Models**|Liangyu Li et.al.|[2609.28386](http://arxiv.org/abs/2609.28386)|null|
+|**2026-09-23**|**Shopping by algorithm: How agentic AI deploys human heuristics as a surrogate consumer**|Davood Wadi et.al.|[2609.28372](http://arxiv.org/abs/2609.28372)|null|
+|**2026-09-23**|**AnchorReasoning: A Visual Grounding and Causal Reasoning Dataset in Long-Tail Autonomous Driving Scenarios**|Zhipeng Bao et.al.|[2609.28366](http://arxiv.org/abs/2609.28366)|null|
+|**2026-09-23**|**Threat Amplified, Blame Restrained: LLM-Assisted Media Framing Analysis of the 2026 Bangladesh Measles Outbreak**|Shahan Ahmed et.al.|[2609.28362](http://arxiv.org/abs/2609.28362)|null|
+|**2026-09-23**|**Mizar: A 159M-Parameter Audio-Language Model for Audio Understanding**|Kaiyang Li et.al.|[2609.28344](http://arxiv.org/abs/2609.28344)|null|
+|**2026-09-23**|**Learning the Cost of Reliable Inference**|Dimitrios Rontogiannis et.al.|[2609.28322](http://arxiv.org/abs/2609.28322)|null|
+|**2026-09-23**|**TANDEM: Task and Motion Planning with As-Needed Demonstrations for Efficient Vision-Language-Action Model Fine-tuning**|Samrat Sahoo et.al.|[2609.28314](http://arxiv.org/abs/2609.28314)|null|
+|**2026-09-23**|**Computation Over Geometry: Meaning Identity Is Computed, Not Shipped in the Embeddings**|Jiaqi Deng et.al.|[2609.28290](http://arxiv.org/abs/2609.28290)|null|
+|**2026-09-23**|**Towards Efficient Reasoning: Learning Causal Shortcuts for Diffusion Language Models**|Dian Jin et.al.|[2609.28272](http://arxiv.org/abs/2609.28272)|null|
+|**2026-09-23**|**Resource-Adaptive Stochastic Gradient Descent for Online Linear Programming without Re-solving**|Jiameng Lyu et.al.|[2609.28263](http://arxiv.org/abs/2609.28263)|null|
+|**2026-09-23**|**Complementary Roles of Activation and Parametric Memory in Few-Shot Learning**|Miaohe Niu et.al.|[2609.28250](http://arxiv.org/abs/2609.28250)|null|
+|**2026-09-23**|**Controlling Collectives of AI Agents in Reasoning Space with Spatial Transformers**|Frederic Vatnsdal et.al.|[2609.28247](http://arxiv.org/abs/2609.28247)|null|
+|**2026-09-23**|**Beyond Poetry: Can Large Language Models Generate Classical Arabic Maqamat?**|AbdulRahman A. Morsy et.al.|[2609.28245](http://arxiv.org/abs/2609.28245)|null|
 |**2026-09-22**|**Flash-dLLM: IO-Aware KV Caching and Parallel Decoding for Fast, Memory-Efficient Diffusion LLMs**|Quan Nguyen-Tri et.al.|[2609.26796](http://arxiv.org/abs/2609.26796)|null|
 |**2026-09-22**|**HARMONY: Hierarchical Agentic Reasoning for MONocular Image-to-Scene Synthesis**|Shufan Sun et.al.|[2609.26793](http://arxiv.org/abs/2609.26793)|null|
 |**2026-09-22**|**SARA: SLO-Aware Resource Allocation for Disaggregated Agentic LLM Services**|Shicong Liu et.al.|[2609.26763](http://arxiv.org/abs/2609.26763)|null|
@@ -10321,12 +10361,32 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |**2023-09-06**|**Making Large Language Models Better Reasoners with Alignment**|Peiyi Wang et.al.|[2309.02144](http://arxiv.org/abs/2309.02144)|null|
 |**2023-06-27**|**Low-Rank Prune-And-Factorize for Language Model Compression**|Siyu Ren et.al.|[2306.14152](http://arxiv.org/abs/2306.14152)|null|
 
-<p align=right>(<a href=#updated-on-20260923>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260924>back to top</a>)</p>
 
 ## Reinforcement Learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-23**|**Differentiable astrophysics at scale: solving and differentiating ODE ensembles on the GPU**|A. Spurio Mancini et.al.|[2609.28458](http://arxiv.org/abs/2609.28458)|null|
+|**2026-09-23**|**Angular Modulations in Magnetic Torque Induced by Phase Transitions in the Triangular Supersolid $2H$-AgNiO$_2$**|John S. Pearce et.al.|[2609.28445](http://arxiv.org/abs/2609.28445)|null|
+|**2026-09-23**|**Tractable Reinforcement Learning for Full Class of Signal Temporal Logic Specifications Using Spatiotemporal Tube Reward**|Vaishnavi Jagabathula et.al.|[2609.28396](http://arxiv.org/abs/2609.28396)|null|
+|**2026-09-23**|**When and Where to Trust the Teacher: Unifying On-Policy Distillation and GRPO through Entropy-Calibrated Credit Assignment**|Jie Zhang et.al.|[2609.28385](http://arxiv.org/abs/2609.28385)|null|
+|**2026-09-23**|**ForgetMimic: Motion Unlearning for Reinforcement Learning Humanoid Control**|Xukun Luan et.al.|[2609.28378](http://arxiv.org/abs/2609.28378)|null|
+|**2026-09-23**|**LEAP-CBF: A Safety Filter for Uncertain Systems with Least-Effort Adversarial Potentials**|Oswin So et.al.|[2609.28364](http://arxiv.org/abs/2609.28364)|null|
+|**2026-09-23**|**Benchmarking Curvature-Domain Signaling for Continuous-Aperture Wireless Communications: Capacity, Robustness, Detection, and Conditioning Against Legacy Modal Bases**|Yasser Al-Eryani et.al.|[2609.28353](http://arxiv.org/abs/2609.28353)|null|
+|**2026-09-23**|**Local Geometric Mixing via Dobrushin Contraction with Applications to Diffusion Path Monte Carlo and the Proximal Sampler**|Stefan Oberdörster et.al.|[2609.28338](http://arxiv.org/abs/2609.28338)|null|
+|**2026-09-23**|**Long-Term Tail Modeling in Survival Analysis via Extended Generalized Pareto Distributions**|Eduardo Janotti et.al.|[2609.28321](http://arxiv.org/abs/2609.28321)|null|
+|**2026-09-23**|**Study of blazar variability through their flux distribution for CTAO long-term monitoring**|A. Mikhno et.al.|[2609.28276](http://arxiv.org/abs/2609.28276)|null|
+|**2026-09-23**|**GenMC: Real-Time Generative Monte Carlo Surrogate for Quantitative Photoacoustic Imaging**|Mengjie Shi et.al.|[2609.28261](http://arxiv.org/abs/2609.28261)|null|
+|**2026-09-23**|**Connectivity Preservation and Graph Stretching in Range-Only Swarm Dispersion**|Ariel Barel et.al.|[2609.28190](http://arxiv.org/abs/2609.28190)|null|
+|**2026-09-23**|**Finite-Sample Probabilistic Safety Certification for AI-Based Grid-Edge Coordination**|Yihong Zhou et.al.|[2609.28182](http://arxiv.org/abs/2609.28182)|null|
+|**2026-09-23**|**Dynamic, Decentralized Spatial Code Reuse for OCDMA LiDAR in Robot Swarms**|Mohammad Hani Alomari et.al.|[2609.28172](http://arxiv.org/abs/2609.28172)|null|
+|**2026-09-23**|**Dissecting Advantage-Guided Post-Training for Vision-Language-Action Policies**|Jiahang Cao et.al.|[2609.28161](http://arxiv.org/abs/2609.28161)|null|
+|**2026-09-23**|**Effects of Corner Radius and Knudsen Number on Rarefied Gas Flow in a Lid-Driven Cavity**|Peiliang Yan et.al.|[2609.28151](http://arxiv.org/abs/2609.28151)|null|
+|**2026-09-23**|**RL Starts before RL: On Policy Distillation for Better Reinforcement Learning**|Shuai Dong et.al.|[2609.28145](http://arxiv.org/abs/2609.28145)|null|
+|**2026-09-23**|**Extreme Population Selection under Multistage Sampling design With Applications**| Shivam et.al.|[2609.28127](http://arxiv.org/abs/2609.28127)|null|
+|**2026-09-23**|**Curriculum Learning with GNN-based Reinforcement Learning for Job Shop Scheduling**|Jayakrishnan K. Vasudevan et.al.|[2609.28085](http://arxiv.org/abs/2609.28085)|null|
+|**2026-09-23**|**Learning a Speed-adaptive Hip Exoskeleton Control Policy Via Sim-to-real Reinforcement Learning**|Bin Li et.al.|[2609.28027](http://arxiv.org/abs/2609.28027)|null|
 |**2026-09-22**|**Incentive Design for Multi-Agent Systems: A Bilevel Optimization Framework for Coordinating Independent Agents and Convergence Analysis**|Xinyi Wei et.al.|[2609.26726](http://arxiv.org/abs/2609.26726)|null|
 |**2026-09-22**|**Optimal Sequential Annotations for Off-Policy Evaluation**|Woojin Chae et.al.|[2609.26707](http://arxiv.org/abs/2609.26707)|null|
 |**2026-09-22**|**Beyond Repeated Sampling: Learning Search Policies for LLM Reasoning**|Ismail Labiad et.al.|[2609.26704](http://arxiv.org/abs/2609.26704)|null|
@@ -15333,7 +15393,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |**2019-11-14**|**Accelerating Training in Pommerman with Imitation and Reinforcement Learning**|Hardik Meisheri et.al.|[1911.04947](http://arxiv.org/abs/1911.04947)|null|
 |**2018-11-20**|**Modelling the Dynamic Joint Policy of Teammates with Attention Multi-agent DDPG**|Hangyu Mao et.al.|[1811.07029](http://arxiv.org/abs/1811.07029)|null|
 
-<p align=right>(<a href=#updated-on-20260923>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260924>back to top</a>)</p>
 
 Notes: 
 
