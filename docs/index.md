@@ -5318,7 +5318,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |**2026-09-24**|**Enhancing Word-Level Property Directed Reachability with LLM-Driven Semantic Guidance**|Guangyu Hu et.al.|[2609.30131](http://arxiv.org/abs/2609.30131)|null|
 |**2026-09-24**|**Multimodal Thinking with Renderable Programs**|Sunli Chen et.al.|[2609.30130](http://arxiv.org/abs/2609.30130)|null|
 |**2026-09-24**|**What, When, and How: Audio Description as Constrained Global Optimization**|Igor Sterner et.al.|[2609.30121](http://arxiv.org/abs/2609.30121)|null|
-|**2026-09-24**|**R-DEIM Net: An Efficient Rationale-Augmented Dual-Expert Interaction Model for Paraphrase Detection**| Pushp et.al.|[2609.30100](http://arxiv.org/abs/2609.30100)|null|
+|**2026-09-24**|**R-DEIM Net: An Efficient Rationale-Augmented Dual-Expert Interaction Model for Paraphrase Detection**|Pushp et.al.|[2609.30100](http://arxiv.org/abs/2609.30100)|null|
 |**2026-09-23**|**StudentBench: AI and human tutoring yield equivalent GRE learning gains**|Curtis Northcutt et.al.|[2609.28470](http://arxiv.org/abs/2609.28470)|null|
 |**2026-09-23**|**Can LLMs Reason About Runtime Behavior? A Repository-Level Dynamic Benchmark**|Hamed Taherkhani et.al.|[2609.28449](http://arxiv.org/abs/2609.28449)|null|
 |**2026-09-23**|**A Spectral Proof of Khachiyan's Ellipsoid Conjecture**|Zhou Longfei et.al.|[2609.28447](http://arxiv.org/abs/2609.28447)|null|
@@ -10495,7 +10495,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |**2026-09-23**|**Dissecting Advantage-Guided Post-Training for Vision-Language-Action Policies**|Jiahang Cao et.al.|[2609.28161](http://arxiv.org/abs/2609.28161)|null|
 |**2026-09-23**|**Effects of Corner Radius and Knudsen Number on Rarefied Gas Flow in a Lid-Driven Cavity**|Peiliang Yan et.al.|[2609.28151](http://arxiv.org/abs/2609.28151)|null|
 |**2026-09-23**|**RL Starts before RL: On Policy Distillation for Better Reinforcement Learning**|Shuai Dong et.al.|[2609.28145](http://arxiv.org/abs/2609.28145)|null|
-|**2026-09-23**|**Extreme Population Selection under Multistage Sampling design With Applications**| Shivam et.al.|[2609.28127](http://arxiv.org/abs/2609.28127)|null|
+|**2026-09-23**|**Extreme Population Selection under Multistage Sampling design With Applications**|Shivam et.al.|[2609.28127](http://arxiv.org/abs/2609.28127)|null|
 |**2026-09-23**|**Curriculum Learning with GNN-based Reinforcement Learning for Job Shop Scheduling**|Jayakrishnan K. Vasudevan et.al.|[2609.28085](http://arxiv.org/abs/2609.28085)|null|
 |**2026-09-23**|**Learning a Speed-adaptive Hip Exoskeleton Control Policy Via Sim-to-real Reinforcement Learning**|Bin Li et.al.|[2609.28027](http://arxiv.org/abs/2609.28027)|null|
 |**2026-09-22**|**Incentive Design for Multi-Agent Systems: A Bilevel Optimization Framework for Coordinating Independent Agents and Convergence Analysis**|Xinyi Wei et.al.|[2609.26726](http://arxiv.org/abs/2609.26726)|null|
