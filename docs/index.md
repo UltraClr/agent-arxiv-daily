@@ -16,6 +16,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-28**|**TokenCast: Forecasting Token Consumption During LLM Agent Execution**|Chaoqian Ouyang et.al.|[2609.35760](http://arxiv.org/abs/2609.35760)|null|
+|**2026-09-28**|**Scaling Long-Form Story Generation via Narrative State Tracking**|Zhennan Wan et.al.|[2609.35759](http://arxiv.org/abs/2609.35759)|null|
+|**2026-09-28**|**Harness Learning Enables Generalizable Test-Time Adaptation**|Alvin Zhang et.al.|[2609.35738](http://arxiv.org/abs/2609.35738)|null|
+|**2026-09-28**|**Failure-Transparent Agents: Benchmarking Post-Failure Reporting in Tool-Using Language Models**|Junru Zhu et.al.|[2609.35732](http://arxiv.org/abs/2609.35732)|null|
+|**2026-09-28**|**AI Agent Swarms as Researchers: Progress, Challenges, and Open Questions**|Sergey Gusev et.al.|[2609.35719](http://arxiv.org/abs/2609.35719)|null|
+|**2026-09-28**|**Reinforcing Agentic Creativity in Scientific Ideation with Night Science**|Priyanka Kargupta et.al.|[2609.35706](http://arxiv.org/abs/2609.35706)|null|
+|**2026-09-28**|**Tracekit: Tamper-Evident Intent-Reasoning-Action Auditing for Autonomous Coding Agents**|Bravish Ghosh et.al.|[2609.35659](http://arxiv.org/abs/2609.35659)|null|
+|**2026-09-28**|**GPUPhysBench: Benchmarking Coding Agents for Correct and Efficient GPU Physics Simulation**|Yuchen Sun et.al.|[2609.35639](http://arxiv.org/abs/2609.35639)|null|
+|**2026-09-28**|**TCSAlgBench: Benchmarking Automated Proving for Research-Level Theoretical Computer Science**|Chutong Yang et.al.|[2609.35606](http://arxiv.org/abs/2609.35606)|null|
+|**2026-09-28**|**SEABench: Benchmarking Endogenous Misalignment In Self-Evolving Agents**|Saswat Das et.al.|[2609.35596](http://arxiv.org/abs/2609.35596)|null|
+|**2026-09-28**|**Share-Borne AI Virus: Memory-Hopping Attacks Across LLM Agents**|Sidharth Pulipaka et.al.|[2609.35576](http://arxiv.org/abs/2609.35576)|null|
+|**2026-09-28**|**From Experience to Expertise: Adoption-Aware Memory Learning for Data-Scarce NPU Kernel Synthesis**|Longxiao Fan et.al.|[2609.35568](http://arxiv.org/abs/2609.35568)|null|
+|**2026-09-28**|**From Search to Research: Exploring Search Scaling in Autonomous Quantitative Factor Mining**|Kangcheng Deng et.al.|[2609.35559](http://arxiv.org/abs/2609.35559)|null|
+|**2026-09-28**|**The Compiler May Read It, the Agent May Not: Keeping Part of a Research Code Away from a Coding Agent**|Shobhan Roy et.al.|[2609.35557](http://arxiv.org/abs/2609.35557)|null|
+|**2026-09-28**|**Continuous Context Management**|William Hoy et.al.|[2609.35540](http://arxiv.org/abs/2609.35540)|null|
+|**2026-09-28**|**AutoRef: Harness Optimization for Agentic Multi-Reference Image Generation**|Yuta Oshima et.al.|[2609.35530](http://arxiv.org/abs/2609.35530)|null|
+|**2026-09-28**|**Sprout: Building Dynamic Memory While Reasoning for Agentic Video Understanding**|Wei Chen et.al.|[2609.35497](http://arxiv.org/abs/2609.35497)|null|
+|**2026-09-28**|**Robot Tool Design from Scratch via Behavior-Aware Hierarchical Optimization**|Yinghan Chen et.al.|[2609.35479](http://arxiv.org/abs/2609.35479)|null|
+|**2026-09-28**|**AutoBCI: Forecast-Guided Agentic Neural Architecture Discovery for EEG-Based Brain--Computer Interfaces**|Muyun Jiang et.al.|[2609.35456](http://arxiv.org/abs/2609.35456)|null|
+|**2026-09-28**|**Self-Evolving Coding Agents: From Digital Programs to Physical-World Intelligence**|Hongcheng Gao et.al.|[2609.35432](http://arxiv.org/abs/2609.35432)|null|
 |**2026-09-25**|**AgentWorld: Benchmarking Long-Horizon Collaboration of Multi-agent LLMs**|Raphael Shu et.al.|[2609.31590](http://arxiv.org/abs/2609.31590)|null|
 |**2026-09-25**|**Compact Documentation for Coding Agents: A Benchmark, an Optimizer, and Why It Does Not Transfer**|Md Shohel Arman et.al.|[2609.31587](http://arxiv.org/abs/2609.31587)|null|
 |**2026-09-25**|**Configuration, Not Conscience: A Large-Scale Empirical Study of LLM System Prompts**|Constantinos Patsakis et.al.|[2609.31575](http://arxiv.org/abs/2609.31575)|null|
@@ -5279,6 +5299,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-28**|**Telescopic Language Models**|Zhilin Guo et.al.|[2609.35769](http://arxiv.org/abs/2609.35769)|null|
+|**2026-09-28**|**TokenCast: Forecasting Token Consumption During LLM Agent Execution**|Chaoqian Ouyang et.al.|[2609.35760](http://arxiv.org/abs/2609.35760)|null|
+|**2026-09-28**|**How to Loop MoE: Flatten the Experts, Untie the Attention**|Shouren Wang et.al.|[2609.35751](http://arxiv.org/abs/2609.35751)|null|
+|**2026-09-28**|**Shockingly Simple Self-retrospection Improves Agentic Models Without RL**|Jonathan Light et.al.|[2609.35741](http://arxiv.org/abs/2609.35741)|null|
+|**2026-09-28**|**Harness Learning Enables Generalizable Test-Time Adaptation**|Alvin Zhang et.al.|[2609.35738](http://arxiv.org/abs/2609.35738)|null|
+|**2026-09-28**|**Failure-Transparent Agents: Benchmarking Post-Failure Reporting in Tool-Using Language Models**|Junru Zhu et.al.|[2609.35732](http://arxiv.org/abs/2609.35732)|null|
+|**2026-09-28**|**AI Agent Swarms as Researchers: Progress, Challenges, and Open Questions**|Sergey Gusev et.al.|[2609.35719](http://arxiv.org/abs/2609.35719)|null|
+|**2026-09-28**|**Humanoid Loco-Manipulation With Discrete VLA Model**|Wenxin Shao et.al.|[2609.35709](http://arxiv.org/abs/2609.35709)|null|
+|**2026-09-28**|**ScAn-Bench: Evaluating Scaling Analysis Methodology**|Artin Sermaxhaj et.al.|[2609.35707](http://arxiv.org/abs/2609.35707)|null|
+|**2026-09-28**|**Reinforcing Agentic Creativity in Scientific Ideation with Night Science**|Priyanka Kargupta et.al.|[2609.35706](http://arxiv.org/abs/2609.35706)|null|
+|**2026-09-28**|**MeqMuon: Matrix-Equilibrating Muon for LLM Pretraining**|Chang-Wei Shi et.al.|[2609.35701](http://arxiv.org/abs/2609.35701)|null|
+|**2026-09-28**|**Distillation Defenses Easily Break After Reinforcement Learning**|Shidan Javaheri et.al.|[2609.35699](http://arxiv.org/abs/2609.35699)|null|
+|**2026-09-28**|**Rethinking Personalized Generation: Test-Time Alignment via Factorized Ranking Models**|Qiyao Ma et.al.|[2609.35695](http://arxiv.org/abs/2609.35695)|null|
+|**2026-09-28**|**QuanReview: Offline, Auditable Reconciliation of Human and LLM Span Annotations**|Matteo Musacchio et.al.|[2609.35685](http://arxiv.org/abs/2609.35685)|null|
+|**2026-09-28**|**Verifier Errors in RLVR: Reward Hacking, Limits of Feedback, and Selective Control**|Christian Moya et.al.|[2609.35677](http://arxiv.org/abs/2609.35677)|null|
+|**2026-09-28**|**FlowTool: Controlling Tool Parameter in Image Retouching via Flow Matching**|Thanh-Long V. Le et.al.|[2609.35673](http://arxiv.org/abs/2609.35673)|null|
+|**2026-09-28**|**PhoneCLI: From App Interfaces to Callable Commands for Mobile Agents**|Yangqin Jiang et.al.|[2609.35671](http://arxiv.org/abs/2609.35671)|null|
+|**2026-09-28**|**MS-GLA: Multi-Scale Gated Linear Attention for Addressing Representational Bottlenecks via Multi-Temporal Resolution**|Prasoon Dev et.al.|[2609.35664](http://arxiv.org/abs/2609.35664)|null|
+|**2026-09-28**|**Late Attention Layers Alone Can Copy Entity Tokens, but Not Without Attending to Their Context**|Muyu He et.al.|[2609.35663](http://arxiv.org/abs/2609.35663)|null|
+|**2026-09-28**|**Not All Thinking is Created Equal: Latent Reasoning Discovers a Recurrent Search Algorithm for Depth Generalization**|Huzi Cheng et.al.|[2609.35643](http://arxiv.org/abs/2609.35643)|null|
 |**2026-09-25**|**User Model Extraction via Belief Self-Distillation**|Ali Holmov et.al.|[2609.31603](http://arxiv.org/abs/2609.31603)|null|
 |**2026-09-25**|**New LoRA Skills Should Read but Never Write**|Zeyan Li et.al.|[2609.31600](http://arxiv.org/abs/2609.31600)|null|
 |**2026-09-25**|**GraphWrit3R: End-to-End 3D Scene Graph Writing**|Luka Milivojevic et.al.|[2609.31595](http://arxiv.org/abs/2609.31595)|null|
@@ -10438,6 +10478,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-28**|**Learning Native Reflection in Unified Models with Interleaved Reinforcement Learning**|Yijia Fan et.al.|[2609.35767](http://arxiv.org/abs/2609.35767)|null|
+|**2026-09-28**|**KV-streams for Efficient Compaction in Agentic Reinforcement Learning**|Emiliano Penaloza et.al.|[2609.35750](http://arxiv.org/abs/2609.35750)|null|
+|**2026-09-28**|**Harness Learning Enables Generalizable Test-Time Adaptation**|Alvin Zhang et.al.|[2609.35738](http://arxiv.org/abs/2609.35738)|null|
+|**2026-09-28**|**A uniform lower bound for the Zhang-Kawazumi invariant and applications to the Bogomolov conjecture**|Robert Wilms et.al.|[2609.35736](http://arxiv.org/abs/2609.35736)|null|
+|**2026-09-28**|**Multilevel Plaquette-Space Sampling for Lattice Gauge Theories with Local Constraint Solves**|Ankur Singha et.al.|[2609.35722](http://arxiv.org/abs/2609.35722)|null|
+|**2026-09-28**|**X-Reset: Scaling Object-Centric Reinforcement Learning via Cross-Embodiment Resets**|Prithwish Dan et.al.|[2609.35715](http://arxiv.org/abs/2609.35715)|null|
+|**2026-09-28**|**Reinforcing Agentic Creativity in Scientific Ideation with Night Science**|Priyanka Kargupta et.al.|[2609.35706](http://arxiv.org/abs/2609.35706)|null|
+|**2026-09-28**|**Distillation Defenses Easily Break After Reinforcement Learning**|Shidan Javaheri et.al.|[2609.35699](http://arxiv.org/abs/2609.35699)|null|
+|**2026-09-28**|**Provable Benefits of Regularization: Fast Rates for Adversarial Imitation Learning**|Hanbin Zhou et.al.|[2609.35698](http://arxiv.org/abs/2609.35698)|null|
+|**2026-09-28**|**Rethinking Personalized Generation: Test-Time Alignment via Factorized Ranking Models**|Qiyao Ma et.al.|[2609.35695](http://arxiv.org/abs/2609.35695)|null|
+|**2026-09-28**|**Verifier Errors in RLVR: Reward Hacking, Limits of Feedback, and Selective Control**|Christian Moya et.al.|[2609.35677](http://arxiv.org/abs/2609.35677)|null|
+|**2026-09-28**|**Accelerating massive ensembles of ordinary differential equations**|Lawrence Berry et.al.|[2609.35661](http://arxiv.org/abs/2609.35661)|null|
+|**2026-09-28**|**Rubric Rewards from Item Response Theory**|Milad Yazdani et.al.|[2609.35646](http://arxiv.org/abs/2609.35646)|null|
+|**2026-09-28**|**Verifiable Visual Rewards Transfer from Synthetic Scenes to Natural Prompts**|Shuyue Stella Li et.al.|[2609.35641](http://arxiv.org/abs/2609.35641)|null|
+|**2026-09-28**|**Behavioral Foundation Models for Quality Diversity**|Nazim Bendib et.al.|[2609.35615](http://arxiv.org/abs/2609.35615)|null|
+|**2026-09-28**|**Twist, Don't Tilt: Trajectory-Exact Constrained Decoding for Masked Diffusion Models**|Aditya Thimmaiah et.al.|[2609.35609](http://arxiv.org/abs/2609.35609)|null|
+|**2026-09-28**|**Treewidth and the complexity of box-constrained quadratic programs**|Alberto Del Pia et.al.|[2609.35595](http://arxiv.org/abs/2609.35595)|null|
+|**2026-09-28**|**F4R: Failure-Driven Recognition, Reconstruction, Refinement, and Redeployment for Continual Robot Self-Improvement**|Zhuoyuan Yu et.al.|[2609.35575](http://arxiv.org/abs/2609.35575)|null|
+|**2026-09-28**|**Continuous Context Management**|William Hoy et.al.|[2609.35540](http://arxiv.org/abs/2609.35540)|null|
+|**2026-09-28**|**ARISE: Adapting to Evolving Capability Gaps in Agentic Reinforcement Learning**|Kun Feng et.al.|[2609.35532](http://arxiv.org/abs/2609.35532)|null|
 |**2026-09-25**|**Learning to Stop without Learning to Stop: Self-Supervised Confidence Training Improves Reasoning Efficiency**|Parsa Hosseini et.al.|[2609.31619](http://arxiv.org/abs/2609.31619)|null|
 |**2026-09-25**|**Learning Robot Policies from Sparse Success Signals via STL-Guided Stein Variational Policy Gradient**|Hongrui Zheng et.al.|[2609.31606](http://arxiv.org/abs/2609.31606)|null|
 |**2026-09-25**|**LAT: a Latinized aperiodic tiling for any sample size**|Pamphile T. Roy et.al.|[2609.31593](http://arxiv.org/abs/2609.31593)|null|
