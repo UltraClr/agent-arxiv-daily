@@ -16,6 +16,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-30**|**How Much of a Harness Does a Strong Agent Need for Autonomous ML Engineering?**|Kirill Brilliantov et.al.|[2609.40303](http://arxiv.org/abs/2609.40303)|null|
+|**2026-09-30**|**Skill-Based AI Agents for Power-System Studies**|Pavel Etingov et.al.|[2609.40272](http://arxiv.org/abs/2609.40272)|null|
+|**2026-09-30**|**Herschel: Continuous Optimization of Production LLM Inference through On-Demand Profiling**|Luping Wang et.al.|[2609.40247](http://arxiv.org/abs/2609.40247)|null|
+|**2026-09-30**|**PhantomEnvironments: Training LLM Agents in Fictional Worlds**|Anmol Kabra et.al.|[2609.40221](http://arxiv.org/abs/2609.40221)|null|
+|**2026-09-30**|**Learning from Research: Toward Lifelong Agent Harness Evolution**|Jingbo Yang et.al.|[2609.40169](http://arxiv.org/abs/2609.40169)|null|
+|**2026-09-30**|**From DNA Design to DNA Slimming: Auditable Agentic Discovery of a Deletion-Only Designer**|Joel Shor et.al.|[2609.40143](http://arxiv.org/abs/2609.40143)|null|
+|**2026-09-30**|**Game-Guided Skill Discovery through Self-Play for Playable Agent Control**|Seungeun Rho et.al.|[2609.40137](http://arxiv.org/abs/2609.40137)|null|
+|**2026-09-30**|**Who Asked for This? Inline Annotations as Authoring Transactions for Provenance in Agentic Authoring**|Chang Xiao et.al.|[2609.40126](http://arxiv.org/abs/2609.40126)|null|
+|**2026-09-30**|**Persistent Context Graphs for Efficient Memory Compaction in LLM Agents**|Jingbo Yang et.al.|[2609.40118](http://arxiv.org/abs/2609.40118)|null|
+|**2026-09-30**|**Agent Error Dataset: Scaling 50,000 Error--Diagnosis Pairs for Failure Analysis and Error-Aware Post-Training**|Kunlun Zhu et.al.|[2609.40111](http://arxiv.org/abs/2609.40111)|null|
+|**2026-09-30**|**AutoDataBench: A Data-centric Testbed for Accelerating Auto Research**|Ruifeng Yuan et.al.|[2609.40097](http://arxiv.org/abs/2609.40097)|null|
+|**2026-09-30**|**LongEmo: Towards Emotion Understanding and Reasoning in Long Videos**|Shuo Zhang et.al.|[2609.40079](http://arxiv.org/abs/2609.40079)|null|
+|**2026-09-30**|**CoEvoWhen: Policy-Tool Coevolution for Ultra-Long Video Temporal Grounding**|Yiduo Jia et.al.|[2609.40048](http://arxiv.org/abs/2609.40048)|null|
+|**2026-09-30**|**Who Verifies the Graph? Misspecification Attacks on Causal Action Verification for Language Agents**|Fabio Rovai et.al.|[2609.40027](http://arxiv.org/abs/2609.40027)|null|
+|**2026-09-30**|**What Can Component-Replacement Evidence Establish? A Critical Scoping Review of Local Decisions in LLM Agents**|Shuyang Zhang et.al.|[2609.39989](http://arxiv.org/abs/2609.39989)|null|
+|**2026-09-30**|**Learning When and How to Intervene: A Hindsight-Distilled Sentinel for Coding Agents**|Jiangrui Zhao et.al.|[2609.39957](http://arxiv.org/abs/2609.39957)|null|
+|**2026-09-30**|**ConflictGuide: AutoResearch Improves When Competing Behaviors Are Made Visible**|Binqian Xu et.al.|[2609.39933](http://arxiv.org/abs/2609.39933)|null|
+|**2026-09-30**|**NavHarness: Adaptive Goals for Agentic Vision-Language Navigation**|Haoxiang Shi et.al.|[2609.39915](http://arxiv.org/abs/2609.39915)|null|
+|**2026-09-30**|**Privacy Foundations for Multi-Institutional Scientific Artificial Intelligence**|Olivera Kotevska et.al.|[2609.39787](http://arxiv.org/abs/2609.39787)|null|
+|**2026-09-30**|**GraphMAS: A Systematic Benchmark of Multi-Agent Coordination for Graph Learning**|Jiayi Yang et.al.|[2609.39777](http://arxiv.org/abs/2609.39777)|null|
 |**2026-09-28**|**TokenCast: Forecasting Token Consumption During LLM Agent Execution**|Chaoqian Ouyang et.al.|[2609.35760](http://arxiv.org/abs/2609.35760)|null|
 |**2026-09-28**|**Scaling Long-Form Story Generation via Narrative State Tracking**|Zhennan Wan et.al.|[2609.35759](http://arxiv.org/abs/2609.35759)|null|
 |**2026-09-28**|**Harness Learning Enables Generalizable Test-Time Adaptation**|Alvin Zhang et.al.|[2609.35738](http://arxiv.org/abs/2609.35738)|null|
@@ -5299,6 +5319,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-30**|**Ranking-Aware Prompt Optimization for Multimodal Clinical Diagnosis**|Tian Xia et.al.|[2609.40361](http://arxiv.org/abs/2609.40361)|null|
+|**2026-09-30**|**Semifactual Credit-Augmented Policy Optimization**|Junshu Pan et.al.|[2609.40360](http://arxiv.org/abs/2609.40360)|null|
+|**2026-09-30**|**EvoDuet: Bilevel Co-Evolution of Web Searching and Task Solving for Scientific Discovery**|Young-Jun Lee et.al.|[2609.40340](http://arxiv.org/abs/2609.40340)|null|
+|**2026-09-30**|**Is Weight Tying Still Beneficial for Decoder-Only LLMs in Private Settings Under DP-SGD?**|Razan El Mais et.al.|[2609.40335](http://arxiv.org/abs/2609.40335)|null|
+|**2026-09-30**|**WorldAuditBench: Interactive 3D World Auditing with Multimodal Agents**|Ziyan Jiang et.al.|[2609.40325](http://arxiv.org/abs/2609.40325)|null|
+|**2026-09-30**|**Cogentic: Multi-Agent Orchestration for Automated Proof Discovery**|Yang Cai et.al.|[2609.40324](http://arxiv.org/abs/2609.40324)|null|
+|**2026-09-30**|**MatLoom: Layered Text-to-Material Generation in a Compact Program Space**|Anson Y. Lam et.al.|[2609.40322](http://arxiv.org/abs/2609.40322)|null|
+|**2026-09-30**|**Scaling Laws for Looped Mixture of Experts**|Yanbei Chen et.al.|[2609.40316](http://arxiv.org/abs/2609.40316)|null|
+|**2026-09-30**|**How Much of a Harness Does a Strong Agent Need for Autonomous ML Engineering?**|Kirill Brilliantov et.al.|[2609.40303](http://arxiv.org/abs/2609.40303)|null|
+|**2026-09-30**|**Open Capacity Pooling in Agentic Supply Chains: Coordination-Directed LLM Discovery and Distributed Re-optimization**|Yujia Xu et.al.|[2609.40296](http://arxiv.org/abs/2609.40296)|null|
+|**2026-09-30**|**How Much Is an AI Token Worth? Scaling Laws for Wild AI-Generated Web Text**|Jenna Russell et.al.|[2609.40295](http://arxiv.org/abs/2609.40295)|null|
+|**2026-09-30**|**OpenTSLM TeeMoE: A Unified Time-Series Language Model for Forecasting, Contextual Prediction, and Reasoning**|Tony Chen et.al.|[2609.40265](http://arxiv.org/abs/2609.40265)|null|
+|**2026-09-30**|**Large Language Model-Guided Evolutionary Discovery of Native Neural Architectures for Spiking Sequence Modeling**|Ruoyu Zhao et.al.|[2609.40258](http://arxiv.org/abs/2609.40258)|null|
+|**2026-09-30**|**Herschel: Continuous Optimization of Production LLM Inference through On-Demand Profiling**|Luping Wang et.al.|[2609.40247](http://arxiv.org/abs/2609.40247)|null|
+|**2026-09-30**|**STARS: From Spatiotemporal Dynamics to Social Representations in Human-Robot Interaction**|Nathan Tsoi et.al.|[2609.40245](http://arxiv.org/abs/2609.40245)|null|
+|**2026-09-30**|**Decision-Oriented Recommendation Reranking: An Empirical Study of Jev**|Hanjia Lyu et.al.|[2609.40241](http://arxiv.org/abs/2609.40241)|null|
+|**2026-09-30**|**Comparison of techniques for fine-tuning open-weight models for entity extraction from radiology reports**|Aawez Mansuri et.al.|[2609.40236](http://arxiv.org/abs/2609.40236)|null|
+|**2026-09-30**|**Distribution Matching Distillation for Continuous Diffusion Language Models**|Paul Le Van Kiem et.al.|[2609.40235](http://arxiv.org/abs/2609.40235)|null|
+|**2026-09-30**|**Provably Tractable NFA-Constrained Language Generation via HMMs**|Jialiang Sun et.al.|[2609.40185](http://arxiv.org/abs/2609.40185)|null|
+|**2026-09-30**|**Learning from Research: Toward Lifelong Agent Harness Evolution**|Jingbo Yang et.al.|[2609.40169](http://arxiv.org/abs/2609.40169)|null|
 |**2026-09-28**|**Telescopic Language Models**|Zhilin Guo et.al.|[2609.35769](http://arxiv.org/abs/2609.35769)|null|
 |**2026-09-28**|**TokenCast: Forecasting Token Consumption During LLM Agent Execution**|Chaoqian Ouyang et.al.|[2609.35760](http://arxiv.org/abs/2609.35760)|null|
 |**2026-09-28**|**How to Loop MoE: Flatten the Experts, Untie the Attention**|Shouren Wang et.al.|[2609.35751](http://arxiv.org/abs/2609.35751)|null|
@@ -10478,6 +10518,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-30**|**Semifactual Credit-Augmented Policy Optimization**|Junshu Pan et.al.|[2609.40360](http://arxiv.org/abs/2609.40360)|null|
+|**2026-09-30**|**Learning Global Sensitivity Indices from Observational Data: A Metamodel-Based Approach**|Giulia Vannucci et.al.|[2609.40342](http://arxiv.org/abs/2609.40342)|null|
+|**2026-09-30**|**Quantum Enhanced Deep Reinforcement Learning for Distribution Network Reconfiguration**|Daniel Germain et.al.|[2609.40327](http://arxiv.org/abs/2609.40327)|null|
+|**2026-09-30**|**EviRover: Reinforcing Agentic Perception Beyond a Glance**|Kaixuan Fan et.al.|[2609.40230](http://arxiv.org/abs/2609.40230)|null|
+|**2026-09-30**|**PhantomEnvironments: Training LLM Agents in Fictional Worlds**|Anmol Kabra et.al.|[2609.40221](http://arxiv.org/abs/2609.40221)|null|
+|**2026-09-30**|**Improved quantum volume estimation with transducers and amortized quantum walks**|Arjan Cornelissen et.al.|[2609.40217](http://arxiv.org/abs/2609.40217)|null|
+|**2026-09-30**|**MemLife: Curating and Reasoning over Long-Term Egocentric Video Memories**|Guangzhi Xiong et.al.|[2609.40195](http://arxiv.org/abs/2609.40195)|null|
+|**2026-09-30**|**Estimating High-Energy Neutrino Effective Areas from Muon Propagation**|Stephan A. Meighen-Berger et.al.|[2609.40188](http://arxiv.org/abs/2609.40188)|null|
+|**2026-09-30**|**Social-WM: Safety-Aware Latent World Models for Robot Social Navigation**|Zhihao Zheng et.al.|[2609.40177](http://arxiv.org/abs/2609.40177)|null|
+|**2026-09-30**|**Reinforcement Learning-Guided Graph Transformations for SpTRSV Optimization**|Buse Yılmaz et.al.|[2609.40159](http://arxiv.org/abs/2609.40159)|null|
+|**2026-09-30**|**Role-Adaptive Policy Optimization for Offline Reinforcement Learning**|Seonvin Cho et.al.|[2609.40149](http://arxiv.org/abs/2609.40149)|null|
+|**2026-09-30**|**Tactile Curiosity Drives Robot Interaction**|Klemens Iten et.al.|[2609.40134](http://arxiv.org/abs/2609.40134)|null|
+|**2026-09-30**|**FIREWALL: A surrogate model for the rapid assessment of tokamak wall loading and melting by runaway electrons**|Victor Johan Svensson et.al.|[2609.40132](http://arxiv.org/abs/2609.40132)|null|
+|**2026-09-30**|**Unlearnable, or Unmeasured? On the Reliability of Difficulty Labels in RLVR**|Chandak Chakma et.al.|[2609.40115](http://arxiv.org/abs/2609.40115)|null|
+|**2026-09-30**|**Smart Machine Learning for Solving the Full Electron-Nuclear Schrödinger Equation with a Quantum-Chemically Inspired Wavefunction Ansatz**|Yaolong Zhang et.al.|[2609.40112](http://arxiv.org/abs/2609.40112)|null|
+|**2026-09-30**|**Limit Theorems for Disordered Quantum Trajectories**|Yeor Hafouta et.al.|[2609.40096](http://arxiv.org/abs/2609.40096)|null|
+|**2026-09-30**|**PTNO: Training Neural Operators with Noisy Monte Carlo Estimates for Particle Transport Problems**|Yubo Cao et.al.|[2609.40090](http://arxiv.org/abs/2609.40090)|null|
+|**2026-09-30**|**OPTS-TTPO: Enhancing Finite-Sample Policy-Gradient Learning with Tree Search**|Junyu Lu et.al.|[2609.40035](http://arxiv.org/abs/2609.40035)|null|
+|**2026-09-30**|**Identifiable Decomposition of Submovements in Human Hand Trajectories**|Adrian Prados et.al.|[2609.40012](http://arxiv.org/abs/2609.40012)|null|
+|**2026-09-30**|**Entropy-Driven Altermagnetism from Thermal Magnons**|Tanaya Halder et.al.|[2609.40002](http://arxiv.org/abs/2609.40002)|null|
 |**2026-09-28**|**Learning Native Reflection in Unified Models with Interleaved Reinforcement Learning**|Yijia Fan et.al.|[2609.35767](http://arxiv.org/abs/2609.35767)|null|
 |**2026-09-28**|**KV-streams for Efficient Compaction in Agentic Reinforcement Learning**|Emiliano Penaloza et.al.|[2609.35750](http://arxiv.org/abs/2609.35750)|null|
 |**2026-09-28**|**Harness Learning Enables Generalizable Test-Time Adaptation**|Alvin Zhang et.al.|[2609.35738](http://arxiv.org/abs/2609.35738)|null|
