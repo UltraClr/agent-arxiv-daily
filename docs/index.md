@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Agent Research Papers
-### Automatically Updated on 2026.10.01
+### Automatically Updated on 2026.10.02
 Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Autonomous Agent`,`LLM Agent`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -16,6 +16,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-01**|**KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards**|Pengfei Li et.al.|[2610.02206](http://arxiv.org/abs/2610.02206)|null|
+|**2026-10-01**|**Reconstruct, Practice, Go Real: Guided Self-Improvement for Embodied Agents**|Yen-Jen Wang et.al.|[2610.02204](http://arxiv.org/abs/2610.02204)|null|
+|**2026-10-01**|**InterEvolve: Test-Time Evolution of Reward Programs for Humanoid Loco-Manipulation**|Zhuo Lin et.al.|[2610.02196](http://arxiv.org/abs/2610.02196)|null|
+|**2026-10-01**|**OmniSeek: Native Tool Integration for Multi-turn Audio-Visual Reasoning**|Haibo Wang et.al.|[2610.02181](http://arxiv.org/abs/2610.02181)|null|
+|**2026-10-01**|**AutoCompact: Learning When to Compact Context in Long-Horizon Coding Agents**|Xuan Zhang et.al.|[2610.02163](http://arxiv.org/abs/2610.02163)|null|
+|**2026-10-01**|**From Knowledge Access to Source Learning: Developing Source-Specific Competence**|Lucheng Fu et.al.|[2610.02150](http://arxiv.org/abs/2610.02150)|null|
+|**2026-10-01**|**Keyword Harnesses Fail Open: A Cheap Diagnostic Ladder for Tool-Use Claims in Small Language Models**|Juan S. Santillana et.al.|[2610.02142](http://arxiv.org/abs/2610.02142)|null|
+|**2026-10-01**|**HumanoidToolBench: Benchmarking Humanoid Tool Use from Selection to Mobile Execution**|Kyochul Jang et.al.|[2610.02089](http://arxiv.org/abs/2610.02089)|null|
+|**2026-10-01**|**A Dynamic Generalized Kalman Consensus Filter for Switching Sensor Networks**|Tirthankar Chakraborty et.al.|[2610.02055](http://arxiv.org/abs/2610.02055)|null|
+|**2026-10-01**|**Form and Void: Entangled Composition through an Autonomous AI Agent**|Shiwen Wang et.al.|[2610.02045](http://arxiv.org/abs/2610.02045)|null|
+|**2026-10-01**|**Mimir: Physics-Grounded LLM Agents for Long-Horizon Irrigation Control**|Yimeng Liu et.al.|[2610.02038](http://arxiv.org/abs/2610.02038)|null|
+|**2026-10-01**|**Global Coherence: When Every Agent Is Right and the Team Is Still Wrong - A Local-to-Global Semantic Foundation for Multi-Agent Collaboration**|Xin Heng et.al.|[2610.02036](http://arxiv.org/abs/2610.02036)|null|
+|**2026-10-01**|**Mem++: Non-Destructive Memory for Long-Term Organizational LLM Agents**|Ahmad Yehia et.al.|[2610.02002](http://arxiv.org/abs/2610.02002)|null|
+|**2026-10-01**|**LiteReality-Agent: An Agentic System for Interactable 3D Indoor Scene Reconstruction**|Zhening Huang et.al.|[2610.01863](http://arxiv.org/abs/2610.01863)|null|
+|**2026-10-01**|**Continuous Process-Level Evaluation for Evolving Enterprise AI Agent Skills**|Ngoc Phuoc An Vo et.al.|[2610.01833](http://arxiv.org/abs/2610.01833)|null|
+|**2026-10-01**|**Scientific Discovery under Validation Congestion via Multi-Fidelity Pairwise Rankings**|Kevin Tirta Wijaya et.al.|[2610.01827](http://arxiv.org/abs/2610.01827)|null|
+|**2026-10-01**|**Token Communication-Assisted Collaborative Embodied Artificial Intelligence: Concepts, Framework, and Opportunities**|Peng Yi et.al.|[2610.01826](http://arxiv.org/abs/2610.01826)|null|
+|**2026-10-01**|**CONTRA: Discovering and Qualifying Behavior-Changing Questions for Selective Clarification in LLM Code Generation**|Zheng Fang et.al.|[2610.01769](http://arxiv.org/abs/2610.01769)|null|
+|**2026-10-01**|**VideoEvolve: Evolving Agent Harnesses for Video Temporal Grounding**|Bingjun Luo et.al.|[2610.01766](http://arxiv.org/abs/2610.01766)|null|
+|**2026-10-01**|**Agents Are Systems, Not Models: Rethinking Agentic Evaluation**|Luis Wiedmann et.al.|[2610.01618](http://arxiv.org/abs/2610.01618)|null|
 |**2026-09-30**|**How Much of a Harness Does a Strong Agent Need for Autonomous ML Engineering?**|Kirill Brilliantov et.al.|[2609.40303](http://arxiv.org/abs/2609.40303)|null|
 |**2026-09-30**|**Skill-Based AI Agents for Power-System Studies**|Pavel Etingov et.al.|[2609.40272](http://arxiv.org/abs/2609.40272)|null|
 |**2026-09-30**|**Herschel: Continuous Optimization of Production LLM Inference through On-Demand Profiling**|Luping Wang et.al.|[2609.40247](http://arxiv.org/abs/2609.40247)|null|
@@ -5319,6 +5339,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-01**|**TACO: Ternary Absolute-max Column-wise One-sparse Optimizer for LLM Fine-Tuning**|Jichao Jiang et.al.|[2610.02199](http://arxiv.org/abs/2610.02199)|null|
+|**2026-10-01**|**InterEvolve: Test-Time Evolution of Reward Programs for Humanoid Loco-Manipulation**|Zhuo Lin et.al.|[2610.02196](http://arxiv.org/abs/2610.02196)|null|
+|**2026-10-01**|**Hierarchical Continuous Diffusion Language Models**|Hui Ren et.al.|[2610.02193](http://arxiv.org/abs/2610.02193)|null|
+|**2026-10-01**|**The Missing Primitive: Diagnosing and Repairing Mathematical Reasoning in Large Language Models**|Shuo Xing et.al.|[2610.02191](http://arxiv.org/abs/2610.02191)|null|
+|**2026-10-01**|**Trust the Direction, Search the Step: Zero-and-First-Order Methods for LLM Fine-Tuning**|Cristian McGee et.al.|[2610.02190](http://arxiv.org/abs/2610.02190)|null|
+|**2026-10-01**|**Generative modeling of intrinsically disordered protein regions by reinforcing sparse autoencoder features**|Jason X. Liu et.al.|[2610.02189](http://arxiv.org/abs/2610.02189)|null|
+|**2026-10-01**|**OmniSeek: Native Tool Integration for Multi-turn Audio-Visual Reasoning**|Haibo Wang et.al.|[2610.02181](http://arxiv.org/abs/2610.02181)|null|
+|**2026-10-01**|**Every Ablation Is a Dose: Counterweights and the Semblance of Self-Repair**|Areeb Ahmad et.al.|[2610.02173](http://arxiv.org/abs/2610.02173)|null|
+|**2026-10-01**|**DuoMind: Enabling Distributed Multi-Robot Coordination with Semantic Communication**|Hanchu Zhou et.al.|[2610.02161](http://arxiv.org/abs/2610.02161)|null|
+|**2026-10-01**|**From Knowledge Access to Source Learning: Developing Source-Specific Competence**|Lucheng Fu et.al.|[2610.02150](http://arxiv.org/abs/2610.02150)|null|
+|**2026-10-01**|**Keyword Harnesses Fail Open: A Cheap Diagnostic Ladder for Tool-Use Claims in Small Language Models**|Juan S. Santillana et.al.|[2610.02142](http://arxiv.org/abs/2610.02142)|null|
+|**2026-10-01**|**Sample complexity bounds for categorical Markov random fields via Discrete Diffusions**|Shivam Kumar et.al.|[2610.02128](http://arxiv.org/abs/2610.02128)|null|
+|**2026-10-01**|**Harnessing Domain Specialists in Multimodal Mixture-of-Experts for Efficient Adaptation**|Damiano Marsili et.al.|[2610.02123](http://arxiv.org/abs/2610.02123)|null|
+|**2026-10-01**|**Where-OPD: Spatially Guided On-Policy Self-Distillation of MLLMs with Synthetic Scenes**|Sophia Sirko-Galouchenko et.al.|[2610.02117](http://arxiv.org/abs/2610.02117)|null|
+|**2026-10-01**|**Scalable, Transferable Meta-network for Data Selection Requires a Different Loss (and Why the Obvious Choice is Problematic)**|Zilin Du et.al.|[2610.02092](http://arxiv.org/abs/2610.02092)|null|
+|**2026-10-01**|**GeoLatent: Geometry-Guided Latent Structuring with Routed Optimization for 3D Reasoning**|Yakun Zhu et.al.|[2610.02091](http://arxiv.org/abs/2610.02091)|null|
+|**2026-10-01**|**Causal Memory Policy: Making Memory Utility Identifiable by Intervening on Retrieval**|Arman Behnam et.al.|[2610.02070](http://arxiv.org/abs/2610.02070)|null|
+|**2026-10-01**|**External Observers May See More Clearly: Cross-Model Span-Level Hallucination Detection in Large Language Models via Hidden State Probing**|Kingshuk Gupta et.al.|[2610.02066](http://arxiv.org/abs/2610.02066)|null|
+|**2026-10-01**|**UniWAM: Unified World-Action Model**|Jiayi Chen et.al.|[2610.02054](http://arxiv.org/abs/2610.02054)|null|
+|**2026-10-01**|**HydroJEV: A one-second, training-free screen for cyber-attack and fault attribution in water distribution networks**|Tianwei Mu et.al.|[2610.02048](http://arxiv.org/abs/2610.02048)|null|
 |**2026-09-30**|**Ranking-Aware Prompt Optimization for Multimodal Clinical Diagnosis**|Tian Xia et.al.|[2609.40361](http://arxiv.org/abs/2609.40361)|null|
 |**2026-09-30**|**Semifactual Credit-Augmented Policy Optimization**|Junshu Pan et.al.|[2609.40360](http://arxiv.org/abs/2609.40360)|null|
 |**2026-09-30**|**EvoDuet: Bilevel Co-Evolution of Web Searching and Task Solving for Scientific Discovery**|Young-Jun Lee et.al.|[2609.40340](http://arxiv.org/abs/2609.40340)|null|
@@ -10518,6 +10558,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-01**|**KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards**|Pengfei Li et.al.|[2610.02206](http://arxiv.org/abs/2610.02206)|null|
+|**2026-10-01**|**FERPO: Forward Entropy-Regularized Policy Optimization**|Sebastian Sanokowski et.al.|[2610.02198](http://arxiv.org/abs/2610.02198)|null|
+|**2026-10-01**|**HiPhy: Hierarchical Alignment for Physically-Plausible Multi-Principle Video Generation**|Tahira Kazimi et.al.|[2610.02197](http://arxiv.org/abs/2610.02197)|null|
+|**2026-10-01**|**Generative modeling of intrinsically disordered protein regions by reinforcing sparse autoencoder features**|Jason X. Liu et.al.|[2610.02189](http://arxiv.org/abs/2610.02189)|null|
+|**2026-10-01**|**OmniSeek: Native Tool Integration for Multi-turn Audio-Visual Reasoning**|Haibo Wang et.al.|[2610.02181](http://arxiv.org/abs/2610.02181)|null|
+|**2026-10-01**|**From Gradients to Capabilities: Understanding Multi-Teacher On-Policy Distillation**|Siqi Zhu et.al.|[2610.02179](http://arxiv.org/abs/2610.02179)|null|
+|**2026-10-01**|**AutoCompact: Learning When to Compact Context in Long-Horizon Coding Agents**|Xuan Zhang et.al.|[2610.02163](http://arxiv.org/abs/2610.02163)|null|
+|**2026-10-01**|**When Do Intrinsic Rewards Lead to Exploration?**|Scott W. Viteri et.al.|[2610.02159](http://arxiv.org/abs/2610.02159)|null|
+|**2026-10-01**|**Faynt: Scaling and Optimizing Policies for Competitive Melee**|Ali Janati et.al.|[2610.02144](http://arxiv.org/abs/2610.02144)|null|
+|**2026-10-01**|**RANDAO Manipulation in the Presence of MEV**|Kaya Alpturer et.al.|[2610.02143](http://arxiv.org/abs/2610.02143)|null|
+|**2026-10-01**|**Finetuning with Sampling: SFT Learns Better Than You Think**|Aayush Karan et.al.|[2610.02140](http://arxiv.org/abs/2610.02140)|null|
+|**2026-10-01**|**Non-Gaussian Parameter Bias: Formalism and Validation**|Nikolina Šarčević et.al.|[2610.02104](http://arxiv.org/abs/2610.02104)|null|
+|**2026-10-01**|**A Monte Carlo Estimator for an Isolated Polynomial Zero via Contour Integral Representations**|Athanasios Christou Micheas et.al.|[2610.02085](http://arxiv.org/abs/2610.02085)|null|
+|**2026-10-01**|**Homomorphic Advantage Operator: Stabilizing Reinforcement Learning Under Fully Homomorphic Encryption Constraints**|Abid Mohamed Nadhir et.al.|[2610.02074](http://arxiv.org/abs/2610.02074)|null|
+|**2026-10-01**|**CARM: Cancellation-Aware Response Masking for LLM Reinforcement Learning**|Yafei Zhang et.al.|[2610.02039](http://arxiv.org/abs/2610.02039)|null|
+|**2026-10-01**|**SPHERE: Adaptive VR Indoor Scene Generation via LLM-Enhanced Spatial Preference Learning and Human-in-the-Loop RL**|Hyeonmin Lee et.al.|[2610.02023](http://arxiv.org/abs/2610.02023)|null|
+|**2026-10-01**|**Controllable Multi-label Video Safety Detection via Adaptive Tversky Policy Optimization**|Guangyu Yang et.al.|[2610.02019](http://arxiv.org/abs/2610.02019)|null|
+|**2026-10-01**|**On Language Drift during RLVR Post-Training**|Michael Sullivan et.al.|[2610.02015](http://arxiv.org/abs/2610.02015)|null|
+|**2026-10-01**|**Bellman Meets Lyapunov: Unsupervised Reinforcement Learning via Mastering Chaos**|Tristan Shah et.al.|[2610.02012](http://arxiv.org/abs/2610.02012)|null|
+|**2026-10-01**|**Token-Level Video Reinforcement Learning**|Yifan Wang et.al.|[2610.01973](http://arxiv.org/abs/2610.01973)|null|
 |**2026-09-30**|**Semifactual Credit-Augmented Policy Optimization**|Junshu Pan et.al.|[2609.40360](http://arxiv.org/abs/2609.40360)|null|
 |**2026-09-30**|**Learning Global Sensitivity Indices from Observational Data: A Metamodel-Based Approach**|Giulia Vannucci et.al.|[2609.40342](http://arxiv.org/abs/2609.40342)|null|
 |**2026-09-30**|**Quantum Enhanced Deep Reinforcement Learning for Distribution Network Reconfiguration**|Daniel Germain et.al.|[2609.40327](http://arxiv.org/abs/2609.40327)|null|
