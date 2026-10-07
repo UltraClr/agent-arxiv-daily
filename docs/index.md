@@ -16,6 +16,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-06**|**Agent in a Bottle: Can LLM Agents Turn Their Capabilities Into Cheap, Scalable Artifacts?**|Ankit Sonthalia et.al.|[2610.08775](http://arxiv.org/abs/2610.08775)|null|
+|**2026-10-06**|**AdvSim2Real : Training Web Agents Against Adaptive Prompt Injection in a Web World Model**|Sarim Hashmi et.al.|[2610.08773](http://arxiv.org/abs/2610.08773)|null|
+|**2026-10-06**|**WorldSolver: Can LLM Agents Simulate the Physical Dynamics via Solver Generation?**|Siru Jiang et.al.|[2610.08720](http://arxiv.org/abs/2610.08720)|null|
+|**2026-10-06**|**SpaTime: Streaming Vision-Language Models for Spatio-temporal Reasoning**|Hairong Yin et.al.|[2610.08713](http://arxiv.org/abs/2610.08713)|null|
+|**2026-10-06**|**Semantic Behavioral Watermarking: Paraphrase-Robust and Forgery-Resistant Provenance for LLM Agents**|Suxin Ji et.al.|[2610.08668](http://arxiv.org/abs/2610.08668)|null|
+|**2026-10-06**|**ParanoiaEval: Benchmarking Unnecessary Defensive Work in Agentic Coding**|Hanjun Luo et.al.|[2610.08662](http://arxiv.org/abs/2610.08662)|null|
+|**2026-10-06**|**A Case Study in Assuring AI-Written Software**|Lindsey Ferris et.al.|[2610.08651](http://arxiv.org/abs/2610.08651)|null|
+|**2026-10-06**|**Agentic RCA for Internet-Scale Services Using Constrained Creativity**|Sayan Sinha et.al.|[2610.08622](http://arxiv.org/abs/2610.08622)|null|
+|**2026-10-06**|**How Much Evidence Should a Coding Agent's Self-Correction Carry? Adaptive Dirichlet Evidence for Self-Distillation**|Yunbo Long et.al.|[2610.08514](http://arxiv.org/abs/2610.08514)|null|
+|**2026-10-06**|**Wiki-Talkie: Multilingual Benchmarking of Persona-Based Agents on Real-World Discussions**|Dennis Fucci et.al.|[2610.08513](http://arxiv.org/abs/2610.08513)|null|
+|**2026-10-06**|**Agentic AutoRAG: RAG Pipeline Optimization through Reasoning-Driven Agents**|Lasse B. Strand et.al.|[2610.08452](http://arxiv.org/abs/2610.08452)|null|
+|**2026-10-06**|**EMHO: EMbodied Agent Harness Optimization via Experience Traces**|Hyun Jung Lee et.al.|[2610.08432](http://arxiv.org/abs/2610.08432)|null|
+|**2026-10-06**|**NeMo-DCR: Bit-Exact Delta-Compressed Refit for Scalable Agentic RL at Trillion-Parameter Scale**|Songlin Jiang et.al.|[2610.08430](http://arxiv.org/abs/2610.08430)|null|
+|**2026-10-06**|**VETTA: Coordinating Turn- and Token-Level Credit Assignment for Multi-Turn LLM Agents**|Jiaju Chen et.al.|[2610.08402](http://arxiv.org/abs/2610.08402)|null|
+|**2026-10-06**|**Transect: Retaining Observability for Long-Horizon LLM Agent Evaluations**|Toby D. Pilditch et.al.|[2610.08364](http://arxiv.org/abs/2610.08364)|null|
+|**2026-10-06**|**Learn2Play Bench: How Well Do LLM Agents Learn from Experience in Unfamiliar Environments?**|Yibo Li et.al.|[2610.08215](http://arxiv.org/abs/2610.08215)|null|
+|**2026-10-06**|**Token-Efficient Multi-Agent Collaboration via System One-Guided Computational Division of Labor**|Zihan Zhou et.al.|[2610.08155](http://arxiv.org/abs/2610.08155)|null|
+|**2026-10-06**|**Surviving the Router: Optimizing Skill Injections for Retrieval and Execution**|Haneen Najjar et.al.|[2610.08098](http://arxiv.org/abs/2610.08098)|null|
+|**2026-10-06**|**POLAR: Ontology-Guided Risk Prevention for Tool-Calling LLM Agents**|Yunju Kang et.al.|[2610.08082](http://arxiv.org/abs/2610.08082)|null|
+|**2026-10-06**|**SpeedrunBench: Challenging LLM Agents with Video Game Speedrunning**|Yoshinari Fujinuma et.al.|[2610.08076](http://arxiv.org/abs/2610.08076)|null|
 |**2026-10-05**|**Recursive Video In-Context Learning for Agentic Robot**|Wenrui Bao et.al.|[2610.06843](http://arxiv.org/abs/2610.06843)|null|
 |**2026-10-05**|**MemPilot: Orchestrating On-Demand Multimodal Memory Curation for LLM Agents**|Haozhen Zhang et.al.|[2610.06830](http://arxiv.org/abs/2610.06830)|null|
 |**2026-10-05**|**CLIFT: Conformal Self-Verification for Web Agent Training and Test-Time Scaling**|Yifan Zhang et.al.|[2610.06829](http://arxiv.org/abs/2610.06829)|null|
@@ -5359,6 +5379,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-06**|**World Models' Last Exam in Physics**|Mingju Gao et.al.|[2610.08791](http://arxiv.org/abs/2610.08791)|null|
+|**2026-10-06**|**PEARS: Physical-Prior-Guided Efficient Adaptation via Failure Reasoning and Diffusion Steering for Tactile Manipulation**|Kun Song et.al.|[2610.08784](http://arxiv.org/abs/2610.08784)|null|
+|**2026-10-06**|**IdeaAnchor: Teaching LLMs to Turn Literature into Research Ideas**|Ziyu Chen et.al.|[2610.08781](http://arxiv.org/abs/2610.08781)|null|
+|**2026-10-06**|**ALIVE: Interaction-Aligned Object Insertion for First-Frame-Guided Video Editing**|Zhenghong Zhou et.al.|[2610.08779](http://arxiv.org/abs/2610.08779)|null|
+|**2026-10-06**|**Sherpa: Teaching LLMs to Teach Adaptively**|Weixian Xu et.al.|[2610.08778](http://arxiv.org/abs/2610.08778)|null|
+|**2026-10-06**|**Agent in a Bottle: Can LLM Agents Turn Their Capabilities Into Cheap, Scalable Artifacts?**|Ankit Sonthalia et.al.|[2610.08775](http://arxiv.org/abs/2610.08775)|null|
+|**2026-10-06**|**The Missing Minimal Pair: Stereotype Evaluation in LLMs**|Nataliya Stepanova et.al.|[2610.08747](http://arxiv.org/abs/2610.08747)|null|
+|**2026-10-06**|**BARE-AI: Bit-Flip Attack Resilience in AI Hardware through Built-in Performance Monitors**|Habibur Rahaman et.al.|[2610.08739](http://arxiv.org/abs/2610.08739)|null|
+|**2026-10-06**|**Denoising Hierarchical Representations: Joint Continuous Diffusion for Language Modeling**|Mathias Ollu et.al.|[2610.08738](http://arxiv.org/abs/2610.08738)|null|
+|**2026-10-06**|**Entropy-Guided Reverse-Causal AI to Identify Upstream Bottleneck Genes for Alzheimer's Drug Discovery**|Victor O. K. Li et.al.|[2610.08736](http://arxiv.org/abs/2610.08736)|null|
+|**2026-10-06**|**Towards an Extensible Benchmark for Spoken Dialogue with Social Robots**|Casey Kennington et.al.|[2610.08733](http://arxiv.org/abs/2610.08733)|null|
+|**2026-10-06**|**EgoLAP: Learning from Egocentric Human Data through Language-Action Reasoning**|Lihan Zha et.al.|[2610.08726](http://arxiv.org/abs/2610.08726)|null|
+|**2026-10-06**|**When Forgetting is not Catastrophic: On the Mechanics of Spurious Forgetting**|Vedant Palit et.al.|[2610.08718](http://arxiv.org/abs/2610.08718)|null|
+|**2026-10-06**|**Disentangling Paradigm, Identifier, and Decoding in Generative Retrieval**|Hicham Randrianarivo et.al.|[2610.08716](http://arxiv.org/abs/2610.08716)|null|
+|**2026-10-06**|**SpaTime: Streaming Vision-Language Models for Spatio-temporal Reasoning**|Hairong Yin et.al.|[2610.08713](http://arxiv.org/abs/2610.08713)|null|
+|**2026-10-06**|**Agreement Is Not Validity: Cross-Model LLM Consensus in Diagnosing Student Failure Modes in K-12 Math Tutoring Dialogue**|Clayton Cohn et.al.|[2610.08703](http://arxiv.org/abs/2610.08703)|null|
+|**2026-10-06**|**PrimitiveCAD: An LLM-Based Point-to-CAD Reconstruction with Primitive-Aware Tokenization and Operation Alignment**|Jian Gao et.al.|[2610.08698](http://arxiv.org/abs/2610.08698)|null|
+|**2026-10-06**|**GeneICL: A Tabular Foundation Model for Bulk Transcriptomics**|Michael Bohl et.al.|[2610.08694](http://arxiv.org/abs/2610.08694)|null|
+|**2026-10-06**|**ScienceClaw: Benchmarking Continual Self-Evolution of AI-for-Science Agents Across the Natural and Social Sciences**|Mingda Zhang et.al.|[2610.08691](http://arxiv.org/abs/2610.08691)|null|
+|**2026-10-06**|**A Framework for Accelerating Transformer Inference on RISC-V for Edge AI**|Ajay Kumar M et.al.|[2610.08688](http://arxiv.org/abs/2610.08688)|null|
 |**2026-10-05**|**Base Models Can Reason By Taking a Cue From Training Data**|Sophie L. Wang et.al.|[2610.06851](http://arxiv.org/abs/2610.06851)|null|
 |**2026-10-05**|**TranScope: What the Software Hides About LLM Training Data, the Hardware Reveals at Scale, and Accelerators Magnify**|Joshua Kalyanapu et.al.|[2610.06848](http://arxiv.org/abs/2610.06848)|null|
 |**2026-10-05**|**Learning to Read the Contextual Tokens in Diffusion Transformers**|Omer Dahary et.al.|[2610.06844](http://arxiv.org/abs/2610.06844)|null|
@@ -10598,6 +10638,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-06**|**QF3: Fast Flow RL with Filtered Q-Gradients**|Chung Min Kim et.al.|[2610.08789](http://arxiv.org/abs/2610.08789)|null|
+|**2026-10-06**|**PEARS: Physical-Prior-Guided Efficient Adaptation via Failure Reasoning and Diffusion Steering for Tactile Manipulation**|Kun Song et.al.|[2610.08784](http://arxiv.org/abs/2610.08784)|null|
+|**2026-10-06**|**IdeaAnchor: Teaching LLMs to Turn Literature into Research Ideas**|Ziyu Chen et.al.|[2610.08781](http://arxiv.org/abs/2610.08781)|null|
+|**2026-10-06**|**Sherpa: Teaching LLMs to Teach Adaptively**|Weixian Xu et.al.|[2610.08778](http://arxiv.org/abs/2610.08778)|null|
+|**2026-10-06**|**Reinforcement Learning with Conformal Action Sets: An Application to Sequential Recommendation**|Wenwen Si et.al.|[2610.08743](http://arxiv.org/abs/2610.08743)|null|
+|**2026-10-06**|**PrimitiveCAD: An LLM-Based Point-to-CAD Reconstruction with Primitive-Aware Tokenization and Operation Alignment**|Jian Gao et.al.|[2610.08698](http://arxiv.org/abs/2610.08698)|null|
+|**2026-10-06**|**Variance-Optimal Off-Policy Evaluation with Conjunct Effect Modeling**|Nicolò Felicioni et.al.|[2610.08677](http://arxiv.org/abs/2610.08677)|null|
+|**2026-10-06**|**Selective Transfer of RL Updates for Visual Reasoning**|Suxin Ji et.al.|[2610.08659](http://arxiv.org/abs/2610.08659)|null|
+|**2026-10-06**|**Steering Diffusion Models to Rare Events with Sequential Monte Carlo**|Aavash Subedi et.al.|[2610.08652](http://arxiv.org/abs/2610.08652)|null|
+|**2026-10-06**|**Fast Non-Parametric Heteroscedastic Imitation Learning With Geometric Priors**|Maximilian Mühlbauer et.al.|[2610.08650](http://arxiv.org/abs/2610.08650)|null|
+|**2026-10-06**|**RIWANav: Recursive World-Action Models with Self-Improvement for Urban Navigation**|Jing Xie et.al.|[2610.08640](http://arxiv.org/abs/2610.08640)|null|
+|**2026-10-06**|**Grain-boundary segregation delays the onset of plastic flow in nanocrystalline Fe-18Cr-12Ni**|Ashwinee Kumar et.al.|[2610.08613](http://arxiv.org/abs/2610.08613)|null|
+|**2026-10-06**|**CNet: A Complex-Valued Deep Learning Framework with Wirtinger Autodifferentiation and FFT--Hadamard Convolution**|Marcel Crasmaru et.al.|[2610.08592](http://arxiv.org/abs/2610.08592)|null|
+|**2026-10-06**|**Reinforcement Learning for Hierarchical Reasoning Rewards: Minimax-Optimal Rates with Transformers**|Naoki Nishikawa et.al.|[2610.08561](http://arxiv.org/abs/2610.08561)|null|
+|**2026-10-06**|**Quantum algorithms for four problems in density peak clustering**|Gonçalo Sousa et.al.|[2610.08498](http://arxiv.org/abs/2610.08498)|null|
+|**2026-10-06**|**Simulation of Weakly Ionized Hypersonic Flows with Reactive Species Weighting Scheme in the Direct Simulation Monte Carlo Method**|Takato Morimoto et.al.|[2610.08476](http://arxiv.org/abs/2610.08476)|null|
+|**2026-10-06**|**NeMo-DCR: Bit-Exact Delta-Compressed Refit for Scalable Agentic RL at Trillion-Parameter Scale**|Songlin Jiang et.al.|[2610.08430](http://arxiv.org/abs/2610.08430)|null|
+|**2026-10-06**|**Bayesian Machine Learning Methods For Large Scale Demand Estimation**|Anna B. Schmidt et.al.|[2610.08409](http://arxiv.org/abs/2610.08409)|null|
+|**2026-10-06**|**Multi-Agent Reinforcement Learning for Movable Antenna-aided Cell-Free Massive MIMO Systems**|Bokai Xu et.al.|[2610.08387](http://arxiv.org/abs/2610.08387)|null|
+|**2026-10-06**|**Uncertainty Quantification Is Indispensable for Reliable Connectome-Based Graph Learning: A Narrative Review and Case Study**|Mansooreh Pakravan et.al.|[2610.08353](http://arxiv.org/abs/2610.08353)|null|
 |**2026-10-05**|**Base Models Can Reason By Taking a Cue From Training Data**|Sophie L. Wang et.al.|[2610.06851](http://arxiv.org/abs/2610.06851)|null|
 |**2026-10-05**|**Direct Intermediate Initialization for Tilted Diffusion Samplers**|Gregory D. Bellchambers et.al.|[2610.06834](http://arxiv.org/abs/2610.06834)|null|
 |**2026-10-05**|**Towards Looped Models Done Right, Part II: Rethinking at Fixed Points**|Benhao Huang et.al.|[2610.06833](http://arxiv.org/abs/2610.06833)|null|
