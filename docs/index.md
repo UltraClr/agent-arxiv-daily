@@ -16,6 +16,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-08**|**Dex-One2Many: Learning Dexterous Manipulation from a Single Human Demonstration**|Jusuk Lee et.al.|[2610.12470](http://arxiv.org/abs/2610.12470)|null|
+|**2026-10-08**|**BrickBench: Evaluating Agentic Brick Design**|Peter Kulits et.al.|[2610.12452](http://arxiv.org/abs/2610.12452)|null|
+|**2026-10-08**|**Caught in the Act: Probes Effectively Detect Sabotage and Catch Unverbalized Deception**|Oskar J. Hollinsworth et.al.|[2610.12445](http://arxiv.org/abs/2610.12445)|null|
+|**2026-10-08**|**Ecology of AI Agents: Collaboration Creates a Population Threshold for Takeoff**|Erin Crawley et.al.|[2610.12436](http://arxiv.org/abs/2610.12436)|null|
+|**2026-10-08**|**OnTrack: Real-Time Monitoring and Intervention in LLM Agent Trajectories via Streaming Structure-Aware Optimal Transport**|Babak Barazandeh et.al.|[2610.12375](http://arxiv.org/abs/2610.12375)|null|
+|**2026-10-08**|**Embodied Turing Machines: Stateful Code for Robot Recursive Self-Improvement**|Kairui Hu et.al.|[2610.12369](http://arxiv.org/abs/2610.12369)|null|
+|**2026-10-08**|**Accurate but Not Humble: Evaluating Epistemic Humility in LLM Agents under Knowledge Conflict**|Kaiser Sun et.al.|[2610.12360](http://arxiv.org/abs/2610.12360)|null|
+|**2026-10-08**|**Reasoning-Informed Visual Editing**|Xue Yang et.al.|[2610.12343](http://arxiv.org/abs/2610.12343)|null|
+|**2026-10-08**|**Can AI Agents Learn Their Way to the Top? Evaluating Heuristic Learning in a Long-Running Game Agent Competition**|Kaisen Yang et.al.|[2610.12341](http://arxiv.org/abs/2610.12341)|null|
+|**2026-10-08**|**Is In-Domain Training Enough for Fine-Grained Industrial Anomaly Understanding?**|Xingwu Zhang et.al.|[2610.12310](http://arxiv.org/abs/2610.12310)|null|
+|**2026-10-08**|**TestPrism: Rethinking Test Evaluation Beyond a Single Reference**|Han Li et.al.|[2610.12289](http://arxiv.org/abs/2610.12289)|null|
+|**2026-10-08**|**Unlocking the Regulatory Genome by ARGUS: An Evidence-Constrained Agentic Framework for Interpreting Single Nucleotide Variants**|Pratik Dutta et.al.|[2610.12281](http://arxiv.org/abs/2610.12281)|null|
+|**2026-10-08**|**Cadence: Strategic Guidance for Coding Agents**|Minxing Wang et.al.|[2610.12269](http://arxiv.org/abs/2610.12269)|null|
+|**2026-10-08**|**DataSense-Bench: The First Step Toward an AI Scientist**|Yudi Zhang et.al.|[2610.12190](http://arxiv.org/abs/2610.12190)|null|
+|**2026-10-08**|**Autonomous Code Migration for Quantum Programming Languages: A Case Study with QED-C Benchmarks**|W. Michael Brown et.al.|[2610.12187](http://arxiv.org/abs/2610.12187)|null|
+|**2026-10-08**|**A Closer Look at Agentic BBO: Benchmarking LLM Agents for Black-Box Optimization**|Ming Chen et.al.|[2610.12183](http://arxiv.org/abs/2610.12183)|null|
+|**2026-10-08**|**Recursive Self-Improvement through Multi-Agent Self-Supervision**|Hyunin Lee et.al.|[2610.12176](http://arxiv.org/abs/2610.12176)|null|
+|**2026-10-08**|**OA-MAP: Evidence-Grounded Multi-Agent Multimodal Framework for Interpretable Knee Osteoarthritis Progression**|Sixu Chen et.al.|[2610.12134](http://arxiv.org/abs/2610.12134)|null|
+|**2026-10-08**|**Use and Disuse: Intent-Structured Experience Consolidation for Memory and Learning in LLM Agents**|Xiangyi Zeng et.al.|[2610.12124](http://arxiv.org/abs/2610.12124)|null|
+|**2026-10-08**|**Lower bounds for Ramsey numbers: $\mathrm{R}(6,8)\ge 135$ and $\mathrm{R}(8,10)\ge 345$**|Fritz Cremer et.al.|[2610.12122](http://arxiv.org/abs/2610.12122)|null|
 |**2026-10-07**|**SciExam for ENSO: Can AI Agents Build Climate Models?**|Yinling Zhang et.al.|[2610.10513](http://arxiv.org/abs/2610.10513)|null|
 |**2026-10-07**|**RECAST: Learning to Compute the Right Context through Adaptive Evidence Routing**|Yilun Hao et.al.|[2610.10507](http://arxiv.org/abs/2610.10507)|null|
 |**2026-10-07**|**LOCAA: An Agentic System for Automated Lossy Compressor Tuning**|Khondoker Mirazul Mumenin et.al.|[2610.10487](http://arxiv.org/abs/2610.10487)|null|
@@ -5399,6 +5419,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-08**|**OuroWorld: Bringing Any 3D World Alive as Diverse, Endlessly Looping 3D Cinemagraphs**|You-Zhe Xie et.al.|[2610.12461](http://arxiv.org/abs/2610.12461)|null|
+|**2026-10-08**|**OmniCapBench: A Deep-Structured Evaluation Framework for Fine-Grained Audio-Visual Captioning**|Zhongyu Yang et.al.|[2610.12458](http://arxiv.org/abs/2610.12458)|null|
+|**2026-10-08**|**FastBench: Can Streaming VLMs Perceive High-Dynamic Real-World Streams?**|Yuxuan Hu et.al.|[2610.12427](http://arxiv.org/abs/2610.12427)|null|
+|**2026-10-08**|**WOVEN: Weaving Visual World Modeling into Multimodal LLMs**|Zheyu Fan et.al.|[2610.12417](http://arxiv.org/abs/2610.12417)|null|
+|**2026-10-08**|**OctoSense: Building a Unified Ecosystem for Open-Source Wireless Sensing**|Weiying Hou et.al.|[2610.12405](http://arxiv.org/abs/2610.12405)|null|
+|**2026-10-08**|**SpaceCast-Bench: Evaluating Predictive Spatial Reasoning in Vision-Language Models**|Hongxing Li et.al.|[2610.12402](http://arxiv.org/abs/2610.12402)|null|
+|**2026-10-08**|**GeoReform: Reflective Formalization Evolution for Multimodal Geometry Problem Solving**|Jialu Wang et.al.|[2610.12391](http://arxiv.org/abs/2610.12391)|null|
+|**2026-10-08**|**Long Text to Predictive Features: LLM-Guided Blockwise Feature Engineering via Executable Program Search**|Ziming Dai et.al.|[2610.12390](http://arxiv.org/abs/2610.12390)|null|
+|**2026-10-08**|**WorldAlign: Decoupled 4D Reward for World-Consistent Video Generation**|Jing He et.al.|[2610.12382](http://arxiv.org/abs/2610.12382)|null|
+|**2026-10-08**|**Cited but Not Consulted: A Counterfactual Audit of Legal Chain-of-Thought Faithfulness**|Saisab Sadhu et.al.|[2610.12361](http://arxiv.org/abs/2610.12361)|null|
+|**2026-10-08**|**Accurate but Not Humble: Evaluating Epistemic Humility in LLM Agents under Knowledge Conflict**|Kaiser Sun et.al.|[2610.12360](http://arxiv.org/abs/2610.12360)|null|
+|**2026-10-08**|**Distilling Routed 3D Privilege for Spatial Reasoning in Vision-Language Models**|Hongxing Li et.al.|[2610.12355](http://arxiv.org/abs/2610.12355)|null|
+|**2026-10-08**|**Overcoming Prior Barriers: Supervised Fine-Tuning under Long-Tail Distribution**|Haohui Wang et.al.|[2610.12345](http://arxiv.org/abs/2610.12345)|null|
+|**2026-10-08**|**VFold: Symmetry-Aware Cross-Layer Value Cache Compression**|Neha Verma et.al.|[2610.12338](http://arxiv.org/abs/2610.12338)|null|
+|**2026-10-08**|**SparseDecoding: Decoding-Aware Pruning for Accurate and Efficient LLM Inference**|Qitong Wang et.al.|[2610.12327](http://arxiv.org/abs/2610.12327)|null|
+|**2026-10-08**|**Prior or Feedback? What an LLM Uses When Adapting Neural Operators**|Julian Chan et.al.|[2610.12325](http://arxiv.org/abs/2610.12325)|null|
+|**2026-10-08**|**Verdict Without the Rule: Diagnosing and Auditing Regulatory Rule Sensitivity in LLM Compliance Systems**|Saisab Sadhu et.al.|[2610.12313](http://arxiv.org/abs/2610.12313)|null|
+|**2026-10-08**|**Is In-Domain Training Enough for Fine-Grained Industrial Anomaly Understanding?**|Xingwu Zhang et.al.|[2610.12310](http://arxiv.org/abs/2610.12310)|null|
+|**2026-10-08**|**From What to Which: Decoding Modifier Grounding in Frozen MLLMs**|Barbara Toniella Corradini et.al.|[2610.12305](http://arxiv.org/abs/2610.12305)|null|
+|**2026-10-08**|**Looking Inside LLMs: Small-World Connectivity as a Signature of Reasoning Performance**|Zheng Huang et.al.|[2610.12304](http://arxiv.org/abs/2610.12304)|null|
 |**2026-10-07**|**Decoupling Exploration from Optimization in RLVR**|Saif Punjwani et.al.|[2610.10536](http://arxiv.org/abs/2610.10536)|null|
 |**2026-10-07**|**EngramEdit: Decoupled Knowledge Updates in LLMs through Conditional Memory**|Hongru Cai et.al.|[2610.10533](http://arxiv.org/abs/2610.10533)|null|
 |**2026-10-07**|**Rephrase Before You Act: Characterizing and Mitigating Language Sensitivity in Vision-Language-Action Models**|Mikey Watts et.al.|[2610.10526](http://arxiv.org/abs/2610.10526)|null|
@@ -10678,6 +10718,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-08**|**Dex-One2Many: Learning Dexterous Manipulation from a Single Human Demonstration**|Jusuk Lee et.al.|[2610.12470](http://arxiv.org/abs/2610.12470)|null|
+|**2026-10-08**|**Rubric-CEPR: Self-Evolving Image Editing via Reward-Verified Self-Distillation**|Ritesh Thawkar et.al.|[2610.12469](http://arxiv.org/abs/2610.12469)|null|
+|**2026-10-08**|**DreamTrue: Action-Faithful Robot World Model with Counterfactual Post-Training**|Junyan Li et.al.|[2610.12468](http://arxiv.org/abs/2610.12468)|null|
+|**2026-10-08**|**A Balanced Data Diet: Addressing the Exploration Bottleneck in Mega-Scale RL for Robot Control**|Octi Zhang et.al.|[2610.12465](http://arxiv.org/abs/2610.12465)|null|
+|**2026-10-08**|**Mental-Models for Multi-Agent Systems**|Hanan Gani et.al.|[2610.12453](http://arxiv.org/abs/2610.12453)|null|
+|**2026-10-08**|**Generative Neural Retargeting for Human-to-Robot Dexterous Manipulation**|Dechen Gao et.al.|[2610.12440](http://arxiv.org/abs/2610.12440)|null|
+|**2026-10-08**|**FAITH: Feasibility-Aware Safety-Filtered RL for High-Dimensional Systems**|Songyuan Zhang et.al.|[2610.12432](http://arxiv.org/abs/2610.12432)|null|
+|**2026-10-08**|**Control-Ready Uncertainty for Trajectory Diffusion**|Zhiwei Xue et.al.|[2610.12431](http://arxiv.org/abs/2610.12431)|null|
+|**2026-10-08**|**A Unified Bellman Operator for Safety-Critical Reinforcement Learning**|Nishanth Arun Rao et.al.|[2610.12420](http://arxiv.org/abs/2610.12420)|null|
+|**2026-10-08**|**ViSkill: Reinforcing VLM Agents with Evolving Visual-Native Skills**|Hongxing Li et.al.|[2610.12403](http://arxiv.org/abs/2610.12403)|null|
+|**2026-10-08**|**AgentGarten: Code Worlds for Evolving Agents**|Jiawei Chi et.al.|[2610.12374](http://arxiv.org/abs/2610.12374)|null|
+|**2026-10-08**|**Can AI Agents Learn Their Way to the Top? Evaluating Heuristic Learning in a Long-Running Game Agent Competition**|Kaisen Yang et.al.|[2610.12341](http://arxiv.org/abs/2610.12341)|null|
+|**2026-10-08**|**True vs false Fermi surfaces in the Pseudogap regime and their transformation with doping and temperature in the Hubbard Model**|Y. M. Vilk et.al.|[2610.12339](http://arxiv.org/abs/2610.12339)|null|
+|**2026-10-08**|**HarnessSQL: Harness-Native Training for SQL Agents in Realistic Database Environments**|Haolin Yang et.al.|[2610.12274](http://arxiv.org/abs/2610.12274)|null|
+|**2026-10-08**|**Walking on Roofs: Exploring the Potential of Walking Robots for Construction Work on Roofs**|Bjoern-Felix Dettmar et.al.|[2610.12272](http://arxiv.org/abs/2610.12272)|null|
+|**2026-10-08**|**VibeEdit: Image Editing with Canvas Instructions**|Jinjing Zhao et.al.|[2610.12229](http://arxiv.org/abs/2610.12229)|null|
+|**2026-10-08**|**When Has a Bayesian Neural Network Sampled Enough? Adaptive Inference Time with Statistical Guarantees**|Fabian Denoodt et.al.|[2610.12212](http://arxiv.org/abs/2610.12212)|null|
+|**2026-10-08**|**Sim-to-Real RL for ASVs using SysID**|Cody Sheltraw et.al.|[2610.12202](http://arxiv.org/abs/2610.12202)|null|
+|**2026-10-08**|**Autonomous Code Migration for Quantum Programming Languages: A Case Study with QED-C Benchmarks**|W. Michael Brown et.al.|[2610.12187](http://arxiv.org/abs/2610.12187)|null|
+|**2026-10-08**|**Learning minimum-time navigation policies in two-dimensional flows with a genetic algorithm**|Vladimir Parfenyev et.al.|[2610.12177](http://arxiv.org/abs/2610.12177)|null|
 |**2026-10-07**|**Decoupling Exploration from Optimization in RLVR**|Saif Punjwani et.al.|[2610.10536](http://arxiv.org/abs/2610.10536)|null|
 |**2026-10-07**|**RoboPrompt: Intuitive Robot Policy Steering with Sparse Human Input**|Yanwen Zou et.al.|[2610.10534](http://arxiv.org/abs/2610.10534)|null|
 |**2026-10-07**|**Efficient Estimation of Logical Sensitivities Through Fault-Counting**|Winston Fu et.al.|[2610.10531](http://arxiv.org/abs/2610.10531)|null|
