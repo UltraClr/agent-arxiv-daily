@@ -16,6 +16,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-15**|**LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation**|Zhixu Li et.al.|[2610.22372](http://arxiv.org/abs/2610.22372)|null|
+|**2026-10-15**|**MLExpert: Towards a Generalist Agentic Model for Autonomous Machine Learning Engineering**|Shangheng Du et.al.|[2610.22344](http://arxiv.org/abs/2610.22344)|null|
+|**2026-10-15**|**3DCodeVerse: Exploring 3D Worlds as Code**|Yipeng Gao et.al.|[2610.22341](http://arxiv.org/abs/2610.22341)|null|
+|**2026-10-15**|**Training Reasoning Models to Generate Diverse Scientific Ideas**|Manya Wadhwa et.al.|[2610.22324](http://arxiv.org/abs/2610.22324)|null|
+|**2026-10-15**|**A team of Gemini 4 Argon agents beats Minecraft**|Maxence Faldor et.al.|[2610.22319](http://arxiv.org/abs/2610.22319)|null|
+|**2026-10-15**|**Learning to Steer LLM Agents and Multi-Agent Systems**|Leyang Shen et.al.|[2610.22316](http://arxiv.org/abs/2610.22316)|null|
+|**2026-10-15**|**My Credentials, Please: Detecting Filesystem Capability Laundering in MCP Servers at Scale**|Zeqian Huang et.al.|[2610.22301](http://arxiv.org/abs/2610.22301)|null|
+|**2026-10-15**|**Improving Environment-Agnostic Coding Agents: The Role of Scaffolding**|Sergey Rodionov et.al.|[2610.22289](http://arxiv.org/abs/2610.22289)|null|
+|**2026-10-15**|**Learning the information contained in the microstructure of data distributions**|Lucrezia L. Baldo et.al.|[2610.22283](http://arxiv.org/abs/2610.22283)|null|
+|**2026-10-15**|**Librarian Agents: Training LLMs to Curate Long-Context Workspaces that Anticipate Future Queries**|Anikait Singh et.al.|[2610.22273](http://arxiv.org/abs/2610.22273)|null|
+|**2026-10-15**|**X-RIC: An Agentic RAN-Intelligent Controller Benchmark for Enhancing Reinforcement Learning**|Adhwaa Al-Chaab et.al.|[2610.22269](http://arxiv.org/abs/2610.22269)|null|
+|**2026-10-15**|**Language Is a Security Surface for Agent Guards**|Hasan Demirkiran et.al.|[2610.22244](http://arxiv.org/abs/2610.22244)|null|
+|**2026-10-15**|**Shortcut Sensitivity in Agent-Safety Evaluations**|Hasan Demirkiran et.al.|[2610.22243](http://arxiv.org/abs/2610.22243)|null|
+|**2026-10-15**|**Architecting for Hardware Diversity: Meta's End-to-End Co-Design for High-Performance AI Training on AMD GPUs**|Haoyu Zhang et.al.|[2610.22230](http://arxiv.org/abs/2610.22230)|null|
+|**2026-10-15**|**Robust Multi-Agent Pursuit with Preemptive Communication via Reachability-Based Control Barrier Functions**|Madison Book et.al.|[2610.22198](http://arxiv.org/abs/2610.22198)|null|
+|**2026-10-15**|**Inertially Significant Humanoid Teleoperation via Whole Body Model Predictive Control and Online Parameter Estimation**|James Foster et.al.|[2610.22176](http://arxiv.org/abs/2610.22176)|null|
+|**2026-10-15**|**Mosaic: Multi-Session Agentic Reinforcement Learning**|Yilong Xu et.al.|[2610.22174](http://arxiv.org/abs/2610.22174)|null|
+|**2026-10-15**|**PROBE: Learning to Audit Policy Compliance in Tool-Using LLM Agents**|Kshitij Mishra et.al.|[2610.22124](http://arxiv.org/abs/2610.22124)|null|
+|**2026-10-15**|**FAOPs: Normal Forms and an Algebra for AI Agent Workflows**|Ali Mohammadi Shanghooshabad et.al.|[2610.22061](http://arxiv.org/abs/2610.22061)|null|
+|**2026-10-15**|**WEAVE: Weaving Real-World Code Evolution into Dependency-Structured Tasks for Benchmarking and Training Code Agents**|Weihao Li et.al.|[2610.22039](http://arxiv.org/abs/2610.22039)|null|
 |**2026-10-14**|**Price of Anarchy of First-Price Auctions in Agentic Markets**|Shubhendu Trivedi et.al.|[2610.20587](http://arxiv.org/abs/2610.20587)|null|
 |**2026-10-14**|**One Task, Many Interfaces: Simple Cross-Interface Consistency Training Improves LLM Agent Robustness**|Artin Tajdini et.al.|[2610.20576](http://arxiv.org/abs/2610.20576)|null|
 |**2026-10-14**|**Scaling Discovery Requires Forgetting**|Shangyin Tan et.al.|[2610.20563](http://arxiv.org/abs/2610.20563)|null|
@@ -5479,6 +5499,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-15**|**Discovering state-of-the-art quantum circuits with large language models**|Andi Gu et.al.|[2610.22367](http://arxiv.org/abs/2610.22367)|null|
+|**2026-10-15**|**Perceive, Predict, and Plan: a Unified World Action Model for Egocentric Dexterous Manipulation**|Zirui Wu et.al.|[2610.22363](http://arxiv.org/abs/2610.22363)|null|
+|**2026-10-15**|**Grounding Generative Verification in 3D Content**|Shuanglin Li et.al.|[2610.22360](http://arxiv.org/abs/2610.22360)|null|
+|**2026-10-15**|**DK-VLM: Geometry as Position for Spatial Reasoning in Vision-Language Models**|Han Su et.al.|[2610.22356](http://arxiv.org/abs/2610.22356)|null|
+|**2026-10-15**|**Rethinking Routing Exploration in Modern Mixture-of-Experts**|Bingcong Li et.al.|[2610.22353](http://arxiv.org/abs/2610.22353)|null|
+|**2026-10-15**|**MLExpert: Towards a Generalist Agentic Model for Autonomous Machine Learning Engineering**|Shangheng Du et.al.|[2610.22344](http://arxiv.org/abs/2610.22344)|null|
+|**2026-10-15**|**Evaluation Awareness Beyond English: Do LLMs Act Differently When Tested in Indic Languages?**|Trizal Garg et.al.|[2610.22333](http://arxiv.org/abs/2610.22333)|null|
+|**2026-10-15**|**Designing Transformers for Continuous Diffusion Language Models**|Weijian Luo et.al.|[2610.22330](http://arxiv.org/abs/2610.22330)|null|
+|**2026-10-15**|**Twice Upon a Time: Complementary Representations for Time-Series Reasoning**|Hedi Zisling et.al.|[2610.22327](http://arxiv.org/abs/2610.22327)|null|
+|**2026-10-15**|**Training Reasoning Models to Generate Diverse Scientific Ideas**|Manya Wadhwa et.al.|[2610.22324](http://arxiv.org/abs/2610.22324)|null|
+|**2026-10-15**|**Learning to Steer LLM Agents and Multi-Agent Systems**|Leyang Shen et.al.|[2610.22316](http://arxiv.org/abs/2610.22316)|null|
+|**2026-10-15**|**MindEval2: Clinically Grounded Patients and Rubrics for Evaluating Language Models in Mental Health Support**|John Mendonça et.al.|[2610.22314](http://arxiv.org/abs/2610.22314)|null|
+|**2026-10-15**|**Grid-Bench: Can LLMs Predict How Discrete Worlds Change?**|Zixiang Xu et.al.|[2610.22312](http://arxiv.org/abs/2610.22312)|null|
+|**2026-10-15**|**Knowledge That Is Linear Before Fine-Tuning Generalizes After It**|Faridoun Mehri et.al.|[2610.22300](http://arxiv.org/abs/2610.22300)|null|
+|**2026-10-15**|**AI Consilium: a Benchmark of LLM Clinical Multidisciplinary Second Opinions**|Alexey A. Bokov et.al.|[2610.22298](http://arxiv.org/abs/2610.22298)|null|
+|**2026-10-15**|**Private Retrieval Augmented Generation via Random Projection**|Dixi Yao et.al.|[2610.22297](http://arxiv.org/abs/2610.22297)|null|
+|**2026-10-15**|**Multi-Target Few-Shot Prompting with Diffusion Language Models**|Anton Xue et.al.|[2610.22294](http://arxiv.org/abs/2610.22294)|null|
+|**2026-10-15**|**Towards Continual Learning: Mitigating Forgetting With Subspace Tuning**|Arnav Chavan et.al.|[2610.22293](http://arxiv.org/abs/2610.22293)|null|
+|**2026-10-15**|**CAT-alyzing Honesty: Continuous Adversarial Training for Transferable LLM Honesty**|Yuan-Chen Chang et.al.|[2610.22292](http://arxiv.org/abs/2610.22292)|null|
+|**2026-10-15**|**Improving Environment-Agnostic Coding Agents: The Role of Scaffolding**|Sergey Rodionov et.al.|[2610.22289](http://arxiv.org/abs/2610.22289)|null|
 |**2026-10-14**|**SafeDriveVLA: Navigation-Conditioned World Model Dreaming for Conflict-Aware End-to-End Autonomous Driving**|Shaoyuan Xie et.al.|[2610.20609](http://arxiv.org/abs/2610.20609)|null|
 |**2026-10-14**|**GeoThinker- $F$ : Endogenous Predictive World Representations for Fast Spatial Intelligence**|Haoyuan Li et.al.|[2610.20592](http://arxiv.org/abs/2610.20592)|null|
 |**2026-10-14**|**Learnable Hodge-Laplacian Driven Mixture of Experts for Steady-PDE Surrogates on Coarse Unstructured Meshes**|Stavros Nousias et.al.|[2610.20585](http://arxiv.org/abs/2610.20585)|null|
@@ -10838,6 +10878,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-15**|**Value as Memory: Online Value-Guided Post-training for General Robot Policies**|Wenye Yu et.al.|[2610.22368](http://arxiv.org/abs/2610.22368)|null|
+|**2026-10-15**|**OmniVerifier-C1: Decomposed Graded Verifier for Rule-Governed Generative World Modeling**|Bowei Liu et.al.|[2610.22355](http://arxiv.org/abs/2610.22355)|null|
+|**2026-10-15**|**Dexterity from Supervised Play**|Botao He et.al.|[2610.22340](http://arxiv.org/abs/2610.22340)|null|
+|**2026-10-15**|**Sim-to-Real Reinforcement Learning for Path-Safe Target Reaching in Robotic Harvesting of Hydroponic Lettuce**|Al Bashir et.al.|[2610.22337](http://arxiv.org/abs/2610.22337)|null|
+|**2026-10-15**|**Robust Reinforcement Learning for Dynamic Treatment Regimes under Model and Measurement Uncertainty**|Chengze Xie et.al.|[2610.22336](http://arxiv.org/abs/2610.22336)|null|
+|**2026-10-15**|**KnowGPO: Knowledge-Grouped Policy Optimization for Search Agents**|Siqi Chen et.al.|[2610.22331](http://arxiv.org/abs/2610.22331)|null|
+|**2026-10-15**|**Training Reasoning Models to Generate Diverse Scientific Ideas**|Manya Wadhwa et.al.|[2610.22324](http://arxiv.org/abs/2610.22324)|null|
+|**2026-10-15**|**AVC-Reward: Event-Centric Audio-Video Consistency Evaluation**|Yuruo Wu et.al.|[2610.22321](http://arxiv.org/abs/2610.22321)|null|
+|**2026-10-15**|**Learning to Steer LLM Agents and Multi-Agent Systems**|Leyang Shen et.al.|[2610.22316](http://arxiv.org/abs/2610.22316)|null|
+|**2026-10-15**|**An Optimal Gap-Majority Lemma for Bounded Rounds Communication**|Pachara Sawettamalya et.al.|[2610.22313](http://arxiv.org/abs/2610.22313)|null|
+|**2026-10-15**|**Towards Continual Learning: Mitigating Forgetting With Subspace Tuning**|Arnav Chavan et.al.|[2610.22293](http://arxiv.org/abs/2610.22293)|null|
+|**2026-10-15**|**EliteReplay: Preserving Diverse Solutions in RL Post-Training via Quality-Diversity Search**|Hanane Nour Moussa et.al.|[2610.22290](http://arxiv.org/abs/2610.22290)|null|
+|**2026-10-15**|**Learning Rational Strategies for Temporal Objectives in Multi-Agent Systems**|Omar Adalat et.al.|[2610.22287](http://arxiv.org/abs/2610.22287)|null|
+|**2026-10-15**|**Routing Policy Optimization for Online Diffusion Reinforcement Learning**|Qiuhong Shen et.al.|[2610.22282](http://arxiv.org/abs/2610.22282)|null|
+|**2026-10-15**|**Librarian Agents: Training LLMs to Curate Long-Context Workspaces that Anticipate Future Queries**|Anikait Singh et.al.|[2610.22273](http://arxiv.org/abs/2610.22273)|null|
+|**2026-10-15**|**X-RIC: An Agentic RAN-Intelligent Controller Benchmark for Enhancing Reinforcement Learning**|Adhwaa Al-Chaab et.al.|[2610.22269](http://arxiv.org/abs/2610.22269)|null|
+|**2026-10-15**|**Minimizing Age of Incorrect Information in Pull-Based Remote Estimation of a Markov Source**|Ismail Cosandal et.al.|[2610.22265](http://arxiv.org/abs/2610.22265)|null|
+|**2026-10-15**|**SCOPE: Semantic Bounded Credit Optimization for Prompt Engineering in Text-to-image Generation**|Yufei Jiao et.al.|[2610.22264](http://arxiv.org/abs/2610.22264)|null|
+|**2026-10-15**|**Baselines and Score Centering in Policy Gradient Estimation**|Shuo Han et.al.|[2610.22263](http://arxiv.org/abs/2610.22263)|null|
+|**2026-10-15**|**Not X, but When: Diagnosing a Mandarin LLM Writing Tic through Contextual Appropriateness**|Yihang Peng et.al.|[2610.22249](http://arxiv.org/abs/2610.22249)|null|
 |**2026-10-14**|**Modeling and Understanding Neural Weights of Humanoid Policies with Diffusion**|Huixuan Cheng et.al.|[2610.20606](http://arxiv.org/abs/2610.20606)|null|
 |**2026-10-14**|**Co-Evolving Acting and Forecasting for Language Agents**|Haofei Yu et.al.|[2610.20597](http://arxiv.org/abs/2610.20597)|null|
 |**2026-10-14**|**Player-1: Learning to Play from Synthetic Experience**|Mingyu Ouyang et.al.|[2610.20584](http://arxiv.org/abs/2610.20584)|null|
