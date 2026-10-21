@@ -21,6 +21,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-20**|**SolarRenderer: Few-Step Generative Reference Rendering**|Guian Fang et.al.|[2610.28630](http://arxiv.org/abs/2610.28630)|null|
+|**2026-10-20**|**TraceLite: Efficient Trace Reduction for SWE Agents via Optical Compression and Redundancy Removal**|Jingyu Xiao et.al.|[2610.28612](http://arxiv.org/abs/2610.28612)|null|
+|**2026-10-20**|**Semantic Observability for Autonomous Systems Diagnostics**|Jitendra Solanki et.al.|[2610.28611](http://arxiv.org/abs/2610.28611)|null|
+|**2026-10-20**|**Evolving Agent Interfaces**|Saaket Agashe et.al.|[2610.28601](http://arxiv.org/abs/2610.28601)|null|
+|**2026-10-20**|**AgenticRoboRL: Bringing Coding-Agent Post-Training to Agentic Robotics**|Xinxin Liu et.al.|[2610.28589](http://arxiv.org/abs/2610.28589)|null|
+|**2026-10-20**|**Cache Engineering for Agents**|Tianyu Fu et.al.|[2610.28577](http://arxiv.org/abs/2610.28577)|null|
+|**2026-10-20**|**OptScientist: Automated Discovery of Optimization Laws**|Ma ZhenYao et.al.|[2610.28562](http://arxiv.org/abs/2610.28562)|null|
+|**2026-10-20**|**Proof-Carrying Contracts: Commitments AI Agents Cannot Break**|Carlo Ciliberto et.al.|[2610.28484](http://arxiv.org/abs/2610.28484)|null|
+|**2026-10-20**|**Claims of emergence in AI should be grounded in information decomposition**|Christoph Riedl et.al.|[2610.28479](http://arxiv.org/abs/2610.28479)|null|
+|**2026-10-20**|**CLOSER: Evidence-Aware Active Visual Verification for Embodied Object-Goal Navigation**|Pengying Wu et.al.|[2610.28476](http://arxiv.org/abs/2610.28476)|null|
+|**2026-10-20**|**Beyond Trajectory Statistics: Community-Consistent Human Mobility Generation via Evolving User-Location Graphs**|Bo Liu et.al.|[2610.28467](http://arxiv.org/abs/2610.28467)|null|
+|**2026-10-20**|**After the Attacker Leaves: Benchmarking Carryover Attacks on LLM Agents**|Zhiyue Xu et.al.|[2610.28425](http://arxiv.org/abs/2610.28425)|null|
+|**2026-10-20**|**A Multi-Agent Framework for Automated Machine Learning with Evidence-based Planning for Medical Image Analysis**|Yiqing Shen et.al.|[2610.28410](http://arxiv.org/abs/2610.28410)|null|
+|**2026-10-20**|**Self-Credit: Credit Assignment for Long-Horizon Agentic RL via Intra-group Rescaling**|Fangcong Yin et.al.|[2610.28388](http://arxiv.org/abs/2610.28388)|null|
+|**2026-10-20**|**VisualEvolve: A Skill Self-Evolution Framework for Visual Reasoning**|Jiawei Wang et.al.|[2610.28386](http://arxiv.org/abs/2610.28386)|null|
+|**2026-10-20**|**CAPSafe: A Benchmark for Contextual Action and Plan Safety Reasoning in Embodied Agents**|Youmna Farag et.al.|[2610.28381](http://arxiv.org/abs/2610.28381)|null|
+|**2026-10-20**|**Object-Oriented Harness: Evolving Agent Harnesses through Object-Oriented Design**|Gaotang Li et.al.|[2610.28380](http://arxiv.org/abs/2610.28380)|null|
+|**2026-10-20**|**FALCA: Falsification-Aware Reinforcement Learning with Hierarchical Credit Assignment for Long-Horizon Deep Search Agents**|Zijun Dou et.al.|[2610.28361](http://arxiv.org/abs/2610.28361)|null|
+|**2026-10-20**|**S-Agent 2.0: Spatial Reasoning with a General Coding Agent**|Rui Gong et.al.|[2610.28354](http://arxiv.org/abs/2610.28354)|null|
+|**2026-10-20**|**Auto-Director: Leveraging Multi-Agent Collaboration for Autonomous Video Editing**|Yuxia Chen et.al.|[2610.28346](http://arxiv.org/abs/2610.28346)|null|
 |**2026-10-19**|**Can It Actually Work? Synthesizing Functional CAD Mechanisms**|Wenqian Zhang et.al.|[2610.26861](http://arxiv.org/abs/2610.26861)|null|
 |**2026-10-19**|**OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memory**|Yu Zhou et.al.|[2610.26860](http://arxiv.org/abs/2610.26860)|null|
 |**2026-10-19**|**Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments with Human Experience**|Tianqi Liu et.al.|[2610.26855](http://arxiv.org/abs/2610.26855)|null|
@@ -5546,6 +5566,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-20**|**GBClaw: An agentic AI framework for atomistic grain boundary research and mechanistic discovery**|Yazhuo Liu et.al.|[2610.28629](http://arxiv.org/abs/2610.28629)|null|
+|**2026-10-20**|**UniWALM: Unified World Action Language Model for Embodied Robot Control**|Rahul Sajnani et.al.|[2610.28626](http://arxiv.org/abs/2610.28626)|null|
+|**2026-10-20**|**Adaptive Multi-Token Prediction: How far should we go?**|Emile Anand et.al.|[2610.28619](http://arxiv.org/abs/2610.28619)|null|
+|**2026-10-20**|**NarraSpace: Multimodal Scene-Grounded Evidence for Picture-Description Dementia Classification**|Qingming Li et.al.|[2610.28616](http://arxiv.org/abs/2610.28616)|null|
+|**2026-10-20**|**Semantic Observability for Autonomous Systems Diagnostics**|Jitendra Solanki et.al.|[2610.28611](http://arxiv.org/abs/2610.28611)|null|
+|**2026-10-20**|**InterWebCoder: Learning Interactive Webpage Generation from Executable Tests via Reinforcement Learning**|Jingyu Xiao et.al.|[2610.28610](http://arxiv.org/abs/2610.28610)|null|
+|**2026-10-20**|**Benchmarking Arabic Dialects for Math Problems**|Noor Abo Mokh et.al.|[2610.28607](http://arxiv.org/abs/2610.28607)|null|
+|**2026-10-20**|**Beyond the Sequentiality Bottleneck: A Hybrid Diffusion-Autoregressive Framework for Efficient Multimodal Reasoning**|Wei Cai et.al.|[2610.28584](http://arxiv.org/abs/2610.28584)|null|
+|**2026-10-20**|**Sage-A1.5: From Long-Horizon Execution to Scientific Exploration with Capability Composition**|Wenjie Lou et.al.|[2610.28578](http://arxiv.org/abs/2610.28578)|null|
+|**2026-10-20**|**Cache Engineering for Agents**|Tianyu Fu et.al.|[2610.28577](http://arxiv.org/abs/2610.28577)|null|
+|**2026-10-20**|**The Token-Energy Law of LLM Decode: Active Bytes and Realized Time Account for Joules per Token**|Chenxu Niu et.al.|[2610.28576](http://arxiv.org/abs/2610.28576)|null|
+|**2026-10-20**|**Agentic Ensemble with Vision-Language Models for Visual Anomaly Detection**|Shangquan Sun et.al.|[2610.28560](http://arxiv.org/abs/2610.28560)|null|
+|**2026-10-20**|**Large Flow Language Models**|Arnav Chavan et.al.|[2610.28559](http://arxiv.org/abs/2610.28559)|null|
+|**2026-10-20**|**When Do LLMs Help with Feature Selection? A Systematic Empirical Study**|Fateme Memar et.al.|[2610.28556](http://arxiv.org/abs/2610.28556)|null|
+|**2026-10-20**|**Binary Discrete Diffusion: Candidate-Set Diffusion for Logic and Planning Tasks**|Rodrigo Casado Noguerales et.al.|[2610.28543](http://arxiv.org/abs/2610.28543)|null|
+|**2026-10-20**|**Predictive Latents for Autoregressive Language Models: Possibility, Gauge, and Obstruction**|Yuzhou Hong et.al.|[2610.28540](http://arxiv.org/abs/2610.28540)|null|
+|**2026-10-20**|**Humans Correct Their Judgments Through Debate, but Weaker AI Models Do Not**|Maria Victoria Carro et.al.|[2610.28539](http://arxiv.org/abs/2610.28539)|null|
+|**2026-10-20**|**Beyond 4 bits: Data-Centric Post-training Quantization and Recovery**|Rhea Sanjay Sukthanker et.al.|[2610.28537](http://arxiv.org/abs/2610.28537)|null|
+|**2026-10-20**|**CoGaussian: Open-Vocabulary Gaussian-based Collaborative 3D Scene Understanding**|Om Shivam Verma et.al.|[2610.28530](http://arxiv.org/abs/2610.28530)|null|
+|**2026-10-20**|**SenseAlign: Understanding Vision and Touch through Language at Test Time**|Chuyang Ye et.al.|[2610.28511](http://arxiv.org/abs/2610.28511)|null|
 |**2026-10-19**|**OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memory**|Yu Zhou et.al.|[2610.26860](http://arxiv.org/abs/2610.26860)|null|
 |**2026-10-19**|**GPT-6 Astra Is a Native Visuo-Tactile Policy for Contact-Rich Manipulation**|Chen Yang et.al.|[2610.26846](http://arxiv.org/abs/2610.26846)|null|
 |**2026-10-19**|**LatComm: Reusable Context Compression for Latent Communication between Large Language Models**|Huawei Lin et.al.|[2610.26840](http://arxiv.org/abs/2610.26840)|null|
@@ -10967,6 +11007,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-20**|**Learning Adaptable Dexterous Skills via Hybrid Dexterous Mimicking**|Yuxuan Kuang et.al.|[2610.28628](http://arxiv.org/abs/2610.28628)|null|
+|**2026-10-20**|**Planning under Noise with Neural Operators**|Michael Chen et.al.|[2610.28623](http://arxiv.org/abs/2610.28623)|null|
+|**2026-10-20**|**Physical Canvas: A Vision Tactile World Model For Robot Policy Evaluation And Learning**|Zebin Xing et.al.|[2610.28613](http://arxiv.org/abs/2610.28613)|null|
+|**2026-10-20**|**InterWebCoder: Learning Interactive Webpage Generation from Executable Tests via Reinforcement Learning**|Jingyu Xiao et.al.|[2610.28610](http://arxiv.org/abs/2610.28610)|null|
+|**2026-10-20**|**Automated optimization of solar energetic particle acceleration and transport parameters against five-spacecraft observations of the 9 October 2021 event**|Hiroyuki Tako Ishikawa et.al.|[2610.28603](http://arxiv.org/abs/2610.28603)|null|
+|**2026-10-20**|**AgenticRoboRL: Bringing Coding-Agent Post-Training to Agentic Robotics**|Xinxin Liu et.al.|[2610.28589](http://arxiv.org/abs/2610.28589)|null|
+|**2026-10-20**|**Continuous-Time Policy Gradient from Discrete Data: Convergence Analysis and Model-Free Algorithms**|Martin Hernandez et.al.|[2610.28580](http://arxiv.org/abs/2610.28580)|null|
+|**2026-10-20**|**Acceleration of CTQMC via Denoising Diffusion Models with Auxiliary Spectral Functions**|Rishi Rao et.al.|[2610.28542](http://arxiv.org/abs/2610.28542)|null|
+|**2026-10-20**|**SuperMimic: Scaling Humanoid Whole-Body Control with One Differentiable World Model**|Qiayuan Liao et.al.|[2610.28480](http://arxiv.org/abs/2610.28480)|null|
+|**2026-10-20**|**Answering in the User's Variety: Calibrated Accommodation Pairs for Post-Training**|Zhizhuo Kou et.al.|[2610.28474](http://arxiv.org/abs/2610.28474)|null|
+|**2026-10-20**|**Fast Motion Retargeting Pipeline for Scalable Humanoid Robot Learning**|Daniel Marew et.al.|[2610.28470](http://arxiv.org/abs/2610.28470)|null|
+|**2026-10-20**|**Stable charged energy and phase transitions in an anisotropic Dicke quantum battery with Kerr nonlinearity**|Shao-Fan He et.al.|[2610.28373](http://arxiv.org/abs/2610.28373)|null|
+|**2026-10-20**|**FALCA: Falsification-Aware Reinforcement Learning with Hierarchical Credit Assignment for Long-Horizon Deep Search Agents**|Zijun Dou et.al.|[2610.28361](http://arxiv.org/abs/2610.28361)|null|
+|**2026-10-20**|**Confessions of a Masked MDP**|Sebastian Reboul et.al.|[2610.28360](http://arxiv.org/abs/2610.28360)|null|
+|**2026-10-20**|**Reinforced Iterative Learning Control for elastic joint arms: Guaranteed cross-trajectory generalization under model uncertainties**|Yuri De Santis et.al.|[2610.28329](http://arxiv.org/abs/2610.28329)|null|
+|**2026-10-20**|**Reward Misspecification Degrades Chain-of-Thought Monitorability**|Tianyi Lorena Yan et.al.|[2610.28303](http://arxiv.org/abs/2610.28303)|null|
+|**2026-10-20**|**Classical spin liquids in the kagome Ising model, and their link with magnetoelasticity**|T. Vignau Costa et.al.|[2610.28298](http://arxiv.org/abs/2610.28298)|null|
+|**2026-10-20**|**Interference-Graph-Aided Multi-Agent Reinforcement Learning for Beam Hopping LEO Satellite Networks**|Hao Yuan et.al.|[2610.28248](http://arxiv.org/abs/2610.28248)|null|
+|**2026-10-20**|**Timing and Reliability Limits of Position-Assisted UWB Multicast Audio**|Fengyun Zhang et.al.|[2610.28245](http://arxiv.org/abs/2610.28245)|null|
+|**2026-10-20**|**Orbital Parameters for 65 Wide Binary Systems: no evidence for gravitational anomaly at low acceleration**|L. Pasquini et.al.|[2610.28220](http://arxiv.org/abs/2610.28220)|null|
 |**2026-10-19**|**Reinforcement Learning with Visually Attributable On-Policy Self-Distillation**|Shiao Xie et.al.|[2610.26856](http://arxiv.org/abs/2610.26856)|null|
 |**2026-10-19**|**CoopUQ: Robust Multi-Robot Social Navigation via Uncertainty-Aware Cooperative Forecasting**|Zehao Wang et.al.|[2610.26852](http://arxiv.org/abs/2610.26852)|null|
 |**2026-10-19**|**Train An Imaginative Agent**|Jiaxin Ge et.al.|[2610.26845](http://arxiv.org/abs/2610.26845)|null|
