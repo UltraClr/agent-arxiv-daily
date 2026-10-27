@@ -11127,6 +11127,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-26**|**World Model for Energy Efficiency Maximization in Dynamic Metasurface Antennas**|Abdolrasoul Sakhaei Gharagezlou et.al.|[2610.35813](http://arxiv.org/abs/2610.35813)|null|
+|**2026-10-26**|**Data-Driven Stochastic Control of Delayed Air-Conditioning Systems**|Christian Bayer et.al.|[2610.35811](http://arxiv.org/abs/2610.35811)|null|
+|**2026-10-26**|**FOCUS: Active Critic Learning for Long-Horizon Language Model Agents**|Zhengping Jiang et.al.|[2610.35801](http://arxiv.org/abs/2610.35801)|null|
+|**2026-10-26**|**Persistence Pays: Square-root condition-number dependence for Metropolis-adjusted kinetic Langevin Monte Carlo with a non-reversibly updated accept/reject uniform**|Nawaf Bou-Rabee et.al.|[2610.35781](http://arxiv.org/abs/2610.35781)|null|
+|**2026-10-26**|**SEMA-Auto: Sighted and Efficient Multi-Turn Attack with Autonomy**|Mingqian Feng et.al.|[2610.35743](http://arxiv.org/abs/2610.35743)|null|
+|**2026-10-26**|**Preference-Guided Cooperation in Multi-Objective Multi-Agent Reinforcement Learning**|Qiyue Xia et.al.|[2610.35736](http://arxiv.org/abs/2610.35736)|null|
+|**2026-10-26**|**Multi-Objective Reinforcement Learning Using Routed Ensembles and Trajectory Attribution**|Zhenshuo Zhang et.al.|[2610.35733](http://arxiv.org/abs/2610.35733)|null|
+|**2026-10-26**|**State-augmented deep reinforcement learning for active flow control around an elliptical cylinder**|Wang Jia et.al.|[2610.35731](http://arxiv.org/abs/2610.35731)|null|
+|**2026-10-26**|**Audit Where Hacks Pay: Budgeted Strong-Verifier Audits Against Reward Hacking in GRPO**|Shurun Li et.al.|[2610.35716](http://arxiv.org/abs/2610.35716)|null|
+|**2026-10-26**|**Multi-Fidelity Particle Flow Filters based on Log Homotopy**|Abhinab Bhattacharjee et.al.|[2610.35712](http://arxiv.org/abs/2610.35712)|null|
+|**2026-10-26**|**MiRL: Error-Targeted Reinforcement Learning for Correcting Terminal Agent Misbehaviors**|Runchu Tian et.al.|[2610.35697](http://arxiv.org/abs/2610.35697)|null|
+|**2026-10-26**|**EvoRouter: Cost-Efficient Multi-Agent Routing via Insight-Guided On-Policy Distillation**|Yitao Xiao et.al.|[2610.35690](http://arxiv.org/abs/2610.35690)|null|
+|**2026-10-26**|**Toward fully stabilized flow control using deep reinforcement learning**|Wang Jia et.al.|[2610.35676](http://arxiv.org/abs/2610.35676)|null|
+|**2026-10-26**|**Provably Efficient Q-learning for Robust Reinforcement Learning**|Yuchen Jiao et.al.|[2610.35656](http://arxiv.org/abs/2610.35656)|null|
+|**2026-10-26**|**Automated two-loop fermion-bubble contributions at high multiplicity**|Dario Kermanschah et.al.|[2610.35655](http://arxiv.org/abs/2610.35655)|null|
+|**2026-10-26**|**Active Learning of Conditional Generative Models via the Transport Neural Tangent Kernel**|Jayoung Ryu et.al.|[2610.35652](http://arxiv.org/abs/2610.35652)|null|
+|**2026-10-26**|**Graph-Convolutional Reinforcement Learning for Finite-Time Stabilization of a Chaotic Chua Circuit via Unified Flexible Terminal Sliding-Mode Control**|Hooman Fatoorehchi et.al.|[2610.35613](http://arxiv.org/abs/2610.35613)|null|
+|**2026-10-26**|**On Tam's star-shapedness conjecture for numerical ranges of compact adjoint orbits**|Yongzhi Luan et.al.|[2610.35612](http://arxiv.org/abs/2610.35612)|null|
+|**2026-10-26**|**VaLoP: Value Gradient Lookahead and Pullback for Reward-Guided Diffusion**|Kwanyoung Kim et.al.|[2610.35607](http://arxiv.org/abs/2610.35607)|null|
+|**2026-10-26**|**Evolve on Graph: Self-Evolving Knowledge Graph Reasoning without Question Annotations**|Zongyuan Sun et.al.|[2610.35598](http://arxiv.org/abs/2610.35598)|null|
 |**2026-10-23**|**RobustRLlib: A Unified Library and Benchmark for Robust Reinforcement Learning Algorithms**|Xi Chen et.al.|[2610.32971](http://arxiv.org/abs/2610.32971)|null|
 |**2026-10-23**|**On the continuity of conditional distributions and stratification for derivative pricing**|Aleksandar Arandjelovic et.al.|[2610.32970](http://arxiv.org/abs/2610.32970)|null|
 |**2026-10-23**|**RynnUnify: Towards Unified Embodied Brain**|Minghao Zhu et.al.|[2610.32965](http://arxiv.org/abs/2610.32965)|null|
