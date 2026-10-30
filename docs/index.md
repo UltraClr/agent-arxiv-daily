@@ -16,6 +16,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-29**|**Collaborative AI agents for autonomous experimental research with solid-state quantum spins**|El Mustapha Mansouri et.al.|[2610.40589](http://arxiv.org/abs/2610.40589)|null|
+|**2026-10-29**|**Pre-Crime for Agents, at the Last Second: Probing When a Recruited Agent Gives In**|Leonidas Raghav et.al.|[2610.40588](http://arxiv.org/abs/2610.40588)|null|
+|**2026-10-29**|**Gym-Anything for Robotics: Scaling physical simulations with digital agents**|Pranjal Aggarwal et.al.|[2610.40565](http://arxiv.org/abs/2610.40565)|null|
+|**2026-10-29**|**Reinforcement learning for control of partial differential equations**|Nicolò Botteghi et.al.|[2610.40449](http://arxiv.org/abs/2610.40449)|null|
+|**2026-10-29**|**Prefix Executability: Evaluating Tool-Using Agents Beyond Final Success**|Amir H. Rezaeian et.al.|[2610.40444](http://arxiv.org/abs/2610.40444)|null|
+|**2026-10-29**|**Agentic LLM reasoning in pediatric diabetes outcome prediction from multimodal medical records**|Daniel Palacios et.al.|[2610.40379](http://arxiv.org/abs/2610.40379)|null|
+|**2026-10-29**|**The Athlete as a Scientist of One: Agentic Bayesian Experimental Design for Individualized Physiology from Consumer Wearables**|Behnam Moradi et.al.|[2610.40370](http://arxiv.org/abs/2610.40370)|null|
+|**2026-10-29**|**Don't Lose the Thread: Empowering Long-Horizon LLM Agents with Cognitive Resource Self-Allocation**|Zheng Zhu et.al.|[2610.40350](http://arxiv.org/abs/2610.40350)|null|
+|**2026-10-29**|**Wizard: Manipulate Any World in Real Time via Agentic Control**|Yuzhe Wu et.al.|[2610.40339](http://arxiv.org/abs/2610.40339)|null|
+|**2026-10-29**|**MAServeBench: Benchmarking Multi-Agent LLM Serving Systems with Hierarchical Collaboration Workloads**|Shengxuan Qiu et.al.|[2610.40293](http://arxiv.org/abs/2610.40293)|null|
+|**2026-10-29**|**The Price of a Chance in Artificial Societies**|Shuqi Zhao et.al.|[2610.40259](http://arxiv.org/abs/2610.40259)|null|
+|**2026-10-29**|**When Requirements Interact: Scaling Long-Horizon Coding via Interdependent Specifications**|Yishuo Cai et.al.|[2610.40256](http://arxiv.org/abs/2610.40256)|null|
+|**2026-10-29**|**Engineering process plants as code in the age of agentic AI**|Artur M. Schweidtmann et.al.|[2610.40239](http://arxiv.org/abs/2610.40239)|null|
+|**2026-10-29**|**Who Says What: Strategic Communication in Networks**|Anuj Bhowmik et.al.|[2610.40230](http://arxiv.org/abs/2610.40230)|null|
+|**2026-10-29**|**EpiAgent: Epistemic Self-Play for LLM Agents**|Xuanfa Jin et.al.|[2610.40227](http://arxiv.org/abs/2610.40227)|null|
+|**2026-10-29**|**Video Generation Meets Agent Harness: Agentic Video Generation, Agentic World Modeling and Recursive Self-Improvement**|Liaoyuan Fan et.al.|[2610.40191](http://arxiv.org/abs/2610.40191)|null|
+|**2026-10-29**|**AdMuse: Skill-Guided Creative Advertising Image Generation**|Minyan Luo et.al.|[2610.40190](http://arxiv.org/abs/2610.40190)|null|
+|**2026-10-29**|**Locating and Closing Information Gaps in Multi-Agent Systems**|Yaxin Gong et.al.|[2610.40186](http://arxiv.org/abs/2610.40186)|null|
+|**2026-10-29**|**DynaRev: Benchmarking Web Agents under Dynamic Goal Revision**|Shiqi Zhang et.al.|[2610.40133](http://arxiv.org/abs/2610.40133)|null|
+|**2026-10-29**|**Agentic process evidence**|Yuval Kainan et.al.|[2610.40071](http://arxiv.org/abs/2610.40071)|null|
 |**2026-10-29**|**InterA11y: Interactive Web Accessibility Error Detection with LLM Agents**|Mingyuan Zhong et.al.|[2610.39488](http://arxiv.org/abs/2610.39488)|null|
 |**2026-10-29**|**Soei: Structured Observability of Evidence and Intent for Multi-Agent AI Software Engineering**|Mohammed Nayeem Khan et.al.|[2610.39468](http://arxiv.org/abs/2610.39468)|null|
 |**2026-10-29**|**Ask to Evolve: A Unified Harness for Lifelong Embodied Navigation with Hybrid Action Space and Persistent Memory**|Kai Sheng et.al.|[2610.39446](http://arxiv.org/abs/2610.39446)|null|
@@ -5659,6 +5679,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-29**|**Elucidating the Design Space of LM Data Attribution**|Steven Yu et.al.|[2610.40655](http://arxiv.org/abs/2610.40655)|null|
+|**2026-10-29**|**Rethinking Neural Thickets Without Weight Perturbations**|Nicolas Dufour et.al.|[2610.40649](http://arxiv.org/abs/2610.40649)|null|
+|**2026-10-29**|**ShallowDefend: Harnessing Shallow Safety Alignment for Multi-Turn Defender**|Qiyao Ma et.al.|[2610.40627](http://arxiv.org/abs/2610.40627)|null|
+|**2026-10-29**|**Testimony from Timelines: Evidence-Grounded Significance Testing of Temporal Clinical Hypotheses**|Chengyang He et.al.|[2610.40619](http://arxiv.org/abs/2610.40619)|null|
+|**2026-10-29**|**TextSeal2: Distortion-Free LLM Watermarking with Copula Mixing and Memoryless Races**|Tom Sander et.al.|[2610.40613](http://arxiv.org/abs/2610.40613)|null|
+|**2026-10-29**|**Collaborative AI agents for autonomous experimental research with solid-state quantum spins**|El Mustapha Mansouri et.al.|[2610.40589](http://arxiv.org/abs/2610.40589)|null|
+|**2026-10-29**|**RADIOlogy: A Single-Pass Approach to Training-Free Zero-Shot Anomaly Detection**|Joaquín Figueira et.al.|[2610.40580](http://arxiv.org/abs/2610.40580)|null|
+|**2026-10-29**|**VeriCUA: Verification as Agentic Exploration for Computer-Using Agents**|Qiushi Sun et.al.|[2610.40578](http://arxiv.org/abs/2610.40578)|null|
+|**2026-10-29**|**Multi-View MoE: Letting Every Router Shape Expert Computation**|Zelin Zhao et.al.|[2610.40577](http://arxiv.org/abs/2610.40577)|null|
+|**2026-10-29**|**Every Token Needs Its Own Teacher: Multi-teacher Adaptive On-policy Self-distillation**|Yifu Luo et.al.|[2610.40574](http://arxiv.org/abs/2610.40574)|null|
+|**2026-10-29**|**Gym-Anything for Robotics: Scaling physical simulations with digital agents**|Pranjal Aggarwal et.al.|[2610.40565](http://arxiv.org/abs/2610.40565)|null|
+|**2026-10-29**|**Comparing Human Role-Players and LLM-Simulated Clients in Online Counselling Training: An Analysis of Counselling Patterns**|Eric Rudolph et.al.|[2610.40563](http://arxiv.org/abs/2610.40563)|null|
+|**2026-10-29**|**Advancing Clinical Genomic Analysis with a Skill-Centred Agent**|Qiaoyu Zheng et.al.|[2610.40556](http://arxiv.org/abs/2610.40556)|null|
+|**2026-10-29**|**The Privacy and Security Risks of Edge LLM Optimization**|Mingchen Li et.al.|[2610.40543](http://arxiv.org/abs/2610.40543)|null|
+|**2026-10-29**|**On the Fundamental Limits of Prefill-Based Decoding Length Prediction**|Haowen Shi et.al.|[2610.40541](http://arxiv.org/abs/2610.40541)|null|
+|**2026-10-29**|**Homebrewed SLMs: Autoregressive and Masked Diffusion Language Models Built at Home for Portuguese**|Pedro Carvalho Brom et.al.|[2610.40533](http://arxiv.org/abs/2610.40533)|null|
+|**2026-10-29**|**PhysCount: Do MLLMs Count Visual Appearances or Physical Entities?**|Lidong Lu et.al.|[2610.40530](http://arxiv.org/abs/2610.40530)|null|
+|**2026-10-29**|**How I Aligned Your Model: Scaling Up Multilingual Safety Training with Templates**|Max Neuwinger et.al.|[2610.40516](http://arxiv.org/abs/2610.40516)|null|
+|**2026-10-29**|**A Low-Rank Space Captures Linear Alignment Between LLM and Human Neural Activity During Naturalistic Language Listening**|Zach Paris et.al.|[2610.40511](http://arxiv.org/abs/2610.40511)|null|
+|**2026-10-29**|**Agentic University: Collaborative Agents for Personalized Learning**|Jingru Fan et.al.|[2610.40492](http://arxiv.org/abs/2610.40492)|null|
 |**2026-10-29**|**Program Bindings Inside Code Models**|Prateek Kumar Rajput et.al.|[2610.39489](http://arxiv.org/abs/2610.39489)|null|
 |**2026-10-29**|**InterA11y: Interactive Web Accessibility Error Detection with LLM Agents**|Mingyuan Zhong et.al.|[2610.39488](http://arxiv.org/abs/2610.39488)|null|
 |**2026-10-29**|**Integrating Heterogeneous Echocardiography AI Outputs in Language Space: Learnable Late Fusion with a Supervised LLM**|Ryo Takizawa et.al.|[2610.39464](http://arxiv.org/abs/2610.39464)|null|
@@ -11198,6 +11238,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-29**|**SwapBot: Tool-Centric Robot Manipulation via Interchangeable End-Effectors and Tactile Sensing**|Yunchu Zhang et.al.|[2610.40646](http://arxiv.org/abs/2610.40646)|null|
+|**2026-10-29**|**ShallowDefend: Harnessing Shallow Safety Alignment for Multi-Turn Defender**|Qiyao Ma et.al.|[2610.40627](http://arxiv.org/abs/2610.40627)|null|
+|**2026-10-29**|**When Imputation Changes the Nearest Neighbor: Exact Certification of Similarity Retrieval for Incomplete Sensor Time Series**|Jianru Shen et.al.|[2610.40579](http://arxiv.org/abs/2610.40579)|null|
+|**2026-10-29**|**VeriCUA: Verification as Agentic Exploration for Computer-Using Agents**|Qiushi Sun et.al.|[2610.40578](http://arxiv.org/abs/2610.40578)|null|
+|**2026-10-29**|**PIVOT: Progressive Intervention via Online Teacher Correction**|Zhihao Yang et.al.|[2610.40576](http://arxiv.org/abs/2610.40576)|null|
+|**2026-10-29**|**Training Foundation Models with a Single Algorithm**|Yuda Song et.al.|[2610.40564](http://arxiv.org/abs/2610.40564)|null|
+|**2026-10-29**|**Power Adjusting Games Under Block-Dependent Pool Payout Schemes**|Mustafa Doger et.al.|[2610.40558](http://arxiv.org/abs/2610.40558)|null|
+|**2026-10-29**|**NEOPIC: A Neural Operator Framework for Particle-based Kinetic Plasma Simulations**|Sriramkrishnan Muralikrishnan et.al.|[2610.40528](http://arxiv.org/abs/2610.40528)|null|
+|**2026-10-29**|**Single-Temperature Ranked Greedy Cluster Exchange for Max-Cut on Two-Dimensional Tori**|Hao Geng et.al.|[2610.40515](http://arxiv.org/abs/2610.40515)|null|
+|**2026-10-29**|**Numerical Integration on Bounded Domains via Learned Reflected Diffusions**|Kirill Korolev et.al.|[2610.40499](http://arxiv.org/abs/2610.40499)|null|
+|**2026-10-29**|**Training language models in simulation for psychiatric intake**|Samuel Schmidgall et.al.|[2610.40476](http://arxiv.org/abs/2610.40476)|null|
+|**2026-10-29**|**Predicting Weight Windows for Duct-Streaming Shielding Geometries with a Convolutional Neural Network**|Jilang Miao et.al.|[2610.40457](http://arxiv.org/abs/2610.40457)|null|
+|**2026-10-29**|**Reinforcement learning for control of partial differential equations**|Nicolò Botteghi et.al.|[2610.40449](http://arxiv.org/abs/2610.40449)|null|
+|**2026-10-29**|**Optimal Path Planning with Localization constraints**|Chinmay Mundane et.al.|[2610.40429](http://arxiv.org/abs/2610.40429)|null|
+|**2026-10-29**|**Uncertainty-aware Feedback Loop Diagnosis: integrating reinforcement learning and conformal prediction for reliable wafer defect classification**|Aleksandr Dekhovich et.al.|[2610.40421](http://arxiv.org/abs/2610.40421)|null|
+|**2026-10-29**|**SCARL: Sequence Confidence-Aligned Reinforcement Learning**|Zhenghong Ke et.al.|[2610.40407](http://arxiv.org/abs/2610.40407)|null|
+|**2026-10-29**|**A Gaussian-Process Surrogate for Control Rod Worth with Calibrated Uncertainty: Application to VERA Core Physics Benchmark Problem 4**|Sean Gohlke et.al.|[2610.40389](http://arxiv.org/abs/2610.40389)|null|
+|**2026-10-29**|**JEDI: Joint-Embedding Demonstration Compression for In-Context Imitation Learning**|Jiazhao Liang et.al.|[2610.40356](http://arxiv.org/abs/2610.40356)|null|
+|**2026-10-29**|**From MS/MS evidence to adaptive spectroscopic characterization: Reinforcement learning guided by candidate molecular structures**|Bowen Gao et.al.|[2610.40264](http://arxiv.org/abs/2610.40264)|null|
+|**2026-10-29**|**Learned Terminal Costs for Short-Horizon Model Predictive Control of Autonomous Trucks in Interactive Highway Traffic**|Hooman Hamze et.al.|[2610.40257](http://arxiv.org/abs/2610.40257)|null|
 |**2026-10-29**|**Smooth Action Chunking Via Movement-Primitive Representations for Imitation Learning**|Shota Nomura et.al.|[2610.39451](http://arxiv.org/abs/2610.39451)|null|
 |**2026-10-29**|**Timbre: Reliability-aware harmonic consensus for label-free multimodal test-time rexinforcement learning**|Haotian Lyu et.al.|[2610.39439](http://arxiv.org/abs/2610.39439)|null|
 |**2026-10-29**|**ScheduleGen: Demonstration Generation via Skill Scheduling for Multi-Arm Imitation Learning**|Neel Jawale et.al.|[2610.39429](http://arxiv.org/abs/2610.39429)|null|
