@@ -11305,7 +11305,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |**2026-10-27**|**QD-PINN:A Physics-Informed Neural Network Approach to Bayesian Quickest Detection in High-Dimensional Diffusions**|Hang Ye et.al.|[2610.37473](http://arxiv.org/abs/2610.37473)|null|
 |**2026-10-27**|**Autonomous fixed-wing interception using reinforcement learning**|Daan van Hamersveld et.al.|[2610.37470](http://arxiv.org/abs/2610.37470)|null|
 |**2026-10-27**|**Interpretable Meta-Policies for Neural Decision Making**|Raban Emunds et.al.|[2610.37451](http://arxiv.org/abs/2610.37451)|null|
-|**2026-10-27**|**Measurement of spectator fragment pseudorapidity distributions with the STAR Event Plane Detector**| Balazs Korodi for the STAR Collaboration et.al.|[2610.37447](http://arxiv.org/abs/2610.37447)|null|
+|**2026-10-27**|**Measurement of spectator fragment pseudorapidity distributions with the STAR Event Plane Detector**|Balazs Korodi for the STAR Collaboration et.al.|[2610.37447](http://arxiv.org/abs/2610.37447)|null|
 |**2026-10-27**|**Multi-Agent Reinforcement Learning of Co-Adaptive Hip Exoskeleton Control (MARL-Exo) for Metabolic Energy Reduction**|Yifei Yuan et.al.|[2610.37441](http://arxiv.org/abs/2610.37441)|null|
 |**2026-10-26**|**World Model for Energy Efficiency Maximization in Dynamic Metasurface Antennas**|Abdolrasoul Sakhaei Gharagezlou et.al.|[2610.35813](http://arxiv.org/abs/2610.35813)|null|
 |**2026-10-26**|**Data-Driven Stochastic Control of Delayed Air-Conditioning Systems**|Christian Bayer et.al.|[2610.35811](http://arxiv.org/abs/2610.35811)|null|

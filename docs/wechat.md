@@ -13829,7 +13829,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 - 2026-04-24, **Measuring and Mitigating Persona Distortions from AI Writing Assistance**, Paul Röttger et.al., Paper: [http://arxiv.org/abs/2604.22503](http://arxiv.org/abs/2604.22503)
 - 2025-10-20, **Measuring Reasoning in LLMs: a New Dialectical Angle**, Soheil Abbasloo et.al., Paper: [http://arxiv.org/abs/2510.18134](http://arxiv.org/abs/2510.18134)
 - 2026-05-05, **Measurement of the neutron shielding efficacy of magnetite for Proton Therapy Facilities and other applications**, Kijun Park et.al., Paper: [http://arxiv.org/abs/2605.03931](http://arxiv.org/abs/2605.03931)
-- 2026-10-27, **Measurement of spectator fragment pseudorapidity distributions with the STAR Event Plane Detector**,  Balazs Korodi for the STAR Collaboration et.al., Paper: [http://arxiv.org/abs/2610.37447](http://arxiv.org/abs/2610.37447)
+- 2026-10-27, **Measurement of spectator fragment pseudorapidity distributions with the STAR Event Plane Detector**, Balazs Korodi for the STAR Collaboration et.al., Paper: [http://arxiv.org/abs/2610.37447](http://arxiv.org/abs/2610.37447)
 - 2025-11-19, **Measure finite topology on the ring of measurable functions**, Soumajit Dey et.al., Paper: [http://arxiv.org/abs/2511.15436](http://arxiv.org/abs/2511.15436)
 - 2026-07-16, **MeanFlowNFT: Bringing Forward-Process RL to Average-Velocity Generators**, Yushi Huang et.al., Paper: [http://arxiv.org/abs/2607.15273](http://arxiv.org/abs/2607.15273)
 - 2026-04-24, **Mean-Field Theory for the Three-State Active Lattice Gas Model**, Ana L. N. Dias et.al., Paper: [http://arxiv.org/abs/2604.22536](http://arxiv.org/abs/2604.22536)
