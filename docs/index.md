@@ -16,6 +16,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-30**|**Flide: Accelerating Decision Inference with Exact State Forking**|Bobo Li et.al.|[2610.42148](http://arxiv.org/abs/2610.42148)|null|
+|**2026-10-30**|**Latent Sparse Attention: Towards Subquadratic Ultra-Long Context Attention**|Ales Kubicek et.al.|[2610.42147](http://arxiv.org/abs/2610.42147)|null|
+|**2026-10-30**|**Hierarchical World Models with Implicit Dynamics**|Gaoyue Zhou et.al.|[2610.42146](http://arxiv.org/abs/2610.42146)|null|
+|**2026-10-30**|**Quantum 3xplorer: AI-Native Engine for Next-Generation Quantum Materials Modeling**|Vsevolod Biryukov et.al.|[2610.42108](http://arxiv.org/abs/2610.42108)|null|
+|**2026-10-30**|**REA: A Routed Embodied Agent Runtime for Asynchronous Brain-Cerebellum Control**|Pengfei Zhou et.al.|[2610.42053](http://arxiv.org/abs/2610.42053)|null|
+|**2026-10-30**|**CausalXRL: Explainable Reinforcement Learning through Causal Graph Reasoning**|Yanming Zhang et.al.|[2610.42028](http://arxiv.org/abs/2610.42028)|null|
+|**2026-10-30**|**TradeWar: A Benchmark for Execution-Grounded Trade Negotiation with Adaptive LLM Agents**|Xiangyu Kong et.al.|[2610.42004](http://arxiv.org/abs/2610.42004)|null|
+|**2026-10-30**|**AutoAnalysis: An automated, self-updating meta-analysis of human-AI collaboration**|Michelle Vaccaro et.al.|[2610.42001](http://arxiv.org/abs/2610.42001)|null|
+|**2026-10-30**|**SecPO: Principled Adversarial Training for Prompt Injection Security**|Sizhe Chen et.al.|[2610.41998](http://arxiv.org/abs/2610.41998)|null|
+|**2026-10-30**|**Completeness and Cost of Retrieval Structures for Multi-Tool Requests in LLM Agents**|Shuyang Zhang et.al.|[2610.41905](http://arxiv.org/abs/2610.41905)|null|
+|**2026-10-30**|**Statistical Foundations of Reinforcement Learning: A Non-Asymptotic Perspective**|Yuxin Chen et.al.|[2610.41903](http://arxiv.org/abs/2610.41903)|null|
+|**2026-10-30**|**What Standard Evaluations Hide About Detectors of Hijacked LLM Agents: Rare Attacks, Unseen Tools and Benchmark Transfer**|Mahmoud Abbasi et.al.|[2610.41803](http://arxiv.org/abs/2610.41803)|null|
+|**2026-10-30**|**Evaluating Instrument-Centered AI Agents for Table-Top Science Experiments**|Jiaqi Cai et.al.|[2610.41717](http://arxiv.org/abs/2610.41717)|null|
+|**2026-10-30**|**The Ineliminable Anchor: Human Judgment as a Structural Requirement of Autonomous Artificial Intelligence Systems**|Junjie Li et.al.|[2610.41682](http://arxiv.org/abs/2610.41682)|null|
+|**2026-10-30**|**ORION: An Outcome-Driven LLM Advisor for RL-Based Multi-Domain 6G Slice Placement**|Mahmoud S. Mayaleh et.al.|[2610.41563](http://arxiv.org/abs/2610.41563)|null|
+|**2026-10-30**|**KITE: Retrieval as a Decision Procedure for Long-Term Conversational Memory**|Feng Li et.al.|[2610.41521](http://arxiv.org/abs/2610.41521)|null|
+|**2026-10-30**|**HiState: Hierarchical Prefix Cache Management for Hybrid LLM Serving in Agentic Workloads**|Zaifeng Pan et.al.|[2610.41508](http://arxiv.org/abs/2610.41508)|null|
+|**2026-10-30**|**KEEPER: Learning Control-Sufficient Textual Memory for Long-Horizon LLM Agents**|Jinkyeong Choi et.al.|[2610.41482](http://arxiv.org/abs/2610.41482)|null|
+|**2026-10-30**|**RetryRoute: Retry-Aware Model Routing for Agentic Image Editing Services**|Hanshuai Cui et.al.|[2610.41460](http://arxiv.org/abs/2610.41460)|null|
+|**2026-10-30**|**Evidence-Guided Recovery for AI Agents with Ambiguous Tool Outcomes and Partial Execution**|Genliang Zhu et.al.|[2610.41453](http://arxiv.org/abs/2610.41453)|null|
 |**2026-10-29**|**Collaborative AI agents for autonomous experimental research with solid-state quantum spins**|El Mustapha Mansouri et.al.|[2610.40589](http://arxiv.org/abs/2610.40589)|null|
 |**2026-10-29**|**Pre-Crime for Agents, at the Last Second: Probing When a Recruited Agent Gives In**|Leonidas Raghav et.al.|[2610.40588](http://arxiv.org/abs/2610.40588)|null|
 |**2026-10-29**|**Gym-Anything for Robotics: Scaling physical simulations with digital agents**|Pranjal Aggarwal et.al.|[2610.40565](http://arxiv.org/abs/2610.40565)|null|
@@ -5679,6 +5699,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-30**|**Latent Reasoning in Continuous Space for Unified Multimodal Models**|Byungwoo Jeon et.al.|[2610.42149](http://arxiv.org/abs/2610.42149)|null|
+|**2026-10-30**|**Where ADS Crashes Differ: A Harmonized Comparison Against Human Baselines**|Doyeon Jang et.al.|[2610.42121](http://arxiv.org/abs/2610.42121)|null|
+|**2026-10-30**|**ACCT: Asymmetric Cross-LLM Context Transfer**|Yuzhe Liu et.al.|[2610.42116](http://arxiv.org/abs/2610.42116)|null|
+|**2026-10-30**|**Subquadratic Attention with a Hierarchical Tree-Structured Indexer**|Leon Lufkin et.al.|[2610.42112](http://arxiv.org/abs/2610.42112)|null|
+|**2026-10-30**|**RangeSWA: Training-Free Length Extrapolation for Continuous Diffusion Language Models**|Guangfu Guo et.al.|[2610.42084](http://arxiv.org/abs/2610.42084)|null|
+|**2026-10-30**|**PersonaChatBench: Evaluating Chat Assistants with Diverse Simulated Users**|Zheyuan Deng et.al.|[2610.42060](http://arxiv.org/abs/2610.42060)|null|
+|**2026-10-30**|**CRoS: Causality Reward on Scrambled CoTs Improves Accuracy and Reasoning Faithfulness**|Xiao Yu et.al.|[2610.42054](http://arxiv.org/abs/2610.42054)|null|
+|**2026-10-30**|**Proof-Carrying Evolution: Black-Box Search, White-Box Flight**|Amit Jain et.al.|[2610.42043](http://arxiv.org/abs/2610.42043)|null|
+|**2026-10-30**|**Same Question, Different Answers: Auditing Persona-Dependent Variation in Six LLMs on Smoking-Cessation Advice**|Artin Yousefi et.al.|[2610.42039](http://arxiv.org/abs/2610.42039)|null|
+|**2026-10-30**|**Know When the Equation Is Wrong: Structural Uncertainty for LLM-Guided Symbolic Regression under Extrapolation**|Mostafa Cham et.al.|[2610.42024](http://arxiv.org/abs/2610.42024)|null|
+|**2026-10-30**|**Asynchronous Flow Map Language Models**|Chanhyuk Lee et.al.|[2610.42018](http://arxiv.org/abs/2610.42018)|null|
+|**2026-10-30**|**TurnTurk-GPT: Text-Based Turn-Taking Prediction for Turkish**|Ahmet Tuğrul Bayrak et.al.|[2610.42010](http://arxiv.org/abs/2610.42010)|null|
+|**2026-10-30**|**TradeWar: A Benchmark for Execution-Grounded Trade Negotiation with Adaptive LLM Agents**|Xiangyu Kong et.al.|[2610.42004](http://arxiv.org/abs/2610.42004)|null|
+|**2026-10-30**|**Less Loss, Fixed Weights: Logit Corrections for Forgetting**|Hanyu Yang et.al.|[2610.42000](http://arxiv.org/abs/2610.42000)|null|
+|**2026-10-30**|**DAMI: Dual-Axis Memory Initialization for Enhanced Long-Context Retrieval in Gated Linear Attention**|Zhangchi Feng et.al.|[2610.41994](http://arxiv.org/abs/2610.41994)|null|
+|**2026-10-30**|**Prune Gradually, Adapt Sparsely: Efficient Pruning of Large Language Models at Extreme Sparsity**|Jean Lucien Randrianantenaina et.al.|[2610.41968](http://arxiv.org/abs/2610.41968)|null|
+|**2026-10-30**|**Aligning MLLMs with the Latent Structure of Human Cognition via Behavior-Derived Semantic Dimensions**|Ning E et.al.|[2610.41951](http://arxiv.org/abs/2610.41951)|null|
+|**2026-10-30**|**Structure-Aware Skill Retrieval and Arbitration for Optimization Modeling**|Anran Liu et.al.|[2610.41909](http://arxiv.org/abs/2610.41909)|null|
+|**2026-10-30**|**ReX-GG: a LLM Ensemble Pipeline for Relation-extraction and Graph Generation**|Giacomo Magnifico et.al.|[2610.41901](http://arxiv.org/abs/2610.41901)|null|
+|**2026-10-30**|**Automated Keyword Generation Using LLMs in a High-Volume Data Virtualization Service**|Saiful Khan et.al.|[2610.41893](http://arxiv.org/abs/2610.41893)|null|
 |**2026-10-29**|**Elucidating the Design Space of LM Data Attribution**|Steven Yu et.al.|[2610.40655](http://arxiv.org/abs/2610.40655)|null|
 |**2026-10-29**|**Rethinking Neural Thickets Without Weight Perturbations**|Nicolas Dufour et.al.|[2610.40649](http://arxiv.org/abs/2610.40649)|null|
 |**2026-10-29**|**ShallowDefend: Harnessing Shallow Safety Alignment for Multi-Turn Defender**|Qiyao Ma et.al.|[2610.40627](http://arxiv.org/abs/2610.40627)|null|
@@ -11238,6 +11278,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-30**|**Latent Reasoning in Continuous Space for Unified Multimodal Models**|Byungwoo Jeon et.al.|[2610.42149](http://arxiv.org/abs/2610.42149)|null|
+|**2026-10-30**|**Functional Tensor Trains for High-Order Greeks and Exposure Tails of Multi-Asset Structured Products**|Javier Lopez-Piqueres et.al.|[2610.42119](http://arxiv.org/abs/2610.42119)|null|
+|**2026-10-30**|**Hyperbolic Inverse Reinforcement Learning**|Iulia Rusu et.al.|[2610.42104](http://arxiv.org/abs/2610.42104)|null|
+|**2026-10-30**|**Towards Understanding the Impact of Plasticity Loss on Reinforcement Learning in Stochastic Environments**|Philipp Bordne et.al.|[2610.42100](http://arxiv.org/abs/2610.42100)|null|
+|**2026-10-30**|**ROOF: Learning Humanoid Fall Recovery under Overhead Constraints**|Yidan Lu et.al.|[2610.42097](http://arxiv.org/abs/2610.42097)|null|
+|**2026-10-30**|**RAMA: Retrieval-Augmented Multi-Agent Routing with Episodic Memory for LEO Satellite Networks**|Xin Ming Li et.al.|[2610.42068](http://arxiv.org/abs/2610.42068)|null|
+|**2026-10-30**|**CRoS: Causality Reward on Scrambled CoTs Improves Accuracy and Reasoning Faithfulness**|Xiao Yu et.al.|[2610.42054](http://arxiv.org/abs/2610.42054)|null|
+|**2026-10-30**|**A Hybrid Path Planning Framework for Assistive Wheelchair Navigation in Dynamic Pedestrian Environments**|Damla Leblebicioğlu et.al.|[2610.42049](http://arxiv.org/abs/2610.42049)|null|
+|**2026-10-30**|**CausalXRL: Explainable Reinforcement Learning through Causal Graph Reasoning**|Yanming Zhang et.al.|[2610.42028](http://arxiv.org/abs/2610.42028)|null|
+|**2026-10-30**|**Risk Assessment of Fair Multi-Period Dynamic Operating Envelopes under Uncertainty**|Pedro Salomão Quessongo et.al.|[2610.42014](http://arxiv.org/abs/2610.42014)|null|
+|**2026-10-30**|**When Is a Game a Markov Decision Process? Correspondences Between Game Theory and Reinforcement Learning**|Eduardo C. Garrido-Merchán et.al.|[2610.41962](http://arxiv.org/abs/2610.41962)|null|
+|**2026-10-30**|**Optimizing Stochastic Policy Geometry for Few-Step Flow Reinforcement Learning**|Zhuguanyu Wu et.al.|[2610.41949](http://arxiv.org/abs/2610.41949)|null|
+|**2026-10-30**|**Statistical Foundations of Reinforcement Learning: A Non-Asymptotic Perspective**|Yuxin Chen et.al.|[2610.41903](http://arxiv.org/abs/2610.41903)|null|
+|**2026-10-30**|**Online Learning of Heterogeneous Locomotion Dynamics under Reinforcement Learning Policies for Precise Loco-Manipulation**|Tianlin Zhang et.al.|[2610.41892](http://arxiv.org/abs/2610.41892)|null|
+|**2026-10-30**|**Preference-Conditioned Group-Relative Policy Optimization for Terminally Constrained Multi-Objective Control**|Md Ragib Rownak et.al.|[2610.41884](http://arxiv.org/abs/2610.41884)|null|
+|**2026-10-30**|**Numerical evaluation of one-loop integrals using quadrature rules**|Jürgen Dölz et.al.|[2610.41872](http://arxiv.org/abs/2610.41872)|null|
+|**2026-10-30**|**Generative sampling with physics-informed kernels**|Friederike Ihssen et.al.|[2610.41864](http://arxiv.org/abs/2610.41864)|null|
+|**2026-10-30**|**Toward Quantum Monte Carlo for Sovereign Debt Risk: A proof of concept**|Jean-Sébastien Dessureault et.al.|[2610.41831](http://arxiv.org/abs/2610.41831)|null|
+|**2026-10-30**|**Continual Reinforcement Learning Is an Integration Problem**|Nis Meinert et.al.|[2610.41809](http://arxiv.org/abs/2610.41809)|null|
+|**2026-10-30**|**Clinical-Protocol-Aware Cyber Resilience for Connected Clinical Technologies Under AI-Enabled Adversarial Conditions**|Pranav Patel et.al.|[2610.41784](http://arxiv.org/abs/2610.41784)|null|
 |**2026-10-29**|**SwapBot: Tool-Centric Robot Manipulation via Interchangeable End-Effectors and Tactile Sensing**|Yunchu Zhang et.al.|[2610.40646](http://arxiv.org/abs/2610.40646)|null|
 |**2026-10-29**|**ShallowDefend: Harnessing Shallow Safety Alignment for Multi-Turn Defender**|Qiyao Ma et.al.|[2610.40627](http://arxiv.org/abs/2610.40627)|null|
 |**2026-10-29**|**When Imputation Changes the Nearest Neighbor: Exact Certification of Similarity Retrieval for Incomplete Sensor Time Series**|Jianru Shen et.al.|[2610.40579](http://arxiv.org/abs/2610.40579)|null|
