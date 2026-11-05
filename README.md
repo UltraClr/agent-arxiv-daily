@@ -21,6 +21,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-04**|**A Framework for Context Enrichment and Selective Robustness in LLM Social Agents**|Mattia Greiche et.al.|[2611.06914](http://arxiv.org/abs/2611.06914)|null|
+|**2026-11-04**|**FrontierPhysics: Evaluating Agents for End-to-End Physics Research**|Bingran You et.al.|[2611.06910](http://arxiv.org/abs/2611.06910)|null|
+|**2026-11-04**|**MCP-Eco: A Linked Dataset of MCP Servers, Consumers, and Development Activity**|Khalid Tounoussi et.al.|[2611.06897](http://arxiv.org/abs/2611.06897)|null|
+|**2026-11-04**|**VABAR: A Variational Automation Benchmark for Agentic Robotics**|Shuangyu Xie et.al.|[2611.06881](http://arxiv.org/abs/2611.06881)|null|
+|**2026-11-04**|**SpecCompact: Accelerating LLM Agent Context Compaction with Slot-Parallel Semantic Speculative Verification**|Yulu An et.al.|[2611.06876](http://arxiv.org/abs/2611.06876)|null|
+|**2026-11-04**|**On Turn-Level Best-of-N Sampling for Scaling LLM Agents**|Jalaj Bhandari et.al.|[2611.06868](http://arxiv.org/abs/2611.06868)|null|
+|**2026-11-04**|**GH-AWTrace: A Large-Scale Dataset of GitHub Agentic Workflow Execution Logs**|Jasem Khelifi et.al.|[2611.06866](http://arxiv.org/abs/2611.06866)|null|
+|**2026-11-04**|**CompressionBench: How can your coding agents compress LLMs?**|Xinrui Zhong et.al.|[2611.06858](http://arxiv.org/abs/2611.06858)|null|
+|**2026-11-04**|**Visual Token Routing: Learning to keep tokens that matter**|Pranjal Aggarwal et.al.|[2611.06854](http://arxiv.org/abs/2611.06854)|null|
+|**2026-11-04**|**ServerBench: How can your coding agents design specialized LLM serving systems?**|Xinrui Zhong et.al.|[2611.06841](http://arxiv.org/abs/2611.06841)|null|
+|**2026-11-04**|**Enabling AWS Cloud FPGA Development Using High-Level Vitis HLS**|David Rostcheck et.al.|[2611.06829](http://arxiv.org/abs/2611.06829)|null|
+|**2026-11-04**|**WISE: An Agentic Framework for Whole-page Multimodal Search Experience Attribution**|Wenyi Xu et.al.|[2611.06777](http://arxiv.org/abs/2611.06777)|null|
+|**2026-11-04**|**PyRUA-REAL: Robot Exploration and Adaptive Learning through RSI in the Real World**|Qiang Wang et.al.|[2611.06768](http://arxiv.org/abs/2611.06768)|null|
+|**2026-11-04**|**Rethinking Access Control for AI Agents: Recent Advances and Open Challenges**|Chijin Zhou et.al.|[2611.06764](http://arxiv.org/abs/2611.06764)|null|
+|**2026-11-04**|**SecureGARD: Dynamic Ontology-Guided Governance for Secure Tool-Using LLM Agents**|Guoqin Xiong et.al.|[2611.06682](http://arxiv.org/abs/2611.06682)|null|
+|**2026-11-04**|**AgentTrustCI: Build-Time Policy, Grounding, and Trajectory Tests for Java LLM Agents**|Sachin Gupta et.al.|[2611.06674](http://arxiv.org/abs/2611.06674)|null|
+|**2026-11-04**|**SCRUB: Contact-Based Surface-Frame Estimation for Force-Motion Control with an Armless Quadruped**|Sourav Selvaraj et.al.|[2611.06649](http://arxiv.org/abs/2611.06649)|null|
+|**2026-11-04**|**Uncertainty-Driven Efficient Communication for UAV-Based Collaborative Perception**|Jiuwu Hao et.al.|[2611.06635](http://arxiv.org/abs/2611.06635)|null|
+|**2026-11-04**|**Interactive World Simulation with Cosmos for Physical AI**| NVIDIA et.al.|[2611.06627](http://arxiv.org/abs/2611.06627)|null|
+|**2026-11-04**|**Signed, Sealed, Leaked: Trust Beyond Signature for MCP Toolchains**|Yichiet Aun et.al.|[2611.06585](http://arxiv.org/abs/2611.06585)|null|
 |**2026-11-03**|**From Autonomous Agents to Cognitive Symbionts: Toward AI-Augmented Human Intelligence**|Hao Fei et.al.|[2611.05376](http://arxiv.org/abs/2611.05376)|null|
 |**2026-11-03**|**Adversarial Speculative Reasoning Improves Long Horizon Agents**|Hongyin Luo et.al.|[2611.05345](http://arxiv.org/abs/2611.05345)|null|
 |**2026-11-03**|**PyRUA-DataFarm: LLM Agent as a Cost-Efficient Teleoperator for Real-Ready Robot Data**|Kewei Zhang et.al.|[2611.05320](http://arxiv.org/abs/2611.05320)|null|
@@ -5746,6 +5766,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-04**|**A Framework for Context Enrichment and Selective Robustness in LLM Social Agents**|Mattia Greiche et.al.|[2611.06914](http://arxiv.org/abs/2611.06914)|null|
+|**2026-11-04**|**BEAKER: An Expert-Curated Benchmark for Embodied Brains in Self-Driving Chemical Laboratories**|Fei Lin et.al.|[2611.06911](http://arxiv.org/abs/2611.06911)|null|
+|**2026-11-04**|**Dull, Dirty, Dangerous? Working Conditions and the Limits of Occupational AI Exposure**|Siyi Yu et.al.|[2611.06888](http://arxiv.org/abs/2611.06888)|null|
+|**2026-11-04**|**On Turn-Level Best-of-N Sampling for Scaling LLM Agents**|Jalaj Bhandari et.al.|[2611.06868](http://arxiv.org/abs/2611.06868)|null|
+|**2026-11-04**|**CompressionBench: How can your coding agents compress LLMs?**|Xinrui Zhong et.al.|[2611.06858](http://arxiv.org/abs/2611.06858)|null|
+|**2026-11-04**|**Visual Token Routing: Learning to keep tokens that matter**|Pranjal Aggarwal et.al.|[2611.06854](http://arxiv.org/abs/2611.06854)|null|
+|**2026-11-04**|**Persona Perspectives: Adopting Viewpoints Reorganizes Representations in LLMs**|Austin C. Kozlowski et.al.|[2611.06848](http://arxiv.org/abs/2611.06848)|null|
+|**2026-11-04**|**Where to Connect? Boosting MLLMs via Dynamic Gated Pathways across ALL ViT and LLM Layers**|Yingying Yan et.al.|[2611.06844](http://arxiv.org/abs/2611.06844)|null|
+|**2026-11-04**|**ServerBench: How can your coding agents design specialized LLM serving systems?**|Xinrui Zhong et.al.|[2611.06841](http://arxiv.org/abs/2611.06841)|null|
+|**2026-11-04**|**Before You Continue: Evaluating Time-Sensitive Safety Awareness in Conversational Assistants**|Peidi Dong et.al.|[2611.06839](http://arxiv.org/abs/2611.06839)|null|
+|**2026-11-04**|**Context--Answer Metamodels: Forecasting LLM Activations Before the First Answer Token**|Tommy He et.al.|[2611.06837](http://arxiv.org/abs/2611.06837)|null|
+|**2026-11-04**|**LooM: Loop-Invariant Memory for Causal Encoder-Decoder Language Models**|Lele Yang et.al.|[2611.06835](http://arxiv.org/abs/2611.06835)|null|
+|**2026-11-04**|**Systolic Linear Attention: Co-Designing Tile-Grouped Gated Delta Attention for TPUs**|Gagik Amirkhanyan et.al.|[2611.06828](http://arxiv.org/abs/2611.06828)|null|
+|**2026-11-04**|**Rules, Traces and Routing Statistics: Training and Calibration Data for Open Models on ARC-AGI-2**|Nguyen Minh Thang et.al.|[2611.06827](http://arxiv.org/abs/2611.06827)|null|
+|**2026-11-04**|**Open-HumanScale: An Open Recipe for Scaling Human and Robot Experience for Embodied Foundation Models**|Juncheng Ma et.al.|[2611.06817](http://arxiv.org/abs/2611.06817)|null|
+|**2026-11-04**|**SAUCE: Summary Analysis Using Conversation Entailment**|Man-Ling Sung et.al.|[2611.06812](http://arxiv.org/abs/2611.06812)|null|
+|**2026-11-04**|**LLMs Don't Know What They Know: Benchmarking Temporal Self-Knowledge for Financial Backtesting**|Lingfei Qian et.al.|[2611.06808](http://arxiv.org/abs/2611.06808)|null|
+|**2026-11-04**|**Measuring Risk, Not Harm: Detecting Psychological Harm Risk Factors in LLM Conversations**|Nil-Jana Akpinar et.al.|[2611.06806](http://arxiv.org/abs/2611.06806)|null|
+|**2026-11-04**|**Ranking Agreement Does Not Reveal Paragraph-Edit Agreement in Two Released Paper Acceptance Predictors**|Shaoliang Yang et.al.|[2611.06789](http://arxiv.org/abs/2611.06789)|null|
+|**2026-11-04**|**Benchmarking Fine-Grained Visual Reasoning for Remote Sensing in Urban Management**|Jiawei Zhang et.al.|[2611.06770](http://arxiv.org/abs/2611.06770)|null|
 |**2026-11-03**|**Aligning Language Models with General Preferences: An Empirical Study of Direct Nash Optimization**|Austin Tsai et.al.|[2611.05373](http://arxiv.org/abs/2611.05373)|null|
 |**2026-11-03**|**GUILD: Guided Iterative Data Collection for Imitation Learning**|Shivin Dass et.al.|[2611.05368](http://arxiv.org/abs/2611.05368)|null|
 |**2026-11-03**|**Suppressing Misaligned Behaviors in Language Models, Durably**|Luxi He et.al.|[2611.05358](http://arxiv.org/abs/2611.05358)|null|
@@ -11367,6 +11407,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-04**|**Reinforcement Learning Enables Scaling Generalist Robot Policy Improvement**|Michal Korniak et.al.|[2611.06905](http://arxiv.org/abs/2611.06905)|null|
+|**2026-11-04**|**Risk-Sensitive Stochastic Optimal Control on Positive Cones**|Mohamad Al Ahdab et.al.|[2611.06887](http://arxiv.org/abs/2611.06887)|null|
+|**2026-11-04**|**Alignment Myopia in Generative AI**|Remi Denton et.al.|[2611.06830](http://arxiv.org/abs/2611.06830)|null|
+|**2026-11-04**|**ConDR: Conservative Reachability through Neural Hamilton-Jacobi Subsolutions**|Kendra Givens et.al.|[2611.06802](http://arxiv.org/abs/2611.06802)|null|
+|**2026-11-04**|**Hidden entropic order of emergent charges in a classical Ampère spin liquid**|H. Diego Rosales et.al.|[2611.06795](http://arxiv.org/abs/2611.06795)|null|
+|**2026-11-04**|**Open-shell Configuration State Functions as trial states for phaseless auxiliary-field quantum Monte Carlo**|Don Danilov et.al.|[2611.06790](http://arxiv.org/abs/2611.06790)|null|
+|**2026-11-04**|**Energy Efficient Near-Threshold Voltage Massive MIMO Computing**|MD Salman Sakib et.al.|[2611.06772](http://arxiv.org/abs/2611.06772)|null|
+|**2026-11-04**|**Delay-Doppler Synchronization for Distributed Uplink Interference Nulling in LEO Networks**|Stefan Daniel Tancovici et.al.|[2611.06719](http://arxiv.org/abs/2611.06719)|null|
+|**2026-11-04**|**Where It Breaks: Diagnosing Perception, Memory, and Decision Failures of a Vision-Language Agent in Pac-Man**|Xinglu Wang et.al.|[2611.06704](http://arxiv.org/abs/2611.06704)|null|
+|**2026-11-04**|**Which Physical Tactile Cues Matter for Contact-Rich Imitation Learning? A Controlled Real-Robot Study**|Xuhao Qin et.al.|[2611.06673](http://arxiv.org/abs/2611.06673)|null|
+|**2026-11-04**|**Compounding Physical RSI: Turning Execution Failure into Inherited Capability**|Yixuan Yang et.al.|[2611.06654](http://arxiv.org/abs/2611.06654)|null|
+|**2026-11-04**|**Dynamic Shape Control of Soft Trunk Robots**|Hehui Zheng et.al.|[2611.06625](http://arxiv.org/abs/2611.06625)|null|
+|**2026-11-04**|**Enhanced Imitation Learning of Model Predictive Control through Importance Weighting**|Pere Izquierdo Gómez et.al.|[2611.06622](http://arxiv.org/abs/2611.06622)|null|
+|**2026-11-04**|**Playing Soccer Like Humans Do: Learning Versatile and Agile Humanoid Soccer via Latent Motion Priors**|Haoyu Shao et.al.|[2611.06564](http://arxiv.org/abs/2611.06564)|null|
+|**2026-11-04**|**RAGAM-AI: A Hybrid Reinforcement Learning based Agentic approach powered by Generative AI for Edge Resource Management**|Shreya K. Chari et.al.|[2611.06554](http://arxiv.org/abs/2611.06554)|null|
+|**2026-11-04**|**Using Experience Twice: Dynamic Process Rubrics for Privileged Token-Level Credit Assignment**|Shumao Wu et.al.|[2611.06543](http://arxiv.org/abs/2611.06543)|null|
+|**2026-11-04**|**Dynamically Reentrant Skyrmion Phase in Oscillating Magnetic Fields**|Z. Demir Vatansever et.al.|[2611.06541](http://arxiv.org/abs/2611.06541)|null|
+|**2026-11-04**|**H^2MARL: Hierarchical Heterogeneous Multi-agent Reinforcement Learning for Humanoid Robot Control**|Xuemin Hu et.al.|[2611.06523](http://arxiv.org/abs/2611.06523)|null|
+|**2026-11-04**|**EmoReward: Self-Evolving Reward Calibration for Emotional Video Generation RL**|Mingzhe Zheng et.al.|[2611.06518](http://arxiv.org/abs/2611.06518)|null|
+|**2026-11-04**|**CRESiST: Self-Enhancing Explorative Policy Learning for Simultaneous Speech Translation**|Chenyang Le et.al.|[2611.06501](http://arxiv.org/abs/2611.06501)|null|
 |**2026-11-03**|**Quantum Error Correction in Nearly Critical Toric Codes**|Zack Weinstein et.al.|[2611.05375](http://arxiv.org/abs/2611.05375)|null|
 |**2026-11-03**|**PolicyIK: High-Precision Inverse Kinematics for Robot Arms with Reinforcement Learning**|Yuhan Liu et.al.|[2611.05372](http://arxiv.org/abs/2611.05372)|null|
 |**2026-11-03**|**Geometry of Spaces of Subrings**|Laura Cossu et.al.|[2611.05370](http://arxiv.org/abs/2611.05370)|null|
