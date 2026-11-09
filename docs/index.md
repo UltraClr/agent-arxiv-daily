@@ -54,7 +54,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |**2026-11-04**|**AgentTrustCI: Build-Time Policy, Grounding, and Trajectory Tests for Java LLM Agents**|Sachin Gupta et.al.|[2611.06674](http://arxiv.org/abs/2611.06674)|null|
 |**2026-11-04**|**SCRUB: Contact-Based Surface-Frame Estimation for Force-Motion Control with an Armless Quadruped**|Sourav Selvaraj et.al.|[2611.06649](http://arxiv.org/abs/2611.06649)|null|
 |**2026-11-04**|**Uncertainty-Driven Efficient Communication for UAV-Based Collaborative Perception**|Jiuwu Hao et.al.|[2611.06635](http://arxiv.org/abs/2611.06635)|null|
-|**2026-11-04**|**Interactive World Simulation with Cosmos for Physical AI**| NVIDIA et.al.|[2611.06627](http://arxiv.org/abs/2611.06627)|null|
+|**2026-11-04**|**Interactive World Simulation with Cosmos for Physical AI**|NVIDIA et.al.|[2611.06627](http://arxiv.org/abs/2611.06627)|null|
 |**2026-11-04**|**Signed, Sealed, Leaked: Trust Beyond Signature for MCP Toolchains**|Yichiet Aun et.al.|[2611.06585](http://arxiv.org/abs/2611.06585)|null|
 |**2026-11-03**|**From Autonomous Agents to Cognitive Symbionts: Toward AI-Augmented Human Intelligence**|Hao Fei et.al.|[2611.05376](http://arxiv.org/abs/2611.05376)|null|
 |**2026-11-03**|**Adversarial Speculative Reasoning Improves Long Horizon Agents**|Hongyin Luo et.al.|[2611.05345](http://arxiv.org/abs/2611.05345)|null|

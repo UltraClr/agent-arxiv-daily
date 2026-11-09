@@ -2943,7 +2943,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 - 2026-06-10, **InternVideo3: Agentify Foundation Models with Multimodal Contextual Reasoning**, Ziang Yan et.al., Paper: [http://arxiv.org/abs/2606.12195](http://arxiv.org/abs/2606.12195)
 - 2026-02-09, **InternAgent-1.5: A Unified Agentic Framework for Long-Horizon Autonomous Scientific Discovery**, Shiyang Feng et.al., Paper: [http://arxiv.org/abs/2602.08990](http://arxiv.org/abs/2602.08990)
 - 2026-08-13, **Intern-S2-Preview: Scientific Agentic Foundation Model**, Lei Bai et.al., Paper: [http://arxiv.org/abs/2608.13505](http://arxiv.org/abs/2608.13505)
-- 2026-11-04, **Interactive World Simulation with Cosmos for Physical AI**,  NVIDIA et.al., Paper: [http://arxiv.org/abs/2611.06627](http://arxiv.org/abs/2611.06627)
+- 2026-11-04, **Interactive World Simulation with Cosmos for Physical AI**, NVIDIA et.al., Paper: [http://arxiv.org/abs/2611.06627](http://arxiv.org/abs/2611.06627)
 - 2026-09-15, **Interactive Memory Learning for Long-Term Conversations**, Cai Ke et.al., Paper: [http://arxiv.org/abs/2609.17088](http://arxiv.org/abs/2609.17088)
 - 2025-08-27, **Interactive Graph Visualization and TeamingRecommendation in an Interdisciplinary Project'sTalent Knowledge Graph**, Jiawei Xu et.al., Paper: [http://arxiv.org/abs/2508.19489](http://arxiv.org/abs/2508.19489)
 - 2026-04-10, **Interactive ASR: Towards Human-Like Interaction and Semantic Coherence Evaluation for Agentic Speech Recognition**, Peng Wang et.al., Paper: [http://arxiv.org/abs/2604.09121](http://arxiv.org/abs/2604.09121)
