@@ -16,6 +16,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-10**|**Contrastive Discovery: Open-Ended Scientific Discovery over Competing Explanations**|Ziang Liu et.al.|[2611.14514](http://arxiv.org/abs/2611.14514)|null|
+|**2026-11-10**|**ReTrace: Distilling Tool-Using Agents into Planner-Free Workflows**|Kaiyuan Hou et.al.|[2611.14492](http://arxiv.org/abs/2611.14492)|null|
+|**2026-11-10**|**One Policy for 100 Household Tasks: Our Solution for the 2026 BEHAVIOR Challenge**|Ilia Larchenko et.al.|[2611.14432](http://arxiv.org/abs/2611.14432)|null|
+|**2026-11-10**|**EngineAgent: Agentizing On-Device LLM Inference Engines with Inference Stack Hierarchy Awareness and Hardware Abilities**|Zhengxiang Huang et.al.|[2611.14356](http://arxiv.org/abs/2611.14356)|null|
+|**2026-11-10**|**When Should Agents Remember? Falsification-Gated Self-Evolution for LLM Agents**|Runxuan Tang et.al.|[2611.14326](http://arxiv.org/abs/2611.14326)|null|
+|**2026-11-10**|**Don't Just Trust Your Memory: Evidence-Linked Memory Reduces Memory-Induced Degradation in LLM Agents**|Yukyeong Lee et.al.|[2611.14320](http://arxiv.org/abs/2611.14320)|null|
+|**2026-11-10**|**Flagged Grothendieck enumerators and ribbon decomposition determinants**|Alibek Adilzhan et.al.|[2611.14298](http://arxiv.org/abs/2611.14298)|null|
+|**2026-11-10**|**PARLEY: Evaluating LLM Collaboration Through Cooperative Asymmetric Puzzles**|Javier Hernandez et.al.|[2611.14242](http://arxiv.org/abs/2611.14242)|null|
+|**2026-11-10**|**SHARP: Semantic Hierarchical Agentic Reasoning for Next POI Prediction with Dynamic Memory**|Yuhang Zhan et.al.|[2611.14220](http://arxiv.org/abs/2611.14220)|null|
+|**2026-11-10**|**Tree-Ising: Repairing Language Models with Bit-Level Ising Edits**|Hadi Salloum et.al.|[2611.14210](http://arxiv.org/abs/2611.14210)|null|
+|**2026-11-10**|**ProofCoder: Continuous Reasoning for Automated Software Verification**|Martim Afonso et.al.|[2611.14106](http://arxiv.org/abs/2611.14106)|null|
+|**2026-11-10**|**Program-Aided Patchable Skill Evolution**|Jiahao Wang et.al.|[2611.14019](http://arxiv.org/abs/2611.14019)|null|
+|**2026-11-10**|**Coding Agent Memory Post-Training II: Unlocking the Memory Potential of Pre-trained File Operations for Long-Horizon Tasks via On-Policy Distillation**|Lirui Luo et.al.|[2611.14009](http://arxiv.org/abs/2611.14009)|null|
+|**2026-11-10**|**BioXArena-Pro: a research-grade benchmark for autonomous biomedical machine learning agents**|Loka Li et.al.|[2611.13994](http://arxiv.org/abs/2611.13994)|null|
+|**2026-11-10**|**Controlled Knowledge Engineering for Taxonomy Induction with Tool-Grounded LLM Agents and Runtime-Adaptive Policies**|Jonas Limniatis et.al.|[2611.13966](http://arxiv.org/abs/2611.13966)|null|
+|**2026-11-10**|**Scaling Shapley Energy Attribution to Large LLM Batches**|Qi Luo et.al.|[2611.13802](http://arxiv.org/abs/2611.13802)|null|
+|**2026-11-10**|**Softness is something you also need! Why compliance helps control: information metrics of a passive walker with compliant ankle**|Fabio Bonsignorio et.al.|[2611.13779](http://arxiv.org/abs/2611.13779)|null|
+|**2026-11-10**|**Multi-Objective Scheduling of LLM-Based Multi-Agent Workflows in Cloud Computing**|Goshgar Can Ismayilov et.al.|[2611.13740](http://arxiv.org/abs/2611.13740)|null|
+|**2026-11-10**|**Toward Autonomous RTL and Synthesis Optimization: Benchmarking and Self-Improving Agents**|Wenji Fang et.al.|[2611.13713](http://arxiv.org/abs/2611.13713)|null|
+|**2026-11-10**|**Do They Do as They Are Told? Investigating Coding Agents' Adherence to Explicit Instructions in Context Files**|Gianmario Voria et.al.|[2611.13709](http://arxiv.org/abs/2611.13709)|null|
 |**2026-11-09**|**Reframe: Observation-Aligned Multi-Teacher On-Policy Distillation for Agentic Visual Reasoning**|Haozhi Yuan et.al.|[2611.12886](http://arxiv.org/abs/2611.12886)|null|
 |**2026-11-09**|**Mitigating Agentic Deception via Evaluation-Side Partially Observable Games**|Hanxiao Li et.al.|[2611.12835](http://arxiv.org/abs/2611.12835)|null|
 |**2026-11-09**|**Coding Agents in KVM: Practical Containment and User Control with Limited Resources**|Yutaka Nagashima et.al.|[2611.12823](http://arxiv.org/abs/2611.12823)|null|
@@ -5819,6 +5839,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-10**|**AutoScaffold: AI-Guided Scaffolding for Reinforcement Learning of Language Models**|Zijian Zhang et.al.|[2611.14515](http://arxiv.org/abs/2611.14515)|null|
+|**2026-11-10**|**ReTrace: Distilling Tool-Using Agents into Planner-Free Workflows**|Kaiyuan Hou et.al.|[2611.14492](http://arxiv.org/abs/2611.14492)|null|
+|**2026-11-10**|**C $^2$ -Routing: Complementary Cropping and Compression for Efficient Vision-Language Inference**|Guorui Lu et.al.|[2611.14469](http://arxiv.org/abs/2611.14469)|null|
+|**2026-11-10**|**A Theory of Policy Optimization in Post-Training: Coverage Collapse and Reference Resets**|Audrey Huang et.al.|[2611.14467](http://arxiv.org/abs/2611.14467)|null|
+|**2026-11-10**|**When does text encoding matter for language modeling?**|Eugene Jang et.al.|[2611.14459](http://arxiv.org/abs/2611.14459)|null|
+|**2026-11-10**|**Metric-Aligned Group Relative Policy Optimization for Explainable Deepfake Detection**|Luka Dragar et.al.|[2611.14436](http://arxiv.org/abs/2611.14436)|null|
+|**2026-11-10**|**Bits or permutations? Spending a fixed inference budget on weight precision or on option-order averaging in small local language models**|Mohammed Nayeem Khan et.al.|[2611.14413](http://arxiv.org/abs/2611.14413)|null|
+|**2026-11-10**|**Blurring the Block Boundaries: Overlapping Block Denoising for Efficient Diffusion Language Models**|Amir Mann et.al.|[2611.14387](http://arxiv.org/abs/2611.14387)|null|
+|**2026-11-10**|**Cognitive Mapping of Learning by Thinking Mechanisms in Large Language Models**|Dong Han et.al.|[2611.14382](http://arxiv.org/abs/2611.14382)|null|
+|**2026-11-10**|**CLADE: Category-Level Answering from Deficient Evidence in Retrieval-Augmented Language Models**|S M Rayeed et.al.|[2611.14355](http://arxiv.org/abs/2611.14355)|null|
+|**2026-11-10**|**AI Isn't Getting Dumber, We're Getting Pickier: Rising Standards in Human Evaluation of Large Language Models**|Zihan Chen et.al.|[2611.14333](http://arxiv.org/abs/2611.14333)|null|
+|**2026-11-10**|**Point-in-Time Encoders for Earnings Calls**|Alessio Brini et.al.|[2611.14325](http://arxiv.org/abs/2611.14325)|null|
+|**2026-11-10**|**Auditing the Judge: Internal Signals for LLM Reasoning Assurance**|Mayank Gulati et.al.|[2611.14323](http://arxiv.org/abs/2611.14323)|null|
+|**2026-11-10**|**Can AI be a 'Researcher Without Borders'? Auditing Bias in AI-Assisted Social Science Research about China and the US**|Yuan Zhang et.al.|[2611.14288](http://arxiv.org/abs/2611.14288)|null|
+|**2026-11-10**|**LM-SimBench: A Unified Framework, Dataset, and Benchmark for Large Language Model Training Simulation**|Yu Dong et.al.|[2611.14285](http://arxiv.org/abs/2611.14285)|null|
+|**2026-11-10**|**Chain of Physics: Supporting Fault Diagnosis with Engineering-Inspired Large Language Model Reasoning**|Wenqi Zhou et.al.|[2611.14263](http://arxiv.org/abs/2611.14263)|null|
+|**2026-11-10**|**The zero-sum constant $\mathsf{s}_p^*$ and inverse problem**|Cong Lin et.al.|[2611.14248](http://arxiv.org/abs/2611.14248)|null|
+|**2026-11-10**|**PARLEY: Evaluating LLM Collaboration Through Cooperative Asymmetric Puzzles**|Javier Hernandez et.al.|[2611.14242](http://arxiv.org/abs/2611.14242)|null|
+|**2026-11-10**|**Dyship: Leveraging Acoustic Features For Speaker Relationship Classification From Dyadic Conversations**|Kieran Sturges et.al.|[2611.14241](http://arxiv.org/abs/2611.14241)|null|
+|**2026-11-10**|**Model-Based Authoring of SOC Simulation Exercises for Cybersecurity Education**|Felix Härer et.al.|[2611.14227](http://arxiv.org/abs/2611.14227)|null|
 |**2026-11-09**|**World In-Context Learning for Agentic Robot Manipulation**|Heng Fang et.al.|[2611.12885](http://arxiv.org/abs/2611.12885)|null|
 |**2026-11-09**|**Beyond Modality Preference: Controlling Multimodal Arbitration under Modality Conflict in MLLMs**|Zhaoying Pan et.al.|[2611.12883](http://arxiv.org/abs/2611.12883)|null|
 |**2026-11-09**|**Where Does Alignment Emerge and What Does It Mean? A Closer Look at the Platonic Representation Hypothesis**|Julia Herbst et.al.|[2611.12869](http://arxiv.org/abs/2611.12869)|null|
@@ -11518,6 +11558,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-10**|**AutoScaffold: AI-Guided Scaffolding for Reinforcement Learning of Language Models**|Zijian Zhang et.al.|[2611.14515](http://arxiv.org/abs/2611.14515)|null|
+|**2026-11-10**|**A Theory of Cross-Validation Variance**|Nathaniel S. O'Connell et.al.|[2611.14463](http://arxiv.org/abs/2611.14463)|null|
+|**2026-11-10**|**Finite-Key Readiness and Authentication-Key Replenishment in QKD-Assisted UAV Edge Computing**|Dang H. Le et.al.|[2611.14461](http://arxiv.org/abs/2611.14461)|null|
+|**2026-11-10**|**An Energy-Based Perspective on Machine Learning**|Bo Dai et.al.|[2611.14383](http://arxiv.org/abs/2611.14383)|null|
+|**2026-11-10**|**Stochastic Discrete Variable Representation: Tensor Network Eigenstates on General Potential Energy Surfaces**|Hannes Hoppe et.al.|[2611.14377](http://arxiv.org/abs/2611.14377)|null|
+|**2026-11-10**|**Uncertainty-Aware Hybrid Offline Reinforcement Learning with Online Action Selection Enabled by Sparse Gaussian-Process Critics**|Marco Chan et.al.|[2611.14374](http://arxiv.org/abs/2611.14374)|null|
+|**2026-11-10**|**Non-perturbative renormalization of the energy-momentum tensor in the 2d $O(3)$ non-linear $σ$ -model**|Leonardo Giusti et.al.|[2611.14324](http://arxiv.org/abs/2611.14324)|null|
+|**2026-11-10**|**Can torsion mimic a cosmological constant? A one-parameter logarithmic $f(T)$ extension of $Λ$ CDM**|Adriel O. Aquino et.al.|[2611.14305](http://arxiv.org/abs/2611.14305)|null|
+|**2026-11-10**|**SHINE: Shear inference environment - Generative forward modelling for radio weak gravitational lensing**|Ezequiel Centofanti et.al.|[2611.14301](http://arxiv.org/abs/2611.14301)|null|
+|**2026-11-10**|**Recurrent Modular Structure in Spiking Neural Network Reinforcement Learning**|Vikram Ramavarapu et.al.|[2611.14262](http://arxiv.org/abs/2611.14262)|null|
+|**2026-11-10**|**Koopman Model-Based Reinforcement Learning**|Wenjian Hao et.al.|[2611.14186](http://arxiv.org/abs/2611.14186)|null|
+|**2026-11-10**|**An Augmented Lagrangian Approach to Lifted Bellman Linear Programming**|Jongchan Park et.al.|[2611.14183](http://arxiv.org/abs/2611.14183)|null|
+|**2026-11-10**|**Quantum-Assisted Counterfactual Regret Minimization for Bounded-Payoff Imperfect-Information Games**|Gabriel Maresch et.al.|[2611.14182](http://arxiv.org/abs/2611.14182)|null|
+|**2026-11-10**|**Model-Free Runtime Measurement of Task-Relevant Information**|Dimitris Panagopoulos et.al.|[2611.14111](http://arxiv.org/abs/2611.14111)|null|
+|**2026-11-10**|**Mobility-Aware Task Offloading in Mobile Edge Computing-Empowered Space-Air-Ground Integrated Internet-of-Things Networks**|Minghao Sun et.al.|[2611.14102](http://arxiv.org/abs/2611.14102)|null|
+|**2026-11-10**|**Opportunity-Cost Option-Critic: Adaptive Switching Costs for Robust Hierarchical Reinforcement Learning**|Khaled Ammoura et.al.|[2611.14099](http://arxiv.org/abs/2611.14099)|null|
+|**2026-11-10**|**Finite Blocklength Performance Analysis of Uplink RSMA with Practical Imperfections**|Farjam Karim et.al.|[2611.14055](http://arxiv.org/abs/2611.14055)|null|
+|**2026-11-10**|**Resilient Integrated Access and Backhaul Network Planning via Graph Neural Network Curriculum Learning**|Jie Zhang et.al.|[2611.14042](http://arxiv.org/abs/2611.14042)|null|
+|**2026-11-10**|**Margin-Guided Token Credit for Reinforcement Learning with Verifiable Rewards**|Chi Liu et.al.|[2611.14015](http://arxiv.org/abs/2611.14015)|null|
+|**2026-11-10**|**DynamAuction: A Reinforcement Learning Environment for Repeated Auctions with Dynamic Value**|Eugénie Patard et.al.|[2611.14000](http://arxiv.org/abs/2611.14000)|null|
 |**2026-11-09**|**Reframe: Observation-Aligned Multi-Teacher On-Policy Distillation for Agentic Visual Reasoning**|Haozhi Yuan et.al.|[2611.12886](http://arxiv.org/abs/2611.12886)|null|
 |**2026-11-09**|**Adaptive Quantization Preserves Fast Rates for TD Learning over Rate-Limited Channels**|Sreejeet Maity et.al.|[2611.12878](http://arxiv.org/abs/2611.12878)|null|
 |**2026-11-09**|**Shortcuts and Boundaries: Verifiable RL Misalignment and Contextual Safety Learning**|Xinjie Shen et.al.|[2611.12865](http://arxiv.org/abs/2611.12865)|null|
