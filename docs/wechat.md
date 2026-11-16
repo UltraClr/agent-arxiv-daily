@@ -5134,7 +5134,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 - 2025-12-04, **Analytical and Cross-Sectional Clinical Validity of a Smartphone-Based U-Turn Test in Multiple Sclerosis**, Marta Płonka et.al., Paper: [http://arxiv.org/abs/2512.04914](http://arxiv.org/abs/2512.04914)
 - 2026-07-15, **Analogical Deep Research: Retrieving and Integrating Historical Analogies for Foresight Analysis**, Yongqiang Chen et.al., Paper: [http://arxiv.org/abs/2607.13602](http://arxiv.org/abs/2607.13602)
 - 2026-10-27, **AnalogScout: Simulation-Efficient PVT-Aware Analog Sizing with LLM Agents**, Yichen Long et.al., Paper: [http://arxiv.org/abs/2610.37319](http://arxiv.org/abs/2610.37319)
-- 2026-11-12, **AnalogLayoutWorld: An Open Benchmark for Agentic Analog Layout Design**,  NovaSilicon Team et.al., Paper: [http://arxiv.org/abs/2611.16991](http://arxiv.org/abs/2611.16991)
+- 2026-11-12, **AnalogLayoutWorld: An Open Benchmark for Agentic Analog Layout Design**, NovaSilicon Team et.al., Paper: [http://arxiv.org/abs/2611.16991](http://arxiv.org/abs/2611.16991)
 - 2026-03-25, **AnalogAgent: Self-Improving Analog Circuit Design Automation with LLM Agents**, Zhixuan Bao et.al., Paper: [http://arxiv.org/abs/2603.23910](http://arxiv.org/abs/2603.23910)
 - 2026-09-01, **Analog-DB: An Agent-First Analog Integrated Circuit Database, From Blocks to Systems**, Danial Noori Zadeh et.al., Paper: [http://arxiv.org/abs/2609.01286](http://arxiv.org/abs/2609.01286)
 - 2026-02-10, **Anagent For Enhancing Scientific Table & Figure Analysis**, Xuehang Guo et.al., Paper: [http://arxiv.org/abs/2602.10081](http://arxiv.org/abs/2602.10081)

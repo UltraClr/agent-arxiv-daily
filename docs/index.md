@@ -25,7 +25,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |**2026-11-12**|**Designing Institutions for Autonomous AI**|Petter Törnberg et.al.|[2611.17114](http://arxiv.org/abs/2611.17114)|null|
 |**2026-11-12**|**AURA 2.0: From User-Driven Responses to Model-Initiated Conversations in Streaming Video**|Shuhan Li et.al.|[2611.17048](http://arxiv.org/abs/2611.17048)|null|
 |**2026-11-12**|**Skill Adapter: Personalized Modification and Online Routing of General-Purpose Skills**|Qijia Zhuang et.al.|[2611.17007](http://arxiv.org/abs/2611.17007)|null|
-|**2026-11-12**|**AnalogLayoutWorld: An Open Benchmark for Agentic Analog Layout Design**| NovaSilicon Team et.al.|[2611.16991](http://arxiv.org/abs/2611.16991)|null|
+|**2026-11-12**|**AnalogLayoutWorld: An Open Benchmark for Agentic Analog Layout Design**|NovaSilicon Team et.al.|[2611.16991](http://arxiv.org/abs/2611.16991)|null|
 |**2026-11-12**|**S1-Evo: Experience-Guided Evidence Competition Attacks on Typed System-1 Decision Models**|Kaixiang Wang et.al.|[2611.16937](http://arxiv.org/abs/2611.16937)|null|
 |**2026-11-12**|**Control-Flow Profiling for Workload Representativeness**|Mahesh Madhav et.al.|[2611.16889](http://arxiv.org/abs/2611.16889)|null|
 |**2026-11-12**|**Context Graph: Explainable Multi-Agent Decision Chains in AI-RAN**|Xijun Wang et.al.|[2611.16879](http://arxiv.org/abs/2611.16879)|null|
