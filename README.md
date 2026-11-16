@@ -5866,6 +5866,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-13**|**Training Reasoning Models in Simulation to Natively Use Real Robots**|Jiaming Tang et.al.|[2611.18562](http://arxiv.org/abs/2611.18562)|null|
+|**2026-11-13**|**FETTUCCINE: Fast and efficient brain-to-text decoding on mobile devices**|Jonathan D. McCart et.al.|[2611.18561](http://arxiv.org/abs/2611.18561)|null|
+|**2026-11-13**|**WeightBench: Evaluating Language Models as Weight-Space Programmers**|Aayush Marasini et.al.|[2611.18553](http://arxiv.org/abs/2611.18553)|null|
+|**2026-11-13**|**KELP v1.0: an agent-ready Lagrangian particle tracker for unstructured meshes and HEALPix grids**|Ivan Kuznetsov et.al.|[2611.18528](http://arxiv.org/abs/2611.18528)|null|
+|**2026-11-13**|**OpenLayout: An Open and Agentic-Driven Platform for Holistic VLSI Physical Design and Benchmarking**|Qiufeng Li et.al.|[2611.18517](http://arxiv.org/abs/2611.18517)|null|
+|**2026-11-13**|**Can Mechanistic Interpretability Help Explain LLM Agent Failures? A Case Study on Web Element Hallucination**|Mohamed Aghzal et.al.|[2611.18514](http://arxiv.org/abs/2611.18514)|null|
+|**2026-11-13**|**MeReader: An Offline, Privacy-Preserving, Progress-Aware AI Assistant for Narrative eBook Reading**|Mohammed Efaz et.al.|[2611.18513](http://arxiv.org/abs/2611.18513)|null|
+|**2026-11-13**|**Agentic induction of common data elements and information extraction from sarcoma case report abstracts**|Daniel Reichenpfader et.al.|[2611.18506](http://arxiv.org/abs/2611.18506)|null|
+|**2026-11-13**|**Agentic AI for Discovering Fault-Tolerant Quantum Circuits**|Aritra Lahiri et.al.|[2611.18504](http://arxiv.org/abs/2611.18504)|null|
+|**2026-11-13**|**ARCHER: From Rationale Imitation to Executable Reasoning in Small Language Models**|Dhruv Dixit et.al.|[2611.18494](http://arxiv.org/abs/2611.18494)|null|
+|**2026-11-13**|**Interactive Program Induction with Language Model Priors**|Robin Shing Moon Chan et.al.|[2611.18485](http://arxiv.org/abs/2611.18485)|null|
+|**2026-11-13**|**MMFlash: Faster Speculative Decoding for Vision-Language Models**|Sicheng Feng et.al.|[2611.18482](http://arxiv.org/abs/2611.18482)|null|
+|**2026-11-13**|**Typing Matters: Muscle, Language and Typing Behaviour in Live Keystroke Decoding from sEMG**|Abhilash Durgam et.al.|[2611.18464](http://arxiv.org/abs/2611.18464)|null|
+|**2026-11-13**|**When to Trust Simulated Patient Responses:Support-Gated World Models for Vasopressor Decision Support**|Yifan Jin et.al.|[2611.18458](http://arxiv.org/abs/2611.18458)|null|
+|**2026-11-13**|**Black-Box Uncertainty Quantification for Large Language Models via Ensemble-of-Ensembles**|Wang Ma et.al.|[2611.18453](http://arxiv.org/abs/2611.18453)|null|
+|**2026-11-13**|**Efficiency Gains in Social Science Research: A Prospective Silicon Sampling Protocol for Pre-Treatment and Code Optimization**|Noaïm Astitou et.al.|[2611.18436](http://arxiv.org/abs/2611.18436)|null|
+|**2026-11-13**|**The State Is Not the Bottleneck: A Paged-State Gated-DeltaNet Tile on a Tri-Mode Multicast Mesh, Bit-Exact from RTL to Silicon**|Cong Xu et.al.|[2611.18422](http://arxiv.org/abs/2611.18422)|null|
+|**2026-11-13**|**CoPre-MoE: Consolidating and Preserving MoE for Multimodal Continual Instruction Tuning**|Tao Hu et.al.|[2611.18417](http://arxiv.org/abs/2611.18417)|null|
+|**2026-11-13**|**Gamer: A Generalist Vision-Language-Action Foundation Model for Long-Horizon Real-Time Game Agent**|Run Luo et.al.|[2611.18397](http://arxiv.org/abs/2611.18397)|null|
+|**2026-11-13**|**Vision-Language-Action Models: A Life-Cycle Survey of Design, Training and Deployment**|Suvarna Kadam et.al.|[2611.18372](http://arxiv.org/abs/2611.18372)|null|
 |**2026-11-12**|**Unbundling Multimodal Vision Encoding**|Ellis Brown et.al.|[2611.17334](http://arxiv.org/abs/2611.17334)|null|
 |**2026-11-12**|**K2V: Generative Keyframing For Physically Plausible Video Generation**|Felix O'Mahony et.al.|[2611.17324](http://arxiv.org/abs/2611.17324)|null|
 |**2026-11-12**|**Learning When Diffusion Language Models Should Regenerate**|Minhae Oh et.al.|[2611.17320](http://arxiv.org/abs/2611.17320)|null|
@@ -11607,6 +11627,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-13**|**Training Reasoning Models in Simulation to Natively Use Real Robots**|Jiaming Tang et.al.|[2611.18562](http://arxiv.org/abs/2611.18562)|null|
+|**2026-11-13**|**Imitation Bootstrapped Multi-Agent Reinforcement Learning**|Tony H. Zhang et.al.|[2611.18543](http://arxiv.org/abs/2611.18543)|null|
+|**2026-11-13**|**A Surrogate Boundary Condition for Improved Accuracy and Performance of Local Modeling in Radiation Transport Simulations**|Jonathan Trieloff et.al.|[2611.18535](http://arxiv.org/abs/2611.18535)|null|
+|**2026-11-13**|**ModHarness-RL: Recasting Harnesses as Learnable and Evolving Programs for Agentic RL**|Zelin He et.al.|[2611.18533](http://arxiv.org/abs/2611.18533)|null|
+|**2026-11-13**|**On numerical issues of divergences between nearly equal distributions**|Brandon Amos et.al.|[2611.18511](http://arxiv.org/abs/2611.18511)|null|
+|**2026-11-13**|**ARCHER: From Rationale Imitation to Executable Reasoning in Small Language Models**|Dhruv Dixit et.al.|[2611.18494](http://arxiv.org/abs/2611.18494)|null|
+|**2026-11-13**|**Black-Box Uncertainty Quantification for Large Language Models via Ensemble-of-Ensembles**|Wang Ma et.al.|[2611.18453](http://arxiv.org/abs/2611.18453)|null|
+|**2026-11-13**|**Balancing-based model reduction for output-constrained optimal control of switched linear systems**|Michael Kartmann et.al.|[2611.18424](http://arxiv.org/abs/2611.18424)|null|
+|**2026-11-13**|**Comments on: `CliPS: How to identify cluster distributions in Bayesian mixture models'**|Sara Wade et.al.|[2611.18404](http://arxiv.org/abs/2611.18404)|null|
+|**2026-11-13**|**Gamer: A Generalist Vision-Language-Action Foundation Model for Long-Horizon Real-Time Game Agent**|Run Luo et.al.|[2611.18397](http://arxiv.org/abs/2611.18397)|null|
+|**2026-11-13**|**CS-MPC: Contraction-Certified Sampling-Based MPC for Nonlinear Systems Under Uncertainty**|Yashwanth Kumar Nakka et.al.|[2611.18390](http://arxiv.org/abs/2611.18390)|null|
+|**2026-11-13**|**Reinforcement Learning for Null-Space Exploitation in Pseudo-Inverse Control Allocation**|Umut Demir et.al.|[2611.18364](http://arxiv.org/abs/2611.18364)|null|
+|**2026-11-13**|**Asymptotic properties for weak Markov-switching AR(p) models**|Yacouba Boubacar Mainassara et.al.|[2611.18362](http://arxiv.org/abs/2611.18362)|null|
+|**2026-11-13**|**Extended Bayesian Estimation for In-flight Calibration of Space-based Instruments**|Soham Das et.al.|[2611.18241](http://arxiv.org/abs/2611.18241)|null|
+|**2026-11-13**|**A Reinforcement Learning Approach to Space-Filling Input Design for Nonlinear System Identification**|Charly Witmeur et.al.|[2611.18229](http://arxiv.org/abs/2611.18229)|null|
+|**2026-11-13**|**Broken Adaptive Ridge in High-Dimensional Vector Autoregressions**|Gianluca Cubadda et.al.|[2611.18227](http://arxiv.org/abs/2611.18227)|null|
+|**2026-11-13**|**Constraining Accretion Regimes of Little Red Dots from Their Variability**|Indu K. Dihingia et.al.|[2611.18153](http://arxiv.org/abs/2611.18153)|null|
+|**2026-11-13**|**Who Should Be on the Panel? Task-Conditioned Persona Selection for LLM Trading Agents**|Boming Yang et.al.|[2611.18150](http://arxiv.org/abs/2611.18150)|null|
+|**2026-11-13**|**Cross-Fitted Doubly Robust Estimation with Student-t Outcome Engines: ECM Algorithms, Monte Carlo Evidence and Schistosomiasis Programme Data from the Democratic Republic of the Congo**|Cosmas Kambale Musambi et.al.|[2611.18128](http://arxiv.org/abs/2611.18128)|null|
+|**2026-11-13**|**Any Channel Count, One Token Stream: Incorporating Spatial Audio Understanding and Reasoning into Large Audio-Language Models**|Yuhuan You et.al.|[2611.18112](http://arxiv.org/abs/2611.18112)|null|
 |**2026-11-12**|**Internalizing Investment Mandates: A Neurosymbolic RL Approach to Portfolio Allocation**|Zeynep Yıldız et.al.|[2611.17329](http://arxiv.org/abs/2611.17329)|null|
 |**2026-11-12**|**Learning When Diffusion Language Models Should Regenerate**|Minhae Oh et.al.|[2611.17320](http://arxiv.org/abs/2611.17320)|null|
 |**2026-11-12**|**Negative-Only Policy Optimization for One-Sided Verifiable Rewards**|Jiacheng Xu et.al.|[2611.17287](http://arxiv.org/abs/2611.17287)|null|
