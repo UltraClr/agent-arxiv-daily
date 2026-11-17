@@ -16,6 +16,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-16**|**When Tool Names Are Not Identities: Measuring Provider Misbinding in MCP-Based AI Agents**|Zeynab Anbiaee et.al.|[2611.21577](http://arxiv.org/abs/2611.21577)|null|
+|**2026-11-16**|**Trustworthy Numerical Software in the Age of AI: What Would Turing Do?**|Kimon Fountoulakis et.al.|[2611.21570](http://arxiv.org/abs/2611.21570)|null|
+|**2026-11-16**|**Safe Resemblance, Silent Propagation: Limits of Text-Similarity Guardrails for AI Agent Safety**|Charles Xiao et.al.|[2611.21520](http://arxiv.org/abs/2611.21520)|null|
+|**2026-11-16**|**Beyond Leaderboard Ranks: Selecting Software Engineering Agents Under Budget Constraints**|Srinath Srinivasan et.al.|[2611.21515](http://arxiv.org/abs/2611.21515)|null|
+|**2026-11-16**|**Is This Code Mine? Student Ownership When AI Agents Write the Spec and the Code**|Gustavo Pinto et.al.|[2611.21501](http://arxiv.org/abs/2611.21501)|null|
+|**2026-11-16**|**Lost in the Hallway: Benchmarking Persistent Spatial Memory Across Revisits**|Henry Zheng et.al.|[2611.21485](http://arxiv.org/abs/2611.21485)|null|
+|**2026-11-16**|**A Taxonomy and Taxonomy-Guided Benchmark Reduction for Spreadsheet Tasks**|Bogdan Vasilescu et.al.|[2611.21452](http://arxiv.org/abs/2611.21452)|null|
+|**2026-11-16**|**Do Embedding-Map Distances Guide LLM Ideation? Four Tests Against What Came Next**|Javier Aguilar Martín et.al.|[2611.21408](http://arxiv.org/abs/2611.21408)|null|
+|**2026-11-16**|**A Crowd-Audited Atlas of Implicit Bias in LLM-Powered Agents**|Jason Alexander et.al.|[2611.21376](http://arxiv.org/abs/2611.21376)|null|
+|**2026-11-16**|**WeVisForensics: Self-Evolving Agent for Omni AI-Generated Video Detection**|Yipeng Du et.al.|[2611.21373](http://arxiv.org/abs/2611.21373)|null|
+|**2026-11-16**|**Agent-Native by Design: A Programming Language for Agentic Applications**|Jayanaka Dantanarayana et.al.|[2611.21298](http://arxiv.org/abs/2611.21298)|null|
+|**2026-11-16**|**CAE-Bench: Benchmarking AI Agents for Reusable CAE Solver Development**|Zhiyu Zhou et.al.|[2611.21273](http://arxiv.org/abs/2611.21273)|null|
+|**2026-11-16**|**Evaluating Authorization and Trust Boundaries in Agentic Orchestration Frameworks**|Sahaya Jestus Lazer et.al.|[2611.21259](http://arxiv.org/abs/2611.21259)|null|
+|**2026-11-16**|**Stream of Belief: Eliciting Collective Intelligence through Latent Belief Dynamics**|Yu Yao et.al.|[2611.21250](http://arxiv.org/abs/2611.21250)|null|
+|**2026-11-16**|**Edit Recommendation: Can LLMs Anticipate Edit Requests from Users, and When?**|Daisuke Kikuta et.al.|[2611.21155](http://arxiv.org/abs/2611.21155)|null|
+|**2026-11-16**|**From Repositories to Training Environments: Scaling Long-Horizon Coding Agents with Environment Evolution Loop**|Yang Tian et.al.|[2611.21152](http://arxiv.org/abs/2611.21152)|null|
+|**2026-11-16**|**Linglong Agent Service: A Runtime for Centralized Agent Reasoning and Distributed Execution**|Hua Zhang et.al.|[2611.21129](http://arxiv.org/abs/2611.21129)|null|
+|**2026-11-16**|**SWE-WhatIf: Simulating Real Users of Coding Agents from Recorded Session**|Tae Soo Kim et.al.|[2611.21095](http://arxiv.org/abs/2611.21095)|null|
+|**2026-11-16**|**CompCert4Lean: Porting a Verified C Compiler to Lean in Six Weeks with Parallel Coding Agents**|Cong Wang et.al.|[2611.21084](http://arxiv.org/abs/2611.21084)|null|
+|**2026-11-16**|**Sage S2.1 Flash Technical Report**|Kun Cai et.al.|[2611.21072](http://arxiv.org/abs/2611.21072)|null|
 |**2026-11-12**|**CoReMem: Cost-Internalizing Memory for Successive Coding Tasks with Prospective Valuation**|Peiwen Li et.al.|[2611.17316](http://arxiv.org/abs/2611.17316)|null|
 |**2026-11-12**|**Where LLM Agents Get Stuck Debugging Databases: Access More Than Reasoning**|Gustavo Pinto et.al.|[2611.17304](http://arxiv.org/abs/2611.17304)|null|
 |**2026-11-12**|**Metal Sandbox: Isolated Execution and Command Scheduling for GPU Coding Agents on Apple Silicon**|Haozhe Wang et.al.|[2611.17294](http://arxiv.org/abs/2611.17294)|null|
@@ -5859,6 +5879,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-16**|**Latent Lattice Language Models**|Shivam Duggal et.al.|[2611.21608](http://arxiv.org/abs/2611.21608)|null|
+|**2026-11-16**|**ScaleVLA: Scaling Vision-Language-Action Models to 552 Billion Parameters**|Ruixi Yu et.al.|[2611.21607](http://arxiv.org/abs/2611.21607)|null|
+|**2026-11-16**|**FaceJev: Direct Visual Decisions for Face Forgery Detection**|Siran Peng et.al.|[2611.21604](http://arxiv.org/abs/2611.21604)|null|
+|**2026-11-16**|**How VLMs Plan What's Next**|Rohit Gandikota et.al.|[2611.21600](http://arxiv.org/abs/2611.21600)|null|
+|**2026-11-16**|**Optimal Autoregressive Chain-of-Thought Learning via Bagging**|Awni Altabaa et.al.|[2611.21597](http://arxiv.org/abs/2611.21597)|null|
+|**2026-11-16**|**When Tool Names Are Not Identities: Measuring Provider Misbinding in MCP-Based AI Agents**|Zeynab Anbiaee et.al.|[2611.21577](http://arxiv.org/abs/2611.21577)|null|
+|**2026-11-16**|**Wildfire-SSR: Geolocation-Aware Multimodal Fusion for Structure-Level Wildfire Risk Assessment**|Yu-Hsuan Ho et.al.|[2611.21563](http://arxiv.org/abs/2611.21563)|null|
+|**2026-11-16**|**Reading or Remembering? Measuring Temporal Contamination in Language Models**|Arunkumar V et.al.|[2611.21554](http://arxiv.org/abs/2611.21554)|null|
+|**2026-11-16**|**BLIP-Live: Balancing Timeliness & Firing Precision in Proactive Streaming Video Agents**|Kanchana Ranasinghe et.al.|[2611.21553](http://arxiv.org/abs/2611.21553)|null|
+|**2026-11-16**|**Right Reason, Wrong Advice: Evaluating Recourse in LLM Explanations of Denied Requests**|Arunkumar V et.al.|[2611.21545](http://arxiv.org/abs/2611.21545)|null|
+|**2026-11-16**|**Seen but Unsaid: Locating and Repairing Cross-Image Comparison in Vision-Language Models**|Zhaoning Zhang et.al.|[2611.21539](http://arxiv.org/abs/2611.21539)|null|
+|**2026-11-16**|**Evaluating Cultural Reasoning and Robustness in LLMs for Spanish Political Discourse**|Jorge Valverde-Rebaza et.al.|[2611.21535](http://arxiv.org/abs/2611.21535)|null|
+|**2026-11-16**|**Procedure without Judgment: What Small Language Models Learn under an Exact Verifier**|Arunkumar V et.al.|[2611.21529](http://arxiv.org/abs/2611.21529)|null|
+|**2026-11-16**|**RESILAGENT: A Three-Pillar Architecture for Cyber-Physical Resilience in Electrical Power and Energy Systems**|Nikolaos Kekatos et.al.|[2611.21480](http://arxiv.org/abs/2611.21480)|null|
+|**2026-11-16**|**Generative AI and the Crisis of Higher Education Assessments: Examining 'AI-Proofing' Strategies for College-Level Assessments**|Bonam Mingole et.al.|[2611.21476](http://arxiv.org/abs/2611.21476)|null|
+|**2026-11-16**|**Out of Sight, Into Memory: Compact Visual Latents Retain Local Evidence in Ultra-High-Resolution Remote Sensing**|Meng Tang et.al.|[2611.21457](http://arxiv.org/abs/2611.21457)|null|
+|**2026-11-16**|**Replicating and Extending Weight-Space Programming: Frontier LLMs Compile Programs into Weights and Read Input Layers**|Roksana Goworek et.al.|[2611.21449](http://arxiv.org/abs/2611.21449)|null|
+|**2026-11-16**|**Learning to Reason with Predictive Gains for Generative Recommendation**|Zhuoyang Li et.al.|[2611.21441](http://arxiv.org/abs/2611.21441)|null|
+|**2026-11-16**|**[CLS] and [EOS] Tokens are not Enough for CLIP-based Class-Incremental Learning**|Hao Sun et.al.|[2611.21440](http://arxiv.org/abs/2611.21440)|null|
+|**2026-11-16**|**Rubric-Based AES with LLM Ensembles: Scoring of Student Responses in Critical Online Reasoning Using Ensembles of LLMs**|Daniel Baumartz et.al.|[2611.21422](http://arxiv.org/abs/2611.21422)|null|
 |**2026-11-13**|**Training Reasoning Models in Simulation to Natively Use Real Robots**|Jiaming Tang et.al.|[2611.18562](http://arxiv.org/abs/2611.18562)|null|
 |**2026-11-13**|**FETTUCCINE: Fast and efficient brain-to-text decoding on mobile devices**|Jonathan D. McCart et.al.|[2611.18561](http://arxiv.org/abs/2611.18561)|null|
 |**2026-11-13**|**WeightBench: Evaluating Language Models as Weight-Space Programmers**|Aayush Marasini et.al.|[2611.18553](http://arxiv.org/abs/2611.18553)|null|
@@ -11618,6 +11658,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-16**|**Hyperkagome antiferromagnetism in the iron garnet Almandine Fe $_3$Al$_2$Si$_3$O$_{12}$**|Minnong Zhang et.al.|[2611.21610](http://arxiv.org/abs/2611.21610)|null|
+|**2026-11-16**|**The Shape of the Strongly Coupled MQM Ground State**|Alexander Frenkel et.al.|[2611.21606](http://arxiv.org/abs/2611.21606)|null|
+|**2026-11-16**|**ViRA: Toward Ultra-High-Resolution Visual Agents via Cross-Input Relative Policy Optimization**|Huawei Lin et.al.|[2611.21605](http://arxiv.org/abs/2611.21605)|null|
+|**2026-11-16**|**Mitigating Catastrophic Forgetting with Physics-Indexed Specialist Memory: the Evolutionary Neuroplastic Agent**|Blas Eugenio Vicco Zarate et.al.|[2611.21598](http://arxiv.org/abs/2611.21598)|null|
+|**2026-11-16**|**Optimistic Verifiers Get Hacked: Reward Hacking Under an Exact Process Oracle**|Arunkumar V et.al.|[2611.21538](http://arxiv.org/abs/2611.21538)|null|
+|**2026-11-16**|**Procedure without Judgment: What Small Language Models Learn under an Exact Verifier**|Arunkumar V et.al.|[2611.21529](http://arxiv.org/abs/2611.21529)|null|
+|**2026-11-16**|**Algorithm Distillation for Safe In-Context Reinforcement Learning**|Minjae Kwon et.al.|[2611.21524](http://arxiv.org/abs/2611.21524)|null|
+|**2026-11-16**|**Never too LATE: Exploiting restrictions for inference on the Local Average Treatment Effect**|Xavier D'Haultfœuille et.al.|[2611.21496](http://arxiv.org/abs/2611.21496)|null|
+|**2026-11-16**|**A conditional quadrature method of moments for populations of oblate spheroidal particles**|Mohamed Amine Bouguezzoul et.al.|[2611.21487](http://arxiv.org/abs/2611.21487)|null|
+|**2026-11-16**|**Warm Starting Neural Dynamics Models From Few Jacobian Samples**|Maxime Rochkoulets et.al.|[2611.21465](http://arxiv.org/abs/2611.21465)|null|
+|**2026-11-16**|**Quantum Optimization Algorithm for Pinching-Antenna Activation with Max-Min Fairness**|Soumyadip Paul et.al.|[2611.21443](http://arxiv.org/abs/2611.21443)|null|
+|**2026-11-16**|**A Reinforcement Learning Method to Navigate SMEFT Operator Space**|Jacky Kumar et.al.|[2611.21439](http://arxiv.org/abs/2611.21439)|null|
+|**2026-11-16**|**Variational Monte Carlo for Quantum Excited States via Nested Low-Rank Approximation**|Minchan Jeong et.al.|[2611.21434](http://arxiv.org/abs/2611.21434)|null|
+|**2026-11-16**|**Kinetic Monte Carlo modeling of ammonium formate NH $_4^+$HCOO$^-$ and ammonium cyanate NH$_4^+$OCN$^-$ in interstellar ices**|Joseph Salaris et.al.|[2611.21433](http://arxiv.org/abs/2611.21433)|null|
+|**2026-11-16**|**AuXSpec: Learning to Autoformalize Program Specifications via Executable Postconditions**|Haocheng Wang et.al.|[2611.21421](http://arxiv.org/abs/2611.21421)|null|
+|**2026-11-16**|**Reinforcement Learning designs Quantum Repeater Protocols on Networks beyond the Chain Scenario**|Andrés Agustí Casado et.al.|[2611.21414](http://arxiv.org/abs/2611.21414)|null|
+|**2026-11-16**|**WeVisForensics: Self-Evolving Agent for Omni AI-Generated Video Detection**|Yipeng Du et.al.|[2611.21373](http://arxiv.org/abs/2611.21373)|null|
+|**2026-11-16**|**Federated TD Learning in Heterogeneous Environments with Average Rewards: A Two-timescale Approach with Polyak-Ruppert Averaging**|Ankur Naskar et.al.|[2611.21370](http://arxiv.org/abs/2611.21370)|null|
+|**2026-11-16**|**ALIVE: Making Streaming Video Models Interactive**|Jinzhao Li et.al.|[2611.21366](http://arxiv.org/abs/2611.21366)|null|
+|**2026-11-16**|**On the origin of Milky Way binary black holes with LISA**|Charles Dalang et.al.|[2611.21337](http://arxiv.org/abs/2611.21337)|null|
 |**2026-11-13**|**Training Reasoning Models in Simulation to Natively Use Real Robots**|Jiaming Tang et.al.|[2611.18562](http://arxiv.org/abs/2611.18562)|null|
 |**2026-11-13**|**Imitation Bootstrapped Multi-Agent Reinforcement Learning**|Tony H. Zhang et.al.|[2611.18543](http://arxiv.org/abs/2611.18543)|null|
 |**2026-11-13**|**A Surrogate Boundary Condition for Improved Accuracy and Performance of Local Modeling in Radiation Transport Simulations**|Jonathan Trieloff et.al.|[2611.18535](http://arxiv.org/abs/2611.18535)|null|
