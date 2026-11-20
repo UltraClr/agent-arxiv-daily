@@ -21,6 +21,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-19**|**PlayCraft: Designing Engaging Games from Agent Play Experience**|Weihao Cheng et.al.|[2611.26624](http://arxiv.org/abs/2611.26624)|null|
+|**2026-11-19**|**Coda-DaVinci: Reimagining Video Generation with Code2Video**|Yiyan Ji et.al.|[2611.26595](http://arxiv.org/abs/2611.26595)|null|
+|**2026-11-19**|**Replication of Agentic Security Events: Audit and Investigation (ROGUE-AI)**|Mengxiao Wang et.al.|[2611.26553](http://arxiv.org/abs/2611.26553)|null|
+|**2026-11-19**|**Cost-Aware Agentic Feature Optimization System for Fleet-Scale Ranking Models**|Chang Yang et.al.|[2611.26531](http://arxiv.org/abs/2611.26531)|null|
+|**2026-11-19**|**Backtracking Agent Applications Security Incidents**|Yicheng Cai et.al.|[2611.26525](http://arxiv.org/abs/2611.26525)|null|
+|**2026-11-19**|**ACE-Brain-0.7: Learning Execution-Grounded Reasoning for Embodied Agents**|Yinhe Wang et.al.|[2611.26519](http://arxiv.org/abs/2611.26519)|null|
+|**2026-11-19**|**From Seed to BLOOM: Autonomously Growing a Better Out-of-Order Core**|Angela Cui et.al.|[2611.26517](http://arxiv.org/abs/2611.26517)|null|
+|**2026-11-19**|**AutoMaster: Autonomous Post-Training by Making the Same Model a Better Teacher**|Guoxin Chen et.al.|[2611.26510](http://arxiv.org/abs/2611.26510)|null|
+|**2026-11-19**|**JARVIS: An Agent That Designs, Builds, and Tests Circuit Boards on Its Own**|Shibo Zhou et.al.|[2611.26503](http://arxiv.org/abs/2611.26503)|null|
+|**2026-11-19**|**Held While Waiting: What LLM Agent Sessions Reserve on Serverless and Agent Runtimes**|Mekhala Hithyshini Sreenivasa et.al.|[2611.26480](http://arxiv.org/abs/2611.26480)|null|
+|**2026-11-19**|**Aggron: Aggressive Compression of Agentic KV Caches during Head-of-Line Stalls in the Request Queue**|Rishabh Ravi et.al.|[2611.26435](http://arxiv.org/abs/2611.26435)|null|
+|**2026-11-19**|**ZeroVLN: Learning to Navigate without Supervised Fine-Tuning of the VLM Brain**|Zixuan Huang et.al.|[2611.26414](http://arxiv.org/abs/2611.26414)|null|
+|**2026-11-19**|**How Much Should an Agent Remember? Deployment Lessons from Self-Distilled Memory for LLM Agents**|K. R. Jayaram et.al.|[2611.26361](http://arxiv.org/abs/2611.26361)|null|
+|**2026-11-19**|**Perfumer: A Large Language Model-based Agentic Framework Accelerating Structural Relaxation and Electronic Band Prediction for First-Principle Calculation**|Zhiwei Li et.al.|[2611.26349](http://arxiv.org/abs/2611.26349)|null|
+|**2026-11-19**|**ClosureBench: A Benchmark for Reasoning under Closure Assumptions**|Francesco Belardinelli et.al.|[2611.26335](http://arxiv.org/abs/2611.26335)|null|
+|**2026-11-19**|**SWE-Recreation: Benchmarking Coding Agents for Software Recreation**|Zhiyao Xu et.al.|[2611.26311](http://arxiv.org/abs/2611.26311)|null|
+|**2026-11-19**|**SKILL.PNG: Learning Agent Skills in Pixel Space**|Maximilian Seeth et.al.|[2611.26296](http://arxiv.org/abs/2611.26296)|null|
+|**2026-11-19**|**Paper2Lean: Agentic Autoformalization of Mathematical Research Papers at Scale**|Yifan Bai et.al.|[2611.26272](http://arxiv.org/abs/2611.26272)|null|
+|**2026-11-19**|**SkillBridge: Cost-Aware Diagnosis and Repair of Cross-OS Compatibility Defects in Agent Skills**|Anjie Xu et.al.|[2611.26256](http://arxiv.org/abs/2611.26256)|null|
+|**2026-11-19**|**TwinLab-Bench: Evaluating AI Scientists in Agentic Twins of Real Labs**|Yang Wan et.al.|[2611.26248](http://arxiv.org/abs/2611.26248)|null|
 |**2026-11-18**|**Who are you? The Personal Imitation Game**|Muhammad Rizky Wellyanto et.al.|[2611.24888](http://arxiv.org/abs/2611.24888)|null|
 |**2026-11-18**|**Ground, Iterate, Trace: Decomposing AI Research Ideation**|Samson Yu et.al.|[2611.24887](http://arxiv.org/abs/2611.24887)|null|
 |**2026-11-18**|**Local AI Agents in Power Electronics Simulation: Deployment, Measurements and Costs**|Yuzhuo Li et.al.|[2611.24880](http://arxiv.org/abs/2611.24880)|null|
@@ -5926,6 +5946,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-19**|**TideCache: Efficient Hybrid LLM Serving with Transparent Cache Management and Layer-Wise Streaming**|Jinbin Luo et.al.|[2611.26619](http://arxiv.org/abs/2611.26619)|null|
+|**2026-11-19**|**Realized versus Population Reliability: Anytime-Valid Self-Consistency Certification under Correlated Reasoning**|Terence D. Agbeyegbe et.al.|[2611.26592](http://arxiv.org/abs/2611.26592)|null|
+|**2026-11-19**|**Probing the "Conscious" Mind: Selective Access and Global Workspace in Vision-Language Models**|Jiahao Huang et.al.|[2611.26590](http://arxiv.org/abs/2611.26590)|null|
+|**2026-11-19**|**Represented but misread: Post-training changes how language models read out what they represent**|Jochen Laubrock et.al.|[2611.26584](http://arxiv.org/abs/2611.26584)|null|
+|**2026-11-19**|**Replication of Agentic Security Events: Audit and Investigation (ROGUE-AI)**|Mengxiao Wang et.al.|[2611.26553](http://arxiv.org/abs/2611.26553)|null|
+|**2026-11-19**|**The Geometry of Lies: Knowledge and Persona Directions for Detecting Deception in Large Language Models**|Md. Abdullah Al Zami et.al.|[2611.26545](http://arxiv.org/abs/2611.26545)|null|
+|**2026-11-19**|**LLM GerryMandering: Separating Interactions from Additive Effects in LLM Audits**|George Rahul et.al.|[2611.26538](http://arxiv.org/abs/2611.26538)|null|
+|**2026-11-19**|**ACE-Brain-0.7: Learning Execution-Grounded Reasoning for Embodied Agents**|Yinhe Wang et.al.|[2611.26519](http://arxiv.org/abs/2611.26519)|null|
+|**2026-11-19**|**From Seed to BLOOM: Autonomously Growing a Better Out-of-Order Core**|Angela Cui et.al.|[2611.26517](http://arxiv.org/abs/2611.26517)|null|
+|**2026-11-19**|**GLiDE: A Fast, Calibrated Decision Model Distilled from Reasoning Teachers**|Sahibzada Allahyar et.al.|[2611.26509](http://arxiv.org/abs/2611.26509)|null|
+|**2026-11-19**|**Multimodal Error Detection in Chest X-ray Reports: A Large Language Model Reading Image Evidence**|Yanda Cheng et.al.|[2611.26492](http://arxiv.org/abs/2611.26492)|null|
+|**2026-11-19**|**A CPU Inside an LLM: Zero-Gradient Compilation of Exact Circuits into Pretrained Weights**|Tanmay Sah et.al.|[2611.26450](http://arxiv.org/abs/2611.26450)|null|
+|**2026-11-19**|**Seer: Guiding Small Deep-Research Agents with Shared Decision Models**|Yuhao Zhou et.al.|[2611.26423](http://arxiv.org/abs/2611.26423)|null|
+|**2026-11-19**|**Reasoning-Trace Analysis Using Large Language Models for Interpretable Q-Matrix Construction**|Jihong Zhang et.al.|[2611.26422](http://arxiv.org/abs/2611.26422)|null|
+|**2026-11-19**|**ZeroVLN: Learning to Navigate without Supervised Fine-Tuning of the VLM Brain**|Zixuan Huang et.al.|[2611.26414](http://arxiv.org/abs/2611.26414)|null|
+|**2026-11-19**|**Sequential Anytime Valid Tests for Efficient Inference-Time Alignment**|Vishesh Kumar Singh et.al.|[2611.26413](http://arxiv.org/abs/2611.26413)|null|
+|**2026-11-19**|**Training Vision Models for LLM-Driven Weight-Space Programming**|Timo Ropinski et.al.|[2611.26408](http://arxiv.org/abs/2611.26408)|null|
+|**2026-11-19**|**Beyond the Sink Interpretation: Radial Attention in Flow-Based VLA Policies**|Yuxi Zheng et.al.|[2611.26385](http://arxiv.org/abs/2611.26385)|null|
+|**2026-11-19**|**EgoCaptioner: Towards Comprehensive and Fine-Grained Egocentric Video Captioning**|Yuqi Tang et.al.|[2611.26380](http://arxiv.org/abs/2611.26380)|null|
+|**2026-11-19**|**Alignment Drives Reuse: Learning Generalizable Robot-Use Agents from Heterogeneous Experience**|Ziyue Wang et.al.|[2611.26376](http://arxiv.org/abs/2611.26376)|null|
 |**2026-11-18**|**UltraTex: Aligning Physical Knowledge for High-Fidelity PBR Texture Generation**|Jingzhi Bao et.al.|[2611.24941](http://arxiv.org/abs/2611.24941)|null|
 |**2026-11-18**|**Jailbreak Detection on Large Language Models via Contrastive Prototype Structures**|Yan Qiu et.al.|[2611.24936](http://arxiv.org/abs/2611.24936)|null|
 |**2026-11-18**|**Unified Law for Visual Tasks (The Four Laws of Computer Vision)**|Sen Fang et.al.|[2611.24917](http://arxiv.org/abs/2611.24917)|null|
@@ -11747,6 +11787,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-19**|**RL Post-Training in Diffusion Transformers Is Activation Steering**|Tuna Han Salih Meral et.al.|[2611.26627](http://arxiv.org/abs/2611.26627)|null|
+|**2026-11-19**|**Classically Trained Quantum Generative Models with Shared Training and Fine Tuning for Quantum Matter**|Mario Herrero-Gonzalez et.al.|[2611.26577](http://arxiv.org/abs/2611.26577)|null|
+|**2026-11-19**|**Optimal Control in Pairs Trading with Negative-Power Utility**|Aleksei Kozhevnikov et.al.|[2611.26568](http://arxiv.org/abs/2611.26568)|null|
+|**2026-11-19**|**Anytime-valid inference for time series via self-normalization**|Tim Kutta et.al.|[2611.26536](http://arxiv.org/abs/2611.26536)|null|
+|**2026-11-19**|**Thermal-Guided Ensemble Reinforcement Learning for Regime-Adaptive Short-Term GPU Power Forecasting in AI Data Centers**|Yuanshuo Zhang et.al.|[2611.26527](http://arxiv.org/abs/2611.26527)|null|
+|**2026-11-19**|**Grid Cells as Spectral Successor Features: A Reusable Basis for Continual Reinforcement Learning**|Élodie Côté-Gauthier et.al.|[2611.26504](http://arxiv.org/abs/2611.26504)|null|
+|**2026-11-19**|**Spectral asymptotics for vector-valued magnetic Schrödinger operators**|Vincenzo Leone et.al.|[2611.26479](http://arxiv.org/abs/2611.26479)|null|
+|**2026-11-19**|**SHUSH: Emission-Aware Reward Design for Proactive Video Assistants**|Shawn Liang et.al.|[2611.26478](http://arxiv.org/abs/2611.26478)|null|
+|**2026-11-19**|**Monte Carlo Pass Search for Setpieces**|Andrew Kang et.al.|[2611.26464](http://arxiv.org/abs/2611.26464)|null|
+|**2026-11-19**|**Exact Bayesian layers via characteristic functions**|William H. W. Thompson et.al.|[2611.26426](http://arxiv.org/abs/2611.26426)|null|
+|**2026-11-19**|**ZeroVLN: Learning to Navigate without Supervised Fine-Tuning of the VLM Brain**|Zixuan Huang et.al.|[2611.26414](http://arxiv.org/abs/2611.26414)|null|
+|**2026-11-19**|**Sequential Anytime Valid Tests for Efficient Inference-Time Alignment**|Vishesh Kumar Singh et.al.|[2611.26413](http://arxiv.org/abs/2611.26413)|null|
+|**2026-11-19**|**How to Effectively Manage the Energy in Residential Systems: Development and Comparison of Methods**|Julian Ruddick et.al.|[2611.26412](http://arxiv.org/abs/2611.26412)|null|
+|**2026-11-19**|**Statistical Inference with Ill-Conditioned Random Weight Neural Network Sieves**|Giovanni Ballarin et.al.|[2611.26410](http://arxiv.org/abs/2611.26410)|null|
+|**2026-11-19**|**ViDecide: Teaching Video Diffusion Models to Reason and Plan Step by Step**|Kaiwen Zhang et.al.|[2611.26389](http://arxiv.org/abs/2611.26389)|null|
+|**2026-11-19**|**Efficient Classical Algorithms for Ground Energy Estimation of Fermions with Conjugate-Pair Orbital Interactions**|Ziyi Yang et.al.|[2611.26382](http://arxiv.org/abs/2611.26382)|null|
+|**2026-11-19**|**Beam Model Technical Report**| Reflection Team et.al.|[2611.26358](http://arxiv.org/abs/2611.26358)|null|
+|**2026-11-19**|**Training LLMs to Follow Reasoning Instructions with Minimal Edits**|Alexandra Yakovleva et.al.|[2611.26342](http://arxiv.org/abs/2611.26342)|null|
+|**2026-11-19**|**Actor-Predictor Architecture for Reinforcement Learning with Formal Specification Objectives**|Josef Brozovich et.al.|[2611.26313](http://arxiv.org/abs/2611.26313)|null|
+|**2026-11-19**|**Phase diagram of the attractive lattice Fermi polaron and the instability of Nagaoka ferromagnetism**|Gerard Pascual et.al.|[2611.26304](http://arxiv.org/abs/2611.26304)|null|
 |**2026-11-18**|**Grana: Compositional Reward Modeling for Long-Horizon Robot Manipulation**|Zi-ang Cao et.al.|[2611.24926](http://arxiv.org/abs/2611.24926)|null|
 |**2026-11-18**|**Kinetic study of Reaction-Control-Jet Interference in Rarefied Hypersonic Crossflow**|Alexis Theofilis et.al.|[2611.24870](http://arxiv.org/abs/2611.24870)|null|
 |**2026-11-18**|**DiWALI: Diffusion Policy Learning in World Models via Latent Action Inference from Human and Robot Play**|Akshay L Chandra et.al.|[2611.24836](http://arxiv.org/abs/2611.24836)|null|
