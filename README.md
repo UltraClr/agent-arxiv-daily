@@ -11803,7 +11803,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 |**2026-11-19**|**Statistical Inference with Ill-Conditioned Random Weight Neural Network Sieves**|Giovanni Ballarin et.al.|[2611.26410](http://arxiv.org/abs/2611.26410)|null|
 |**2026-11-19**|**ViDecide: Teaching Video Diffusion Models to Reason and Plan Step by Step**|Kaiwen Zhang et.al.|[2611.26389](http://arxiv.org/abs/2611.26389)|null|
 |**2026-11-19**|**Efficient Classical Algorithms for Ground Energy Estimation of Fermions with Conjugate-Pair Orbital Interactions**|Ziyi Yang et.al.|[2611.26382](http://arxiv.org/abs/2611.26382)|null|
-|**2026-11-19**|**Beam Model Technical Report**| Reflection Team et.al.|[2611.26358](http://arxiv.org/abs/2611.26358)|null|
+|**2026-11-19**|**Beam Model Technical Report**|Reflection Team et.al.|[2611.26358](http://arxiv.org/abs/2611.26358)|null|
 |**2026-11-19**|**Training LLMs to Follow Reasoning Instructions with Minimal Edits**|Alexandra Yakovleva et.al.|[2611.26342](http://arxiv.org/abs/2611.26342)|null|
 |**2026-11-19**|**Actor-Predictor Architecture for Reinforcement Learning with Formal Specification Objectives**|Josef Brozovich et.al.|[2611.26313](http://arxiv.org/abs/2611.26313)|null|
 |**2026-11-19**|**Phase diagram of the attractive lattice Fermi polaron and the instability of Nagaoka ferromagnetism**|Gerard Pascual et.al.|[2611.26304](http://arxiv.org/abs/2611.26304)|null|

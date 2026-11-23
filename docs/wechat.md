@@ -16859,7 +16859,7 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 - 2026-09-02, **Before the Script, Set the Stage: How Worldview Simulation Amplifies Psychologically Grounded Persuasion in Multi-Turn Jailbreaking**, Siyu Chen et.al., Paper: [http://arxiv.org/abs/2609.02414](http://arxiv.org/abs/2609.02414)
 - 2026-03-04, **BeamPERL: Parameter-Efficient RL with Verifiable Rewards Specializes Compact LLMs for Structured Beam Mechanics Reasoning**, Tarjei Paule Hage et.al., Paper: [http://arxiv.org/abs/2603.04124](http://arxiv.org/abs/2603.04124)
 - 2026-04-27, **Beam Scheduling for Cross-Layer ISAC: A Deep Reinforcement Learning Approach**, Xiyu Wang et.al., Paper: [http://arxiv.org/abs/2604.24369](http://arxiv.org/abs/2604.24369)
-- 2026-11-19, **Beam Model Technical Report**,  Reflection Team et.al., Paper: [http://arxiv.org/abs/2611.26358](http://arxiv.org/abs/2611.26358)
+- 2026-11-19, **Beam Model Technical Report**, Reflection Team et.al., Paper: [http://arxiv.org/abs/2611.26358](http://arxiv.org/abs/2611.26358)
 - 2026-08-31, **Beacon: LLM Multi-Agent Driven Hardware Design Space Exploration for Heterogeneous Multi-Chiplet Deep Learning Accelerators**, Boyu Li et.al., Paper: [http://arxiv.org/abs/2608.30932](http://arxiv.org/abs/2608.30932)
 - 2026-07-30, **Beacon: Knowing When and How to Perform Agentic Visual Reasoning**, Qixun Wang et.al., Paper: [http://arxiv.org/abs/2607.28595](http://arxiv.org/abs/2607.28595)
 - 2026-01-15, **Be Your Own Red Teamer: Safety Alignment via Self-Play and Reflective Experience Replay**, Hao Wang et.al., Paper: [http://arxiv.org/abs/2601.10589](http://arxiv.org/abs/2601.10589)
