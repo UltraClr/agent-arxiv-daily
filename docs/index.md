@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Agent Research Papers
-### Automatically Updated on 2026.11.25
+### Automatically Updated on 2026.11.26
 Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Autonomous Agent`,`LLM Agent`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -16,6 +16,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-25**|**Attack Policy Selection can Mislead Monitor Evaluators**|Charlie Griffin et.al.|[2611.34934](http://arxiv.org/abs/2611.34934)|null|
+|**2026-11-25**|**Agentic LongLive: Asynchronous Agentic Memory for Long Video Generation**|Shaoteng Liu et.al.|[2611.34907](http://arxiv.org/abs/2611.34907)|null|
+|**2026-11-25**|**How Much Do Coding Agents Over-Edit, and Why? An Empirical Study of Unneeded Edits in Repository-Level Agent Patches**|Aakash Goel et.al.|[2611.34875](http://arxiv.org/abs/2611.34875)|null|
+|**2026-11-25**|**Real2SimLab: A Unified Platform for Real-to-Simulation Transfer**|Yongchang Zhang et.al.|[2611.34849](http://arxiv.org/abs/2611.34849)|null|
+|**2026-11-25**|**Solve Vision with Code: Coding Agents Are Stronger Visual Reasoners Than Video Models**|Dezhi Luo et.al.|[2611.34813](http://arxiv.org/abs/2611.34813)|null|
+|**2026-11-25**|**When Every Rollout Fails: Splicing Learner-Conditioned Options into Long-Horizon Agent RL**|Haowen Hou et.al.|[2611.34777](http://arxiv.org/abs/2611.34777)|null|
+|**2026-11-25**|**TASK Memory: Beyond Text-Only Memory with Activation Steering and Knowledge Editing against Memory Hallucination**|Jinkun Zhao et.al.|[2611.34762](http://arxiv.org/abs/2611.34762)|null|
+|**2026-11-25**|**AutoRSP: An AI Agent for Radar Sensing Pipeline Design**|Zhi Zheng et.al.|[2611.34754](http://arxiv.org/abs/2611.34754)|null|
+|**2026-11-25**|**SOLVE: Sparse, Ordered Keyposes Make LLM Agents Versatile and Efficient Robot Manipulator**|Xiang Li et.al.|[2611.34750](http://arxiv.org/abs/2611.34750)|null|
+|**2026-11-25**|**PoVi: Agentic Poetry-to-Video Generation with Knowledge Grounding and Figurative Understanding**|Yuxia Zhu et.al.|[2611.34690](http://arxiv.org/abs/2611.34690)|null|
+|**2026-11-25**|**RoboEvo $^2$ : Recursive Robot Self-Improvement via Harness-Policy Co-Evolution**|Chenzhi Liu et.al.|[2611.34675](http://arxiv.org/abs/2611.34675)|null|
+|**2026-11-25**|**DemoFoundry: Toward Scalable Photorealistic Robot Data with Coding Agents and Generative Rendering**|Ruixiang Wang et.al.|[2611.34671](http://arxiv.org/abs/2611.34671)|null|
+|**2026-11-25**|**Do We Still Need Reinforcement Learning When We Can Read the World Model?**|Mingchao Zhang et.al.|[2611.34656](http://arxiv.org/abs/2611.34656)|null|
+|**2026-11-25**|**REE: A Scientific Research Entrance Exam for AI Agents**|Zeqi Zhou et.al.|[2611.34646](http://arxiv.org/abs/2611.34646)|null|
+|**2026-11-25**|**Evaluating More with Less: Black-Box Test Selection for AI Agents**|Ali Asgari et.al.|[2611.34617](http://arxiv.org/abs/2611.34617)|null|
+|**2026-11-25**|**VisualMontage: Manipulating the Beliefs of Vision-Language Agents with Authentic Image Sequences**|Jinwei Hu et.al.|[2611.34603](http://arxiv.org/abs/2611.34603)|null|
+|**2026-11-25**|**ADClaw: A Programmable Visual Agent for Industrial Anomaly Detection and Understanding**|Xinyi Wu et.al.|[2611.34591](http://arxiv.org/abs/2611.34591)|null|
+|**2026-11-25**|**Routing and Cache Retention for Multi-Turn LLM Inference: Theory and Implementation**|Sentao Miao et.al.|[2611.34584](http://arxiv.org/abs/2611.34584)|null|
+|**2026-11-25**|**Kant-Q: A Q-Learning Algorithm for Kantian Equilibrium in Symmetric Markov Games**|Rishi Bharadwaj et.al.|[2611.34536](http://arxiv.org/abs/2611.34536)|null|
+|**2026-11-25**|**SemProxy: Semantic 3D Proxies for Controllable Agentic 3D Modeling**|Shuyuan Zhang et.al.|[2611.34414](http://arxiv.org/abs/2611.34414)|null|
 |**2026-11-24**|**PyRUA-Dex: Learning Programmatic Policies for Dexterous Bimanual Manipulation with Coding Agents**|Feixiang Ruan et.al.|[2611.33144](http://arxiv.org/abs/2611.33144)|null|
 |**2026-11-24**|**AIChipBench: Benchmarking LLM Agents for Automated AI Accelerator Design**|Guangyuan Wang et.al.|[2611.33093](http://arxiv.org/abs/2611.33093)|null|
 |**2026-11-24**|**Can LLM Judges Catch Unsafe Clinical Actions? A Fault-Injection Study**|Neda Ghafouri et.al.|[2611.33012](http://arxiv.org/abs/2611.33012)|null|
@@ -5999,6 +6019,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-25**|**Tracking Any Point with Agentic Visual Reasoning**|Xuweiyi Chen et.al.|[2611.34943](http://arxiv.org/abs/2611.34943)|null|
+|**2026-11-25**|**Can image generation help visual reasoning? An empirical study**|Xueyang Yu et.al.|[2611.34935](http://arxiv.org/abs/2611.34935)|null|
+|**2026-11-25**|**Diverse Alternative Reasoning Traces for Hard Math Problems**|Lukas Aichberger et.al.|[2611.34928](http://arxiv.org/abs/2611.34928)|null|
+|**2026-11-25**|**One Ocean, Many Tasks: A Data-Grounded Simulation Suite and Benchmark for Marine Robotics**|Shuaijun Liu et.al.|[2611.34925](http://arxiv.org/abs/2611.34925)|null|
+|**2026-11-25**|**Memory Is Not Ground Truth: Revising Navigation Authority under Unreliable VLM Evidence for Persistent Semantic Navigation**|Sumukh Shrote et.al.|[2611.34915](http://arxiv.org/abs/2611.34915)|null|
+|**2026-11-25**|**Agentic LongLive: Asynchronous Agentic Memory for Long Video Generation**|Shaoteng Liu et.al.|[2611.34907](http://arxiv.org/abs/2611.34907)|null|
+|**2026-11-25**|**ProbFaS: Probabilistic Video Frame Selection for MLLMs via Multi-Fidelity Calibration**|Tianru Zhang et.al.|[2611.34903](http://arxiv.org/abs/2611.34903)|null|
+|**2026-11-25**|**Stranger Things: When Objects Appear Without Their Typical Neighbors**|Siddhartha Gairola et.al.|[2611.34881](http://arxiv.org/abs/2611.34881)|null|
+|**2026-11-25**|**Towards Closing the Performance Gap in Cross-Modal Place Recognition**|Ofer Idan et.al.|[2611.34877](http://arxiv.org/abs/2611.34877)|null|
+|**2026-11-25**|**A Survey of Security, Privacy, and Ethics of Large Language Models in Telecom**|Joy Bose et.al.|[2611.34868](http://arxiv.org/abs/2611.34868)|null|
+|**2026-11-25**|**RePace: Reasoning about Demonstration Speedup for Faster Vision-Language-Action Policies**|Insup Lee et.al.|[2611.34864](http://arxiv.org/abs/2611.34864)|null|
+|**2026-11-25**|**From Prediction to Decision: Decision-Focused Fine-Tuning of Autoregressive Tabular Transformers for Cost-Sensitive Financial Events**|Ashkan Golgoon et.al.|[2611.34858](http://arxiv.org/abs/2611.34858)|null|
+|**2026-11-25**|**Put the World Back: Timestamps Matter in Time Series Reasoning**|Tingrui Huang et.al.|[2611.34848](http://arxiv.org/abs/2611.34848)|null|
+|**2026-11-25**|**Knowledge-Base Gradient Descent: Self-Structuring Learning through Question Answering**|Masahiro Kato et.al.|[2611.34841](http://arxiv.org/abs/2611.34841)|null|
+|**2026-11-25**|**Proverbs As A Window On Collective Prescriptions**|Tomás Lejarraga et.al.|[2611.34832](http://arxiv.org/abs/2611.34832)|null|
+|**2026-11-25**|**Repairing the Trustworthiness of Distilled Language Models**|Kumar Shubham et.al.|[2611.34831](http://arxiv.org/abs/2611.34831)|null|
+|**2026-11-25**|**The Linguistic Knowledge Benchmark: Do Language Models Know the Foundations of Early-Grade Literacy?**|Maxime Lelièvre et.al.|[2611.34823](http://arxiv.org/abs/2611.34823)|null|
+|**2026-11-25**|**LoopTitan: What Does Parameter Revisit Buy a Mixture-of-Experts?**|Zichen Tian et.al.|[2611.34821](http://arxiv.org/abs/2611.34821)|null|
+|**2026-11-25**|**VulnSafe: Measuring Vulnerability-Aware Relational Safety in Large Language Models**|Jiaming Luo et.al.|[2611.34819](http://arxiv.org/abs/2611.34819)|null|
+|**2026-11-25**|**PersonaFactory: Stylistic User Prompt Augmentation with Synthetic Persona Bank**|Bich Ngoc Doan et.al.|[2611.34785](http://arxiv.org/abs/2611.34785)|null|
 |**2026-11-24**|**BioLoom: Scaling Biomedical Vision-Language Models by Learning from the Structure of Scientific Articles**|Yuwei Yang et.al.|[2611.33151](http://arxiv.org/abs/2611.33151)|null|
 |**2026-11-24**|**CoT-Proxy: Cross-Format Transfer for Distilling Long-Horizon Policies**|Dawid J. Kopiczko et.al.|[2611.33148](http://arxiv.org/abs/2611.33148)|null|
 |**2026-11-24**|**Lost on Campus: Evaluating Embodied Spatial Reasoning of Vision-Language Models in the Wild**|Zehan Zheng et.al.|[2611.33145](http://arxiv.org/abs/2611.33145)|null|
