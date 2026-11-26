@@ -11938,6 +11938,26 @@ Current Search Keywords: `Agent`,`Multi-Agent`,`Tool Learning`,`Agent RL`,`Auton
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-25**|**DexLink: Synthesizing Dexterous Behaviors from Chained Hand-object Poses**|Meenal Parakh et.al.|[2611.34936](http://arxiv.org/abs/2611.34936)|null|
+|**2026-11-25**|**Attack Policy Selection can Mislead Monitor Evaluators**|Charlie Griffin et.al.|[2611.34934](http://arxiv.org/abs/2611.34934)|null|
+|**2026-11-25**|**Diverse Alternative Reasoning Traces for Hard Math Problems**|Lukas Aichberger et.al.|[2611.34928](http://arxiv.org/abs/2611.34928)|null|
+|**2026-11-25**|**Agentic LongLive: Asynchronous Agentic Memory for Long Video Generation**|Shaoteng Liu et.al.|[2611.34907](http://arxiv.org/abs/2611.34907)|null|
+|**2026-11-25**|**Provably Efficient Offline Discounted Reinforcement Learning under Recursive Entropic Risk**|Amirparsa Bahrami et.al.|[2611.34840](http://arxiv.org/abs/2611.34840)|null|
+|**2026-11-25**|**Gradient TD( $λ$ ) for Non-Linear Function Approximation**|Sujeet Lahane et.al.|[2611.34826](http://arxiv.org/abs/2611.34826)|null|
+|**2026-11-25**|**Deep Reinforcement Learning for Multi-UAV Data Harvesting Under Variable Team Sizes and Agent Loss**|Thiago de Souza Lamenza et.al.|[2611.34818](http://arxiv.org/abs/2611.34818)|null|
+|**2026-11-25**|**Split-RL: Local Conflict Resolution in Reinforcement Learning**|Benjamin Fuhrer et.al.|[2611.34799](http://arxiv.org/abs/2611.34799)|null|
+|**2026-11-25**|**When Every Rollout Fails: Splicing Learner-Conditioned Options into Long-Horizon Agent RL**|Haowen Hou et.al.|[2611.34777](http://arxiv.org/abs/2611.34777)|null|
+|**2026-11-25**|**BRIAR: Martingale Belief Smoothing on Bifurcation-Guided Reasoning Trees**|Tianyi Yang et.al.|[2611.34746](http://arxiv.org/abs/2611.34746)|null|
+|**2026-11-25**|**ELMO: Emergent Representations In Imitation Learning Via Dynamic Hierarchical Action Chunking**|Jasper Gerigk et.al.|[2611.34741](http://arxiv.org/abs/2611.34741)|null|
+|**2026-11-25**|**Maco-RL: Scaling Agent Capabilities with Mixed-Task Reinforcement Learning**|Jiacheng Zhang et.al.|[2611.34703](http://arxiv.org/abs/2611.34703)|null|
+|**2026-11-25**|**Find the Clue, Not the Scene: Rethinking Reasoning for Entity Recognition in Vision-Language Models**|Kyungmin Min et.al.|[2611.34681](http://arxiv.org/abs/2611.34681)|null|
+|**2026-11-25**|**Provably Efficient Concave Utility Reinforcement Learning with Linear Function Approximation**|Max Qiushi Lin et.al.|[2611.34678](http://arxiv.org/abs/2611.34678)|null|
+|**2026-11-25**|**Do We Still Need Reinforcement Learning When We Can Read the World Model?**|Mingchao Zhang et.al.|[2611.34656](http://arxiv.org/abs/2611.34656)|null|
+|**2026-11-25**|**Nav4Manip: From Navigation to Dexterous Mobile Manipulation through Co-Evolution**|Yusen Feng et.al.|[2611.34655](http://arxiv.org/abs/2611.34655)|null|
+|**2026-11-25**|**Distractor-Robust Reinforcement Learning via Variational Bisimulation**|Benjamin Freed et.al.|[2611.34641](http://arxiv.org/abs/2611.34641)|null|
+|**2026-11-25**|**Data-enhanced self-learning projective quantum Monte Carlo with Rydberg-atom measurements**|Vichayuth Imchitr et.al.|[2611.34636](http://arxiv.org/abs/2611.34636)|null|
+|**2026-11-25**|**LatentRL-QAS: Transfer via Latent Reinforcement Learning for Quantum Architecture Search**|Maria Ilektra Plakitsi et.al.|[2611.34634](http://arxiv.org/abs/2611.34634)|null|
+|**2026-11-25**|**Procedure Inference as Memory: Learning Recruiter Decision Procedures from OKF-Structured Episodes in Multi-Session Hiring Assistants**|Praveen Kumar Bodigutla et.al.|[2611.34576](http://arxiv.org/abs/2611.34576)|null|
 |**2026-11-24**|**DiaCap: Jointly Learning Who Speaks When for Audiovisual Dialogue Captioning**|Binfei Ji et.al.|[2611.33153](http://arxiv.org/abs/2611.33153)|null|
 |**2026-11-24**|**Parametric neural-network wavefunctions across a bosonic phase transition**|Daniil S. Antonenko et.al.|[2611.33150](http://arxiv.org/abs/2611.33150)|null|
 |**2026-11-24**|**CoT-Proxy: Cross-Format Transfer for Distilling Long-Horizon Policies**|Dawid J. Kopiczko et.al.|[2611.33148](http://arxiv.org/abs/2611.33148)|null|
